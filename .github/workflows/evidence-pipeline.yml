@@ -38,11 +38,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "$(cat <<'EOF'
-chore: refresh evidence and blog from pipeline
-
-Automated weekly run of cordycepin run-all.
-EOF
-)"
+            git commit -m "chore: refresh evidence and blog from pipeline"
             git push
           fi
