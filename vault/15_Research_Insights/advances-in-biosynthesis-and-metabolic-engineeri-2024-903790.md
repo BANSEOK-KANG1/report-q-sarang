@@ -124,11 +124,28 @@ translations:
       지속 가능한 생산 방법을 나타냅니다. 이를 감안할 때, 이 리뷰는 주로 대사 공학과 코디세핀의 이종 생합성 전략에 중점을 두었습니다.'
     ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. Cordyceps militaris은 bei-chong-cao라고도 하며
       자낭균문(Ascomycota phylum)과 Clavicipitaceae과에 속하는 곤충병원성 곰팡이입니다. 이는 중국 전통 의학(TCM)
-      및 영양 식품으로 활용되어 온 약용 및 식용 특성을 지닌 귀중한 사상균입니다. 코디세핀은 C. militaris에서 최초로 분리된 생리활성
-      화합물로 다양한 기능성 식품 및 건강 증진 특성을 갖고 있어 기능성 식품 및 제약 분야에서 널리 사용됩니다. 야생 자원의 구성이 낮고 부족하기
-      때문에 천연 자원으로부터의 이용 가능성이 제한됩니다. 코디세핀 생합성 경로가 밝혀지고 합성 생물학의 출현으로 Saccharomyces cerevisiae
-      및 Metarhizium robertsii의 녹색 코디세핀 생합성이 개발되어 코디세핀의 잠재적이고 지속 가능한 생산 방법을 나타냅니다.
-      이를 감안할 때, 이 리뷰는 주로 대사 공학과 코디세핀의 이종 생합성 전략에 중점을 두었습니다.
+      및 영양 식품으로 활용되어 온 약용 및 식용 특성을 지닌 귀중한 사상균입니다. 코디세핀은 C. …
+  easy_read:
+    headline: 2024년에 나온 아직 실험실·동물 단계 논문입니다. 핵심 주제는 「코디세핀이 균류 안에서 어떻게 만들어지는지」입니다.
+    what_is_this: 이 글은 「코디세핀이 균류 안에서 어떻게 만들어지는지」에 대한 학술 정리입니다. Cordyceps militaris은
+      bei-chong-cao라고도 하며 자낭균문(Ascomycota phylum)과 Clavicipitaceae과에 속하는 곤충병원성 곰팡이입니다.
+      이는 중국 전통 의학(TCM) 및 영양 식품으로 활용되어 온 약용 및 식용 특성을 지닌 귀중한 사상균입니다.
+    what_they_did: 논문·데이터를 모아 분석·정리했습니다.
+    what_they_found: Cordyceps militaris은 bei-chong-cao라고도 하며 자낭균문(Ascomycota phylum)과
+      Clavicipitaceae과에 속하는 곤충병원성 곰팡이입니다. 이는 중국 전통 의학(TCM) 및 영양 식품으로 활용되어 온 약용 및 식용
+      특성을 지닌 귀중한 사상균입니다. 코디세핀은 C.
+    good_to_know:
+    - 이 글은 **술·담금주가 몸에 좋다**는 이야기가 아닙니다.
+    - 연구실·논문에서 나온 이야기를 **할머니·할아버지도 읽기 쉽게** 풀어 쓴 것입니다.
+    - 아직 **사람에게 직접 먹여 본 실험**이 아닐 수 있습니다. 실험실·동물 단계 이야기입니다.
+    - 궁금하시면 아래 **원문·번역 참고**를 펼쳐 보시면 됩니다.
+    sections:
+    - id: summary
+      label: 한줄 요약
+      text: Cordyceps militaris은 bei-chong-cao라고도 하며 자낭균문(Ascomycota phylum)과 Clavicipitaceae과에
+        속하는 곤충병원성 곰팡이입니다. 이는 중국 전통 의학(TCM) 및 영양 식품으로 활용되어 온 약용 및 식용 특성을 지닌 귀중한 사상균입니다.
+        코디세핀은 C. militaris에서 최초로 분리된 생리활성 화합물로 다양한 기능성 식품 및 건강 증진 특성을 갖고 있어 기능성 식품
+        및 제약 분야에서 널리 사용됩니다.
   full:
     en: Cordyceps militaris, also called as bei-chong-cao, is an insect-pathogenic
       fungus from the Ascomycota phylum and the Clavicipitaceae family. It is a valuable
@@ -160,11 +177,7 @@ translations:
       지속 가능한 생산 방법을 나타냅니다. 이를 감안할 때, 이 리뷰는 주로 대사 공학과 코디세핀의 이종 생합성 전략에 중점을 두었습니다.'
     ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. Cordyceps militaris은 bei-chong-cao라고도 하며
       자낭균문(Ascomycota phylum)과 Clavicipitaceae과에 속하는 곤충병원성 곰팡이입니다. 이는 중국 전통 의학(TCM)
-      및 영양 식품으로 활용되어 온 약용 및 식용 특성을 지닌 귀중한 사상균입니다. 코디세핀은 C. militaris에서 최초로 분리된 생리활성
-      화합물로 다양한 기능성 식품 및 건강 증진 특성을 갖고 있어 기능성 식품 및 제약 분야에서 널리 사용됩니다. 야생 자원의 구성이 낮고 부족하기
-      때문에 천연 자원으로부터의 이용 가능성이 제한됩니다. 코디세핀 생합성 경로가 밝혀지고 합성 생물학의 출현으로 Saccharomyces cerevisiae
-      및 Metarhizium robertsii의 녹색 코디세핀 생합성이 개발되어 코디세핀의 잠재적이고 지속 가능한 생산 방법을 나타냅니다.
-      이를 감안할 때, 이 리뷰는 주로 대사 공학과 코디세핀의 이종 생합성 전략에 중점을 두었습니다.
+      및 영양 식품으로 활용되어 온 약용 및 식용 특성을 지닌 귀중한 사상균입니다. 코디세핀은 C. …
 ---
 
 ## 한국어 요약

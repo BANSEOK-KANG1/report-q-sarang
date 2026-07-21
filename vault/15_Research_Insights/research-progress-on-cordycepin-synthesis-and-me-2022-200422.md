@@ -143,11 +143,24 @@ translations:
       기존 문제점과 향후 연구 방향에 대해 논의하였다. 본 연구는 향후 COR 생산에 참고자료를 제공한다.'
     ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. C. militaris는 Ascomycota 및 Cordyceps에 속하는
       곤충에서 태어난 곰팡이입니다. 이는 의학, 건강 관리 제품, 화장품 및 기타 분야에 적용될 수 있는 다양한 생물학적 활성을 가지고 있습니다.
-      코디세핀(COR)은 C. militaris에서 확인된 주요 생리 활성 성분 중 하나입니다. 따라서 C. militaris와 COR은 광범위한
-      관심을 끌었습니다. 본 연구에서는 화학적 합성 방법과 COR의 생합성 경로를 검토했습니다. 상업적으로 COR은 주로 C. militaris
-      발효에서 분리되었으므로 액체 및 고체 발효에 대한 최적화와 COR 함량을 증가시키기 위한 C. militaris의 유전적 변형도 요약되었습니다.
-      또한, C. militaris의 유전자 변형 연구 진행 상황과 COR 분리 및 정제 방법을 소개하였다. 마지막으로 C. militaris의
-      기존 문제점과 향후 연구 방향에 대해 논의하였다. 본 연구는 향후 COR 생산에 참고자료를 제공한다.
+      …
+  easy_read:
+    headline: 2022년에 나온 아직 실험실·동물 단계 논문입니다. 핵심 주제는 「코디세핀을 더 많이·안정적으로 만드는 방법」입니다.
+    what_is_this: 이 글은 「코디세핀을 더 많이·안정적으로 만드는 방법」에 대한 학술 정리입니다. C. militaris는 Ascomycota
+      및 Cordyceps에 속하는 곤충에서 태어난 곰팡이입니다.
+    what_they_did: 논문·데이터를 모아 분석·정리했습니다.
+    what_they_found: C. militaris는 Ascomycota 및 Cordyceps에 속하는 곤충에서 태어난 곰팡이입니다. 이는
+      의학, 건강 관리 제품, 화장품 및 기타 분야에 적용될 수 있는 다양한 생물학적 활성을 가지고 있습니다.
+    good_to_know:
+    - 이 글은 **술·담금주가 몸에 좋다**는 이야기가 아닙니다.
+    - 연구실·논문에서 나온 이야기를 **할머니·할아버지도 읽기 쉽게** 풀어 쓴 것입니다.
+    - 아직 **사람에게 직접 먹여 본 실험**이 아닐 수 있습니다. 실험실·동물 단계 이야기입니다.
+    - 궁금하시면 아래 **원문·번역 참고**를 펼쳐 보시면 됩니다.
+    sections:
+    - id: summary
+      label: 한줄 요약
+      text: C. militaris는 Ascomycota 및 Cordyceps에 속하는 곤충에서 태어난 곰팡이입니다. 이는 의학, 건강 관리
+        제품, 화장품 및 기타 분야에 적용될 수 있는 다양한 생물학적 활성을 가지고 있습니다. 코디세핀(COR)은 C.
   full:
     en: C. militaris is an insect-born fungus that belongs to Ascomycota and Cordyceps.
       It has a variety of biological activities that can be applied in medicine, health-care
@@ -179,11 +192,7 @@ translations:
       기존 문제점과 향후 연구 방향에 대해 논의하였다. 본 연구는 향후 COR 생산에 참고자료를 제공한다.'
     ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. C. militaris는 Ascomycota 및 Cordyceps에 속하는
       곤충에서 태어난 곰팡이입니다. 이는 의학, 건강 관리 제품, 화장품 및 기타 분야에 적용될 수 있는 다양한 생물학적 활성을 가지고 있습니다.
-      코디세핀(COR)은 C. militaris에서 확인된 주요 생리 활성 성분 중 하나입니다. 따라서 C. militaris와 COR은 광범위한
-      관심을 끌었습니다. 본 연구에서는 화학적 합성 방법과 COR의 생합성 경로를 검토했습니다. 상업적으로 COR은 주로 C. militaris
-      발효에서 분리되었으므로 액체 및 고체 발효에 대한 최적화와 COR 함량을 증가시키기 위한 C. militaris의 유전적 변형도 요약되었습니다.
-      또한, C. militaris의 유전자 변형 연구 진행 상황과 COR 분리 및 정제 방법을 소개하였다. 마지막으로 C. militaris의
-      기존 문제점과 향후 연구 방향에 대해 논의하였다. 본 연구는 향후 COR 생산에 참고자료를 제공한다.
+      …
 ---
 
 ## 한국어 요약

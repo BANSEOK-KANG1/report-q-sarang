@@ -395,6 +395,7 @@ def export_research_insights() -> int:
             translations = build_multiview_translations(
                 r.get("abstract") or "",
                 _clean(r.get("title") or ""),
+                record=r,
             )
         sections = _parse_abstract_sections(r.get("abstract") or "")
         fm = _frontmatter(r, slug, cfg, visual, translations)
@@ -527,6 +528,7 @@ def refresh_research_translations() -> int:
         translations = build_multiview_translations(
             record.get("abstract") or "",
             _clean(record.get("title") or ""),
+            record=record,
         )
         visual_data = None
         if fm.get("visuals") or fm.get("api_meta"):

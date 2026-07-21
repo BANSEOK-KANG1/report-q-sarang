@@ -18,12 +18,11 @@ export default function ResearchPage() {
           <p className="text-xs tracking-[0.2em] text-accent mb-3 uppercase">Research · Evidence</p>
           <h1 className="font-display text-4xl md:text-5xl text-gold leading-tight">연구 인사이트</h1>
           <p className="mt-4 text-ink-soft max-w-2xl leading-relaxed">
-            PubMed·OpenAlex·Europe PMC에서 수집한 논문을 **전문적으로 요약·번역 정리**한 페이지입니다.
-            브랜드 블로그(이야기)와 달리, 논문 단위의 학술 인사이트를 다룹니다.
+            PubMed·OpenAlex·Europe PMC에서 수집한 논문을 **할머니도 읽기 쉽게** 정리한 페이지입니다.
+            번역·원문은 참고용으로 접을 수 있습니다.
           </p>
           <p className="mt-3 text-sm text-ink-soft max-w-2xl leading-relaxed border-l-2 border-gold/50 pl-4">
-            질병·효능 주장이 아닌 연구·교육 목적 자료입니다. Europe PMC · OpenAlex · Crossref API
-            연동 시각 자료 포함.
+            질병·효능 주장이 아닌 연구·교육 목적 자료입니다. 술·담금주가 몸에 좋다는 뜻이 아닙니다.
           </p>
         </div>
       </section>

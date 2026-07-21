@@ -64,7 +64,7 @@ def _clean(text: str) -> str:
 
 
 def _split_sentences(text: str) -> list[str]:
-    parts = re.split(r"(?<=[.!?])\s+(?=[A-Z(<\"])", text)
+    parts = re.split(r"(?<=[.!?。])\s+", text)
     return [p.strip() for p in parts if p.strip()]
 
 
@@ -195,6 +195,7 @@ def _parse_abstract_sections(abstract: str) -> dict[str, str]:
 def build_multiview_translations(
     abstract: str,
     title: str = "",
+    record: dict[str, Any] | None = None,
 ) -> dict[str, Any]:
     """Build multi-angle translation payload for frontmatter."""
     sections_raw = _parse_abstract_sections(abstract)
@@ -242,10 +243,20 @@ def build_multiview_translations(
     full_en = _clean(abstract)
     full_ko = _google_translate(full_en) if full_en else ""
 
+    from .plain_summary import build_easy_read
+
+    easy_read = build_easy_read(
+        record=record or {},
+        abstract=abstract,
+        title_ko=title_ko,
+        section_translations=section_list,
+    )
+
     return {
         "title_ko": title_ko,
         "glossary": _extract_glossary(full_en or title_en),
         "sections": section_list,
+        "easy_read": easy_read,
         "full": {
             "en": full_en,
             "ko_literal": full_ko,

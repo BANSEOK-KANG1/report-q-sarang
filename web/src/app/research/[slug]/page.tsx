@@ -2,6 +2,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
+import { ResearchEasyRead } from "@/components/ResearchEasyRead";
 import { ResearchTranslationTabs } from "@/components/ResearchTranslationTabs";
 import { ResearchVisualPanel } from "@/components/ResearchVisualPanel";
 import { getInsight, getInsightSlugs, studyTypeLabel } from "@/lib/insights";
@@ -75,10 +76,14 @@ export default async function ResearchDetailPage({ params }: Props) {
       </div>
 
       <div className="mx-auto max-w-3xl px-5 py-12">
-        <ResearchVisualPanel visuals={item.visuals} apiMeta={item.apiMeta} />
-        {item.translations ? (
-          <ResearchTranslationTabs translations={item.translations} />
+        {item.translations?.easyRead ? (
+          <ResearchEasyRead
+            easyRead={item.translations.easyRead}
+            titleKo={item.translations.titleKo || item.titleKo}
+          />
         ) : null}
+        <ResearchVisualPanel visuals={item.visuals} apiMeta={item.apiMeta} />
+        {item.translations ? <ResearchTranslationTabs translations={item.translations} /> : null}
         <div className="prose-qs">
           <ReactMarkdown remarkPlugins={[remarkGfm]}>{item.body}</ReactMarkdown>
         </div>

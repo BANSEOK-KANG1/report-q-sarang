@@ -171,8 +171,30 @@ translations:
       영양 및 신경 보호를 기반으로 하는 신경 재활 및 인지 향상을 위한 새로운 통합 프레임워크로서 '뇌 건강 트라이어드'를 제안합니다. 우리는
       Hericium erinaceus, Bacopa monnieri 및 L-Theanine으로 구성된 '핵심 삼중 요소' 간의 시너지 상호
       작용이 높은 특이성을 가지고 이러한 기둥을 표적으로 삼는 방법을 설명합니다. Hericium erinaceus는 에리나신과 헤리세논을 통해
-      신경 성장 인자(NGF)와 뇌 유래 신경 영양 인자(BDNF) 합성을 유도하여 신경 영양증을 촉진합니다. Bacopa monnieri는
-      바코사이드를 통해 신경 자극과 시냅스 가소성을 강화하여 이를 보완합니다. …
+      신경 성장 인자(NGF)와 뇌 유래 신경 영양 인자(BDNF) 합성을 유도하여 신경 영양증을 촉진합니다. …
+  easy_read:
+    headline: 2026년에 나온 여러 연구를 읽고 정리한 글입니다. 핵심 주제는 「지금까지 나온 연구들을 한데 모아 정리」입니다.
+    what_is_this: 이 글은 「지금까지 나온 연구들을 한데 모아 정리」에 대한 학술 정리입니다. 이 서사적 리뷰는 세 가지 상호 의존적인
+      생물학적 기둥인 신경 자극, 신경 영양 및 신경 보호를 기반으로 하는 신경 재활 및 인지 향상을 위한 새로운 통합 프레임워크로서 '뇌 건강
+      트라이어드'를 제안합니다. 우리는 Hericium erinaceus, Bacopa monnieri 및 L-Theanine으로 구성된 '핵심
+      삼중 요소' 간의 시너지 상호 작용이 높은 특이성을 가지고 이러한 기둥을 표적으로 삼는 방법을 설명합니다.
+    what_they_did: 여러 편의 논문을 찾아 읽고, 공통점과 차이를 표로 정리했습니다.
+    what_they_found: 이 서사적 리뷰는 세 가지 상호 의존적인 생물학적 기둥인 신경 자극, 신경 영양 및 신경 보호를 기반으로 하는
+      신경 재활 및 인지 향상을 위한 새로운 통합 프레임워크로서 '뇌 건강 트라이어드'를 제안합니다. 우리는 Hericium erinaceus,
+      Bacopa monnieri 및 L-Theanine으로 구성된 '핵심 삼중 요소' 간의 시너지 상호 작용이 높은 특이성을 가지고 이러한
+      기둥을 표적으로 삼는 방법을 설명합니다. Hericium erinaceus는 에리나신과 헤리세논을 통해 신경 성장 인자(NGF)와 뇌 유래
+      신경 영양 인자(BDNF) 합성을 유도하여 신경 영양증을 촉진합니다.
+    good_to_know:
+    - 이 글은 **술·담금주가 몸에 좋다**는 이야기가 아닙니다.
+    - 연구실·논문에서 나온 이야기를 **할머니·할아버지도 읽기 쉽게** 풀어 쓴 것입니다.
+    - 궁금하시면 아래 **원문·번역 참고**를 펼쳐 보시면 됩니다.
+    sections:
+    - id: summary
+      label: 한줄 요약
+      text: 이 서사적 리뷰는 세 가지 상호 의존적인 생물학적 기둥인 신경 자극, 신경 영양 및 신경 보호를 기반으로 하는 신경 재활 및
+        인지 향상을 위한 새로운 통합 프레임워크로서 '뇌 건강 트라이어드'를 제안합니다. 우리는 Hericium erinaceus, Bacopa
+        monnieri 및 L-Theanine으로 구성된 '핵심 삼중 요소' 간의 시너지 상호 작용이 높은 특이성을 가지고 이러한 기둥을 표적으로
+        삼는 방법을 설명합니다.
   full:
     en: 'This narrative review proposes the ''Brain Health Triad'' as a novel integrative
       framework for neurorehabilitation and cognitive enhancement, built upon three
@@ -218,8 +240,7 @@ translations:
       영양 및 신경 보호를 기반으로 하는 신경 재활 및 인지 향상을 위한 새로운 통합 프레임워크로서 '뇌 건강 트라이어드'를 제안합니다. 우리는
       Hericium erinaceus, Bacopa monnieri 및 L-Theanine으로 구성된 '핵심 삼중 요소' 간의 시너지 상호
       작용이 높은 특이성을 가지고 이러한 기둥을 표적으로 삼는 방법을 설명합니다. Hericium erinaceus는 에리나신과 헤리세논을 통해
-      신경 성장 인자(NGF)와 뇌 유래 신경 영양 인자(BDNF) 합성을 유도하여 신경 영양증을 촉진합니다. Bacopa monnieri는
-      바코사이드를 통해 신경 자극과 시냅스 가소성을 강화하여 이를 보완합니다. …
+      신경 성장 인자(NGF)와 뇌 유래 신경 영양 인자(BDNF) 합성을 유도하여 신경 영양증을 촉진합니다. …
 ---
 
 ## 한국어 요약

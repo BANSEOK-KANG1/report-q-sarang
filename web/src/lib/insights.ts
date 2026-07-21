@@ -44,10 +44,26 @@ export type GlossaryEntry = {
   note: string;
 };
 
+export type EasyReadSection = {
+  id: string;
+  label: string;
+  text: string;
+};
+
+export type EasyReadSummary = {
+  headline: string;
+  whatIsThis: string;
+  whatTheyDid: string;
+  whatTheyFound: string;
+  goodToKnow: string[];
+  sections: EasyReadSection[];
+};
+
 export type TranslationViews = {
   titleKo: string;
   glossary: GlossaryEntry[];
   sections: TranslationSection[];
+  easyRead: EasyReadSummary | null;
   full: {
     en: string;
     koLiteral: string;
@@ -108,6 +124,32 @@ export function studyTypeLabel(studyType: string): string {
   return STUDY_TYPE_LABEL[studyType] || studyType || "연구";
 }
 
+function parseEasyRead(raw: Record<string, unknown> | undefined): EasyReadSummary | null {
+  if (!raw) return null;
+  const sections = Array.isArray(raw.sections)
+    ? raw.sections.map((s) => {
+        const item = s as Record<string, unknown>;
+        return {
+          id: String(item.id || ""),
+          label: String(item.label || ""),
+          text: String(item.text || ""),
+        };
+      })
+    : [];
+  const goodToKnow = Array.isArray(raw.good_to_know)
+    ? raw.good_to_know.map(String)
+    : [];
+  if (!raw.headline && !raw.what_is_this) return null;
+  return {
+    headline: String(raw.headline || ""),
+    whatIsThis: String(raw.what_is_this || ""),
+    whatTheyDid: String(raw.what_they_did || ""),
+    whatTheyFound: String(raw.what_they_found || ""),
+    goodToKnow,
+    sections,
+  };
+}
+
 function parseTranslations(data: Record<string, unknown>): TranslationViews | null {
   const raw = data.translations as Record<string, unknown> | undefined;
   if (!raw) return null;
@@ -147,6 +189,7 @@ function parseTranslations(data: Record<string, unknown>): TranslationViews | nu
     titleKo: String(raw.title_ko || data.title_ko || ""),
     glossary,
     sections,
+    easyRead: parseEasyRead(raw.easy_read as Record<string, unknown> | undefined),
     full,
   };
 }
