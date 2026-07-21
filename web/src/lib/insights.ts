@@ -29,6 +29,33 @@ export type PaperApiMeta = {
   fetchedAt: string;
 };
 
+export type TranslationSection = {
+  id: string;
+  labelKo: string;
+  en: string;
+  koLiteral: string;
+  koResearcher: string;
+  koPlain: string;
+};
+
+export type GlossaryEntry = {
+  en: string;
+  ko: string;
+  note: string;
+};
+
+export type TranslationViews = {
+  titleKo: string;
+  glossary: GlossaryEntry[];
+  sections: TranslationSection[];
+  full: {
+    en: string;
+    koLiteral: string;
+    koResearcher: string;
+    koPlain: string;
+  } | null;
+};
+
 export type ResearchInsight = {
   slug: string;
   title: string;
@@ -47,6 +74,7 @@ export type ResearchInsight = {
   riskFlags: string[];
   visuals: PaperFigure[];
   apiMeta: PaperApiMeta | null;
+  translations: TranslationViews | null;
   body: string;
 };
 
@@ -78,6 +106,49 @@ const STUDY_TYPE_LABEL: Record<string, string> = {
 
 export function studyTypeLabel(studyType: string): string {
   return STUDY_TYPE_LABEL[studyType] || studyType || "연구";
+}
+
+function parseTranslations(data: Record<string, unknown>): TranslationViews | null {
+  const raw = data.translations as Record<string, unknown> | undefined;
+  if (!raw) return null;
+  const sections = Array.isArray(raw.sections)
+    ? raw.sections.map((s) => {
+        const item = s as Record<string, unknown>;
+        return {
+          id: String(item.id || ""),
+          labelKo: String(item.label_ko || ""),
+          en: String(item.en || ""),
+          koLiteral: String(item.ko_literal || ""),
+          koResearcher: String(item.ko_researcher || ""),
+          koPlain: String(item.ko_plain || ""),
+        };
+      })
+    : [];
+  const glossary = Array.isArray(raw.glossary)
+    ? raw.glossary.map((g) => {
+        const item = g as Record<string, unknown>;
+        return {
+          en: String(item.en || ""),
+          ko: String(item.ko || ""),
+          note: String(item.note || ""),
+        };
+      })
+    : [];
+  const fullRaw = raw.full as Record<string, unknown> | undefined;
+  const full = fullRaw
+    ? {
+        en: String(fullRaw.en || ""),
+        koLiteral: String(fullRaw.ko_literal || ""),
+        koResearcher: String(fullRaw.ko_researcher || ""),
+        koPlain: String(fullRaw.ko_plain || ""),
+      }
+    : null;
+  return {
+    titleKo: String(raw.title_ko || data.title_ko || ""),
+    glossary,
+    sections,
+    full,
+  };
 }
 
 function parseApiMeta(data: Record<string, unknown>): PaperApiMeta | null {
@@ -151,6 +222,7 @@ export function getAllInsights(): ResearchInsight[] {
       riskFlags: Array.isArray(data.risk_flags) ? data.risk_flags.map(String) : [],
       visuals: parseVisuals(data as Record<string, unknown>),
       apiMeta: parseApiMeta(data as Record<string, unknown>),
+      translations: parseTranslations(data as Record<string, unknown>),
       body,
     } satisfies ResearchInsight;
   });

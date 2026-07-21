@@ -1,8 +1,7 @@
 ---
 title: Low-carbon and overproduction of cordycepin from methanol using engineered
   Pichia pastoris cell factory.
-title_ko: Low-carbon and overproduction of cordycepin from methanol using engineered
-  Pichia pastoris cell factory.
+title_ko: 엔지니어링된 피치아 파스토리스 세포 공장을 사용하여 메탄올에서 코디세핀의 저탄소 및 과잉 생산.
 slug: low-carbon-and-overproduction-of-cordycepin-from-2024-241814
 record_id: 9f6a91c5-3639-447d-ba1c-461a13b2bf0c
 date: '2026-07-21'
@@ -93,6 +92,110 @@ api_meta:
     openalex: true
     crossref: true
   fetched_at: '2026-07-21'
+translations:
+  title_ko: 엔지니어링된 피치아 파스토리스 세포 공장을 사용하여 메탄올에서 코디세핀의 저탄소 및 과잉 생산.
+  glossary:
+  - en: cordycepin
+    ko: 코디세핀
+    note: 3'-deoxyadenosine, Cordyceps 주요 bioactive 성분
+  - en: cordyceps militaris
+    ko: Cordyceps militaris
+    note: 동충하초 균종
+  - en: cordyceps
+    ko: Cordyceps
+    note: 충Cordyceps属 진균
+  - en: biosynthesis
+    ko: 생합성
+    note: 생물체 내에서 물질이 만들어지는 과정
+  - en: fermentation
+    ko: 발효
+    note: 미생물·균류를 이용한 대량 배양
+  - en: adenosine
+    ko: 아데노신
+    note: 뉴클레오시드 관련 물질
+  - en: yield
+    ko: 수율
+    note: 단위당 생산량
+  sections:
+  - id: summary
+    label_ko: 초록 전체
+    en: Cordycepin, a nucleoside analog, is widely used in medicine and health products.
+      However, the production of cordycepin from Cordyceps militaris faces the challenges
+      of low productivity and high rate of greenhouse gas emissions. In this study,
+      by optimizing the cordycepin biosynthesis pathway through promoter combination,
+      Kozak sequence, and enzyme fusion, enhancing the methanol assimilation capacity
+      in peroxisomes, adjusting the synthesis of NADPH and ATP, and combining the
+      enhanced supply of adenosine and 3'-AMP, the cordycepin high-yield strain Pp29
+      was constructed, which produced 1551.44 mg/L cordycepin by shake-flask fermentation.
+      In fed-batch fermentation, Pp29 achieved the highest yield (8.11 g/L, 67.64
+      mg/g DCW, and 1.35 g/L/d) to date in 10 L fermenter, and the CO2-eq emissions
+      were 1.9-17.3 times lower than C. militaris and other yeast systems. This study
+      provide basis for Pichia pastoris to be used as chassis cell for synthesizing
+      cordycepin and other nucleoside analogs by methanol as carbon source.
+    ko_literal: 뉴클레오시드 유사체인 코디세핀은 의약품 및 건강 제품에 널리 사용됩니다. 그러나 Cordyceps militaris에서
+      코디세핀을 생산하는 것은 낮은 생산성과 높은 온실가스 배출이라는 문제에 직면해 있습니다. 본 연구에서는 프로모터 조합, Kozak 서열
+      및 효소 융합을 통해 코디세핀 생합성 경로를 최적화하고, 퍼옥시좀에서 메탄올 동화 능력을 향상시키고, NADPH 및 ATP의 합성을 조정하고,
+      향상된 아데노신 및 3'-AMP 공급을 결합하여 코디세핀 고-수율 균주 Pp29를 구축하여 1551.44를 생산했습니다. mg/L 코디세핀,
+      쉐이크 플라스크 발효. 유가식 발효에서 Pp29는 10L 발효기에서 현재까지 가장 높은 수율(8.11g/L, 67.64mg/g DCW 및
+      1.35g/L/d)을 달성했으며 CO2-eq 배출량은 C. militaris 및 기타 효모 시스템보다 1.9-17.3배 낮았습니다. 이
+      연구는 탄소원인 메탄올을 사용하여 코디세핀 및 기타 뉴클레오시드 유사체를 합성하기 위한 섀시 셀로 Pichia Pastori를 사용할 수
+      있는 기초를 제공합니다.
+    ko_researcher: '[초록 전체] 핵심 용어: **코디세핀**(cordycepin) · **Cordyceps militaris**(cordyceps
+      militaris) · **Cordyceps**(cordyceps) · **생합성**(biosynthesis). 뉴클레오시드 유사체인 코디세핀은
+      의약품 및 건강 제품에 널리 사용됩니다. 그러나 Cordyceps militaris에서 코디세핀을 생산하는 것은 낮은 생산성과 높은 온실가스
+      배출이라는 문제에 직면해 있습니다. 본 연구에서는 프로모터 조합, Kozak 서열 및 효소 융합을 통해 코디세핀 생합성 경로를 최적화하고,
+      퍼옥시좀에서 메탄올 동화 능력을 향상시키고, NADPH 및 ATP의 합성을 조정하고, 향상된 아데노신 및 3''-AMP 공급을 결합하여
+      코디세핀 고-수율 균주 Pp29를 구축하여 1551.44를 생산했습니다. mg/L 코디세핀, 쉐이크 플라스크 발효. 유가식 발효에서 Pp29는
+      10L 발효기에서 현재까지 가장 높은 수율(8.11g/L, 67.64mg/g DCW 및 1.35g/L/d)을 달성했으며 CO2-eq 배출량은
+      C. militaris 및 기타 효모 시스템보다 1.9-17.3배 낮았습니다. 이 연구는 탄소원인 메탄올을 사용하여 코디세핀 및 기타 뉴클레오시드
+      유사체를 합성하기 위한 섀시 셀로 Pichia Pastori를 사용할 수 있는 기초를 제공합니다.'
+    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. 뉴클레오시드 유사체인 코디세핀은 의약품 및 건강 제품에 널리 사용됩니다.
+      그러나 Cordyceps militaris에서 코디세핀을 생산하는 것은 낮은 생산성과 높은 온실가스 배출이라는 문제에 직면해 있습니다.
+      본 연구에서는 프로모터 조합, Kozak 서열 및 효소 융합을 통해 코디세핀 생합성 경로를 최적화하고, 퍼옥시좀에서 메탄올 동화 능력을
+      향상시키고, NADPH 및 ATP의 합성을 조정하고, 향상된 아데노신 및 3'-AMP 공급을 결합하여 코디세핀 고-수율 균주 Pp29를
+      구축하여 1551.44를 생산했습니다. mg/L 코디세핀, 쉐이크 플라스크 발효. 유가식 발효에서 Pp29는 10L 발효기에서 현재까지
+      가장 높은 수율(8.11g/L, 67.64mg/g DCW 및 1.35g/L/d)을 달성했으며 CO2-eq 배출량은 C. militaris
+      및 기타 효모 시스템보다 1.9-17.3배 낮았습니다. 이 연구는 탄소원인 메탄올을 사용하여 코디세핀 및 기타 뉴클레오시드 유사체를 합성하기
+      위한 섀시 셀로 Pichia Pastori를 사용할 수 있는 기초를 제공합니다.
+  full:
+    en: Cordycepin, a nucleoside analog, is widely used in medicine and health products.
+      However, the production of cordycepin from Cordyceps militaris faces the challenges
+      of low productivity and high rate of greenhouse gas emissions. In this study,
+      by optimizing the cordycepin biosynthesis pathway through promoter combination,
+      Kozak sequence, and enzyme fusion, enhancing the methanol assimilation capacity
+      in peroxisomes, adjusting the synthesis of NADPH and ATP, and combining the
+      enhanced supply of adenosine and 3'-AMP, the cordycepin high-yield strain Pp29
+      was constructed, which produced 1551.44 mg/L cordycepin by shake-flask fermentation.
+      In fed-batch fermentation, Pp29 achieved the highest yield (8.11 g/L, 67.64
+      mg/g DCW, and 1.35 g/L/d) to date in 10 L fermenter, and the CO2-eq emissions
+      were 1.9-17.3 times lower than C. militaris and other yeast systems. This study
+      provide basis for Pichia pastoris to be used as chassis cell for synthesizing
+      cordycepin and other nucleoside analogs by methanol as carbon source.
+    ko_literal: 뉴클레오시드 유사체인 코디세핀은 의약품 및 건강 제품에 널리 사용됩니다. 그러나 Cordyceps militaris에서
+      코디세핀을 생산하는 것은 낮은 생산성과 높은 온실가스 배출이라는 문제에 직면해 있습니다. 본 연구에서는 프로모터 조합, Kozak 서열
+      및 효소 융합을 통해 코디세핀 생합성 경로를 최적화하고, 퍼옥시좀에서 메탄올 동화 능력을 향상시키고, NADPH 및 ATP의 합성을 조정하고,
+      향상된 아데노신 및 3'-AMP 공급을 결합하여 코디세핀 고-수율 균주 Pp29를 구축하여 1551.44를 생산했습니다. mg/L 코디세핀,
+      쉐이크 플라스크 발효. 유가식 발효에서 Pp29는 10L 발효기에서 현재까지 가장 높은 수율(8.11g/L, 67.64mg/g DCW 및
+      1.35g/L/d)을 달성했으며 CO2-eq 배출량은 C. militaris 및 기타 효모 시스템보다 1.9-17.3배 낮았습니다. 이
+      연구는 탄소원인 메탄올을 사용하여 코디세핀 및 기타 뉴클레오시드 유사체를 합성하기 위한 섀시 셀로 Pichia Pastori를 사용할 수
+      있는 기초를 제공합니다.
+    ko_researcher: '[초록 전체] 핵심 용어: **코디세핀**(cordycepin) · **Cordyceps militaris**(cordyceps
+      militaris) · **Cordyceps**(cordyceps) · **생합성**(biosynthesis). 뉴클레오시드 유사체인 코디세핀은
+      의약품 및 건강 제품에 널리 사용됩니다. 그러나 Cordyceps militaris에서 코디세핀을 생산하는 것은 낮은 생산성과 높은 온실가스
+      배출이라는 문제에 직면해 있습니다. 본 연구에서는 프로모터 조합, Kozak 서열 및 효소 융합을 통해 코디세핀 생합성 경로를 최적화하고,
+      퍼옥시좀에서 메탄올 동화 능력을 향상시키고, NADPH 및 ATP의 합성을 조정하고, 향상된 아데노신 및 3''-AMP 공급을 결합하여
+      코디세핀 고-수율 균주 Pp29를 구축하여 1551.44를 생산했습니다. mg/L 코디세핀, 쉐이크 플라스크 발효. 유가식 발효에서 Pp29는
+      10L 발효기에서 현재까지 가장 높은 수율(8.11g/L, 67.64mg/g DCW 및 1.35g/L/d)을 달성했으며 CO2-eq 배출량은
+      C. militaris 및 기타 효모 시스템보다 1.9-17.3배 낮았습니다. 이 연구는 탄소원인 메탄올을 사용하여 코디세핀 및 기타 뉴클레오시드
+      유사체를 합성하기 위한 섀시 셀로 Pichia Pastori를 사용할 수 있는 기초를 제공합니다.'
+    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. 뉴클레오시드 유사체인 코디세핀은 의약품 및 건강 제품에 널리 사용됩니다.
+      그러나 Cordyceps militaris에서 코디세핀을 생산하는 것은 낮은 생산성과 높은 온실가스 배출이라는 문제에 직면해 있습니다.
+      본 연구에서는 프로모터 조합, Kozak 서열 및 효소 융합을 통해 코디세핀 생합성 경로를 최적화하고, 퍼옥시좀에서 메탄올 동화 능력을
+      향상시키고, NADPH 및 ATP의 합성을 조정하고, 향상된 아데노신 및 3'-AMP 공급을 결합하여 코디세핀 고-수율 균주 Pp29를
+      구축하여 1551.44를 생산했습니다. mg/L 코디세핀, 쉐이크 플라스크 발효. 유가식 발효에서 Pp29는 10L 발효기에서 현재까지
+      가장 높은 수율(8.11g/L, 67.64mg/g DCW 및 1.35g/L/d)을 달성했으며 CO2-eq 배출량은 C. militaris
+      및 기타 효모 시스템보다 1.9-17.3배 낮았습니다. 이 연구는 탄소원인 메탄올을 사용하여 코디세핀 및 기타 뉴클레오시드 유사체를 합성하기
+      위한 섀시 셀로 Pichia Pastori를 사용할 수 있는 기초를 제공합니다.
 ---
 
 ## 한국어 요약

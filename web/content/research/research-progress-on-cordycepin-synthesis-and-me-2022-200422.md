@@ -1,8 +1,7 @@
 ---
 title: Research Progress on Cordycepin Synthesis and Methods for Enhancement of Cordycepin
   Production in Cordyceps militaris
-title_ko: Research Progress on Cordycepin Synthesis and Methods for Enhancement of
-  Cordycepin Production in Cordyceps militaris
+title_ko: 코디세핀 합성 및 Cordyceps militaris에서의 코디세핀 생산 향상 방법에 대한 연구 진행
 slug: research-progress-on-cordycepin-synthesis-and-me-2022-200422
 record_id: 51938d7a-3f12-4f88-84b4-276dc7705d6f
 date: '2026-07-21'
@@ -96,6 +95,95 @@ api_meta:
     openalex: true
     crossref: true
   fetched_at: '2026-07-21'
+translations:
+  title_ko: 코디세핀 합성 및 Cordyceps militaris에서의 코디세핀 생산 향상 방법에 대한 연구 진행
+  glossary:
+  - en: cordycepin
+    ko: 코디세핀
+    note: 3'-deoxyadenosine, Cordyceps 주요 bioactive 성분
+  - en: cordyceps
+    ko: Cordyceps
+    note: 충Cordyceps属 진균
+  - en: biosynthesis
+    ko: 생합성
+    note: 생물체 내에서 물질이 만들어지는 과정
+  - en: fermentation
+    ko: 발효
+    note: 미생물·균류를 이용한 대량 배양
+  sections:
+  - id: summary
+    label_ko: 초록 전체
+    en: C. militaris is an insect-born fungus that belongs to Ascomycota and Cordyceps.
+      It has a variety of biological activities that can be applied in medicine, health-care
+      products, cosmeceuticals and other fields. Cordycepin (COR) is one of the major
+      bioactive components identified from C. militaris. Thus, C. militaris and COR
+      have attracted extensive attention. In this study, chemical synthetic methods
+      and the biosynthesis pathway of COR were reviewed. As commercially COR was mainly
+      isolated from C. militaris fermentation, the optimizations for liquid and solid
+      fermentation and genetic modifications of C. militaris to increase COR content
+      were also summarized. Moreover, the research progress of genetic modifications
+      of C. militaris and methods for separation and purification COR were introduced.
+      Finally, the existing problems and future research direction of C. militaris
+      were discussed. This study provides a reference for the production of COR in
+      the future.
+    ko_literal: C. militaris는 Ascomycota 및 Cordyceps에 속하는 곤충에서 태어난 곰팡이입니다. 이는 의학,
+      건강 관리 제품, 화장품 및 기타 분야에 적용될 수 있는 다양한 생물학적 활성을 가지고 있습니다. 코디세핀(COR)은 C. militaris에서
+      확인된 주요 생리 활성 성분 중 하나입니다. 따라서 C. militaris와 COR은 광범위한 관심을 끌었습니다. 본 연구에서는 화학적
+      합성 방법과 COR의 생합성 경로를 검토했습니다. 상업적으로 COR은 주로 C. militaris 발효에서 분리되었으므로 액체 및 고체
+      발효에 대한 최적화와 COR 함량을 증가시키기 위한 C. militaris의 유전적 변형도 요약되었습니다. 또한, C. militaris의
+      유전자 변형 연구 진행 상황과 COR 분리 및 정제 방법을 소개하였다. 마지막으로 C. militaris의 기존 문제점과 향후 연구 방향에
+      대해 논의하였다. 본 연구는 향후 COR 생산에 참고자료를 제공한다.
+    ko_researcher: '[초록 전체] 핵심 용어: **코디세핀**(cordycepin) · **Cordyceps**(cordyceps)
+      · **생합성**(biosynthesis) · **발효**(fermentation). C. militaris는 Ascomycota 및 Cordyceps에
+      속하는 곤충에서 태어난 곰팡이입니다. 이는 의학, 건강 관리 제품, 화장품 및 기타 분야에 적용될 수 있는 다양한 생물학적 활성을 가지고
+      있습니다. 코디세핀(COR)은 C. militaris에서 확인된 주요 생리 활성 성분 중 하나입니다. 따라서 C. militaris와 COR은
+      광범위한 관심을 끌었습니다. 본 연구에서는 화학적 합성 방법과 COR의 생합성 경로를 검토했습니다. 상업적으로 COR은 주로 C. militaris
+      발효에서 분리되었으므로 액체 및 고체 발효에 대한 최적화와 COR 함량을 증가시키기 위한 C. militaris의 유전적 변형도 요약되었습니다.
+      또한, C. militaris의 유전자 변형 연구 진행 상황과 COR 분리 및 정제 방법을 소개하였다. 마지막으로 C. militaris의
+      기존 문제점과 향후 연구 방향에 대해 논의하였다. 본 연구는 향후 COR 생산에 참고자료를 제공한다.'
+    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. C. militaris는 Ascomycota 및 Cordyceps에 속하는
+      곤충에서 태어난 곰팡이입니다. 이는 의학, 건강 관리 제품, 화장품 및 기타 분야에 적용될 수 있는 다양한 생물학적 활성을 가지고 있습니다.
+      코디세핀(COR)은 C. militaris에서 확인된 주요 생리 활성 성분 중 하나입니다. 따라서 C. militaris와 COR은 광범위한
+      관심을 끌었습니다. 본 연구에서는 화학적 합성 방법과 COR의 생합성 경로를 검토했습니다. 상업적으로 COR은 주로 C. militaris
+      발효에서 분리되었으므로 액체 및 고체 발효에 대한 최적화와 COR 함량을 증가시키기 위한 C. militaris의 유전적 변형도 요약되었습니다.
+      또한, C. militaris의 유전자 변형 연구 진행 상황과 COR 분리 및 정제 방법을 소개하였다. 마지막으로 C. militaris의
+      기존 문제점과 향후 연구 방향에 대해 논의하였다. 본 연구는 향후 COR 생산에 참고자료를 제공한다.
+  full:
+    en: C. militaris is an insect-born fungus that belongs to Ascomycota and Cordyceps.
+      It has a variety of biological activities that can be applied in medicine, health-care
+      products, cosmeceuticals and other fields. Cordycepin (COR) is one of the major
+      bioactive components identified from C. militaris. Thus, C. militaris and COR
+      have attracted extensive attention. In this study, chemical synthetic methods
+      and the biosynthesis pathway of COR were reviewed. As commercially COR was mainly
+      isolated from C. militaris fermentation, the optimizations for liquid and solid
+      fermentation and genetic modifications of C. militaris to increase COR content
+      were also summarized. Moreover, the research progress of genetic modifications
+      of C. militaris and methods for separation and purification COR were introduced.
+      Finally, the existing problems and future research direction of C. militaris
+      were discussed. This study provides a reference for the production of COR in
+      the future.
+    ko_literal: C. militaris는 Ascomycota 및 Cordyceps에 속하는 곤충에서 태어난 곰팡이입니다. 이는 의학,
+      건강 관리 제품, 화장품 및 기타 분야에 적용될 수 있는 다양한 생물학적 활성을 가지고 있습니다. 코디세핀(COR)은 C. militaris에서
+      확인된 주요 생리 활성 성분 중 하나입니다. 따라서 C. militaris와 COR은 광범위한 관심을 끌었습니다. 본 연구에서는 화학적
+      합성 방법과 COR의 생합성 경로를 검토했습니다. 상업적으로 COR은 주로 C. militaris 발효에서 분리되었으므로 액체 및 고체
+      발효에 대한 최적화와 COR 함량을 증가시키기 위한 C. militaris의 유전적 변형도 요약되었습니다. 또한, C. militaris의
+      유전자 변형 연구 진행 상황과 COR 분리 및 정제 방법을 소개하였다. 마지막으로 C. militaris의 기존 문제점과 향후 연구 방향에
+      대해 논의하였다. 본 연구는 향후 COR 생산에 참고자료를 제공한다.
+    ko_researcher: '[초록 전체] 핵심 용어: **코디세핀**(cordycepin) · **Cordyceps**(cordyceps)
+      · **생합성**(biosynthesis) · **발효**(fermentation). C. militaris는 Ascomycota 및 Cordyceps에
+      속하는 곤충에서 태어난 곰팡이입니다. 이는 의학, 건강 관리 제품, 화장품 및 기타 분야에 적용될 수 있는 다양한 생물학적 활성을 가지고
+      있습니다. 코디세핀(COR)은 C. militaris에서 확인된 주요 생리 활성 성분 중 하나입니다. 따라서 C. militaris와 COR은
+      광범위한 관심을 끌었습니다. 본 연구에서는 화학적 합성 방법과 COR의 생합성 경로를 검토했습니다. 상업적으로 COR은 주로 C. militaris
+      발효에서 분리되었으므로 액체 및 고체 발효에 대한 최적화와 COR 함량을 증가시키기 위한 C. militaris의 유전적 변형도 요약되었습니다.
+      또한, C. militaris의 유전자 변형 연구 진행 상황과 COR 분리 및 정제 방법을 소개하였다. 마지막으로 C. militaris의
+      기존 문제점과 향후 연구 방향에 대해 논의하였다. 본 연구는 향후 COR 생산에 참고자료를 제공한다.'
+    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. C. militaris는 Ascomycota 및 Cordyceps에 속하는
+      곤충에서 태어난 곰팡이입니다. 이는 의학, 건강 관리 제품, 화장품 및 기타 분야에 적용될 수 있는 다양한 생물학적 활성을 가지고 있습니다.
+      코디세핀(COR)은 C. militaris에서 확인된 주요 생리 활성 성분 중 하나입니다. 따라서 C. militaris와 COR은 광범위한
+      관심을 끌었습니다. 본 연구에서는 화학적 합성 방법과 COR의 생합성 경로를 검토했습니다. 상업적으로 COR은 주로 C. militaris
+      발효에서 분리되었으므로 액체 및 고체 발효에 대한 최적화와 COR 함량을 증가시키기 위한 C. militaris의 유전적 변형도 요약되었습니다.
+      또한, C. militaris의 유전자 변형 연구 진행 상황과 COR 분리 및 정제 방법을 소개하였다. 마지막으로 C. militaris의
+      기존 문제점과 향후 연구 방향에 대해 논의하였다. 본 연구는 향후 COR 생산에 참고자료를 제공한다.
 ---
 
 ## 한국어 요약

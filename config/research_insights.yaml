@@ -2,6 +2,7 @@
 
 max_insights: 20
 fetch_visuals: true
+multiview_translate: true
 include_priority_review: true
 include_approved_liquor: true
 

@@ -1,8 +1,7 @@
 ---
 title: Enhancement of Cordycepin Production through Liquid Static Fermentation of
   Caterpillar Medicinal Mushroom Cordyceps militaris (Ascomycetes).
-title_ko: Enhancement of Cordycepin Production through Liquid Static Fermentation
-  of Caterpillar Medicinal Mushroom Cordyceps militaris (Ascomycetes).
+title_ko: 애벌레 약용버섯 Cordyceps militaris(자낭균)의 액체 정적 발효을 통한 코디세핀 생산 강화.
 slug: enhancement-of-cordycepin-production-through-liq-2024-241164
 record_id: 11dbfa85-54a9-4101-b4c8-23b42a6f5b93
 date: '2026-07-21'
@@ -84,6 +83,113 @@ api_meta:
     openalex: true
     crossref: true
   fetched_at: '2026-07-21'
+translations:
+  title_ko: 애벌레 약용버섯 Cordyceps militaris(자낭균)의 액체 정적 발효을 통한 코디세핀 생산 강화.
+  glossary:
+  - en: cordycepin
+    ko: 코디세핀
+    note: 3'-deoxyadenosine, Cordyceps 주요 bioactive 성분
+  - en: cordyceps militaris
+    ko: Cordyceps militaris
+    note: 동충하초 균종
+  - en: cordyceps
+    ko: Cordyceps
+    note: 충Cordyceps属 진균
+  - en: fermentation
+    ko: 발효
+    note: 미생물·균류를 이용한 대량 배양
+  - en: liquid fermentation
+    ko: 액체 발효
+    note: 액체 배지에서의 submerged 배양
+  - en: adenosine
+    ko: 아데노신
+    note: 뉴클레오시드 관련 물질
+  sections:
+  - id: summary
+    label_ko: 초록 전체
+    en: Cordycepin (3'-deoxyadenosine) is a bioactive nucleoside analog synthesized
+      by Cordyceps militaris. Liquid fermentation of C. militaris by addition in different
+      concentrations of five additives singly was evaluated. Glycine at 15.00 g/L
+      after 20 d enhanced the cordycepin of 1773.33 mg/L (15-fold increment over control).
+      Adenine at 4.00 g/L and 6.00 g/L in the liquid media showed significantly higher
+      cordycepin i.e.1596.66 mg/L and 1550.00 mg/L (3-fold increment over control)
+      after 40 d. Tryptone supplementation 14.00 g/L significantly higher cordycepin
+      784.33 mg/L (6.70-fold increment over control) and 912.66 mg/L production after
+      20 and 40 d of inoculation. Peanut oil at 10.00 g/L produced 585.66 mg/L (5-fold
+      increment over control) cordycepin after 20 d and after 40 d, also addition
+      of peanut oil at 20.00 g/L and 30.00 g/L in the media showed 631.66 and 624.31
+      mg/L cordycepin content. Supplementation of mono-sodium glutamate at 0.30 g/L
+      produced significantly highest cordycepin i.e. 614 mg/L and 635.00 mg/L cordycepin
+      after 20 and 40 d, respectively.
+    ko_literal: 코디세핀(3'-deoxy아데노신)은 Cordyceps militaris에 의해 합성된 생체활성 뉴클레오시드 유사체입니다.
+      다양한 농도의 5가지 첨가제를 단독으로 첨가하여 C. militaris의 액체 발효을 평가했습니다. 20일 후 15.00g/L의 글리신은
+      코디세핀을 1773.33mg/L로 향상시켰습니다(대조군에 비해 15배 증가). 액체 배지에서 4.00g/L 및 6.00g/L의 아데닌은
+      40일 후에 상당히 높은 코디세핀, 즉 1596.66mg/L 및 1550.00mg/L(대조군에 비해 3배 증가)을 나타냈습니다. 트립톤
+      보충 14.00g/L은 접종 20일 및 40일 후 코디세핀 784.33mg/L(대조군에 비해 6.70배 증가) 및 912.66mg/L 생산량을
+      상당히 높였습니다. 10.00g/L의 땅콩기름은 20일 후와 40일 후에 585.66mg/L(대조군에 비해 5배 증가) 코디세핀을 생산했으며,
+      배지에 20.00g/L 및 30.00g/L의 땅콩기름을 첨가하면 631.66 및 624.31mg/L 코디세핀 함량을 보여주었습니다. 0.30g/L의
+      글루타민산 나트륨을 보충하면 20일과 40일 후에 각각 614mg/L 및 635.00mg/L의 코디세핀이 상당히 높은 코디세핀이 생성되었습니다.
+    ko_researcher: '[초록 전체] 핵심 용어: **코디세핀**(cordycepin) · **Cordyceps militaris**(cordyceps
+      militaris) · **Cordyceps**(cordyceps) · **발효**(fermentation). 코디세핀(3''-deoxy아데노신)은
+      Cordyceps militaris에 의해 합성된 생체활성 뉴클레오시드 유사체입니다. 다양한 농도의 5가지 첨가제를 단독으로 첨가하여 C.
+      militaris의 액체 발효을 평가했습니다. 20일 후 15.00g/L의 글리신은 코디세핀을 1773.33mg/L로 향상시켰습니다(대조군에
+      비해 15배 증가). 액체 배지에서 4.00g/L 및 6.00g/L의 아데닌은 40일 후에 상당히 높은 코디세핀, 즉 1596.66mg/L
+      및 1550.00mg/L(대조군에 비해 3배 증가)을 나타냈습니다. 트립톤 보충 14.00g/L은 접종 20일 및 40일 후 코디세핀 784.33mg/L(대조군에
+      비해 6.70배 증가) 및 912.66mg/L 생산량을 상당히 높였습니다. 10.00g/L의 땅콩기름은 20일 후와 40일 후에 585.66mg/L(대조군에
+      비해 5배 증가) 코디세핀을 생산했으며, 배지에 20.00g/L 및 30.00g/L의 땅콩기름을 첨가하면 631.66 및 624.31mg/L
+      코디세핀 함량을 보여주었습니다. 0.30g/L의 글루타민산 나트륨을 보충하면 20일과 40일 후에 각각 614mg/L 및 635.00mg/L의
+      코디세핀이 상당히 높은 코디세핀이 생성되었습니다.'
+    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. 코디세핀(3'-deoxy아데노신)은 Cordyceps militaris에
+      의해 합성된 생체활성 뉴클레오시드 유사체입니다. 다양한 농도의 5가지 첨가제를 단독으로 첨가하여 C. militaris의 액체 발효을 평가했습니다.
+      20일 후 15.00g/L의 글리신은 코디세핀을 1773.33mg/L로 향상시켰습니다(대조군에 비해 15배 증가). 액체 배지에서 4.00g/L
+      및 6.00g/L의 아데닌은 40일 후에 상당히 높은 코디세핀, 즉 1596.66mg/L 및 1550.00mg/L(대조군에 비해 3배 증가)을
+      나타냈습니다. 트립톤 보충 14.00g/L은 접종 20일 및 40일 후 코디세핀 784.33mg/L(대조군에 비해 6.70배 증가) 및
+      912.66mg/L 생산량을 상당히 높였습니다. 10.00g/L의 땅콩기름은 20일 후와 40일 후에 585.66mg/L(대조군에 비해
+      5배 증가) 코디세핀을 생산했으며, 배지에 20.00g/L 및 30.00g/L의 땅콩기름을 첨가하면 631.66 및 624.31mg/L
+      코디세핀 함량을 보여주었습니다. 0.30g/L의 글루타민산 나트륨을 보충하면 20일과 40일 후에 각각 614mg/L 및 635.00mg/L의
+      코디세핀이 상당히 높은 코디세핀이 생성되었습니다.
+  full:
+    en: Cordycepin (3'-deoxyadenosine) is a bioactive nucleoside analog synthesized
+      by Cordyceps militaris. Liquid fermentation of C. militaris by addition in different
+      concentrations of five additives singly was evaluated. Glycine at 15.00 g/L
+      after 20 d enhanced the cordycepin of 1773.33 mg/L (15-fold increment over control).
+      Adenine at 4.00 g/L and 6.00 g/L in the liquid media showed significantly higher
+      cordycepin i.e.1596.66 mg/L and 1550.00 mg/L (3-fold increment over control)
+      after 40 d. Tryptone supplementation 14.00 g/L significantly higher cordycepin
+      784.33 mg/L (6.70-fold increment over control) and 912.66 mg/L production after
+      20 and 40 d of inoculation. Peanut oil at 10.00 g/L produced 585.66 mg/L (5-fold
+      increment over control) cordycepin after 20 d and after 40 d, also addition
+      of peanut oil at 20.00 g/L and 30.00 g/L in the media showed 631.66 and 624.31
+      mg/L cordycepin content. Supplementation of mono-sodium glutamate at 0.30 g/L
+      produced significantly highest cordycepin i.e. 614 mg/L and 635.00 mg/L cordycepin
+      after 20 and 40 d, respectively.
+    ko_literal: 코디세핀(3'-deoxy아데노신)은 Cordyceps militaris에 의해 합성된 생체활성 뉴클레오시드 유사체입니다.
+      다양한 농도의 5가지 첨가제를 단독으로 첨가하여 C. militaris의 액체 발효을 평가했습니다. 20일 후 15.00g/L의 글리신은
+      코디세핀을 1773.33mg/L로 향상시켰습니다(대조군에 비해 15배 증가). 액체 배지에서 4.00g/L 및 6.00g/L의 아데닌은
+      40일 후에 상당히 높은 코디세핀, 즉 1596.66mg/L 및 1550.00mg/L(대조군에 비해 3배 증가)을 나타냈습니다. 트립톤
+      보충 14.00g/L은 접종 20일 및 40일 후 코디세핀 784.33mg/L(대조군에 비해 6.70배 증가) 및 912.66mg/L 생산량을
+      상당히 높였습니다. 10.00g/L의 땅콩기름은 20일 후와 40일 후에 585.66mg/L(대조군에 비해 5배 증가) 코디세핀을 생산했으며,
+      배지에 20.00g/L 및 30.00g/L의 땅콩기름을 첨가하면 631.66 및 624.31mg/L 코디세핀 함량을 보여주었습니다. 0.30g/L의
+      글루타민산 나트륨을 보충하면 20일과 40일 후에 각각 614mg/L 및 635.00mg/L의 코디세핀이 상당히 높은 코디세핀이 생성되었습니다.
+    ko_researcher: '[초록 전체] 핵심 용어: **코디세핀**(cordycepin) · **Cordyceps militaris**(cordyceps
+      militaris) · **Cordyceps**(cordyceps) · **발효**(fermentation). 코디세핀(3''-deoxy아데노신)은
+      Cordyceps militaris에 의해 합성된 생체활성 뉴클레오시드 유사체입니다. 다양한 농도의 5가지 첨가제를 단독으로 첨가하여 C.
+      militaris의 액체 발효을 평가했습니다. 20일 후 15.00g/L의 글리신은 코디세핀을 1773.33mg/L로 향상시켰습니다(대조군에
+      비해 15배 증가). 액체 배지에서 4.00g/L 및 6.00g/L의 아데닌은 40일 후에 상당히 높은 코디세핀, 즉 1596.66mg/L
+      및 1550.00mg/L(대조군에 비해 3배 증가)을 나타냈습니다. 트립톤 보충 14.00g/L은 접종 20일 및 40일 후 코디세핀 784.33mg/L(대조군에
+      비해 6.70배 증가) 및 912.66mg/L 생산량을 상당히 높였습니다. 10.00g/L의 땅콩기름은 20일 후와 40일 후에 585.66mg/L(대조군에
+      비해 5배 증가) 코디세핀을 생산했으며, 배지에 20.00g/L 및 30.00g/L의 땅콩기름을 첨가하면 631.66 및 624.31mg/L
+      코디세핀 함량을 보여주었습니다. 0.30g/L의 글루타민산 나트륨을 보충하면 20일과 40일 후에 각각 614mg/L 및 635.00mg/L의
+      코디세핀이 상당히 높은 코디세핀이 생성되었습니다.'
+    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. 코디세핀(3'-deoxy아데노신)은 Cordyceps militaris에
+      의해 합성된 생체활성 뉴클레오시드 유사체입니다. 다양한 농도의 5가지 첨가제를 단독으로 첨가하여 C. militaris의 액체 발효을 평가했습니다.
+      20일 후 15.00g/L의 글리신은 코디세핀을 1773.33mg/L로 향상시켰습니다(대조군에 비해 15배 증가). 액체 배지에서 4.00g/L
+      및 6.00g/L의 아데닌은 40일 후에 상당히 높은 코디세핀, 즉 1596.66mg/L 및 1550.00mg/L(대조군에 비해 3배 증가)을
+      나타냈습니다. 트립톤 보충 14.00g/L은 접종 20일 및 40일 후 코디세핀 784.33mg/L(대조군에 비해 6.70배 증가) 및
+      912.66mg/L 생산량을 상당히 높였습니다. 10.00g/L의 땅콩기름은 20일 후와 40일 후에 585.66mg/L(대조군에 비해
+      5배 증가) 코디세핀을 생산했으며, 배지에 20.00g/L 및 30.00g/L의 땅콩기름을 첨가하면 631.66 및 624.31mg/L
+      코디세핀 함량을 보여주었습니다. 0.30g/L의 글루타민산 나트륨을 보충하면 20일과 40일 후에 각각 614mg/L 및 635.00mg/L의
+      코디세핀이 상당히 높은 코디세핀이 생성되었습니다.
 ---
 
 ## 한국어 요약

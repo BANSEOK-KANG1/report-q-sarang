@@ -15,6 +15,7 @@ dependencies = [
   "notion-client>=2.2.1",
   "tenacity>=8.2.3",
   "markdown>=3.5.0",
+  "deep-translator>=1.11.4",
 ]
 
 [project.scripts]

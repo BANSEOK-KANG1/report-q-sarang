@@ -1,6 +1,6 @@
 ---
 title: Advances in biosynthesis and metabolic engineering strategies of cordycepin.
-title_ko: Advances in biosynthesis and metabolic engineering strategies of cordycepin.
+title_ko: 생합성의 발전과 코디세핀의 대사 공학 전략.
 slug: advances-in-biosynthesis-and-metabolic-engineeri-2024-903790
 record_id: 0771f70a-a291-4ec7-b3c9-78a8e1218eeb
 date: '2026-07-21'
@@ -76,6 +76,95 @@ api_meta:
     openalex: false
     crossref: false
   fetched_at: '2026-07-21'
+translations:
+  title_ko: 생합성의 발전과 코디세핀의 대사 공학 전략.
+  glossary:
+  - en: cordycepin
+    ko: 코디세핀
+    note: 3'-deoxyadenosine, Cordyceps 주요 bioactive 성분
+  - en: cordyceps militaris
+    ko: Cordyceps militaris
+    note: 동충하초 균종
+  - en: cordyceps
+    ko: Cordyceps
+    note: 충Cordyceps属 진균
+  - en: biosynthesis
+    ko: 생합성
+    note: 생물체 내에서 물질이 만들어지는 과정
+  sections:
+  - id: summary
+    label_ko: 초록 전체
+    en: Cordyceps militaris, also called as bei-chong-cao, is an insect-pathogenic
+      fungus from the Ascomycota phylum and the Clavicipitaceae family. It is a valuable
+      filamentous fungus with medicinal and edible properties that has been utilized
+      in traditional Chinese medicine (TCM) and as a nutritious food. Cordycepin is
+      the bioactive compound firstly isolated from C. militaris and has a variety
+      of nutraceutical and health-promoting properties, making it widely employed
+      in nutraceutical and pharmaceutical fields. Due to the low composition and paucity
+      of wild resources, its availability from natural sources is limited. With the
+      elucidation of the cordycepin biosynthetic pathway and the advent of synthetic
+      biology, a green cordycepin biosynthesis in Saccharomyces cerevisiae and Metarhizium
+      robertsii has been developed, indicating a potential sustainable production
+      method of cordycepin. Given that, this review primarily focused on the metabolic
+      engineering and heterologous biosynthesis strategies of cordycepin.
+    ko_literal: Cordyceps militaris은 bei-chong-cao라고도 하며 자낭균문(Ascomycota phylum)과
+      Clavicipitaceae과에 속하는 곤충병원성 곰팡이입니다. 이는 중국 전통 의학(TCM) 및 영양 식품으로 활용되어 온 약용 및 식용
+      특성을 지닌 귀중한 사상균입니다. 코디세핀은 C. militaris에서 최초로 분리된 생리활성 화합물로 다양한 기능성 식품 및 건강 증진
+      특성을 갖고 있어 기능성 식품 및 제약 분야에서 널리 사용됩니다. 야생 자원의 구성이 낮고 부족하기 때문에 천연 자원으로부터의 이용 가능성이
+      제한됩니다. 코디세핀 생합성 경로가 밝혀지고 합성 생물학의 출현으로 Saccharomyces cerevisiae 및 Metarhizium
+      robertsii의 녹색 코디세핀 생합성이 개발되어 코디세핀의 잠재적이고 지속 가능한 생산 방법을 나타냅니다. 이를 감안할 때, 이 리뷰는
+      주로 대사 공학과 코디세핀의 이종 생합성 전략에 중점을 두었습니다.
+    ko_researcher: '[초록 전체] 핵심 용어: **코디세핀**(cordycepin) · **Cordyceps militaris**(cordyceps
+      militaris) · **Cordyceps**(cordyceps) · **생합성**(biosynthesis). Cordyceps militaris은
+      bei-chong-cao라고도 하며 자낭균문(Ascomycota phylum)과 Clavicipitaceae과에 속하는 곤충병원성 곰팡이입니다.
+      이는 중국 전통 의학(TCM) 및 영양 식품으로 활용되어 온 약용 및 식용 특성을 지닌 귀중한 사상균입니다. 코디세핀은 C. militaris에서
+      최초로 분리된 생리활성 화합물로 다양한 기능성 식품 및 건강 증진 특성을 갖고 있어 기능성 식품 및 제약 분야에서 널리 사용됩니다. 야생
+      자원의 구성이 낮고 부족하기 때문에 천연 자원으로부터의 이용 가능성이 제한됩니다. 코디세핀 생합성 경로가 밝혀지고 합성 생물학의 출현으로
+      Saccharomyces cerevisiae 및 Metarhizium robertsii의 녹색 코디세핀 생합성이 개발되어 코디세핀의 잠재적이고
+      지속 가능한 생산 방법을 나타냅니다. 이를 감안할 때, 이 리뷰는 주로 대사 공학과 코디세핀의 이종 생합성 전략에 중점을 두었습니다.'
+    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. Cordyceps militaris은 bei-chong-cao라고도 하며
+      자낭균문(Ascomycota phylum)과 Clavicipitaceae과에 속하는 곤충병원성 곰팡이입니다. 이는 중국 전통 의학(TCM)
+      및 영양 식품으로 활용되어 온 약용 및 식용 특성을 지닌 귀중한 사상균입니다. 코디세핀은 C. militaris에서 최초로 분리된 생리활성
+      화합물로 다양한 기능성 식품 및 건강 증진 특성을 갖고 있어 기능성 식품 및 제약 분야에서 널리 사용됩니다. 야생 자원의 구성이 낮고 부족하기
+      때문에 천연 자원으로부터의 이용 가능성이 제한됩니다. 코디세핀 생합성 경로가 밝혀지고 합성 생물학의 출현으로 Saccharomyces cerevisiae
+      및 Metarhizium robertsii의 녹색 코디세핀 생합성이 개발되어 코디세핀의 잠재적이고 지속 가능한 생산 방법을 나타냅니다.
+      이를 감안할 때, 이 리뷰는 주로 대사 공학과 코디세핀의 이종 생합성 전략에 중점을 두었습니다.
+  full:
+    en: Cordyceps militaris, also called as bei-chong-cao, is an insect-pathogenic
+      fungus from the Ascomycota phylum and the Clavicipitaceae family. It is a valuable
+      filamentous fungus with medicinal and edible properties that has been utilized
+      in traditional Chinese medicine (TCM) and as a nutritious food. Cordycepin is
+      the bioactive compound firstly isolated from C. militaris and has a variety
+      of nutraceutical and health-promoting properties, making it widely employed
+      in nutraceutical and pharmaceutical fields. Due to the low composition and paucity
+      of wild resources, its availability from natural sources is limited. With the
+      elucidation of the cordycepin biosynthetic pathway and the advent of synthetic
+      biology, a green cordycepin biosynthesis in Saccharomyces cerevisiae and Metarhizium
+      robertsii has been developed, indicating a potential sustainable production
+      method of cordycepin. Given that, this review primarily focused on the metabolic
+      engineering and heterologous biosynthesis strategies of cordycepin.
+    ko_literal: Cordyceps militaris은 bei-chong-cao라고도 하며 자낭균문(Ascomycota phylum)과
+      Clavicipitaceae과에 속하는 곤충병원성 곰팡이입니다. 이는 중국 전통 의학(TCM) 및 영양 식품으로 활용되어 온 약용 및 식용
+      특성을 지닌 귀중한 사상균입니다. 코디세핀은 C. militaris에서 최초로 분리된 생리활성 화합물로 다양한 기능성 식품 및 건강 증진
+      특성을 갖고 있어 기능성 식품 및 제약 분야에서 널리 사용됩니다. 야생 자원의 구성이 낮고 부족하기 때문에 천연 자원으로부터의 이용 가능성이
+      제한됩니다. 코디세핀 생합성 경로가 밝혀지고 합성 생물학의 출현으로 Saccharomyces cerevisiae 및 Metarhizium
+      robertsii의 녹색 코디세핀 생합성이 개발되어 코디세핀의 잠재적이고 지속 가능한 생산 방법을 나타냅니다. 이를 감안할 때, 이 리뷰는
+      주로 대사 공학과 코디세핀의 이종 생합성 전략에 중점을 두었습니다.
+    ko_researcher: '[초록 전체] 핵심 용어: **코디세핀**(cordycepin) · **Cordyceps militaris**(cordyceps
+      militaris) · **Cordyceps**(cordyceps) · **생합성**(biosynthesis). Cordyceps militaris은
+      bei-chong-cao라고도 하며 자낭균문(Ascomycota phylum)과 Clavicipitaceae과에 속하는 곤충병원성 곰팡이입니다.
+      이는 중국 전통 의학(TCM) 및 영양 식품으로 활용되어 온 약용 및 식용 특성을 지닌 귀중한 사상균입니다. 코디세핀은 C. militaris에서
+      최초로 분리된 생리활성 화합물로 다양한 기능성 식품 및 건강 증진 특성을 갖고 있어 기능성 식품 및 제약 분야에서 널리 사용됩니다. 야생
+      자원의 구성이 낮고 부족하기 때문에 천연 자원으로부터의 이용 가능성이 제한됩니다. 코디세핀 생합성 경로가 밝혀지고 합성 생물학의 출현으로
+      Saccharomyces cerevisiae 및 Metarhizium robertsii의 녹색 코디세핀 생합성이 개발되어 코디세핀의 잠재적이고
+      지속 가능한 생산 방법을 나타냅니다. 이를 감안할 때, 이 리뷰는 주로 대사 공학과 코디세핀의 이종 생합성 전략에 중점을 두었습니다.'
+    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. Cordyceps militaris은 bei-chong-cao라고도 하며
+      자낭균문(Ascomycota phylum)과 Clavicipitaceae과에 속하는 곤충병원성 곰팡이입니다. 이는 중국 전통 의학(TCM)
+      및 영양 식품으로 활용되어 온 약용 및 식용 특성을 지닌 귀중한 사상균입니다. 코디세핀은 C. militaris에서 최초로 분리된 생리활성
+      화합물로 다양한 기능성 식품 및 건강 증진 특성을 갖고 있어 기능성 식품 및 제약 분야에서 널리 사용됩니다. 야생 자원의 구성이 낮고 부족하기
+      때문에 천연 자원으로부터의 이용 가능성이 제한됩니다. 코디세핀 생합성 경로가 밝혀지고 합성 생물학의 출현으로 Saccharomyces cerevisiae
+      및 Metarhizium robertsii의 녹색 코디세핀 생합성이 개발되어 코디세핀의 잠재적이고 지속 가능한 생산 방법을 나타냅니다.
+      이를 감안할 때, 이 리뷰는 주로 대사 공학과 코디세핀의 이종 생합성 전략에 중점을 두었습니다.
 ---
 
 ## 한국어 요약

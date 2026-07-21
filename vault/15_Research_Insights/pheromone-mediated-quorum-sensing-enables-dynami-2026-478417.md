@@ -1,8 +1,7 @@
 ---
 title: Pheromone-mediated quorum sensing enables dynamic regulation of cordycepin
   biosynthesis in Cordyceps militaris.
-title_ko: Pheromone-mediated quorum sensing enables dynamic regulation of cordycepin
-  biosynthesis in Cordyceps militaris.
+title_ko: 페로몬 매개 쿼럼 감지를 통해 Cordyceps militaris에서 코디세핀 생합성의 동적 규제가 가능합니다.
 slug: pheromone-mediated-quorum-sensing-enables-dynami-2026-478417
 record_id: 2b09a08c-05bc-48ce-9dcd-9364b745a2ba
 date: '2026-07-21'
@@ -91,6 +90,144 @@ api_meta:
     openalex: true
     crossref: true
   fetched_at: '2026-07-21'
+translations:
+  title_ko: 페로몬 매개 쿼럼 감지를 통해 Cordyceps militaris에서 코디세핀 생합성의 동적 규제가 가능합니다.
+  glossary:
+  - en: cordycepin
+    ko: 코디세핀
+    note: 3'-deoxyadenosine, Cordyceps 주요 bioactive 성분
+  - en: cordyceps militaris
+    ko: Cordyceps militaris
+    note: 동충하초 균종
+  - en: cordyceps
+    ko: Cordyceps
+    note: 충Cordyceps属 진균
+  - en: biosynthesis
+    ko: 생합성
+    note: 생물체 내에서 물질이 만들어지는 과정
+  - en: yield
+    ko: 수율
+    note: 단위당 생산량
+  sections:
+  - id: summary
+    label_ko: 초록 전체
+    en: Cordycepin is a nucleoside compound with broad pharmacological activities,
+      whose biosynthesis is tightly regulated by multilayered metabolic mechanisms.
+      Dynamic regulation strategies allow for precise modulation of target product
+      synthesis while maintaining cell growth, thus overcoming the limitations of
+      static control. In this study, a pheromone-mediated quorum sensing (QS) system
+      was reconstructed in Cordyceps militaris to achieve signal-responsive regulation
+      of cordycepin biosynthesis. Phylogenetic and conserved domain analyses revealed
+      that the pheromone receptor PreB and transcription factor SteA of C. militaris
+      share structural homology with Saccharomyces cerevisiae Ste2 and Ste12, indicating
+      potential functional compatibility across species. The synthetic circuit composed
+      of α-pheromone (mfα1) and the pheromone-responsive promoter P FUS1 exhibited
+      effective signal-responsive activity in C. militaris. Additionally, placing
+      mfα1 expression under the control of the tryptophan-responsive promoter P ARO9
+      enabled cell-density-dependent dynamic regulation. This system specifically
+      activated the key biosynthetic genes cns1 and cns2 at high cell density, resulting
+      in a cordycepin titer of 226.5 mg/L, reflecting a 175.9 % increase compared
+      with the wild type. Through 2A-peptide-mediated multigene co-expression and
+      precursor supply engineering (co-expression of cns1 and nt5e), the cordycepin
+      yield was further elevated to 447.9 mg/L, marking a 445.3 % improvement. This
+      work provides a novel dynamic regulation strategy for efficient cordycepin biosynthesis
+      in C. militaris and lays the groundwork for the development of synthetic biology
+      tools in medicinal fungi.
+    ko_literal: 코디세핀은 광범위한 약리학적 활성을 갖는 뉴클레오시드 화합물로, 생합성은 다층 대사 메커니즘에 의해 엄격하게 조절됩니다.
+      동적 조절 전략을 통해 세포 성장을 유지하면서 표적 생성물 합성을 정밀하게 조절할 수 있으므로 정적 제어의 한계를 극복할 수 있습니다.
+      이 연구에서는 코디세핀 생합성의 신호 반응 조절을 달성하기 위해 페로몬 매개 정족수 감지(QS) 시스템이 Cordyceps militaris에서
+      재구성되었습니다. 계통 발생 및 보존된 도메인 분석에 따르면 C. militaris의 페로몬 수용체 PreB와 전사 인자 SteA는 Saccharomyces
+      cerevisiae Ste2 및 Ste12와 구조적 상동성을 공유하며 이는 종 전체에 걸쳐 잠재적인 기능적 호환성을 나타냅니다. α-페로몬(mfα1)과
+      페로몬 반응성 프로모터 P FUS1로 구성된 합성 회로는 C. militaris에서 효과적인 신호 반응 활성을 나타냈습니다. 또한 mfα1
+      발현을 트립토판 반응 프로모터 P ARO9의 제어하에 두는 것은 세포 밀도 의존적 ​​동적 조절을 가능하게 했습니다. 이 시스템은 높은
+      세포 밀도에서 핵심 생합성 유전자 cns1 및 cns2를 특이적으로 활성화하여 코디세핀 역가가 226.5 mg/L로 나타나 야생형에 비해
+      175.9% 증가한 수치입니다. 2A-펩타이드 매개 다유전자 동시 발현 및 전구체 공급 엔지니어링(cns1 및 nt5e의 동시 발현)을
+      통해 코디세핀 수율은 447.9 mg/L로 더욱 높아져 445.3% 개선되었습니다. 이 연구는 C. militaris의 효율적인 코디세핀
+      생합성을 위한 새로운 동적 조절 전략을 제공하고 약용 진균에서 합성 생물학 도구 개발을 위한 토대를 마련합니다.
+    ko_researcher: '[초록 전체] 핵심 용어: **코디세핀**(cordycepin) · **Cordyceps militaris**(cordyceps
+      militaris) · **Cordyceps**(cordyceps) · **생합성**(biosynthesis). 코디세핀은 광범위한 약리학적
+      활성을 갖는 뉴클레오시드 화합물로, 생합성은 다층 대사 메커니즘에 의해 엄격하게 조절됩니다. 동적 조절 전략을 통해 세포 성장을 유지하면서
+      표적 생성물 합성을 정밀하게 조절할 수 있으므로 정적 제어의 한계를 극복할 수 있습니다. 이 연구에서는 코디세핀 생합성의 신호 반응 조절을
+      달성하기 위해 페로몬 매개 정족수 감지(QS) 시스템이 Cordyceps militaris에서 재구성되었습니다. 계통 발생 및 보존된 도메인
+      분석에 따르면 C. militaris의 페로몬 수용체 PreB와 전사 인자 SteA는 Saccharomyces cerevisiae Ste2
+      및 Ste12와 구조적 상동성을 공유하며 이는 종 전체에 걸쳐 잠재적인 기능적 호환성을 나타냅니다. α-페로몬(mfα1)과 페로몬 반응성
+      프로모터 P FUS1로 구성된 합성 회로는 C. militaris에서 효과적인 신호 반응 활성을 나타냈습니다. 또한 mfα1 발현을 트립토판
+      반응 프로모터 P ARO9의 제어하에 두는 것은 세포 밀도 의존적 ​​동적 조절을 가능하게 했습니다. 이 시스템은 높은 세포 밀도에서 핵심
+      생합성 유전자 cns1 및 cns2를 특이적으로 활성화하여 코디세핀 역가가 226.5 mg/L로 나타나 야생형에 비해 175.9% 증가한
+      수치입니다. 2A-펩타이드 매개 다유전자 동시 발현 및 전구체 공급 엔지니어링(cns1 및 nt5e의 동시 발현)을 통해 코디세핀 수율은
+      447.9 mg/L로 더욱 높아져 445.3% 개선되었습니다. 이 연구는 C. militaris의 효율적인 코디세핀 생합성을 위한 새로운
+      동적 조절 전략을 제공하고 약용 진균에서 합성 생물학 도구 개발을 위한 토대를 마련합니다.'
+    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. 코디세핀은 광범위한 약리학적 활성을 갖는 뉴클레오시드 화합물로, 생합성은
+      다층 대사 메커니즘에 의해 엄격하게 조절됩니다. 동적 조절 전략을 통해 세포 성장을 유지하면서 표적 생성물 합성을 정밀하게 조절할 수 있으므로
+      정적 제어의 한계를 극복할 수 있습니다. 이 연구에서는 코디세핀 생합성의 신호 반응 조절을 달성하기 위해 페로몬 매개 정족수 감지(QS)
+      시스템이 Cordyceps militaris에서 재구성되었습니다. 계통 발생 및 보존된 도메인 분석에 따르면 C. militaris의 페로몬
+      수용체 PreB와 전사 인자 SteA는 Saccharomyces cerevisiae Ste2 및 Ste12와 구조적 상동성을 공유하며 이는
+      종 전체에 걸쳐 잠재적인 기능적 호환성을 나타냅니다. α-페로몬(mfα1)과 페로몬 반응성 프로모터 P FUS1로 구성된 합성 회로는 C.
+      militaris에서 효과적인 신호 반응 활성을 나타냈습니다. 또한 mfα1 발현을 트립토판 반응 프로모터 P ARO9의 제어하에 두는
+      것은 세포 밀도 의존적 ​​동적 조절을 가능하게 했습니다. 이 시스템은 높은 세포 밀도에서 핵심 생합성 유전자 cns1 및 cns2를 특이적으로
+      활성화하여 코디세핀 역가가 226.5 mg/L로 나타나 야생형에 비해 175.9% 증가한 수치입니다. 2A-펩타이드 매개 다유전자 동시
+      발현 및 전구체 공급 엔지니어링(cns1 및 nt5e의 동시 발현)을 통해 코디세핀 수율은 447.9 mg/L로 더욱 높아져 445.3%
+      개선되었습니다. 이 연구는 C. militaris의 효율적인 코디세핀 생합성을 위한 새로운 동적 조절 전략을 제공하고 약용 진균에서 합성
+      생물학 도구 개발을 위한 토대를 마련합니다.
+  full:
+    en: Cordycepin is a nucleoside compound with broad pharmacological activities,
+      whose biosynthesis is tightly regulated by multilayered metabolic mechanisms.
+      Dynamic regulation strategies allow for precise modulation of target product
+      synthesis while maintaining cell growth, thus overcoming the limitations of
+      static control. In this study, a pheromone-mediated quorum sensing (QS) system
+      was reconstructed in Cordyceps militaris to achieve signal-responsive regulation
+      of cordycepin biosynthesis. Phylogenetic and conserved domain analyses revealed
+      that the pheromone receptor PreB and transcription factor SteA of C. militaris
+      share structural homology with Saccharomyces cerevisiae Ste2 and Ste12, indicating
+      potential functional compatibility across species. The synthetic circuit composed
+      of α-pheromone (mfα1) and the pheromone-responsive promoter P FUS1 exhibited
+      effective signal-responsive activity in C. militaris. Additionally, placing
+      mfα1 expression under the control of the tryptophan-responsive promoter P ARO9
+      enabled cell-density-dependent dynamic regulation. This system specifically
+      activated the key biosynthetic genes cns1 and cns2 at high cell density, resulting
+      in a cordycepin titer of 226.5 mg/L, reflecting a 175.9 % increase compared
+      with the wild type. Through 2A-peptide-mediated multigene co-expression and
+      precursor supply engineering (co-expression of cns1 and nt5e), the cordycepin
+      yield was further elevated to 447.9 mg/L, marking a 445.3 % improvement. This
+      work provides a novel dynamic regulation strategy for efficient cordycepin biosynthesis
+      in C. militaris and lays the groundwork for the development of synthetic biology
+      tools in medicinal fungi.
+    ko_literal: 코디세핀은 광범위한 약리학적 활성을 갖는 뉴클레오시드 화합물로, 생합성은 다층 대사 메커니즘에 의해 엄격하게 조절됩니다.
+      동적 조절 전략을 통해 세포 성장을 유지하면서 표적 생성물 합성을 정밀하게 조절할 수 있으므로 정적 제어의 한계를 극복할 수 있습니다.
+      이 연구에서는 코디세핀 생합성의 신호 반응 조절을 달성하기 위해 페로몬 매개 정족수 감지(QS) 시스템이 Cordyceps militaris에서
+      재구성되었습니다. 계통 발생 및 보존된 도메인 분석에 따르면 C. militaris의 페로몬 수용체 PreB와 전사 인자 SteA는 Saccharomyces
+      cerevisiae Ste2 및 Ste12와 구조적 상동성을 공유하며 이는 종 전체에 걸쳐 잠재적인 기능적 호환성을 나타냅니다. α-페로몬(mfα1)과
+      페로몬 반응성 프로모터 P FUS1로 구성된 합성 회로는 C. militaris에서 효과적인 신호 반응 활성을 나타냈습니다. 또한 mfα1
+      발현을 트립토판 반응 프로모터 P ARO9의 제어하에 두는 것은 세포 밀도 의존적 ​​동적 조절을 가능하게 했습니다. 이 시스템은 높은
+      세포 밀도에서 핵심 생합성 유전자 cns1 및 cns2를 특이적으로 활성화하여 코디세핀 역가가 226.5 mg/L로 나타나 야생형에 비해
+      175.9% 증가한 수치입니다. 2A-펩타이드 매개 다유전자 동시 발현 및 전구체 공급 엔지니어링(cns1 및 nt5e의 동시 발현)을
+      통해 코디세핀 수율은 447.9 mg/L로 더욱 높아져 445.3% 개선되었습니다. 이 연구는 C. militaris의 효율적인 코디세핀
+      생합성을 위한 새로운 동적 조절 전략을 제공하고 약용 진균에서 합성 생물학 도구 개발을 위한 토대를 마련합니다.
+    ko_researcher: '[초록 전체] 핵심 용어: **코디세핀**(cordycepin) · **Cordyceps militaris**(cordyceps
+      militaris) · **Cordyceps**(cordyceps) · **생합성**(biosynthesis). 코디세핀은 광범위한 약리학적
+      활성을 갖는 뉴클레오시드 화합물로, 생합성은 다층 대사 메커니즘에 의해 엄격하게 조절됩니다. 동적 조절 전략을 통해 세포 성장을 유지하면서
+      표적 생성물 합성을 정밀하게 조절할 수 있으므로 정적 제어의 한계를 극복할 수 있습니다. 이 연구에서는 코디세핀 생합성의 신호 반응 조절을
+      달성하기 위해 페로몬 매개 정족수 감지(QS) 시스템이 Cordyceps militaris에서 재구성되었습니다. 계통 발생 및 보존된 도메인
+      분석에 따르면 C. militaris의 페로몬 수용체 PreB와 전사 인자 SteA는 Saccharomyces cerevisiae Ste2
+      및 Ste12와 구조적 상동성을 공유하며 이는 종 전체에 걸쳐 잠재적인 기능적 호환성을 나타냅니다. α-페로몬(mfα1)과 페로몬 반응성
+      프로모터 P FUS1로 구성된 합성 회로는 C. militaris에서 효과적인 신호 반응 활성을 나타냈습니다. 또한 mfα1 발현을 트립토판
+      반응 프로모터 P ARO9의 제어하에 두는 것은 세포 밀도 의존적 ​​동적 조절을 가능하게 했습니다. 이 시스템은 높은 세포 밀도에서 핵심
+      생합성 유전자 cns1 및 cns2를 특이적으로 활성화하여 코디세핀 역가가 226.5 mg/L로 나타나 야생형에 비해 175.9% 증가한
+      수치입니다. 2A-펩타이드 매개 다유전자 동시 발현 및 전구체 공급 엔지니어링(cns1 및 nt5e의 동시 발현)을 통해 코디세핀 수율은
+      447.9 mg/L로 더욱 높아져 445.3% 개선되었습니다. 이 연구는 C. militaris의 효율적인 코디세핀 생합성을 위한 새로운
+      동적 조절 전략을 제공하고 약용 진균에서 합성 생물학 도구 개발을 위한 토대를 마련합니다.'
+    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. 코디세핀은 광범위한 약리학적 활성을 갖는 뉴클레오시드 화합물로, 생합성은
+      다층 대사 메커니즘에 의해 엄격하게 조절됩니다. 동적 조절 전략을 통해 세포 성장을 유지하면서 표적 생성물 합성을 정밀하게 조절할 수 있으므로
+      정적 제어의 한계를 극복할 수 있습니다. 이 연구에서는 코디세핀 생합성의 신호 반응 조절을 달성하기 위해 페로몬 매개 정족수 감지(QS)
+      시스템이 Cordyceps militaris에서 재구성되었습니다. 계통 발생 및 보존된 도메인 분석에 따르면 C. militaris의 페로몬
+      수용체 PreB와 전사 인자 SteA는 Saccharomyces cerevisiae Ste2 및 Ste12와 구조적 상동성을 공유하며 이는
+      종 전체에 걸쳐 잠재적인 기능적 호환성을 나타냅니다. α-페로몬(mfα1)과 페로몬 반응성 프로모터 P FUS1로 구성된 합성 회로는 C.
+      militaris에서 효과적인 신호 반응 활성을 나타냈습니다. 또한 mfα1 발현을 트립토판 반응 프로모터 P ARO9의 제어하에 두는
+      것은 세포 밀도 의존적 ​​동적 조절을 가능하게 했습니다. 이 시스템은 높은 세포 밀도에서 핵심 생합성 유전자 cns1 및 cns2를 특이적으로
+      활성화하여 코디세핀 역가가 226.5 mg/L로 나타나 야생형에 비해 175.9% 증가한 수치입니다. 2A-펩타이드 매개 다유전자 동시
+      발현 및 전구체 공급 엔지니어링(cns1 및 nt5e의 동시 발현)을 통해 코디세핀 수율은 447.9 mg/L로 더욱 높아져 445.3%
+      개선되었습니다. 이 연구는 C. militaris의 효율적인 코디세핀 생합성을 위한 새로운 동적 조절 전략을 제공하고 약용 진균에서 합성
+      생물학 도구 개발을 위한 토대를 마련합니다.
 ---
 
 ## 한국어 요약

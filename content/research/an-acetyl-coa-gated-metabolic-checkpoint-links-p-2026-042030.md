@@ -1,8 +1,7 @@
 ---
 title: An Acetyl-CoA-Gated Metabolic Checkpoint Links Precursor Supply to Cordycepin
   Biosynthesis in Cordyceps militaris .
-title_ko: An Acetyl-CoA-Gated Metabolic Checkpoint Links Precursor Supply to Cordycepin
-  Biosynthesis in Cordyceps militaris .
+title_ko: 아세틸-CoA 제어 대사 체크포인트는 전구체 공급을 Cordyceps militaris의 코디세핀 생합성에 연결합니다.
 slug: an-acetyl-coa-gated-metabolic-checkpoint-links-p-2026-042030
 record_id: 3c004761-c6eb-41e2-abea-5efdb0948c60
 date: '2026-07-21'
@@ -112,6 +111,93 @@ api_meta:
     openalex: true
     crossref: true
   fetched_at: '2026-07-21'
+translations:
+  title_ko: 아세틸-CoA 제어 대사 체크포인트는 전구체 공급을 Cordyceps militaris의 코디세핀 생합성에 연결합니다.
+  glossary:
+  - en: cordycepin
+    ko: 코디세핀
+    note: 3'-deoxyadenosine, Cordyceps 주요 bioactive 성분
+  - en: cordyceps militaris
+    ko: Cordyceps militaris
+    note: 동충하초 균종
+  - en: cordyceps
+    ko: Cordyceps
+    note: 충Cordyceps属 진균
+  - en: yield
+    ko: 수율
+    note: 단위당 생산량
+  sections:
+  - id: summary
+    label_ko: 초록 전체
+    en: The growth-specialized metabolism trade-off limits fungal natural product
+      production. Here, we investigated cordycepin overproduction in Cordyceps militaris
+      high-yield GYS60 and low-yield GYS80 via comparative proteomics, Post-Translational
+      Modification (PTM) mapping, and metabolomics. We identified an acetyl-CoA-gated
+      checkpoint centered on O-methyltransferase CCM_06472, whose activity is modulated
+      by Lys123 acetylation and Ser34 phosphorylation in a manner consistent with
+      activation and inhibition. GYS60 hyperactivates the tricarboxylic acid (TCA)
+      cycle and β-oxidation to generate a 4.1-fold acetyl-CoA surplus, 62% of which
+      is channeled into cordycepin synthesis. A single K123Q acetylation-mimetic mutation
+      boosted cordycepin titers by >4-fold in wild-type strains. This acetyl-CoA checkpoint
+      reveals PTM-gated flux allocation as a key regulatory mechanism, providing a
+      minimal-intervention strategy for engineering fungal cell factories.
+    ko_literal: 성장 특화 대사 균형은 곰팡이 천연 제품 생산을 제한합니다. 여기에서는 비교 단백질체학, PTM(번역 후 변형) 매핑
+      및 대사체학을 통해 Cordyceps militaris high-수율 GYS60 및 low-수율 GYS80에서 코디세핀 과잉 생산을 조사했습니다.
+      우리는 활성화 및 억제와 일치하는 방식으로 Lys123 아세틸화 및 Ser34 인산화에 의해 활성이 조절되는 O-메틸트랜스퍼라제 CCM_06472를
+      중심으로 한 아세틸-CoA 게이트 체크포인트를 확인했습니다. GYS60은 트리카르복실산(TCA) 회로와 β-산화를 과도하게 활성화하여 4.1배의
+      아세틸-CoA 과잉을 생성하며, 그 중 62%가 코디세핀 합성으로 전달됩니다. 단일 K123Q 아세틸화 모방 돌연변이는 야생형 균주에서
+      코디세핀 역가를 4배 이상 증가시켰습니다. 이 아세틸-CoA 체크포인트는 곰팡이 세포 공장 엔지니어링을 위한 최소 개입 전략을 제공하는
+      주요 규제 메커니즘으로 PTM 게이트 플럭스 할당을 보여줍니다.
+    ko_researcher: '[초록 전체] 핵심 용어: **코디세핀**(cordycepin) · **Cordyceps militaris**(cordyceps
+      militaris) · **Cordyceps**(cordyceps) · **수율**(yield). 성장 특화 대사 균형은 곰팡이 천연 제품
+      생산을 제한합니다. 여기에서는 비교 단백질체학, PTM(번역 후 변형) 매핑 및 대사체학을 통해 Cordyceps militaris high-수율
+      GYS60 및 low-수율 GYS80에서 코디세핀 과잉 생산을 조사했습니다. 우리는 활성화 및 억제와 일치하는 방식으로 Lys123 아세틸화
+      및 Ser34 인산화에 의해 활성이 조절되는 O-메틸트랜스퍼라제 CCM_06472를 중심으로 한 아세틸-CoA 게이트 체크포인트를 확인했습니다.
+      GYS60은 트리카르복실산(TCA) 회로와 β-산화를 과도하게 활성화하여 4.1배의 아세틸-CoA 과잉을 생성하며, 그 중 62%가 코디세핀
+      합성으로 전달됩니다. 단일 K123Q 아세틸화 모방 돌연변이는 야생형 균주에서 코디세핀 역가를 4배 이상 증가시켰습니다. 이 아세틸-CoA
+      체크포인트는 곰팡이 세포 공장 엔지니어링을 위한 최소 개입 전략을 제공하는 주요 규제 메커니즘으로 PTM 게이트 플럭스 할당을 보여줍니다.'
+    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. 성장 특화 대사 균형은 곰팡이 천연 제품 생산을 제한합니다. 여기에서는 비교
+      단백질체학, PTM(번역 후 변형) 매핑 및 대사체학을 통해 Cordyceps militaris high-수율 GYS60 및 low-수율
+      GYS80에서 코디세핀 과잉 생산을 조사했습니다. 우리는 활성화 및 억제와 일치하는 방식으로 Lys123 아세틸화 및 Ser34 인산화에
+      의해 활성이 조절되는 O-메틸트랜스퍼라제 CCM_06472를 중심으로 한 아세틸-CoA 게이트 체크포인트를 확인했습니다. GYS60은 트리카르복실산(TCA)
+      회로와 β-산화를 과도하게 활성화하여 4.1배의 아세틸-CoA 과잉을 생성하며, 그 중 62%가 코디세핀 합성으로 전달됩니다. 단일 K123Q
+      아세틸화 모방 돌연변이는 야생형 균주에서 코디세핀 역가를 4배 이상 증가시켰습니다. 이 아세틸-CoA 체크포인트는 곰팡이 세포 공장 엔지니어링을
+      위한 최소 개입 전략을 제공하는 주요 규제 메커니즘으로 PTM 게이트 플럭스 할당을 보여줍니다.
+  full:
+    en: The growth-specialized metabolism trade-off limits fungal natural product
+      production. Here, we investigated cordycepin overproduction in Cordyceps militaris
+      high-yield GYS60 and low-yield GYS80 via comparative proteomics, Post-Translational
+      Modification (PTM) mapping, and metabolomics. We identified an acetyl-CoA-gated
+      checkpoint centered on O-methyltransferase CCM_06472, whose activity is modulated
+      by Lys123 acetylation and Ser34 phosphorylation in a manner consistent with
+      activation and inhibition. GYS60 hyperactivates the tricarboxylic acid (TCA)
+      cycle and β-oxidation to generate a 4.1-fold acetyl-CoA surplus, 62% of which
+      is channeled into cordycepin synthesis. A single K123Q acetylation-mimetic mutation
+      boosted cordycepin titers by >4-fold in wild-type strains. This acetyl-CoA checkpoint
+      reveals PTM-gated flux allocation as a key regulatory mechanism, providing a
+      minimal-intervention strategy for engineering fungal cell factories.
+    ko_literal: 성장 특화 대사 균형은 곰팡이 천연 제품 생산을 제한합니다. 여기에서는 비교 단백질체학, PTM(번역 후 변형) 매핑
+      및 대사체학을 통해 Cordyceps militaris high-수율 GYS60 및 low-수율 GYS80에서 코디세핀 과잉 생산을 조사했습니다.
+      우리는 활성화 및 억제와 일치하는 방식으로 Lys123 아세틸화 및 Ser34 인산화에 의해 활성이 조절되는 O-메틸트랜스퍼라제 CCM_06472를
+      중심으로 한 아세틸-CoA 게이트 체크포인트를 확인했습니다. GYS60은 트리카르복실산(TCA) 회로와 β-산화를 과도하게 활성화하여 4.1배의
+      아세틸-CoA 과잉을 생성하며, 그 중 62%가 코디세핀 합성으로 전달됩니다. 단일 K123Q 아세틸화 모방 돌연변이는 야생형 균주에서
+      코디세핀 역가를 4배 이상 증가시켰습니다. 이 아세틸-CoA 체크포인트는 곰팡이 세포 공장 엔지니어링을 위한 최소 개입 전략을 제공하는
+      주요 규제 메커니즘으로 PTM 게이트 플럭스 할당을 보여줍니다.
+    ko_researcher: '[초록 전체] 핵심 용어: **코디세핀**(cordycepin) · **Cordyceps militaris**(cordyceps
+      militaris) · **Cordyceps**(cordyceps) · **수율**(yield). 성장 특화 대사 균형은 곰팡이 천연 제품
+      생산을 제한합니다. 여기에서는 비교 단백질체학, PTM(번역 후 변형) 매핑 및 대사체학을 통해 Cordyceps militaris high-수율
+      GYS60 및 low-수율 GYS80에서 코디세핀 과잉 생산을 조사했습니다. 우리는 활성화 및 억제와 일치하는 방식으로 Lys123 아세틸화
+      및 Ser34 인산화에 의해 활성이 조절되는 O-메틸트랜스퍼라제 CCM_06472를 중심으로 한 아세틸-CoA 게이트 체크포인트를 확인했습니다.
+      GYS60은 트리카르복실산(TCA) 회로와 β-산화를 과도하게 활성화하여 4.1배의 아세틸-CoA 과잉을 생성하며, 그 중 62%가 코디세핀
+      합성으로 전달됩니다. 단일 K123Q 아세틸화 모방 돌연변이는 야생형 균주에서 코디세핀 역가를 4배 이상 증가시켰습니다. 이 아세틸-CoA
+      체크포인트는 곰팡이 세포 공장 엔지니어링을 위한 최소 개입 전략을 제공하는 주요 규제 메커니즘으로 PTM 게이트 플럭스 할당을 보여줍니다.'
+    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. 성장 특화 대사 균형은 곰팡이 천연 제품 생산을 제한합니다. 여기에서는 비교
+      단백질체학, PTM(번역 후 변형) 매핑 및 대사체학을 통해 Cordyceps militaris high-수율 GYS60 및 low-수율
+      GYS80에서 코디세핀 과잉 생산을 조사했습니다. 우리는 활성화 및 억제와 일치하는 방식으로 Lys123 아세틸화 및 Ser34 인산화에
+      의해 활성이 조절되는 O-메틸트랜스퍼라제 CCM_06472를 중심으로 한 아세틸-CoA 게이트 체크포인트를 확인했습니다. GYS60은 트리카르복실산(TCA)
+      회로와 β-산화를 과도하게 활성화하여 4.1배의 아세틸-CoA 과잉을 생성하며, 그 중 62%가 코디세핀 합성으로 전달됩니다. 단일 K123Q
+      아세틸화 모방 돌연변이는 야생형 균주에서 코디세핀 역가를 4배 이상 증가시켰습니다. 이 아세틸-CoA 체크포인트는 곰팡이 세포 공장 엔지니어링을
+      위한 최소 개입 전략을 제공하는 주요 규제 메커니즘으로 PTM 게이트 플럭스 할당을 보여줍니다.
 ---
 
 ## 한국어 요약

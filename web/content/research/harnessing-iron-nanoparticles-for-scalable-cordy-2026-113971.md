@@ -1,8 +1,7 @@
 ---
 title: Harnessing iron nanoparticles for scalable cordycepin and adenosine production
   in Cordyceps militaris .
-title_ko: Harnessing iron nanoparticles for scalable cordycepin and adenosine production
-  in Cordyceps militaris .
+title_ko: Cordyceps militaris에서 확장 가능한 코디세핀 및 아데노신 생산을 위해 철 나노입자를 활용합니다.
 slug: harnessing-iron-nanoparticles-for-scalable-cordy-2026-113971
 record_id: 8fcacd03-9843-48bb-8113-6a73c0de55d0
 date: '2026-07-21'
@@ -82,6 +81,124 @@ api_meta:
     openalex: true
     crossref: true
   fetched_at: '2026-07-21'
+translations:
+  title_ko: Cordyceps militaris에서 확장 가능한 코디세핀 및 아데노신 생산을 위해 철 나노입자를 활용합니다.
+  glossary:
+  - en: cordycepin
+    ko: 코디세핀
+    note: 3'-deoxyadenosine, Cordyceps 주요 bioactive 성분
+  - en: cordyceps militaris
+    ko: Cordyceps militaris
+    note: 동충하초 균종
+  - en: cordyceps
+    ko: Cordyceps
+    note: 충Cordyceps属 진균
+  - en: adenosine
+    ko: 아데노신
+    note: 뉴클레오시드 관련 물질
+  - en: cultivation
+    ko: 재배·배양
+    note: 인공 조건에서 균류 키우기
+  sections:
+  - id: summary
+    label_ko: 초록 전체
+    en: Cordyceps militaris (CM) is one of the most valuable edible mushrooms, treasured
+      for its health promoting properties, largely due to cordycepin and adenosine.
+      In the present experiments CM was cultivated on four different substrates (brown
+      rice, finger millet, barnyard millet and barley) to evaluate growth dynamics,
+      cordycepin and adenosine content. The most suitable substrate was supplemented
+      with increasing concentrations of iron sulfate nanoparticles (0, 5, 10, 15,
+      20, 25 and 30 ppm), to evaluate their effects on growth, nucleoside production
+      and iron biofortification. Fresh and dry biomass of CM showed a biphasic response,
+      with increase at lower nanoparticle concentrations (5-10 ppm) and declining
+      at higher concentrations (15-30 ppm). Maximal increase in fresh (99%) and dry
+      weight (10%) was recorded on substrate supplemented with 10 ppm iron sulfate
+      nanoparticles. Iron sulfate nanoparticles led to a pronounced enhancement in
+      bioactive nucleosides. Adenosine and cordycepin contents increased by up to
+      72% and 370%, respectively, at 20 ppm nanoparticle treatment, while iron content
+      in fruiting bodies rose by up to 92% on iron nanoparticle supplemented substrate.
+      The current study establishes an environmentally benign, solid-state cultivation
+      strategy to enhance cordycepin and adenosine production in Cordyceps using iron
+      sulfate nanoparticles, enabling iron biofortification.
+    ko_literal: Cordyceps militaris(CM)은 가장 귀중한 식용 버섯 중 하나이며 주로 코디세핀 및 아데노신로 인해 건강
+      증진 특성으로 소중하게 여겨집니다. 본 실험에서 CM은 성장 역학, 코디세핀 및 아데노신 함량을 평가하기 위해 4가지 다른 기질(현미,
+      손가락 기장, 앞마당 기장 및 보리)에서 재배되었습니다. 성장, 뉴클레오시드 생산 및 철 생체강화에 대한 효과를 평가하기 위해 가장 적합한
+      기질에 증가하는 농도의 황산철 나노입자(0, 5, 10, 15, 20, 25 및 30ppm)가 보충되었습니다. CM의 신선하고 건조한 바이오매스는
+      더 낮은 나노입자 농도(5-10ppm)에서 증가하고 더 높은 농도(15-30ppm)에서 감소하는 2상 반응을 보였습니다. 신선 중량(99%)
+      및 건조 중량(10%)의 최대 증가는 10ppm 황산철 나노입자가 보충된 기판에서 기록되었습니다. 황산철 나노입자는 생리활성 뉴클레오시드의
+      현저한 향상을 가져왔습니다. 아데노신 및 코디세핀 함량은 20ppm 나노입자 처리에서 각각 최대 72% 및 370% 증가한 반면, 자실체의
+      철 함량은 철 나노입자 보충 기질에서 최대 92% 증가했습니다. 현재 연구는 황산철 나노입자를 사용하여 Cordyceps에서 코디세핀 및
+      아데노신 생산을 향상시키기 위한 환경 친화적인 고체 재배·배양 전략을 수립하여 철의 생체강화를 가능하게 합니다.
+    ko_researcher: '[초록 전체] 핵심 용어: **코디세핀**(cordycepin) · **Cordyceps militaris**(cordyceps
+      militaris) · **Cordyceps**(cordyceps) · **아데노신**(adenosine). Cordyceps militaris(CM)은
+      가장 귀중한 식용 버섯 중 하나이며 주로 코디세핀 및 아데노신로 인해 건강 증진 특성으로 소중하게 여겨집니다. 본 실험에서 CM은 성장
+      역학, 코디세핀 및 아데노신 함량을 평가하기 위해 4가지 다른 기질(현미, 손가락 기장, 앞마당 기장 및 보리)에서 재배되었습니다. 성장,
+      뉴클레오시드 생산 및 철 생체강화에 대한 효과를 평가하기 위해 가장 적합한 기질에 증가하는 농도의 황산철 나노입자(0, 5, 10, 15,
+      20, 25 및 30ppm)가 보충되었습니다. CM의 신선하고 건조한 바이오매스는 더 낮은 나노입자 농도(5-10ppm)에서 증가하고 더
+      높은 농도(15-30ppm)에서 감소하는 2상 반응을 보였습니다. 신선 중량(99%) 및 건조 중량(10%)의 최대 증가는 10ppm 황산철
+      나노입자가 보충된 기판에서 기록되었습니다. 황산철 나노입자는 생리활성 뉴클레오시드의 현저한 향상을 가져왔습니다. 아데노신 및 코디세핀 함량은
+      20ppm 나노입자 처리에서 각각 최대 72% 및 370% 증가한 반면, 자실체의 철 함량은 철 나노입자 보충 기질에서 최대 92% 증가했습니다.
+      현재 연구는 황산철 나노입자를 사용하여 Cordyceps에서 코디세핀 및 아데노신 생산을 향상시키기 위한 환경 친화적인 고체 재배·배양
+      전략을 수립하여 철의 생체강화를 가능하게 합니다.'
+    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. Cordyceps militaris(CM)은 가장 귀중한 식용 버섯 중 하나이며
+      주로 코디세핀 및 아데노신로 인해 건강 증진 특성으로 소중하게 여겨집니다. 본 실험에서 CM은 성장 역학, 코디세핀 및 아데노신 함량을
+      평가하기 위해 4가지 다른 기질(현미, 손가락 기장, 앞마당 기장 및 보리)에서 재배되었습니다. 성장, 뉴클레오시드 생산 및 철 생체강화에
+      대한 효과를 평가하기 위해 가장 적합한 기질에 증가하는 농도의 황산철 나노입자(0, 5, 10, 15, 20, 25 및 30ppm)가 보충되었습니다.
+      CM의 신선하고 건조한 바이오매스는 더 낮은 나노입자 농도(5-10ppm)에서 증가하고 더 높은 농도(15-30ppm)에서 감소하는 2상
+      반응을 보였습니다. 신선 중량(99%) 및 건조 중량(10%)의 최대 증가는 10ppm 황산철 나노입자가 보충된 기판에서 기록되었습니다.
+      황산철 나노입자는 생리활성 뉴클레오시드의 현저한 향상을 가져왔습니다. 아데노신 및 코디세핀 함량은 20ppm 나노입자 처리에서 각각 최대
+      72% 및 370% 증가한 반면, 자실체의 철 함량은 철 나노입자 보충 기질에서 최대 92% 증가했습니다. 현재 연구는 황산철 나노입자를
+      사용하여 Cordyceps에서 코디세핀 및 아데노신 생산을 향상시키기 위한 환경 친화적인 고체 재배·배양 전략을 수립하여 철의 생체강화를
+      가능하게 합니다.
+  full:
+    en: Cordyceps militaris (CM) is one of the most valuable edible mushrooms, treasured
+      for its health promoting properties, largely due to cordycepin and adenosine.
+      In the present experiments CM was cultivated on four different substrates (brown
+      rice, finger millet, barnyard millet and barley) to evaluate growth dynamics,
+      cordycepin and adenosine content. The most suitable substrate was supplemented
+      with increasing concentrations of iron sulfate nanoparticles (0, 5, 10, 15,
+      20, 25 and 30 ppm), to evaluate their effects on growth, nucleoside production
+      and iron biofortification. Fresh and dry biomass of CM showed a biphasic response,
+      with increase at lower nanoparticle concentrations (5-10 ppm) and declining
+      at higher concentrations (15-30 ppm). Maximal increase in fresh (99%) and dry
+      weight (10%) was recorded on substrate supplemented with 10 ppm iron sulfate
+      nanoparticles. Iron sulfate nanoparticles led to a pronounced enhancement in
+      bioactive nucleosides. Adenosine and cordycepin contents increased by up to
+      72% and 370%, respectively, at 20 ppm nanoparticle treatment, while iron content
+      in fruiting bodies rose by up to 92% on iron nanoparticle supplemented substrate.
+      The current study establishes an environmentally benign, solid-state cultivation
+      strategy to enhance cordycepin and adenosine production in Cordyceps using iron
+      sulfate nanoparticles, enabling iron biofortification.
+    ko_literal: Cordyceps militaris(CM)은 가장 귀중한 식용 버섯 중 하나이며 주로 코디세핀 및 아데노신로 인해 건강
+      증진 특성으로 소중하게 여겨집니다. 본 실험에서 CM은 성장 역학, 코디세핀 및 아데노신 함량을 평가하기 위해 4가지 다른 기질(현미,
+      손가락 기장, 앞마당 기장 및 보리)에서 재배되었습니다. 성장, 뉴클레오시드 생산 및 철 생체강화에 대한 효과를 평가하기 위해 가장 적합한
+      기질에 증가하는 농도의 황산철 나노입자(0, 5, 10, 15, 20, 25 및 30ppm)가 보충되었습니다. CM의 신선하고 건조한 바이오매스는
+      더 낮은 나노입자 농도(5-10ppm)에서 증가하고 더 높은 농도(15-30ppm)에서 감소하는 2상 반응을 보였습니다. 신선 중량(99%)
+      및 건조 중량(10%)의 최대 증가는 10ppm 황산철 나노입자가 보충된 기판에서 기록되었습니다. 황산철 나노입자는 생리활성 뉴클레오시드의
+      현저한 향상을 가져왔습니다. 아데노신 및 코디세핀 함량은 20ppm 나노입자 처리에서 각각 최대 72% 및 370% 증가한 반면, 자실체의
+      철 함량은 철 나노입자 보충 기질에서 최대 92% 증가했습니다. 현재 연구는 황산철 나노입자를 사용하여 Cordyceps에서 코디세핀 및
+      아데노신 생산을 향상시키기 위한 환경 친화적인 고체 재배·배양 전략을 수립하여 철의 생체강화를 가능하게 합니다.
+    ko_researcher: '[초록 전체] 핵심 용어: **코디세핀**(cordycepin) · **Cordyceps militaris**(cordyceps
+      militaris) · **Cordyceps**(cordyceps) · **아데노신**(adenosine). Cordyceps militaris(CM)은
+      가장 귀중한 식용 버섯 중 하나이며 주로 코디세핀 및 아데노신로 인해 건강 증진 특성으로 소중하게 여겨집니다. 본 실험에서 CM은 성장
+      역학, 코디세핀 및 아데노신 함량을 평가하기 위해 4가지 다른 기질(현미, 손가락 기장, 앞마당 기장 및 보리)에서 재배되었습니다. 성장,
+      뉴클레오시드 생산 및 철 생체강화에 대한 효과를 평가하기 위해 가장 적합한 기질에 증가하는 농도의 황산철 나노입자(0, 5, 10, 15,
+      20, 25 및 30ppm)가 보충되었습니다. CM의 신선하고 건조한 바이오매스는 더 낮은 나노입자 농도(5-10ppm)에서 증가하고 더
+      높은 농도(15-30ppm)에서 감소하는 2상 반응을 보였습니다. 신선 중량(99%) 및 건조 중량(10%)의 최대 증가는 10ppm 황산철
+      나노입자가 보충된 기판에서 기록되었습니다. 황산철 나노입자는 생리활성 뉴클레오시드의 현저한 향상을 가져왔습니다. 아데노신 및 코디세핀 함량은
+      20ppm 나노입자 처리에서 각각 최대 72% 및 370% 증가한 반면, 자실체의 철 함량은 철 나노입자 보충 기질에서 최대 92% 증가했습니다.
+      현재 연구는 황산철 나노입자를 사용하여 Cordyceps에서 코디세핀 및 아데노신 생산을 향상시키기 위한 환경 친화적인 고체 재배·배양
+      전략을 수립하여 철의 생체강화를 가능하게 합니다.'
+    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. Cordyceps militaris(CM)은 가장 귀중한 식용 버섯 중 하나이며
+      주로 코디세핀 및 아데노신로 인해 건강 증진 특성으로 소중하게 여겨집니다. 본 실험에서 CM은 성장 역학, 코디세핀 및 아데노신 함량을
+      평가하기 위해 4가지 다른 기질(현미, 손가락 기장, 앞마당 기장 및 보리)에서 재배되었습니다. 성장, 뉴클레오시드 생산 및 철 생체강화에
+      대한 효과를 평가하기 위해 가장 적합한 기질에 증가하는 농도의 황산철 나노입자(0, 5, 10, 15, 20, 25 및 30ppm)가 보충되었습니다.
+      CM의 신선하고 건조한 바이오매스는 더 낮은 나노입자 농도(5-10ppm)에서 증가하고 더 높은 농도(15-30ppm)에서 감소하는 2상
+      반응을 보였습니다. 신선 중량(99%) 및 건조 중량(10%)의 최대 증가는 10ppm 황산철 나노입자가 보충된 기판에서 기록되었습니다.
+      황산철 나노입자는 생리활성 뉴클레오시드의 현저한 향상을 가져왔습니다. 아데노신 및 코디세핀 함량은 20ppm 나노입자 처리에서 각각 최대
+      72% 및 370% 증가한 반면, 자실체의 철 함량은 철 나노입자 보충 기질에서 최대 92% 증가했습니다. 현재 연구는 황산철 나노입자를
+      사용하여 Cordyceps에서 코디세핀 및 아데노신 생산을 향상시키기 위한 환경 친화적인 고체 재배·배양 전략을 수립하여 철의 생체강화를
+      가능하게 합니다.
 ---
 
 ## 한국어 요약

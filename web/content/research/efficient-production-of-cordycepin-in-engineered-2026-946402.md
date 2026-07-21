@@ -1,6 +1,6 @@
 ---
 title: Efficient production of cordycepin in engineered Saccharomyces cerevisiae.
-title_ko: Efficient production of cordycepin in engineered Saccharomyces cerevisiae.
+title_ko: 조작된 Saccharomyces cerevisiae에서 코디세핀의 효율적인 생산.
 slug: efficient-production-of-cordycepin-in-engineered-2026-946402
 record_id: 91a62af7-d180-460b-b9b1-19bfb60eba4b
 date: '2026-07-21'
@@ -95,6 +95,132 @@ api_meta:
     openalex: true
     crossref: true
   fetched_at: '2026-07-21'
+translations:
+  title_ko: 조작된 Saccharomyces cerevisiae에서 코디세핀의 효율적인 생산.
+  glossary:
+  - en: cordycepin
+    ko: 코디세핀
+    note: 3'-deoxyadenosine, Cordyceps 주요 bioactive 성분
+  - en: cordyceps militaris
+    ko: Cordyceps militaris
+    note: 동충하초 균종
+  - en: cordyceps
+    ko: Cordyceps
+    note: 충Cordyceps属 진균
+  - en: biosynthesis
+    ko: 생합성
+    note: 생물체 내에서 물질이 만들어지는 과정
+  - en: fermentation
+    ko: 발효
+    note: 미생물·균류를 이용한 대량 배양
+  - en: adenosine
+    ko: 아데노신
+    note: 뉴클레오시드 관련 물질
+  - en: cultivation
+    ko: 재배·배양
+    note: 인공 조건에서 균류 키우기
+  sections:
+  - id: summary
+    label_ko: 초록 전체
+    en: Cordycepin (COR) is an important bioactive nucleoside with antitumor and immunomodulatory
+      activities, but its conventional production via Cordyceps militaris fermentation
+      is limited by long cultivation periods and low titers. Therefore, microbial
+      heterologous synthesis represents an attractive alternative. In this study,
+      the COR biosynthetic pathway was introduced into Saccharomyces cerevisiae CEN.PK530-1C,
+      resulting in a COR titer of 870.7 mg/L. To further enhance COR biosynthesis,
+      different fusion constructs were evaluated to relocalize the key enzymes into
+      membraneless organelles in CEN.PK530-1C, which markedly increased COR production
+      to 1209.5 mg/L. Metabolic engineering strategies were then applied to prevent
+      COR degradation through deletion of the adenosine deaminase gene (YJL070C) and
+      to enhance ATP and NADPH supply via overexpression of pgk1 and pos5, resulting
+      in strain SCC7 with a COR titer of 1515.5 mg/L. Furthermore, metabolic effector
+      molecules were screened and used to improve COR production to 1676.5 mg/L. In
+      fed-batch fermentation, SCC7 achieved 6972.8 mg/L COR in a 6 L bioreactor, representing
+      the highest COR titer reported in S. cerevisiae to date. In conclusion, this
+      study establishes an efficient yeast platform for COR production and provides
+      a useful reference for biosynthesis of other bioactive nucleosides.
+    ko_literal: 코디세핀(COR)은 항종양 및 면역 조절 활성을 갖는 중요한 생리활성 뉴클레오시드이지만 Cordyceps militaris
+      발효을 통한 기존 생산은 긴 재배·배양 기간과 낮은 역가로 인해 제한됩니다. 따라서 미생물의 이종 합성은 매력적인 대안이 됩니다. 이 연구에서는
+      COR 생합성 경로가 Saccharomyces cerevisiae CEN.PK530-1C에 도입되어 COR 역가가 870.7mg/L로 나타났습니다.
+      COR 생합성을 더욱 향상시키기 위해 CEN.PK530-1C의 핵심 효소를 막 없는 소기관으로 재배치하기 위해 다양한 융합 구성을 평가했으며,
+      이는 COR 생산을 1209.5 mg/L로 현저하게 증가시켰습니다. 그런 다음 아데노신 데아미나제 유전자(YJL070C)의 삭제를 통해
+      COR 분해를 방지하고 pgk1 및 pos5의 과발현을 통해 ATP 및 NADPH 공급을 강화하기 위해 대사 공학 전략을 적용하여 COR
+      역가가 1515.5mg/L인 SCC7 균주를 만들었습니다. 또한, 대사 효과기 분자를 스크리닝하여 COR 생산을 1676.5mg/L로 향상시키는
+      데 사용했습니다. 유가식 발효에서 SCC7은 6L 생물반응기에서 6972.8mg/L COR을 달성했는데, 이는 현재까지 S. cerevisiae에서
+      보고된 가장 높은 COR 역가를 나타냅니다. 결론적으로, 이 연구는 COR 생산을 위한 효율적인 효모 플랫폼을 확립하고 다른 생리활성 뉴클레오시드의
+      생합성에 대한 유용한 참고 자료를 제공합니다.
+    ko_researcher: '[초록 전체] 핵심 용어: **코디세핀**(cordycepin) · **Cordyceps militaris**(cordyceps
+      militaris) · **Cordyceps**(cordyceps) · **생합성**(biosynthesis). 코디세핀(COR)은 항종양
+      및 면역 조절 활성을 갖는 중요한 생리활성 뉴클레오시드이지만 Cordyceps militaris 발효을 통한 기존 생산은 긴 재배·배양
+      기간과 낮은 역가로 인해 제한됩니다. 따라서 미생물의 이종 합성은 매력적인 대안이 됩니다. 이 연구에서는 COR 생합성 경로가 Saccharomyces
+      cerevisiae CEN.PK530-1C에 도입되어 COR 역가가 870.7mg/L로 나타났습니다. COR 생합성을 더욱 향상시키기 위해
+      CEN.PK530-1C의 핵심 효소를 막 없는 소기관으로 재배치하기 위해 다양한 융합 구성을 평가했으며, 이는 COR 생산을 1209.5
+      mg/L로 현저하게 증가시켰습니다. 그런 다음 아데노신 데아미나제 유전자(YJL070C)의 삭제를 통해 COR 분해를 방지하고 pgk1
+      및 pos5의 과발현을 통해 ATP 및 NADPH 공급을 강화하기 위해 대사 공학 전략을 적용하여 COR 역가가 1515.5mg/L인 SCC7
+      균주를 만들었습니다. 또한, 대사 효과기 분자를 스크리닝하여 COR 생산을 1676.5mg/L로 향상시키는 데 사용했습니다. 유가식 발효에서
+      SCC7은 6L 생물반응기에서 6972.8mg/L COR을 달성했는데, 이는 현재까지 S. cerevisiae에서 보고된 가장 높은 COR
+      역가를 나타냅니다. 결론적으로, 이 연구는 COR 생산을 위한 효율적인 효모 플랫폼을 확립하고 다른 생리활성 뉴클레오시드의 생합성에 대한
+      유용한 참고 자료를 제공합니다.'
+    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. 코디세핀(COR)은 항종양 및 면역 조절 활성을 갖는 중요한 생리활성 뉴클레오시드이지만
+      Cordyceps militaris 발효을 통한 기존 생산은 긴 재배·배양 기간과 낮은 역가로 인해 제한됩니다. 따라서 미생물의 이종 합성은
+      매력적인 대안이 됩니다. 이 연구에서는 COR 생합성 경로가 Saccharomyces cerevisiae CEN.PK530-1C에 도입되어
+      COR 역가가 870.7mg/L로 나타났습니다. COR 생합성을 더욱 향상시키기 위해 CEN.PK530-1C의 핵심 효소를 막 없는 소기관으로
+      재배치하기 위해 다양한 융합 구성을 평가했으며, 이는 COR 생산을 1209.5 mg/L로 현저하게 증가시켰습니다. 그런 다음 아데노신
+      데아미나제 유전자(YJL070C)의 삭제를 통해 COR 분해를 방지하고 pgk1 및 pos5의 과발현을 통해 ATP 및 NADPH 공급을
+      강화하기 위해 대사 공학 전략을 적용하여 COR 역가가 1515.5mg/L인 SCC7 균주를 만들었습니다. 또한, 대사 효과기 분자를 스크리닝하여
+      COR 생산을 1676.5mg/L로 향상시키는 데 사용했습니다. 유가식 발효에서 SCC7은 6L 생물반응기에서 6972.8mg/L COR을
+      달성했는데, 이는 현재까지 S. cerevisiae에서 보고된 가장 높은 COR 역가를 나타냅니다. 결론적으로, 이 연구는 COR 생산을
+      위한 효율적인 효모 플랫폼을 확립하고 다른 생리활성 뉴클레오시드의 생합성에 대한 유용한 참고 자료를 제공합니다.
+  full:
+    en: Cordycepin (COR) is an important bioactive nucleoside with antitumor and immunomodulatory
+      activities, but its conventional production via Cordyceps militaris fermentation
+      is limited by long cultivation periods and low titers. Therefore, microbial
+      heterologous synthesis represents an attractive alternative. In this study,
+      the COR biosynthetic pathway was introduced into Saccharomyces cerevisiae CEN.PK530-1C,
+      resulting in a COR titer of 870.7 mg/L. To further enhance COR biosynthesis,
+      different fusion constructs were evaluated to relocalize the key enzymes into
+      membraneless organelles in CEN.PK530-1C, which markedly increased COR production
+      to 1209.5 mg/L. Metabolic engineering strategies were then applied to prevent
+      COR degradation through deletion of the adenosine deaminase gene (YJL070C) and
+      to enhance ATP and NADPH supply via overexpression of pgk1 and pos5, resulting
+      in strain SCC7 with a COR titer of 1515.5 mg/L. Furthermore, metabolic effector
+      molecules were screened and used to improve COR production to 1676.5 mg/L. In
+      fed-batch fermentation, SCC7 achieved 6972.8 mg/L COR in a 6 L bioreactor, representing
+      the highest COR titer reported in S. cerevisiae to date. In conclusion, this
+      study establishes an efficient yeast platform for COR production and provides
+      a useful reference for biosynthesis of other bioactive nucleosides.
+    ko_literal: 코디세핀(COR)은 항종양 및 면역 조절 활성을 갖는 중요한 생리활성 뉴클레오시드이지만 Cordyceps militaris
+      발효을 통한 기존 생산은 긴 재배·배양 기간과 낮은 역가로 인해 제한됩니다. 따라서 미생물의 이종 합성은 매력적인 대안이 됩니다. 이 연구에서는
+      COR 생합성 경로가 Saccharomyces cerevisiae CEN.PK530-1C에 도입되어 COR 역가가 870.7mg/L로 나타났습니다.
+      COR 생합성을 더욱 향상시키기 위해 CEN.PK530-1C의 핵심 효소를 막 없는 소기관으로 재배치하기 위해 다양한 융합 구성을 평가했으며,
+      이는 COR 생산을 1209.5 mg/L로 현저하게 증가시켰습니다. 그런 다음 아데노신 데아미나제 유전자(YJL070C)의 삭제를 통해
+      COR 분해를 방지하고 pgk1 및 pos5의 과발현을 통해 ATP 및 NADPH 공급을 강화하기 위해 대사 공학 전략을 적용하여 COR
+      역가가 1515.5mg/L인 SCC7 균주를 만들었습니다. 또한, 대사 효과기 분자를 스크리닝하여 COR 생산을 1676.5mg/L로 향상시키는
+      데 사용했습니다. 유가식 발효에서 SCC7은 6L 생물반응기에서 6972.8mg/L COR을 달성했는데, 이는 현재까지 S. cerevisiae에서
+      보고된 가장 높은 COR 역가를 나타냅니다. 결론적으로, 이 연구는 COR 생산을 위한 효율적인 효모 플랫폼을 확립하고 다른 생리활성 뉴클레오시드의
+      생합성에 대한 유용한 참고 자료를 제공합니다.
+    ko_researcher: '[초록 전체] 핵심 용어: **코디세핀**(cordycepin) · **Cordyceps militaris**(cordyceps
+      militaris) · **Cordyceps**(cordyceps) · **생합성**(biosynthesis). 코디세핀(COR)은 항종양
+      및 면역 조절 활성을 갖는 중요한 생리활성 뉴클레오시드이지만 Cordyceps militaris 발효을 통한 기존 생산은 긴 재배·배양
+      기간과 낮은 역가로 인해 제한됩니다. 따라서 미생물의 이종 합성은 매력적인 대안이 됩니다. 이 연구에서는 COR 생합성 경로가 Saccharomyces
+      cerevisiae CEN.PK530-1C에 도입되어 COR 역가가 870.7mg/L로 나타났습니다. COR 생합성을 더욱 향상시키기 위해
+      CEN.PK530-1C의 핵심 효소를 막 없는 소기관으로 재배치하기 위해 다양한 융합 구성을 평가했으며, 이는 COR 생산을 1209.5
+      mg/L로 현저하게 증가시켰습니다. 그런 다음 아데노신 데아미나제 유전자(YJL070C)의 삭제를 통해 COR 분해를 방지하고 pgk1
+      및 pos5의 과발현을 통해 ATP 및 NADPH 공급을 강화하기 위해 대사 공학 전략을 적용하여 COR 역가가 1515.5mg/L인 SCC7
+      균주를 만들었습니다. 또한, 대사 효과기 분자를 스크리닝하여 COR 생산을 1676.5mg/L로 향상시키는 데 사용했습니다. 유가식 발효에서
+      SCC7은 6L 생물반응기에서 6972.8mg/L COR을 달성했는데, 이는 현재까지 S. cerevisiae에서 보고된 가장 높은 COR
+      역가를 나타냅니다. 결론적으로, 이 연구는 COR 생산을 위한 효율적인 효모 플랫폼을 확립하고 다른 생리활성 뉴클레오시드의 생합성에 대한
+      유용한 참고 자료를 제공합니다.'
+    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. 코디세핀(COR)은 항종양 및 면역 조절 활성을 갖는 중요한 생리활성 뉴클레오시드이지만
+      Cordyceps militaris 발효을 통한 기존 생산은 긴 재배·배양 기간과 낮은 역가로 인해 제한됩니다. 따라서 미생물의 이종 합성은
+      매력적인 대안이 됩니다. 이 연구에서는 COR 생합성 경로가 Saccharomyces cerevisiae CEN.PK530-1C에 도입되어
+      COR 역가가 870.7mg/L로 나타났습니다. COR 생합성을 더욱 향상시키기 위해 CEN.PK530-1C의 핵심 효소를 막 없는 소기관으로
+      재배치하기 위해 다양한 융합 구성을 평가했으며, 이는 COR 생산을 1209.5 mg/L로 현저하게 증가시켰습니다. 그런 다음 아데노신
+      데아미나제 유전자(YJL070C)의 삭제를 통해 COR 분해를 방지하고 pgk1 및 pos5의 과발현을 통해 ATP 및 NADPH 공급을
+      강화하기 위해 대사 공학 전략을 적용하여 COR 역가가 1515.5mg/L인 SCC7 균주를 만들었습니다. 또한, 대사 효과기 분자를 스크리닝하여
+      COR 생산을 1676.5mg/L로 향상시키는 데 사용했습니다. 유가식 발효에서 SCC7은 6L 생물반응기에서 6972.8mg/L COR을
+      달성했는데, 이는 현재까지 S. cerevisiae에서 보고된 가장 높은 COR 역가를 나타냅니다. 결론적으로, 이 연구는 COR 생산을
+      위한 효율적인 효모 플랫폼을 확립하고 다른 생리활성 뉴클레오시드의 생합성에 대한 유용한 참고 자료를 제공합니다.
 ---
 
 ## 한국어 요약

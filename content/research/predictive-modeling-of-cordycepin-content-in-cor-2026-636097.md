@@ -1,8 +1,7 @@
 ---
 title: Predictive Modeling of Cordycepin Content in Cordyceps militaris Using Machine
   Learning Based on Cultivation Conditions.
-title_ko: Predictive Modeling of Cordycepin Content in Cordyceps militaris Using Machine
-  Learning Based on Cultivation Conditions.
+title_ko: 재배·배양 조건을 기반으로 한 기계 학습을 사용하여 Cordyceps militaris의 코디세핀 콘텐츠 예측 모델링.
 slug: predictive-modeling-of-cordycepin-content-in-cor-2026-636097
 record_id: 6bf0db81-2425-4b9a-8d57-9c0ea6293096
 date: '2026-07-21'
@@ -96,6 +95,139 @@ api_meta:
     openalex: true
     crossref: true
   fetched_at: '2026-07-21'
+translations:
+  title_ko: 재배·배양 조건을 기반으로 한 기계 학습을 사용하여 Cordyceps militaris의 코디세핀 콘텐츠 예측 모델링.
+  glossary:
+  - en: cordycepin
+    ko: 코디세핀
+    note: 3'-deoxyadenosine, Cordyceps 주요 bioactive 성분
+  - en: cordyceps militaris
+    ko: Cordyceps militaris
+    note: 동충하초 균종
+  - en: cordyceps
+    ko: Cordyceps
+    note: 충Cordyceps属 진균
+  - en: biosynthesis
+    ko: 생합성
+    note: 생물체 내에서 물질이 만들어지는 과정
+  - en: fermentation
+    ko: 발효
+    note: 미생물·균류를 이용한 대량 배양
+  - en: cultivation
+    ko: 재배·배양
+    note: 인공 조건에서 균류 키우기
+  sections:
+  - id: summary
+    label_ko: 초록 전체
+    en: Cordycepin, a nucleoside analog derived from Cordyceps militaris, is a bioactive
+      compound with potent pharmacological properties and growing relevance in functional
+      food and pharmaceutical industries. However, its production is highly variable
+      depending on cultivation conditions, making real-time and scalable prediction
+      essential for efficient process control. This study aimed to develop a machine
+      learning-based predictive model to estimate cordycepin content based on measurable
+      cultivation parameters. Three machine learning algorithms-XGBoost, Random Forest,
+      and Support Vector Machine-were trained using experimental data encompassing
+      environmental and nutritional factors. Model validation was conducted using
+      Tropsha's statistical criteria, and model explainability was achieved through
+      SHAP analysis. A user-friendly GUI was also developed for real-time prediction
+      and application. Among the models, XGBoost demonstrated the highest performance
+      with a cross-validated Q² of 0.9087 and an R² of 0.9544, satisfying all statistical
+      requirements for reliability. SHAP analysis identified light wavelength and
+      carbon/nitrogen ratio as the most influential factors in cordycepin biosynthesis.
+      The developed GUI enables end-users to input cultivation conditions and receive
+      immediate predictions, facilitating data-driven decision-making. This approach
+      offers a scalable and interpretable framework for optimizing bioactive compound
+      production in edible fungi, with potential application in smart bioprocessing
+      and precision fermentation.
+    ko_literal: Cordyceps militaris에서 파생된 뉴클레오시드 유사체인 코디세핀은 강력한 약리학적 특성을 가지며 기능성 식품
+      및 제약 산업에서 관련성이 높아지고 있는 생리 활성 화합물입니다. 그러나 생산은 재배·배양 조건에 따라 매우 다양하므로 효율적인 공정 제어를
+      위해서는 실시간 및 확장 가능한 예측이 필수적입니다. 본 연구에서는 측정 가능한 재배·배양 매개변수를 기반으로 코디세핀 콘텐츠를 추정하는
+      머신러닝 기반 예측 모델을 개발하는 것을 목표로 했습니다. XGBoost, Random Forest 및 Support Vector Machine의
+      세 가지 기계 학습 알고리즘은 환경 및 영양 요인을 포괄하는 실험 데이터를 사용하여 학습되었습니다. 모델 검증은 Tropsha의 통계적
+      기준을 사용하여 수행되었으며, SHAP 분석을 통해 모델 설명성이 달성되었습니다. 실시간 예측 및 적용을 위해 사용자 친화적인 GUI도
+      개발되었습니다. 모델 중 XGBoost는 교차검증된 Q²가 0.9087, R²가 0.9544로 가장 높은 성능을 보여 신뢰성에 대한 모든
+      통계적 요구 사항을 충족했습니다. SHAP 분석에서는 코디세핀 생합성에서 가장 영향력 있는 요인으로 빛의 파장과 탄소/질소 비율이 확인되었습니다.
+      개발된 GUI를 통해 최종 사용자는 재배·배양 조건을 입력하고 즉각적인 예측을 받을 수 있어 데이터 기반 의사 결정이 쉬워집니다. 이 접근
+      방식은 식용 곰팡이에서 생리 활성 화합물 생산을 최적화하기 위한 확장 가능하고 해석 가능한 프레임워크를 제공하며 스마트 생물 공정 및 정밀도에
+      잠재적인 적용이 가능합니다 발효.
+    ko_researcher: '[초록 전체] 핵심 용어: **코디세핀**(cordycepin) · **Cordyceps militaris**(cordyceps
+      militaris) · **Cordyceps**(cordyceps) · **생합성**(biosynthesis). Cordyceps militaris에서
+      파생된 뉴클레오시드 유사체인 코디세핀은 강력한 약리학적 특성을 가지며 기능성 식품 및 제약 산업에서 관련성이 높아지고 있는 생리 활성 화합물입니다.
+      그러나 생산은 재배·배양 조건에 따라 매우 다양하므로 효율적인 공정 제어를 위해서는 실시간 및 확장 가능한 예측이 필수적입니다. 본 연구에서는
+      측정 가능한 재배·배양 매개변수를 기반으로 코디세핀 콘텐츠를 추정하는 머신러닝 기반 예측 모델을 개발하는 것을 목표로 했습니다. XGBoost,
+      Random Forest 및 Support Vector Machine의 세 가지 기계 학습 알고리즘은 환경 및 영양 요인을 포괄하는 실험
+      데이터를 사용하여 학습되었습니다. 모델 검증은 Tropsha의 통계적 기준을 사용하여 수행되었으며, SHAP 분석을 통해 모델 설명성이
+      달성되었습니다. 실시간 예측 및 적용을 위해 사용자 친화적인 GUI도 개발되었습니다. 모델 중 XGBoost는 교차검증된 Q²가 0.9087,
+      R²가 0.9544로 가장 높은 성능을 보여 신뢰성에 대한 모든 통계적 요구 사항을 충족했습니다. SHAP 분석에서는 코디세핀 생합성에서
+      가장 영향력 있는 요인으로 빛의 파장과 탄소/질소 비율이 확인되었습니다. 개발된 GUI를 통해 최종 사용자는 재배·배양 조건을 입력하고
+      즉각적인 예측을 받을 수 있어 데이터 기반 의사 결정이 쉬워집니다. 이 접근 방식은 식용 곰팡이에서 생리 활성 화합물 생산을 최적화하기
+      위한 확장 가능하고 해석 가능한 프레임워크를 제공하며 스마트 생물 공정 및 정밀도에 잠재적인 적용이 가능합니다 발효.'
+    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. Cordyceps militaris에서 파생된 뉴클레오시드 유사체인 코디세핀은
+      강력한 약리학적 특성을 가지며 기능성 식품 및 제약 산업에서 관련성이 높아지고 있는 생리 활성 화합물입니다. 그러나 생산은 재배·배양 조건에
+      따라 매우 다양하므로 효율적인 공정 제어를 위해서는 실시간 및 확장 가능한 예측이 필수적입니다. 본 연구에서는 측정 가능한 재배·배양 매개변수를
+      기반으로 코디세핀 콘텐츠를 추정하는 머신러닝 기반 예측 모델을 개발하는 것을 목표로 했습니다. XGBoost, Random Forest
+      및 Support Vector Machine의 세 가지 기계 학습 알고리즘은 환경 및 영양 요인을 포괄하는 실험 데이터를 사용하여 학습되었습니다.
+      모델 검증은 Tropsha의 통계적 기준을 사용하여 수행되었으며, SHAP 분석을 통해 모델 설명성이 달성되었습니다. 실시간 예측 및 적용을
+      위해 사용자 친화적인 GUI도 개발되었습니다. 모델 중 XGBoost는 교차검증된 Q²가 0.9087, R²가 0.9544로 가장 높은
+      성능을 보여 신뢰성에 대한 모든 통계적 요구 사항을 충족했습니다. SHAP 분석에서는 코디세핀 생합성에서 가장 영향력 있는 요인으로 빛의
+      파장과 탄소/질소 비율이 확인되었습니다. 개발된 GUI를 통해 최종 사용자는 재배·배양 조건을 입력하고 즉각적인 예측을 받을 수 있어 데이터
+      기반 의사 결정이 쉬워집니다. 이 접근 방식은 식용 곰팡이에서 생리 활성 화합물 생산을 최적화하기 위한 확장 가능하고 해석 가능한 프레임워크를
+      제공하며 스마트 생물 공정 및 정밀도에 잠재적인 적용이 가능합니다 발효.
+  full:
+    en: Cordycepin, a nucleoside analog derived from Cordyceps militaris, is a bioactive
+      compound with potent pharmacological properties and growing relevance in functional
+      food and pharmaceutical industries. However, its production is highly variable
+      depending on cultivation conditions, making real-time and scalable prediction
+      essential for efficient process control. This study aimed to develop a machine
+      learning-based predictive model to estimate cordycepin content based on measurable
+      cultivation parameters. Three machine learning algorithms-XGBoost, Random Forest,
+      and Support Vector Machine-were trained using experimental data encompassing
+      environmental and nutritional factors. Model validation was conducted using
+      Tropsha's statistical criteria, and model explainability was achieved through
+      SHAP analysis. A user-friendly GUI was also developed for real-time prediction
+      and application. Among the models, XGBoost demonstrated the highest performance
+      with a cross-validated Q² of 0.9087 and an R² of 0.9544, satisfying all statistical
+      requirements for reliability. SHAP analysis identified light wavelength and
+      carbon/nitrogen ratio as the most influential factors in cordycepin biosynthesis.
+      The developed GUI enables end-users to input cultivation conditions and receive
+      immediate predictions, facilitating data-driven decision-making. This approach
+      offers a scalable and interpretable framework for optimizing bioactive compound
+      production in edible fungi, with potential application in smart bioprocessing
+      and precision fermentation.
+    ko_literal: Cordyceps militaris에서 파생된 뉴클레오시드 유사체인 코디세핀은 강력한 약리학적 특성을 가지며 기능성 식품
+      및 제약 산업에서 관련성이 높아지고 있는 생리 활성 화합물입니다. 그러나 생산은 재배·배양 조건에 따라 매우 다양하므로 효율적인 공정 제어를
+      위해서는 실시간 및 확장 가능한 예측이 필수적입니다. 본 연구에서는 측정 가능한 재배·배양 매개변수를 기반으로 코디세핀 콘텐츠를 추정하는
+      머신러닝 기반 예측 모델을 개발하는 것을 목표로 했습니다. XGBoost, Random Forest 및 Support Vector Machine의
+      세 가지 기계 학습 알고리즘은 환경 및 영양 요인을 포괄하는 실험 데이터를 사용하여 학습되었습니다. 모델 검증은 Tropsha의 통계적
+      기준을 사용하여 수행되었으며, SHAP 분석을 통해 모델 설명성이 달성되었습니다. 실시간 예측 및 적용을 위해 사용자 친화적인 GUI도
+      개발되었습니다. 모델 중 XGBoost는 교차검증된 Q²가 0.9087, R²가 0.9544로 가장 높은 성능을 보여 신뢰성에 대한 모든
+      통계적 요구 사항을 충족했습니다. SHAP 분석에서는 코디세핀 생합성에서 가장 영향력 있는 요인으로 빛의 파장과 탄소/질소 비율이 확인되었습니다.
+      개발된 GUI를 통해 최종 사용자는 재배·배양 조건을 입력하고 즉각적인 예측을 받을 수 있어 데이터 기반 의사 결정이 쉬워집니다. 이 접근
+      방식은 식용 곰팡이에서 생리 활성 화합물 생산을 최적화하기 위한 확장 가능하고 해석 가능한 프레임워크를 제공하며 스마트 생물 공정 및 정밀도에
+      잠재적인 적용이 가능합니다 발효.
+    ko_researcher: '[초록 전체] 핵심 용어: **코디세핀**(cordycepin) · **Cordyceps militaris**(cordyceps
+      militaris) · **Cordyceps**(cordyceps) · **생합성**(biosynthesis). Cordyceps militaris에서
+      파생된 뉴클레오시드 유사체인 코디세핀은 강력한 약리학적 특성을 가지며 기능성 식품 및 제약 산업에서 관련성이 높아지고 있는 생리 활성 화합물입니다.
+      그러나 생산은 재배·배양 조건에 따라 매우 다양하므로 효율적인 공정 제어를 위해서는 실시간 및 확장 가능한 예측이 필수적입니다. 본 연구에서는
+      측정 가능한 재배·배양 매개변수를 기반으로 코디세핀 콘텐츠를 추정하는 머신러닝 기반 예측 모델을 개발하는 것을 목표로 했습니다. XGBoost,
+      Random Forest 및 Support Vector Machine의 세 가지 기계 학습 알고리즘은 환경 및 영양 요인을 포괄하는 실험
+      데이터를 사용하여 학습되었습니다. 모델 검증은 Tropsha의 통계적 기준을 사용하여 수행되었으며, SHAP 분석을 통해 모델 설명성이
+      달성되었습니다. 실시간 예측 및 적용을 위해 사용자 친화적인 GUI도 개발되었습니다. 모델 중 XGBoost는 교차검증된 Q²가 0.9087,
+      R²가 0.9544로 가장 높은 성능을 보여 신뢰성에 대한 모든 통계적 요구 사항을 충족했습니다. SHAP 분석에서는 코디세핀 생합성에서
+      가장 영향력 있는 요인으로 빛의 파장과 탄소/질소 비율이 확인되었습니다. 개발된 GUI를 통해 최종 사용자는 재배·배양 조건을 입력하고
+      즉각적인 예측을 받을 수 있어 데이터 기반 의사 결정이 쉬워집니다. 이 접근 방식은 식용 곰팡이에서 생리 활성 화합물 생산을 최적화하기
+      위한 확장 가능하고 해석 가능한 프레임워크를 제공하며 스마트 생물 공정 및 정밀도에 잠재적인 적용이 가능합니다 발효.'
+    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. Cordyceps militaris에서 파생된 뉴클레오시드 유사체인 코디세핀은
+      강력한 약리학적 특성을 가지며 기능성 식품 및 제약 산업에서 관련성이 높아지고 있는 생리 활성 화합물입니다. 그러나 생산은 재배·배양 조건에
+      따라 매우 다양하므로 효율적인 공정 제어를 위해서는 실시간 및 확장 가능한 예측이 필수적입니다. 본 연구에서는 측정 가능한 재배·배양 매개변수를
+      기반으로 코디세핀 콘텐츠를 추정하는 머신러닝 기반 예측 모델을 개발하는 것을 목표로 했습니다. XGBoost, Random Forest
+      및 Support Vector Machine의 세 가지 기계 학습 알고리즘은 환경 및 영양 요인을 포괄하는 실험 데이터를 사용하여 학습되었습니다.
+      모델 검증은 Tropsha의 통계적 기준을 사용하여 수행되었으며, SHAP 분석을 통해 모델 설명성이 달성되었습니다. 실시간 예측 및 적용을
+      위해 사용자 친화적인 GUI도 개발되었습니다. 모델 중 XGBoost는 교차검증된 Q²가 0.9087, R²가 0.9544로 가장 높은
+      성능을 보여 신뢰성에 대한 모든 통계적 요구 사항을 충족했습니다. SHAP 분석에서는 코디세핀 생합성에서 가장 영향력 있는 요인으로 빛의
+      파장과 탄소/질소 비율이 확인되었습니다. 개발된 GUI를 통해 최종 사용자는 재배·배양 조건을 입력하고 즉각적인 예측을 받을 수 있어 데이터
+      기반 의사 결정이 쉬워집니다. 이 접근 방식은 식용 곰팡이에서 생리 활성 화합물 생산을 최적화하기 위한 확장 가능하고 해석 가능한 프레임워크를
+      제공하며 스마트 생물 공정 및 정밀도에 잠재적인 적용이 가능합니다 발효.
 ---
 
 ## 한국어 요약

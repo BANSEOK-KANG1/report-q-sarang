@@ -2,9 +2,8 @@
 title: Evidence for Regulation of Cordycepin Biosynthesis by Transcription Factors
   Krüppel-Like Factor 4 and Retinoid X Receptor Alpha in Caterpillar Medicinal Mushroom
   Cordyceps militaris (Ascomycetes).
-title_ko: Evidence for Regulation of Cordycepin Biosynthesis by Transcription Factors
-  Krüppel-Like Factor 4 and Retinoid X Receptor Alpha in Caterpillar Medicinal Mushroom
-  Cordyceps militaris (Ascomycetes).
+title_ko: 애벌레 약용 버섯 Cordyceps militaris(자낭균)의 전사 인자 Krüppel 유사 인자 4 및 레티노이드 X 수용체
+  알파에 의한 코디세핀 생합성의 조절에 대한 증거.
 slug: evidence-for-regulation-of-cordycepin-biosynthes-2024-171629
 record_id: cacacb71-79ad-436c-af9b-630d8ab70d02
 date: '2026-07-21'
@@ -99,6 +98,149 @@ api_meta:
     openalex: true
     crossref: true
   fetched_at: '2026-07-21'
+translations:
+  title_ko: 애벌레 약용 버섯 Cordyceps militaris(자낭균)의 전사 인자 Krüppel 유사 인자 4 및 레티노이드 X 수용체
+    알파에 의한 코디세핀 생합성의 조절에 대한 증거.
+  glossary:
+  - en: cordycepin
+    ko: 코디세핀
+    note: 3'-deoxyadenosine, Cordyceps 주요 bioactive 성분
+  - en: cordyceps militaris
+    ko: Cordyceps militaris
+    note: 동충하초 균종
+  - en: cordyceps
+    ko: Cordyceps
+    note: 충Cordyceps属 진균
+  - en: biosynthesis
+    ko: 생합성
+    note: 생물체 내에서 물질이 만들어지는 과정
+  - en: adenosine
+    ko: 아데노신
+    note: 뉴클레오시드 관련 물질
+  sections:
+  - id: summary
+    label_ko: 초록 전체
+    en: Cordyceps militaris, Chinese traditional medicinal fungus, has many bioactive
+      properties. Cordycepin (3'-deoxyadenosine) is a major bioactive component of
+      C. militaris. Various methods can significantly elevate cordycepin production,
+      which suggests a diverse set of metabolic regulatory mechanisms. Thus, we aimed
+      to identify transcription factors that regulate cordycepin biosynthesis pathways.
+      Transcriptome analysis of wild-type C. militaris, C. militaris GYS60, a cordycepin
+      high-producing strain, and C. militaris GYS80, a low-producing strain, were
+      used to measure expression and function of genes related to cordycepin biosynthesis.
+      The transcriptome expression data were confirmed by quantitative real-time polymerase
+      chain reaction. We identified 155 relevant transcription factors in 19 families
+      that included Fork head/winged helix factors, other C4 zinc finger-type factors,
+      C2H2 zinc finger factors, tryptophan cluster factors, nuclear receptors with
+      C4 zinc fingers, homeodomain factors, and Rel homology region factors. Energy
+      generation and amino acid conversion pathways were activated in GYS60 so that
+      abundance of cordycepin precursors was increased. Genes and transcription factors
+      for rate-limiting enzymes in these pathways were identified. Overexpression
+      of two key transcription factors, Kruppel-like factor 4 (Klf4) and Retinoid
+      X receptor alpha (Rxra), promoted high cordycepin production in GYS60. In GYS60,
+      Klf4 and Rxra were responsible for upregulation of genes in cordycepin biosynthesis,
+      namely an oxidoreductase, 3',5'-cyclic AMP phosphodiesterase, a transferase,
+      and adenylate cyclase. Upregulation of these genes increased 3'-AMP content,
+      thereby elevating cordycepin synthesis.
+    ko_literal: Cordyceps militaris, 중국 전통 약용 곰팡이는 많은 생리 활성 특성을 가지고 있습니다. 코디세핀(3'-deoxy아데노신)은
+      C. militaris의 주요 생리활성 성분입니다. 다양한 방법으로 코디세핀 생산을 크게 높일 수 있으며, 이는 다양한 대사 조절 메커니즘을
+      암시합니다. 따라서 우리는 코디세핀 생합성 경로를 조절하는 전사 인자를 확인하는 것을 목표로 했습니다. 야생형 C. militaris,
+      코디세핀 고생산 균주인 C. militaris GYS60 및 저생산 균주인 C. militaris GYS80의 전사체 분석을 사용하여 코디세핀
+      생합성과 관련된 유전자의 발현 및 기능을 측정했습니다. 전사체 발현 데이터는 정량적 실시간 중합효소 연쇄반응을 통해 확인되었습니다. 우리는
+      포크 머리/날개 나선 인자, 기타 C4 징크 핑거 유형 인자, C2H2 징크 핑거 인자, 트립토판 클러스터 인자, C4 징크 핑거가 있는
+      핵 수용체, 호메오도메인 인자 및 Rel 상동성 영역 인자를 포함하는 19개 계열에서 155개의 관련 전사 인자를 확인했습니다. GYS60에서는
+      에너지 생성 및 아미노산 전환 경로가 활성화되어 코디세핀 전구체의 풍부함이 증가했습니다. 이러한 경로에서 속도 제한 효소에 대한 유전자와
+      전사 인자가 확인되었습니다. 두 가지 주요 전사 인자인 크루펠 유사 인자 4(Klf4)와 레티노이드 X 수용체 알파(Rxra)의 과발현은
+      GYS60에서 높은 코디세핀 생산을 촉진했습니다. GYS60에서 Klf4와 Rxra는 코디세핀 생합성의 유전자, 즉 산화환원효소, 3',5'-고리형
+      AMP 포스포디에스테라제, 전이효소 및 아데닐레이트 시클라제의 상향 조절을 담당했습니다. 이들 유전자의 상향 조절은 3'-AMP 함량을
+      증가시켜 코디세핀 합성을 증가시킵니다.
+    ko_researcher: '[초록 전체] 핵심 용어: **코디세핀**(cordycepin) · **Cordyceps militaris**(cordyceps
+      militaris) · **Cordyceps**(cordyceps) · **생합성**(biosynthesis). Cordyceps militaris,
+      중국 전통 약용 곰팡이는 많은 생리 활성 특성을 가지고 있습니다. 코디세핀(3''-deoxy아데노신)은 C. militaris의 주요 생리활성
+      성분입니다. 다양한 방법으로 코디세핀 생산을 크게 높일 수 있으며, 이는 다양한 대사 조절 메커니즘을 암시합니다. 따라서 우리는 코디세핀
+      생합성 경로를 조절하는 전사 인자를 확인하는 것을 목표로 했습니다. 야생형 C. militaris, 코디세핀 고생산 균주인 C. militaris
+      GYS60 및 저생산 균주인 C. militaris GYS80의 전사체 분석을 사용하여 코디세핀 생합성과 관련된 유전자의 발현 및 기능을
+      측정했습니다. 전사체 발현 데이터는 정량적 실시간 중합효소 연쇄반응을 통해 확인되었습니다. 우리는 포크 머리/날개 나선 인자, 기타 C4
+      징크 핑거 유형 인자, C2H2 징크 핑거 인자, 트립토판 클러스터 인자, C4 징크 핑거가 있는 핵 수용체, 호메오도메인 인자 및 Rel
+      상동성 영역 인자를 포함하는 19개 계열에서 155개의 관련 전사 인자를 확인했습니다. GYS60에서는 에너지 생성 및 아미노산 전환 경로가
+      활성화되어 코디세핀 전구체의 풍부함이 증가했습니다. 이러한 경로에서 속도 제한 효소에 대한 유전자와 전사 인자가 확인되었습니다. 두 가지
+      주요 전사 인자인 크루펠 유사 인자 4(Klf4)와 레티노이드 X 수용체 알파(Rxra)의 과발현은 GYS60에서 높은 코디세핀 생산을
+      촉진했습니다. GYS60에서 Klf4와 Rxra는 코디세핀 생합성의 유전자, 즉 산화환원효소, 3'',5''-고리형 AMP 포스포디에스테라제,
+      전이효소 및 아데닐레이트 시클라제의 상향 조절을 담당했습니다. 이들 유전자의 상향 조절은 3''-AMP 함량을 증가시켜 코디세핀 합성을
+      증가시킵니다.'
+    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. Cordyceps militaris, 중국 전통 약용 곰팡이는 많은 생리
+      활성 특성을 가지고 있습니다. 코디세핀(3'-deoxy아데노신)은 C. militaris의 주요 생리활성 성분입니다. 다양한 방법으로 코디세핀
+      생산을 크게 높일 수 있으며, 이는 다양한 대사 조절 메커니즘을 암시합니다. 따라서 우리는 코디세핀 생합성 경로를 조절하는 전사 인자를
+      확인하는 것을 목표로 했습니다. 야생형 C. militaris, 코디세핀 고생산 균주인 C. militaris GYS60 및 저생산 균주인
+      C. militaris GYS80의 전사체 분석을 사용하여 코디세핀 생합성과 관련된 유전자의 발현 및 기능을 측정했습니다. 전사체 발현
+      데이터는 정량적 실시간 중합효소 연쇄반응을 통해 확인되었습니다. 우리는 포크 머리/날개 나선 인자, 기타 C4 징크 핑거 유형 인자, C2H2
+      징크 핑거 인자, 트립토판 클러스터 인자, C4 징크 핑거가 있는 핵 수용체, 호메오도메인 인자 및 Rel 상동성 영역 인자를 포함하는
+      19개 계열에서 155개의 관련 전사 인자를 확인했습니다. GYS60에서는 에너지 생성 및 아미노산 전환 경로가 활성화되어 코디세핀 전구체의
+      풍부함이 증가했습니다. 이러한 경로에서 속도 제한 효소에 대한 유전자와 전사 인자가 확인되었습니다. 두 가지 주요 전사 인자인 크루펠 유사
+      인자 4(Klf4)와 레티노이드 X 수용체 알파(Rxra)의 과발현은 GYS60에서 높은 코디세핀 생산을 촉진했습니다. GYS60에서 Klf4와
+      Rxra는 코디세핀 생합성의 유전자, 즉 산화환원효소, 3',5'-고리형 AMP 포스포디에스테라제, 전이효소 및 아데닐레이트 시클라제의
+      상향 조절을 담당했습니다. 이들 유전자의 상향 조절은 3'-AMP 함량을 증가시켜 코디세핀 합성을 증가시킵니다.
+  full:
+    en: Cordyceps militaris, Chinese traditional medicinal fungus, has many bioactive
+      properties. Cordycepin (3'-deoxyadenosine) is a major bioactive component of
+      C. militaris. Various methods can significantly elevate cordycepin production,
+      which suggests a diverse set of metabolic regulatory mechanisms. Thus, we aimed
+      to identify transcription factors that regulate cordycepin biosynthesis pathways.
+      Transcriptome analysis of wild-type C. militaris, C. militaris GYS60, a cordycepin
+      high-producing strain, and C. militaris GYS80, a low-producing strain, were
+      used to measure expression and function of genes related to cordycepin biosynthesis.
+      The transcriptome expression data were confirmed by quantitative real-time polymerase
+      chain reaction. We identified 155 relevant transcription factors in 19 families
+      that included Fork head/winged helix factors, other C4 zinc finger-type factors,
+      C2H2 zinc finger factors, tryptophan cluster factors, nuclear receptors with
+      C4 zinc fingers, homeodomain factors, and Rel homology region factors. Energy
+      generation and amino acid conversion pathways were activated in GYS60 so that
+      abundance of cordycepin precursors was increased. Genes and transcription factors
+      for rate-limiting enzymes in these pathways were identified. Overexpression
+      of two key transcription factors, Kruppel-like factor 4 (Klf4) and Retinoid
+      X receptor alpha (Rxra), promoted high cordycepin production in GYS60. In GYS60,
+      Klf4 and Rxra were responsible for upregulation of genes in cordycepin biosynthesis,
+      namely an oxidoreductase, 3',5'-cyclic AMP phosphodiesterase, a transferase,
+      and adenylate cyclase. Upregulation of these genes increased 3'-AMP content,
+      thereby elevating cordycepin synthesis.
+    ko_literal: Cordyceps militaris, 중국 전통 약용 곰팡이는 많은 생리 활성 특성을 가지고 있습니다. 코디세핀(3'-deoxy아데노신)은
+      C. militaris의 주요 생리활성 성분입니다. 다양한 방법으로 코디세핀 생산을 크게 높일 수 있으며, 이는 다양한 대사 조절 메커니즘을
+      암시합니다. 따라서 우리는 코디세핀 생합성 경로를 조절하는 전사 인자를 확인하는 것을 목표로 했습니다. 야생형 C. militaris,
+      코디세핀 고생산 균주인 C. militaris GYS60 및 저생산 균주인 C. militaris GYS80의 전사체 분석을 사용하여 코디세핀
+      생합성과 관련된 유전자의 발현 및 기능을 측정했습니다. 전사체 발현 데이터는 정량적 실시간 중합효소 연쇄반응을 통해 확인되었습니다. 우리는
+      포크 머리/날개 나선 인자, 기타 C4 징크 핑거 유형 인자, C2H2 징크 핑거 인자, 트립토판 클러스터 인자, C4 징크 핑거가 있는
+      핵 수용체, 호메오도메인 인자 및 Rel 상동성 영역 인자를 포함하는 19개 계열에서 155개의 관련 전사 인자를 식별했습니다. GYS60에서는
+      에너지 생성 및 아미노산 전환 경로가 활성화되어 코디세핀 전구체의 풍부함이 증가했습니다. 이러한 경로에서 속도 제한 효소에 대한 유전자와
+      전사 인자가 확인되었습니다. 두 가지 주요 전사 인자인 크루펠 유사 인자 4(Klf4)와 레티노이드 X 수용체 알파(Rxra)의 과발현은
+      GYS60에서 높은 코디세핀 생산을 촉진했습니다. GYS60에서 Klf4와 Rxra는 코디세핀 생합성의 유전자, 즉 산화환원효소, 3',5'-고리형
+      AMP 포스포디에스테라제, 전이효소 및 아데닐레이트 시클라제의 상향 조절을 담당했습니다. 이들 유전자의 상향 조절은 3'-AMP 함량을
+      증가시켜 코디세핀 합성을 증가시킵니다.
+    ko_researcher: '[초록 전체] 핵심 용어: **코디세핀**(cordycepin) · **Cordyceps militaris**(cordyceps
+      militaris) · **Cordyceps**(cordyceps) · **생합성**(biosynthesis). Cordyceps militaris,
+      중국 전통 약용 곰팡이는 많은 생리 활성 특성을 가지고 있습니다. 코디세핀(3''-deoxy아데노신)은 C. militaris의 주요 생리활성
+      성분입니다. 다양한 방법으로 코디세핀 생산을 크게 높일 수 있으며, 이는 다양한 대사 조절 메커니즘을 암시합니다. 따라서 우리는 코디세핀
+      생합성 경로를 조절하는 전사 인자를 확인하는 것을 목표로 했습니다. 야생형 C. militaris, 코디세핀 고생산 균주인 C. militaris
+      GYS60 및 저생산 균주인 C. militaris GYS80의 전사체 분석을 사용하여 코디세핀 생합성과 관련된 유전자의 발현 및 기능을
+      측정했습니다. 전사체 발현 데이터는 정량적 실시간 중합효소 연쇄반응을 통해 확인되었습니다. 우리는 포크 머리/날개 나선 인자, 기타 C4
+      징크 핑거 유형 인자, C2H2 징크 핑거 인자, 트립토판 클러스터 인자, C4 징크 핑거가 있는 핵 수용체, 호메오도메인 인자 및 Rel
+      상동성 영역 인자를 포함하는 19개 계열에서 155개의 관련 전사 인자를 식별했습니다. GYS60에서는 에너지 생성 및 아미노산 전환 경로가
+      활성화되어 코디세핀 전구체의 풍부함이 증가했습니다. 이러한 경로에서 속도 제한 효소에 대한 유전자와 전사 인자가 확인되었습니다. 두 가지
+      주요 전사 인자인 크루펠 유사 인자 4(Klf4)와 레티노이드 X 수용체 알파(Rxra)의 과발현은 GYS60에서 높은 코디세핀 생산을
+      촉진했습니다. GYS60에서 Klf4와 Rxra는 코디세핀 생합성의 유전자, 즉 산화환원효소, 3'',5''-고리형 AMP 포스포디에스테라제,
+      전이효소 및 아데닐레이트 시클라제의 상향 조절을 담당했습니다. 이들 유전자의 상향 조절은 3''-AMP 함량을 증가시켜 코디세핀 합성을
+      증가시킵니다.'
+    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. Cordyceps militaris, 중국 전통 약용 곰팡이는 많은 생리
+      활성 특성을 가지고 있습니다. 코디세핀(3'-deoxy아데노신)은 C. militaris의 주요 생리활성 성분입니다. 다양한 방법으로 코디세핀
+      생산을 크게 높일 수 있으며, 이는 다양한 대사 조절 메커니즘을 암시합니다. 따라서 우리는 코디세핀 생합성 경로를 조절하는 전사 인자를
+      확인하는 것을 목표로 했습니다. 야생형 C. militaris, 코디세핀 고생산 균주인 C. militaris GYS60 및 저생산 균주인
+      C. militaris GYS80의 전사체 분석을 사용하여 코디세핀 생합성과 관련된 유전자의 발현 및 기능을 측정했습니다. 전사체 발현
+      데이터는 정량적 실시간 중합효소 연쇄반응을 통해 확인되었습니다. 우리는 포크 머리/날개 나선 인자, 기타 C4 징크 핑거 유형 인자, C2H2
+      징크 핑거 인자, 트립토판 클러스터 인자, C4 징크 핑거가 있는 핵 수용체, 호메오도메인 인자 및 Rel 상동성 영역 인자를 포함하는
+      19개 계열에서 155개의 관련 전사 인자를 식별했습니다. GYS60에서는 에너지 생성 및 아미노산 전환 경로가 활성화되어 코디세핀 전구체의
+      풍부함이 증가했습니다. 이러한 경로에서 속도 제한 효소에 대한 유전자와 전사 인자가 확인되었습니다. 두 가지 주요 전사 인자인 크루펠 유사
+      인자 4(Klf4)와 레티노이드 X 수용체 알파(Rxra)의 과발현은 GYS60에서 높은 코디세핀 생산을 촉진했습니다. GYS60에서 Klf4와
+      Rxra는 코디세핀 생합성의 유전자, 즉 산화환원효소, 3',5'-고리형 AMP 포스포디에스테라제, 전이효소 및 아데닐레이트 시클라제의
+      상향 조절을 담당했습니다. 이들 유전자의 상향 조절은 3'-AMP 함량을 증가시켜 코디세핀 합성을 증가시킵니다.
 ---
 
 ## 한국어 요약

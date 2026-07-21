@@ -1,8 +1,7 @@
 ---
 title: 'Trends in the Immunomodulatory Effects of Cordyceps militaris: Total Extracts,
   Polysaccharides and Cordycepin'
-title_ko: 'Trends in the Immunomodulatory Effects of Cordyceps militaris: Total Extracts,
-  Polysaccharides and Cordycepin'
+title_ko: 'Cordyceps militaris의 면역조절 효과 추세: 총 추출물s, 다당류s 및 코디세핀'
 slug: trends-in-the-immunomodulatory-effects-of-cordyc-2020-328984
 record_id: f6247e36-9e13-4308-8859-bc440e0c1d75
 date: '2026-07-21'
@@ -113,6 +112,106 @@ api_meta:
     openalex: true
     crossref: true
   fetched_at: '2026-07-21'
+translations:
+  title_ko: 'Cordyceps militaris의 면역조절 효과 추세: 총 추출물s, 다당류s 및 코디세핀'
+  glossary:
+  - en: cordycepin
+    ko: 코디세핀
+    note: 3'-deoxyadenosine, Cordyceps 주요 bioactive 성분
+  - en: cordyceps militaris
+    ko: Cordyceps militaris
+    note: 동충하초 균종
+  - en: cordyceps
+    ko: Cordyceps
+    note: 충Cordyceps属 진균
+  - en: polysaccharide
+    ko: 다당류
+    note: 당이 연결된 고분자
+  - en: extract
+    ko: 추출물
+    note: 용매 등으로 뽑아낸 성분
+  sections:
+  - id: summary
+    label_ko: 초록 전체
+    en: Cordyceps militaris ( C. militaris ) is a fungus with a long history of widespread
+      use in folk medicine, and its biological and medicinal functions are well studied.
+      A crucial pharmacological effect of C. militaris is immunomodulation. In this
+      review, we catalog the immunomodulatory effects of different extracts of C.
+      militaris , namely total extracts, polysaccharides and cordycepin . Total extracts
+      obtained using water or 50% ethyl alcohol and polysaccharides from C. militaris
+      were discovered to tend to promote type 1 immunity, whereas total extracts obtained
+      using 70–80% ethyl alcohol and cordycepin from C. militaris were more likely
+      to promote type 2 immunity. This article is the first to classify the immunomodulatory
+      effects of different extracts of C. militaris . In addition, we discovered a
+      relationship between different segments or extracts and differing types of immunity.
+      This review can provide the readers a comprehensive understanding on the immunomodulatory
+      effects of the precious folk medicine and guidance on its use for both health
+      people and those with an immunodeficiency.
+    ko_literal: Cordyceps militaris( C. militaris )은 민간요법으로 널리 사용되어 온 오랜 역사를 지닌 곰팡이로
+      그 생물학적, 의약적 기능이 잘 연구되어 있다. C. militaris의 중요한 약리학적 효과는 면역조절입니다. 이 검토에서 우리는 C.
+      militaris의 다양한 추출물, 즉 총 추출물, 다당류 및 코디세핀의 면역 조절 효과를 분류합니다. 물 또는 50% 에틸 알코올을 사용하여
+      얻은 총 추출물과 C. militaris의 다당류은 1형 면역을 촉진하는 경향이 있는 반면, 70~80% 에틸 알코올과 C. militaris의
+      코디세핀을 사용하여 얻은 총 추출물은 2형 면역을 촉진할 가능성이 더 높았습니다. 이 논문은 C. militaris의 다양한 추출물s의
+      면역조절 효과를 분류한 최초의 논문입니다. 또한 우리는 서로 다른 세그먼트 또는 추출물과 다양한 유형의 면역 간의 관계를 발견했습니다.
+      이 리뷰는 독자들에게 귀중한 민간 요법의 면역 조절 효과에 대한 포괄적인 이해를 제공하고 건강한 사람과 면역 결핍증이 있는 사람 모두를
+      위한 이 약의 사용에 대한 지침을 제공할 수 있습니다.
+    ko_researcher: '[초록 전체] 핵심 용어: **코디세핀**(cordycepin) · **Cordyceps militaris**(cordyceps
+      militaris) · **Cordyceps**(cordyceps) · **다당류**(polysaccharide). Cordyceps militaris(
+      C. militaris )은 민간요법으로 널리 사용되어 온 오랜 역사를 지닌 곰팡이로 그 생물학적, 의약적 기능이 잘 연구되어 있다. C.
+      militaris의 중요한 약리학적 효과는 면역조절입니다. 이 검토에서 우리는 C. militaris의 다양한 추출물, 즉 총 추출물,
+      다당류 및 코디세핀의 면역 조절 효과를 분류합니다. 물 또는 50% 에틸 알코올을 사용하여 얻은 총 추출물과 C. militaris의 다당류은
+      1형 면역을 촉진하는 경향이 있는 반면, 70~80% 에틸 알코올과 C. militaris의 코디세핀을 사용하여 얻은 총 추출물은 2형
+      면역을 촉진할 가능성이 더 높았습니다. 이 논문은 C. militaris의 다양한 추출물s의 면역조절 효과를 분류한 최초의 논문입니다.
+      또한 우리는 서로 다른 세그먼트 또는 추출물과 다양한 유형의 면역 간의 관계를 발견했습니다. 이 리뷰는 독자들에게 귀중한 민간 요법의 면역
+      조절 효과에 대한 포괄적인 이해를 제공하고 건강한 사람과 면역 결핍증이 있는 사람 모두를 위한 이 약의 사용에 대한 지침을 제공할 수 있습니다.'
+    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. Cordyceps militaris( C. militaris )은 민간요법으로
+      널리 사용되어 온 오랜 역사를 지닌 곰팡이로 그 생물학적, 의약적 기능이 잘 연구되어 있다. C. militaris의 중요한 약리학적 효과는
+      면역조절입니다. 이 검토에서 우리는 C. militaris의 다양한 추출물, 즉 총 추출물, 다당류 및 코디세핀의 면역 조절 효과를 분류합니다.
+      물 또는 50% 에틸 알코올을 사용하여 얻은 총 추출물과 C. militaris의 다당류은 1형 면역을 촉진하는 경향이 있는 반면, 70~80%
+      에틸 알코올과 C. militaris의 코디세핀을 사용하여 얻은 총 추출물은 2형 면역을 촉진할 가능성이 더 높았습니다. 이 논문은 C.
+      militaris의 다양한 추출물s의 면역조절 효과를 분류한 최초의 논문입니다. 또한 우리는 서로 다른 세그먼트 또는 추출물과 다양한 유형의
+      면역 간의 관계를 발견했습니다. 이 리뷰는 독자들에게 귀중한 민간 요법의 면역 조절 효과에 대한 포괄적인 이해를 제공하고 건강한 사람과
+      면역 결핍증이 있는 사람 모두를 위한 이 약의 사용에 대한 지침을 제공할 수 있습니다.
+  full:
+    en: Cordyceps militaris ( C. militaris ) is a fungus with a long history of widespread
+      use in folk medicine, and its biological and medicinal functions are well studied.
+      A crucial pharmacological effect of C. militaris is immunomodulation. In this
+      review, we catalog the immunomodulatory effects of different extracts of C.
+      militaris , namely total extracts, polysaccharides and cordycepin . Total extracts
+      obtained using water or 50% ethyl alcohol and polysaccharides from C. militaris
+      were discovered to tend to promote type 1 immunity, whereas total extracts obtained
+      using 70–80% ethyl alcohol and cordycepin from C. militaris were more likely
+      to promote type 2 immunity. This article is the first to classify the immunomodulatory
+      effects of different extracts of C. militaris . In addition, we discovered a
+      relationship between different segments or extracts and differing types of immunity.
+      This review can provide the readers a comprehensive understanding on the immunomodulatory
+      effects of the precious folk medicine and guidance on its use for both health
+      people and those with an immunodeficiency.
+    ko_literal: Cordyceps militaris( C. militaris )은 민간요법으로 널리 사용되어 온 오랜 역사를 지닌 곰팡이로
+      그 생물학적, 의약적 기능이 잘 연구되어 있다. C. militaris의 중요한 약리학적 효과는 면역조절입니다. 이 검토에서 우리는 C.
+      militaris의 다양한 추출물, 즉 총 추출물, 다당류 및 코디세핀의 면역 조절 효과를 분류합니다. 물 또는 50% 에틸 알코올을 사용하여
+      얻은 총 추출물과 C. militaris의 다당류은 1형 면역을 촉진하는 경향이 있는 반면, 70~80% 에틸 알코올과 C. militaris의
+      코디세핀을 사용하여 얻은 총 추출물은 2형 면역을 촉진할 가능성이 더 높았습니다. 이 논문은 C. militaris의 다양한 추출물s의
+      면역조절 효과를 분류한 최초의 논문입니다. 또한 우리는 서로 다른 세그먼트 또는 추출물과 다양한 유형의 면역 간의 관계를 발견했습니다.
+      이 리뷰는 독자들에게 귀중한 민간 요법의 면역 조절 효과에 대한 포괄적인 이해를 제공하고 건강한 사람과 면역 결핍증이 있는 사람 모두를
+      위한 이 약의 사용에 대한 지침을 제공할 수 있습니다.
+    ko_researcher: '[초록 전체] 핵심 용어: **코디세핀**(cordycepin) · **Cordyceps militaris**(cordyceps
+      militaris) · **Cordyceps**(cordyceps) · **다당류**(polysaccharide). Cordyceps militaris(
+      C. militaris )은 민간요법으로 널리 사용되어 온 오랜 역사를 지닌 곰팡이로 그 생물학적, 의약적 기능이 잘 연구되어 있다. C.
+      militaris의 중요한 약리학적 효과는 면역조절입니다. 이 검토에서 우리는 C. militaris의 다양한 추출물, 즉 총 추출물,
+      다당류 및 코디세핀의 면역 조절 효과를 분류합니다. 물 또는 50% 에틸 알코올을 사용하여 얻은 총 추출물과 C. militaris의 다당류은
+      1형 면역을 촉진하는 경향이 있는 반면, 70~80% 에틸 알코올과 C. militaris의 코디세핀을 사용하여 얻은 총 추출물은 2형
+      면역을 촉진할 가능성이 더 높았습니다. 이 논문은 C. militaris의 다양한 추출물s의 면역조절 효과를 분류한 최초의 논문입니다.
+      또한 우리는 서로 다른 세그먼트 또는 추출물과 다양한 유형의 면역 간의 관계를 발견했습니다. 이 리뷰는 독자들에게 귀중한 민간 요법의 면역
+      조절 효과에 대한 포괄적인 이해를 제공하고 건강한 사람과 면역 결핍증이 있는 사람 모두를 위한 이 약의 사용에 대한 지침을 제공할 수 있습니다.'
+    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. Cordyceps militaris( C. militaris )은 민간요법으로
+      널리 사용되어 온 오랜 역사를 지닌 곰팡이로 그 생물학적, 의약적 기능이 잘 연구되어 있다. C. militaris의 중요한 약리학적 효과는
+      면역조절입니다. 이 검토에서 우리는 C. militaris의 다양한 추출물, 즉 총 추출물, 다당류 및 코디세핀의 면역 조절 효과를 분류합니다.
+      물 또는 50% 에틸 알코올을 사용하여 얻은 총 추출물과 C. militaris의 다당류은 1형 면역을 촉진하는 경향이 있는 반면, 70~80%
+      에틸 알코올과 C. militaris의 코디세핀을 사용하여 얻은 총 추출물은 2형 면역을 촉진할 가능성이 더 높았습니다. 이 논문은 C.
+      militaris의 다양한 추출물s의 면역조절 효과를 분류한 최초의 논문입니다. 또한 우리는 서로 다른 세그먼트 또는 추출물과 다양한 유형의
+      면역 간의 관계를 발견했습니다. 이 리뷰는 독자들에게 귀중한 민간 요법의 면역 조절 효과에 대한 포괄적인 이해를 제공하고 건강한 사람과
+      면역 결핍증이 있는 사람 모두를 위한 이 약의 사용에 대한 지침을 제공할 수 있습니다.
 ---
 
 ## 한국어 요약

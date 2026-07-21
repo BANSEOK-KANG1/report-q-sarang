@@ -1,8 +1,7 @@
 ---
 title: Increased Cordycepin Production in Yarrowia lipolytica Using Combinatorial
   Metabolic Engineering Strategies.
-title_ko: Increased Cordycepin Production in Yarrowia lipolytica Using Combinatorial
-  Metabolic Engineering Strategies.
+title_ko: 조합 대사 공학 전략을 사용하여 야로위아 리폴리티카의 코디세핀 생산 증가.
 slug: increased-cordycepin-production-in-yarrowia-lipo-2023-791366
 record_id: a33e9720-ec0e-41d3-8ad0-84efc0f34da7
 date: '2026-07-21'
@@ -94,6 +93,130 @@ api_meta:
     openalex: true
     crossref: true
   fetched_at: '2026-07-21'
+translations:
+  title_ko: 조합 대사 공학 전략을 사용하여 야로위아 리폴리티카의 코디세핀 생산 증가.
+  glossary:
+  - en: cordycepin
+    ko: 코디세핀
+    note: 3'-deoxyadenosine, Cordyceps 주요 bioactive 성분
+  - en: cordyceps militaris
+    ko: Cordyceps militaris
+    note: 동충하초 균종
+  - en: cordyceps
+    ko: Cordyceps
+    note: 충Cordyceps属 진균
+  - en: fermentation
+    ko: 발효
+    note: 미생물·균류를 이용한 대량 배양
+  - en: adenosine
+    ko: 아데노신
+    note: 뉴클레오시드 관련 물질
+  - en: yield
+    ko: 수율
+    note: 단위당 생산량
+  - en: extract
+    ko: 추출물
+    note: 용매 등으로 뽑아낸 성분
+  sections:
+  - id: summary
+    label_ko: 초록 전체
+    en: As the first nucleoside antibiotic discovered in fungi, cordycepin, with its
+      various biological activities, has wide applications. At present, cordycepin
+      is mainly obtained from the natural fruiting bodies of Cordyceps militaris.
+      However, due to long production periods, low yields, and low extraction efficiency,
+      harvesting cordycepin from natural C. militaris is not ideal, making it difficult
+      to meet market demands. In this study, an engineered Yarrowia lipolytica YlCor-18
+      strain, constructed by combining metabolic engineering strategies, achieved
+      efficient de novo cordycepin production from glucose. First, the cordycepin
+      biosynthetic pathway derived from C. militaris was introduced into Y. lipolytica.
+      Furthermore, metabolic engineering strategies including promoter, protein, adenosine
+      triphosphate, and precursor engineering were combined to enhance the synthetic
+      ability of engineered strains of cordycepin. Fermentation conditions were also
+      optimized, after which, the production titer and yields of cordycepin in the
+      engineered strain YlCor-18 under fed-batch fermentation were improved to 4362.54
+      mg/L and 213.85 mg/g, respectively, after 168 h. This study demonstrates the
+      potential of Y. lipolytica as a cell factory for cordycepin synthesis, which
+      will serve as the model for the green biomanufacturing of other nucleoside antibiotics
+      using artificial cell factories.
+    ko_literal: 곰팡이에서 발견된 최초의 뉴클레오시드 항생제인 코디세핀은 다양한 생물학적 활성을 가지고 있어 폭넓게 응용되고 있습니다.
+      현재 코디세핀은(는) 주로 Cordyceps militaris의 천연 자실체에서 얻습니다. 그러나 생산 기간이 길고 수율이 낮고 추출물이온
+      효율이 낮기 때문에 천연 C. militaris에서 코디세핀을 수확하는 것은 이상적이지 않아 시장 수요를 충족하기 어렵습니다. 이 연구에서
+      대사 공학 전략을 결합하여 제작된 가공된 야로위아 리폴리티카 YlCor-18 균주는 포도당에서 효율적인 새로운 코디세핀 생산을 달성했습니다.
+      먼저, C. militaris 유래 코디세핀 생합성 경로가 Y. lipilytica에 도입되었습니다. 또한, 프로모터, 단백질, 아데노신
+      삼인산염 및 전구체 공학을 포함한 대사 공학 전략을 결합하여 코디세핀의 조작된 균주의 합성 능력을 향상시켰습니다. 발효 조건도 최적화되었으며,
+      이후 유가식 발효 하에서 조작된 균주 YlCor-18의 코디세핀의 생산 역가 및 수율s는 168시간 후에 각각 4362.54 mg/L 및
+      213.85 mg/g으로 개선되었습니다. 이 연구는 코디세핀 합성을 위한 세포 공장으로서 Y.lipolytica의 잠재력을 보여 주며,
+      이는 인공 세포 공장을 사용하여 다른 뉴클레오시드 항생제의 녹색 생물 제조를 위한 모델 역할을 할 것입니다.
+    ko_researcher: '[초록 전체] 핵심 용어: **코디세핀**(cordycepin) · **Cordyceps militaris**(cordyceps
+      militaris) · **Cordyceps**(cordyceps) · **발효**(fermentation). 곰팡이에서 발견된 최초의
+      뉴클레오시드 항생제인 코디세핀은 다양한 생물학적 활성을 가지고 있어 폭넓게 응용되고 있습니다. 현재 코디세핀은(는) 주로 Cordyceps
+      militaris의 천연 자실체에서 얻습니다. 그러나 생산 기간이 길고 수율이 낮고 추출물이온 효율이 낮기 때문에 천연 C. militaris에서
+      코디세핀을 수확하는 것은 이상적이지 않아 시장 수요를 충족하기 어렵습니다. 이 연구에서 대사 공학 전략을 결합하여 제작된 가공된 야로위아
+      리폴리티카 YlCor-18 균주는 포도당에서 효율적인 새로운 코디세핀 생산을 달성했습니다. 먼저, C. militaris 유래 코디세핀
+      생합성 경로가 Y. lipilytica에 도입되었습니다. 또한, 프로모터, 단백질, 아데노신 삼인산염 및 전구체 공학을 포함한 대사 공학
+      전략을 결합하여 코디세핀의 조작된 균주의 합성 능력을 향상시켰습니다. 발효 조건도 최적화되었으며, 이후 유가식 발효 하에서 조작된 균주
+      YlCor-18의 코디세핀의 생산 역가 및 수율s는 168시간 후에 각각 4362.54 mg/L 및 213.85 mg/g으로 개선되었습니다.
+      이 연구는 코디세핀 합성을 위한 세포 공장으로서 Y.lipolytica의 잠재력을 보여 주며, 이는 인공 세포 공장을 사용하여 다른 뉴클레오시드
+      항생제의 녹색 생물 제조를 위한 모델 역할을 할 것입니다.'
+    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. 곰팡이에서 발견된 최초의 뉴클레오시드 항생제인 코디세핀은 다양한 생물학적
+      활성을 가지고 있어 폭넓게 응용되고 있습니다. 현재 코디세핀은(는) 주로 Cordyceps militaris의 천연 자실체에서 얻습니다.
+      그러나 생산 기간이 길고 수율이 낮고 추출물이온 효율이 낮기 때문에 천연 C. militaris에서 코디세핀을 수확하는 것은 이상적이지
+      않아 시장 수요를 충족하기 어렵습니다. 이 연구에서 대사 공학 전략을 결합하여 제작된 가공된 야로위아 리폴리티카 YlCor-18 균주는
+      포도당에서 효율적인 새로운 코디세핀 생산을 달성했습니다. 먼저, C. militaris 유래 코디세핀 생합성 경로가 Y. lipilytica에
+      도입되었습니다. 또한, 프로모터, 단백질, 아데노신 삼인산염 및 전구체 공학을 포함한 대사 공학 전략을 결합하여 코디세핀의 조작된 균주의
+      합성 능력을 향상시켰습니다. 발효 조건도 최적화되었으며, 이후 유가식 발효 하에서 조작된 균주 YlCor-18의 코디세핀의 생산 역가 및
+      수율s는 168시간 후에 각각 4362.54 mg/L 및 213.85 mg/g으로 개선되었습니다. 이 연구는 코디세핀 합성을 위한 세포
+      공장으로서 Y.lipolytica의 잠재력을 보여 주며, 이는 인공 세포 공장을 사용하여 다른 뉴클레오시드 항생제의 녹색 생물 제조를 위한
+      모델 역할을 할 것입니다.
+  full:
+    en: As the first nucleoside antibiotic discovered in fungi, cordycepin, with its
+      various biological activities, has wide applications. At present, cordycepin
+      is mainly obtained from the natural fruiting bodies of Cordyceps militaris.
+      However, due to long production periods, low yields, and low extraction efficiency,
+      harvesting cordycepin from natural C. militaris is not ideal, making it difficult
+      to meet market demands. In this study, an engineered Yarrowia lipolytica YlCor-18
+      strain, constructed by combining metabolic engineering strategies, achieved
+      efficient de novo cordycepin production from glucose. First, the cordycepin
+      biosynthetic pathway derived from C. militaris was introduced into Y. lipolytica.
+      Furthermore, metabolic engineering strategies including promoter, protein, adenosine
+      triphosphate, and precursor engineering were combined to enhance the synthetic
+      ability of engineered strains of cordycepin. Fermentation conditions were also
+      optimized, after which, the production titer and yields of cordycepin in the
+      engineered strain YlCor-18 under fed-batch fermentation were improved to 4362.54
+      mg/L and 213.85 mg/g, respectively, after 168 h. This study demonstrates the
+      potential of Y. lipolytica as a cell factory for cordycepin synthesis, which
+      will serve as the model for the green biomanufacturing of other nucleoside antibiotics
+      using artificial cell factories.
+    ko_literal: 곰팡이에서 발견된 최초의 뉴클레오시드 항생제인 코디세핀은 다양한 생물학적 활성을 가지고 있어 폭넓게 응용되고 있습니다.
+      현재 코디세핀은(는) 주로 Cordyceps militaris의 천연 자실체에서 얻습니다. 그러나 생산 기간이 길고 수율이 낮고 추출물이온
+      효율이 낮기 때문에 천연 C. militaris에서 코디세핀을 수확하는 것은 이상적이지 않아 시장 수요를 충족하기 어렵습니다. 이 연구에서
+      대사 공학 전략을 결합하여 제작된 가공된 야로위아 리폴리티카 YlCor-18 균주는 포도당에서 효율적인 새로운 코디세핀 생산을 달성했습니다.
+      먼저, C. militaris 유래 코디세핀 생합성 경로가 Y. lipilytica에 도입되었습니다. 또한, 프로모터, 단백질, 아데노신
+      삼인산염 및 전구체 공학을 포함한 대사 공학 전략을 결합하여 코디세핀의 조작된 균주의 합성 능력을 향상시켰습니다. 발효 조건도 최적화되었으며,
+      이후 유가식 발효 하에서 조작된 균주 YlCor-18의 코디세핀의 생산 역가 및 수율s는 168시간 후에 각각 4362.54 mg/L 및
+      213.85 mg/g으로 개선되었습니다. 이 연구는 코디세핀 합성을 위한 세포 공장으로서 Y.lipolytica의 잠재력을 보여 주며,
+      이는 인공 세포 공장을 사용하여 다른 뉴클레오시드 항생제의 녹색 생물 제조를 위한 모델 역할을 할 것입니다.
+    ko_researcher: '[초록 전체] 핵심 용어: **코디세핀**(cordycepin) · **Cordyceps militaris**(cordyceps
+      militaris) · **Cordyceps**(cordyceps) · **발효**(fermentation). 곰팡이에서 발견된 최초의
+      뉴클레오시드 항생제인 코디세핀은 다양한 생물학적 활성을 가지고 있어 폭넓게 응용되고 있습니다. 현재 코디세핀은(는) 주로 Cordyceps
+      militaris의 천연 자실체에서 얻습니다. 그러나 생산 기간이 길고 수율이 낮고 추출물이온 효율이 낮기 때문에 천연 C. militaris에서
+      코디세핀을 수확하는 것은 이상적이지 않아 시장 수요를 충족하기 어렵습니다. 이 연구에서 대사 공학 전략을 결합하여 제작된 가공된 야로위아
+      리폴리티카 YlCor-18 균주는 포도당에서 효율적인 새로운 코디세핀 생산을 달성했습니다. 먼저, C. militaris 유래 코디세핀
+      생합성 경로가 Y. lipilytica에 도입되었습니다. 또한, 프로모터, 단백질, 아데노신 삼인산염 및 전구체 공학을 포함한 대사 공학
+      전략을 결합하여 코디세핀의 조작된 균주의 합성 능력을 향상시켰습니다. 발효 조건도 최적화되었으며, 이후 유가식 발효 하에서 조작된 균주
+      YlCor-18의 코디세핀의 생산 역가 및 수율s는 168시간 후에 각각 4362.54 mg/L 및 213.85 mg/g으로 개선되었습니다.
+      이 연구는 코디세핀 합성을 위한 세포 공장으로서 Y.lipolytica의 잠재력을 보여 주며, 이는 인공 세포 공장을 사용하여 다른 뉴클레오시드
+      항생제의 녹색 생물 제조를 위한 모델 역할을 할 것입니다.'
+    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. 곰팡이에서 발견된 최초의 뉴클레오시드 항생제인 코디세핀은 다양한 생물학적
+      활성을 가지고 있어 폭넓게 응용되고 있습니다. 현재 코디세핀은(는) 주로 Cordyceps militaris의 천연 자실체에서 얻습니다.
+      그러나 생산 기간이 길고 수율이 낮고 추출물이온 효율이 낮기 때문에 천연 C. militaris에서 코디세핀을 수확하는 것은 이상적이지
+      않아 시장 수요를 충족하기 어렵습니다. 이 연구에서 대사 공학 전략을 결합하여 제작된 가공된 야로위아 리폴리티카 YlCor-18 균주는
+      포도당에서 효율적인 새로운 코디세핀 생산을 달성했습니다. 먼저, C. militaris 유래 코디세핀 생합성 경로가 Y. lipilytica에
+      도입되었습니다. 또한, 프로모터, 단백질, 아데노신 삼인산염 및 전구체 공학을 포함한 대사 공학 전략을 결합하여 코디세핀의 조작된 균주의
+      합성 능력을 향상시켰습니다. 발효 조건도 최적화되었으며, 이후 유가식 발효 하에서 조작된 균주 YlCor-18의 코디세핀의 생산 역가 및
+      수율s는 168시간 후에 각각 4362.54 mg/L 및 213.85 mg/g으로 개선되었습니다. 이 연구는 코디세핀 합성을 위한 세포
+      공장으로서 Y.lipolytica의 잠재력을 보여 주며, 이는 인공 세포 공장을 사용하여 다른 뉴클레오시드 항생제의 녹색 생물 제조를 위한
+      모델 역할을 할 것입니다.
 ---
 
 ## 한국어 요약

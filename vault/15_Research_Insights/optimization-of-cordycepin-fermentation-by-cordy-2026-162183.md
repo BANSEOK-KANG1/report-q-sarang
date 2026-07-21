@@ -1,8 +1,7 @@
 ---
 title: Optimization of cordycepin fermentation by Cordyceps militaris via response
   surface methodology.
-title_ko: Optimization of cordycepin fermentation by Cordyceps militaris via response
-  surface methodology.
+title_ko: 반응 표면 방법론을 통해 Cordyceps militaris에 의한 코디세핀 발효 최적화.
 slug: optimization-of-cordycepin-fermentation-by-cordy-2026-162183
 record_id: 8d37cf9b-ad14-45a2-97cd-9f113b34b0a5
 date: '2026-07-21'
@@ -89,6 +88,116 @@ api_meta:
     openalex: true
     crossref: true
   fetched_at: '2026-07-21'
+translations:
+  title_ko: 반응 표면 방법론을 통해 Cordyceps militaris에 의한 코디세핀 발효 최적화.
+  glossary:
+  - en: cordycepin
+    ko: 코디세핀
+    note: 3'-deoxyadenosine, Cordyceps 주요 bioactive 성분
+  - en: cordyceps militaris
+    ko: Cordyceps militaris
+    note: 동충하초 균종
+  - en: cordyceps
+    ko: Cordyceps
+    note: 충Cordyceps属 진균
+  - en: fermentation
+    ko: 발효
+    note: 미생물·균류를 이용한 대량 배양
+  - en: yield
+    ko: 수율
+    note: 단위당 생산량
+  sections:
+  - id: summary
+    label_ko: 초록 전체
+    en: Cordycepin is a bioactive compound with demonstrated immunoregulatory, antioxidant,
+      and organ-protective properties. This study aimed to significantly enhance the
+      production of cordycepin in Cordyceps militaris fermentation through systematic
+      process optimization. After identifying glucose, peptone, and Mg 2+ as the optimal
+      carbon source, nitrogen source, and inorganic salt via single-factor experiments,
+      response surface methodology (RSM) was applied to refine their concentrations
+      along with inoculation amount and pH. The analysis indicated that glucose, peptone,
+      and pH exerted an extremely significant influence on yield (p 2+ was significant
+      (p = 0.0112), while inoculation amount was not (p = 0.0524). The derived optimal
+      conditions (40 g L - 1 glucose, 24 g L - 1 peptone, 0.7 g L - 1 Mg 2+ , 2% (v/v)
+      inoculation, pH 8) were validated, achieving a cordycepin yield of 212.00 mg
+      L - 1 . This result closely matched the model prediction and represented a 46.18%
+      increase compared with the initial yield of 145.03 mg L - 1 , demonstrating
+      the strategy's effectiveness for boosting production efficiency and potential
+      for industrial application. These results will help improve cordycepin production
+      efficiency in industrial settings, thereby bringing economic benefits to the
+      cordyceps industry.
+    ko_literal: 코디세핀은 면역 조절, 항산화 및 장기 보호 특성이 입증된 생리 활성 화합물입니다. 이 연구는 체계적인 공정 최적화를
+      통해 Cordyceps militaris 발효에서 코디세핀의 생산을 크게 향상시키는 것을 목표로 했습니다. 단일 인자 실험을 통해 최적의
+      탄소원, 질소원, 무기염인 글루코스, 펩톤, Mg 2+ 를 확인한 후, 반응 표면 방법론(RSM)을 적용하여 접종량, pH와 함께 농도를
+      세분화했습니다. 분석 결과, 포도당, 펩톤 및 pH가 수율에 매우 중요한 영향을 미치는 것으로 나타났습니다(p 2+는 유의미함(p = 0.0112).
+      반면 접종량은 그렇지 않았습니다(p = 0.0524). 도출된 최적 조건(40g L - 1 포도당, 24g L - 1 펩톤, 0.7g L
+      - 1 Mg 2+ , 2%(v/v) 접종, pH 8)이 검증되어 212.00 mg L - 1 의 코디세핀 수율을 달성했습니다. 이 결과는
+      모델 예측과 거의 일치했으며 초기 수율인 145.03 mg L - 1 에 비해 46.18% 증가한 것으로 나타났습니다. 이는 생산 효율성과
+      산업 적용 가능성을 높이는 전략의 효과를 입증하는 것입니다. 산업 환경에서 생산 효율성을 높여 Cordyceps 산업에 경제적 이익을 가져다줍니다.
+    ko_researcher: '[초록 전체] 핵심 용어: **코디세핀**(cordycepin) · **Cordyceps militaris**(cordyceps
+      militaris) · **Cordyceps**(cordyceps) · **발효**(fermentation). 코디세핀은 면역 조절, 항산화
+      및 장기 보호 특성이 입증된 생리 활성 화합물입니다. 이 연구는 체계적인 공정 최적화를 통해 Cordyceps militaris 발효에서
+      코디세핀의 생산을 크게 향상시키는 것을 목표로 했습니다. 단일 인자 실험을 통해 최적의 탄소원, 질소원, 무기염인 글루코스, 펩톤, Mg
+      2+ 를 확인한 후, 반응 표면 방법론(RSM)을 적용하여 접종량, pH와 함께 농도를 세분화했습니다. 분석 결과, 포도당, 펩톤 및 pH가
+      수율에 매우 중요한 영향을 미치는 것으로 나타났습니다(p 2+는 유의미함(p = 0.0112). 반면 접종량은 그렇지 않았습니다(p =
+      0.0524). 도출된 최적 조건(40g L - 1 포도당, 24g L - 1 펩톤, 0.7g L - 1 Mg 2+ , 2%(v/v) 접종,
+      pH 8)이 검증되어 212.00 mg L - 1 의 코디세핀 수율을 달성했습니다. 이 결과는 모델 예측과 거의 일치했으며 초기 수율인
+      145.03 mg L - 1 에 비해 46.18% 증가한 것으로 나타났습니다. 이는 생산 효율성과 산업 적용 가능성을 높이는 전략의 효과를
+      입증하는 것입니다. 산업 환경에서 생산 효율성을 높여 Cordyceps 산업에 경제적 이익을 가져다줍니다.'
+    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. 코디세핀은 면역 조절, 항산화 및 장기 보호 특성이 입증된 생리 활성 화합물입니다.
+      이 연구는 체계적인 공정 최적화를 통해 Cordyceps militaris 발효에서 코디세핀의 생산을 크게 향상시키는 것을 목표로 했습니다.
+      단일 인자 실험을 통해 최적의 탄소원, 질소원, 무기염인 글루코스, 펩톤, Mg 2+ 를 확인한 후, 반응 표면 방법론(RSM)을 적용하여
+      접종량, pH와 함께 농도를 세분화했습니다. 분석 결과, 포도당, 펩톤 및 pH가 수율에 매우 중요한 영향을 미치는 것으로 나타났습니다(p
+      2+는 유의미함(p = 0.0112). 반면 접종량은 그렇지 않았습니다(p = 0.0524). 도출된 최적 조건(40g L - 1 포도당,
+      24g L - 1 펩톤, 0.7g L - 1 Mg 2+ , 2%(v/v) 접종, pH 8)이 검증되어 212.00 mg L - 1 의 코디세핀
+      수율을 달성했습니다. 이 결과는 모델 예측과 거의 일치했으며 초기 수율인 145.03 mg L - 1 에 비해 46.18% 증가한 것으로
+      나타났습니다. 이는 생산 효율성과 산업 적용 가능성을 높이는 전략의 효과를 입증하는 것입니다. 산업 환경에서 생산 효율성을 높여 Cordyceps
+      산업에 경제적 이익을 가져다줍니다.
+  full:
+    en: Cordycepin is a bioactive compound with demonstrated immunoregulatory, antioxidant,
+      and organ-protective properties. This study aimed to significantly enhance the
+      production of cordycepin in Cordyceps militaris fermentation through systematic
+      process optimization. After identifying glucose, peptone, and Mg 2+ as the optimal
+      carbon source, nitrogen source, and inorganic salt via single-factor experiments,
+      response surface methodology (RSM) was applied to refine their concentrations
+      along with inoculation amount and pH. The analysis indicated that glucose, peptone,
+      and pH exerted an extremely significant influence on yield (p 2+ was significant
+      (p = 0.0112), while inoculation amount was not (p = 0.0524). The derived optimal
+      conditions (40 g L - 1 glucose, 24 g L - 1 peptone, 0.7 g L - 1 Mg 2+ , 2% (v/v)
+      inoculation, pH 8) were validated, achieving a cordycepin yield of 212.00 mg
+      L - 1 . This result closely matched the model prediction and represented a 46.18%
+      increase compared with the initial yield of 145.03 mg L - 1 , demonstrating
+      the strategy's effectiveness for boosting production efficiency and potential
+      for industrial application. These results will help improve cordycepin production
+      efficiency in industrial settings, thereby bringing economic benefits to the
+      cordyceps industry.
+    ko_literal: 코디세핀은 면역 조절, 항산화 및 장기 보호 특성이 입증된 생리 활성 화합물입니다. 이 연구는 체계적인 공정 최적화를
+      통해 Cordyceps militaris 발효에서 코디세핀의 생산을 크게 향상시키는 것을 목표로 했습니다. 단일 인자 실험을 통해 최적의
+      탄소원, 질소원, 무기염인 글루코스, 펩톤, Mg 2+ 를 확인한 후, 반응 표면 방법론(RSM)을 적용하여 접종량, pH와 함께 농도를
+      세분화했습니다. 분석 결과, 포도당, 펩톤 및 pH가 수율에 매우 중요한 영향을 미치는 것으로 나타났습니다(p 2+는 유의미함(p = 0.0112).
+      반면 접종량은 그렇지 않았습니다(p = 0.0524). 도출된 최적 조건(40g L - 1 포도당, 24g L - 1 펩톤, 0.7g L
+      - 1 Mg 2+ , 2%(v/v) 접종, pH 8)이 검증되어 212.00 mg L - 1 의 코디세핀 수율을 달성했습니다. 이 결과는
+      모델 예측과 거의 일치했으며 초기 수율인 145.03 mg L - 1 에 비해 46.18% 증가한 것으로 나타났습니다. 이는 생산 효율성과
+      산업 적용 가능성을 높이는 전략의 효과를 입증하는 것입니다. 산업 환경에서 생산 효율성을 높여 Cordyceps 산업에 경제적 이익을 가져다줍니다.
+    ko_researcher: '[초록 전체] 핵심 용어: **코디세핀**(cordycepin) · **Cordyceps militaris**(cordyceps
+      militaris) · **Cordyceps**(cordyceps) · **발효**(fermentation). 코디세핀은 면역 조절, 항산화
+      및 장기 보호 특성이 입증된 생리 활성 화합물입니다. 이 연구는 체계적인 공정 최적화를 통해 Cordyceps militaris 발효에서
+      코디세핀의 생산을 크게 향상시키는 것을 목표로 했습니다. 단일 인자 실험을 통해 최적의 탄소원, 질소원, 무기염인 글루코스, 펩톤, Mg
+      2+ 를 확인한 후, 반응 표면 방법론(RSM)을 적용하여 접종량, pH와 함께 농도를 세분화했습니다. 분석 결과, 포도당, 펩톤 및 pH가
+      수율에 매우 중요한 영향을 미치는 것으로 나타났습니다(p 2+는 유의미함(p = 0.0112). 반면 접종량은 그렇지 않았습니다(p =
+      0.0524). 도출된 최적 조건(40g L - 1 포도당, 24g L - 1 펩톤, 0.7g L - 1 Mg 2+ , 2%(v/v) 접종,
+      pH 8)이 검증되어 212.00 mg L - 1 의 코디세핀 수율을 달성했습니다. 이 결과는 모델 예측과 거의 일치했으며 초기 수율인
+      145.03 mg L - 1 에 비해 46.18% 증가한 것으로 나타났습니다. 이는 생산 효율성과 산업 적용 가능성을 높이는 전략의 효과를
+      입증하는 것입니다. 산업 환경에서 생산 효율성을 높여 Cordyceps 산업에 경제적 이익을 가져다줍니다.'
+    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. 코디세핀은 면역 조절, 항산화 및 장기 보호 특성이 입증된 생리 활성 화합물입니다.
+      이 연구는 체계적인 공정 최적화를 통해 Cordyceps militaris 발효에서 코디세핀의 생산을 크게 향상시키는 것을 목표로 했습니다.
+      단일 인자 실험을 통해 최적의 탄소원, 질소원, 무기염인 글루코스, 펩톤, Mg 2+ 를 확인한 후, 반응 표면 방법론(RSM)을 적용하여
+      접종량, pH와 함께 농도를 세분화했습니다. 분석 결과, 포도당, 펩톤 및 pH가 수율에 매우 중요한 영향을 미치는 것으로 나타났습니다(p
+      2+는 유의미함(p = 0.0112). 반면 접종량은 그렇지 않았습니다(p = 0.0524). 도출된 최적 조건(40g L - 1 포도당,
+      24g L - 1 펩톤, 0.7g L - 1 Mg 2+ , 2%(v/v) 접종, pH 8)이 검증되어 212.00 mg L - 1 의 코디세핀
+      수율을 달성했습니다. 이 결과는 모델 예측과 거의 일치했으며 초기 수율인 145.03 mg L - 1 에 비해 46.18% 증가한 것으로
+      나타났습니다. 이는 생산 효율성과 산업 적용 가능성을 높이는 전략의 효과를 입증하는 것입니다. 산업 환경에서 생산 효율성을 높여 Cordyceps
+      산업에 경제적 이익을 가져다줍니다.
 ---
 
 ## 한국어 요약

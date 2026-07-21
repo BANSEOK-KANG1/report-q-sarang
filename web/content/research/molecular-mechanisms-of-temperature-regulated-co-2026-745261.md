@@ -1,8 +1,7 @@
 ---
 title: Molecular Mechanisms of Temperature-Regulated Cordycepin Biosynthesis in Cordyceps
   militaris .
-title_ko: Molecular Mechanisms of Temperature-Regulated Cordycepin Biosynthesis in
-  Cordyceps militaris .
+title_ko: Cordyceps militaris에서 온도 조절 코디세핀 생합성의 분자 메커니즘.
 slug: molecular-mechanisms-of-temperature-regulated-co-2026-745261
 record_id: 3776d637-356e-4eda-bcf7-5599e2748bec
 date: '2026-07-21'
@@ -108,6 +107,159 @@ api_meta:
     openalex: true
     crossref: true
   fetched_at: '2026-07-21'
+translations:
+  title_ko: Cordyceps militaris에서 온도 조절 코디세핀 생합성의 분자 메커니즘.
+  glossary:
+  - en: cordycepin
+    ko: 코디세핀
+    note: 3'-deoxyadenosine, Cordyceps 주요 bioactive 성분
+  - en: cordyceps militaris
+    ko: Cordyceps militaris
+    note: 동충하초 균종
+  - en: cordyceps
+    ko: Cordyceps
+    note: 충Cordyceps属 진균
+  - en: biosynthesis
+    ko: 생합성
+    note: 생물체 내에서 물질이 만들어지는 과정
+  - en: metabolite
+    ko: 대사산물
+    note: 균류·세포가 만든 화학물질
+  - en: fruiting body
+    ko: 자실체
+    note: 균류의 번식·수확 대상 구조
+  sections:
+  - id: summary
+    label_ko: 초록 전체
+    en: 'Cordycepin is a key active component of Cordyceps militaris , but the molecular
+      mechanism underlying temperature-regulated biosynthesis remains unclear. In
+      this study, Cordyceps militaris strain KN-1 was used as experimental material,
+      with low-temperature (15 °C), control (20 °C), and high-temperature (25 °C)
+      treatments applied during the fruiting body stage. Transcriptomics, untargeted
+      metabolomics, weighted gene co-expression network analysis (WGCNA), and Reverse
+      Transcription quantitative PCR (RT-qPCR) validation were integrated to elucidate
+      the molecular mechanism of temperature-mediated cordycepin biosynthesis. The
+      results showed that 25 °C increased fruiting body cordycepin content by 84%,
+      while 15 °C reduced it. Transcriptomic analysis identified differentially expressed
+      genes (DEGs) enriched in transmembrane transport and fatty acid metabolism,
+      and untargeted metabolomics revealed differential metabolites (DAMs) enriched
+      in lipids and organic acids, indicating that temperature primarily affects Cordyceps
+      militaris membrane function. WGCNA showed that the MEblue module was positively
+      correlated with cordycepin (r = 0.93), with Major Facilitator Superfamily (MFS)
+      members accounting for the highest proportion (47.1%) that may affect cordycepin
+      transmembrane transport. Multi-omics analysis indicated that high temperature
+      promotes cordycepin accumulation through the synergistic regulation of multiple
+      pathways: upregulating genes in the pentose phosphate pathway, purine metabolism,
+      and cordycepin biosynthetic gene cluster ( Cns1 - Cns3 ), increasing protective
+      agent pentostatin content, downregulating cordycepin-degrading genes, and enhancing
+      cordycepin transmembrane transport. This study clarifies the molecular mechanism
+      of temperature-mediated cordycepin accumulation, providing a theoretical basis
+      for improving cordycepin production via temperature regulation, optimizing Cordyceps
+      militaris strain quality, and facilitating efficient industrial production.'
+    ko_literal: 코디세핀은 Cordyceps militaris의 주요 활성 구성 요소이지만 온도 조절 생합성의 기본 분자 메커니즘은 불분명합니다.
+      본 연구에서는 Cordyceps militaris 균주 KN-1을 실험 재료로 사용했으며 자실체 단계 동안 저온(15°C), 대조(20°C)
+      및 고온(25°C) 처리가 적용되었습니다. 온도 매개 코디세핀 생합성의 분자 메커니즘을 설명하기 위해 전사체학, 비표적 대사체학, WGCNA(가중
+      유전자 공동 발현 네트워크 분석) 및 RT-qPCR(역전사 정량적 PCR) 검증을 통합했습니다. 결과에 따르면 25°C에서는 자실체 코디세핀
+      함량이 84% 증가한 반면 15°C에서는 감소했습니다. 전사체 분석에서는 막횡단 수송 및 지방산 대사가 풍부한 차등 발현 유전자(DEG)가
+      확인되었으며, 비표적 대사체학에서는 지질과 유기산이 풍부한 차등 대사산물(DAM)이 밝혀졌는데, 이는 온도가 주로 Cordyceps militaris
+      막 기능에 영향을 미친다는 것을 나타냅니다. WGCNA는 MEblue 모듈이 코디세핀(r = 0.93)과 양의 상관관계가 있으며 MFS(Major
+      Facilitator Superfamily) 구성원이 코디세핀 막 횡단 수송에 영향을 미칠 수 있는 가장 높은 비율(47.1%)을 차지한다는
+      것을 보여주었습니다. 다중 오믹스 분석에 따르면 고온은 오탄당 인산 경로의 유전자 상향 조절, 퓨린 대사 및 코디세핀 생합성 유전자 클러스터(Cns1
+      - Cns3), 보호제 펜토스타틴 함량 증가, 코디세핀 분해 유전자 하향 조절 및 코디세핀 막횡단 수송 강화 등 여러 경로의 시너지적 조절을
+      통해 코디세핀 축적을 촉진하는 것으로 나타났습니다. 이 연구는 온도 매개 코디세핀 축적의 분자 메커니즘을 명확히 하여 온도 조절을 통한
+      코디세핀 생산 개선, Cordyceps militaris 균주 품질 최적화 및 효율적인 산업 생산 촉진을 위한 이론적 기초를 제공합니다.
+    ko_researcher: '[초록 전체] 핵심 용어: **코디세핀**(cordycepin) · **Cordyceps militaris**(cordyceps
+      militaris) · **Cordyceps**(cordyceps) · **생합성**(biosynthesis). 코디세핀은 Cordyceps
+      militaris의 주요 활성 구성 요소이지만 온도 조절 생합성의 기본 분자 메커니즘은 불분명합니다. 본 연구에서는 Cordyceps militaris
+      균주 KN-1을 실험 재료로 사용했으며 자실체 단계 동안 저온(15°C), 대조(20°C) 및 고온(25°C) 처리가 적용되었습니다. 온도
+      매개 코디세핀 생합성의 분자 메커니즘을 설명하기 위해 전사체학, 비표적 대사체학, WGCNA(가중 유전자 공동 발현 네트워크 분석) 및
+      RT-qPCR(역전사 정량적 PCR) 검증을 통합했습니다. 결과에 따르면 25°C에서는 자실체 코디세핀 함량이 84% 증가한 반면 15°C에서는
+      감소했습니다. 전사체 분석에서는 막횡단 수송 및 지방산 대사가 풍부한 차등 발현 유전자(DEG)가 확인되었으며, 비표적 대사체학에서는 지질과
+      유기산이 풍부한 차등 대사산물(DAM)이 밝혀졌는데, 이는 온도가 주로 Cordyceps militaris 막 기능에 영향을 미친다는 것을
+      나타냅니다. WGCNA는 MEblue 모듈이 코디세핀(r = 0.93)과 양의 상관관계가 있으며 MFS(Major Facilitator
+      Superfamily) 구성원이 코디세핀 막 횡단 수송에 영향을 미칠 수 있는 가장 높은 비율(47.1%)을 차지한다는 것을 보여주었습니다.
+      다중 오믹스 분석에 따르면 고온은 오탄당 인산 경로의 유전자 상향 조절, 퓨린 대사 및 코디세핀 생합성 유전자 클러스터(Cns1 - Cns3),
+      보호제 펜토스타틴 함량 증가, 코디세핀 분해 유전자 하향 조절 및 코디세핀 막횡단 수송 강화 등 여러 경로의 시너지적 조절을 통해 코디세핀
+      축적을 촉진하는 것으로 나타났습니다. 이 연구는 온도 매개 코디세핀 축적의 분자 메커니즘을 명확히 하여 온도 조절을 통한 코디세핀 생산
+      개선, Cordyceps militaris 균주 품질 최적화 및 효율적인 산업 생산 촉진을 위한 이론적 기초를 제공합니다.'
+    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. 코디세핀은 Cordyceps militaris의 주요 활성 구성 요소이지만
+      온도 조절 생합성의 기본 분자 메커니즘은 불분명합니다. 본 연구에서는 Cordyceps militaris 균주 KN-1을 실험 재료로 사용했으며
+      자실체 단계 동안 저온(15°C), 대조(20°C) 및 고온(25°C) 처리가 적용되었습니다. 온도 매개 코디세핀 생합성의 분자 메커니즘을
+      설명하기 위해 전사체학, 비표적 대사체학, WGCNA(가중 유전자 공동 발현 네트워크 분석) 및 RT-qPCR(역전사 정량적 PCR) 검증을
+      통합했습니다. 결과에 따르면 25°C에서는 자실체 코디세핀 함량이 84% 증가한 반면 15°C에서는 감소했습니다. 전사체 분석에서는 막횡단
+      수송 및 지방산 대사가 풍부한 차등 발현 유전자(DEG)가 확인되었으며, 비표적 대사체학에서는 지질과 유기산이 풍부한 차등 대사산물(DAM)이
+      밝혀졌는데, 이는 온도가 주로 Cordyceps militaris 막 기능에 영향을 미친다는 것을 나타냅니다. WGCNA는 MEblue
+      모듈이 코디세핀(r = 0.93)과 양의 상관관계가 있으며 MFS(Major Facilitator Superfamily) 구성원이 코디세핀
+      막 횡단 수송에 영향을 미칠 수 있는 가장 높은 비율(47.1%)을 차지한다는 것을 보여주었습니다. 다중 오믹스 분석에 따르면 고온은 오탄당
+      인산 경로의 유전자 상향 조절, 퓨린 대사 및 코디세핀 생합성 유전자 클러스터(Cns1 - Cns3), 보호제 펜토스타틴 함량 증가, 코디세핀
+      분해 유전자 하향 조절 및 코디세핀 막횡단 수송 강화 등 여러 경로의 시너지적 조절을 통해 코디세핀 축적을 촉진하는 것으로 나타났습니다.
+      이 연구는 온도 매개 코디세핀 축적의 분자 메커니즘을 명확히 하여 온도 조절을 통한 코디세핀 생산 개선, Cordyceps militaris
+      균주 품질 최적화 및 효율적인 산업 생산 촉진을 위한 이론적 기초를 제공합니다.
+  full:
+    en: 'Cordycepin is a key active component of Cordyceps militaris , but the molecular
+      mechanism underlying temperature-regulated biosynthesis remains unclear. In
+      this study, Cordyceps militaris strain KN-1 was used as experimental material,
+      with low-temperature (15 °C), control (20 °C), and high-temperature (25 °C)
+      treatments applied during the fruiting body stage. Transcriptomics, untargeted
+      metabolomics, weighted gene co-expression network analysis (WGCNA), and Reverse
+      Transcription quantitative PCR (RT-qPCR) validation were integrated to elucidate
+      the molecular mechanism of temperature-mediated cordycepin biosynthesis. The
+      results showed that 25 °C increased fruiting body cordycepin content by 84%,
+      while 15 °C reduced it. Transcriptomic analysis identified differentially expressed
+      genes (DEGs) enriched in transmembrane transport and fatty acid metabolism,
+      and untargeted metabolomics revealed differential metabolites (DAMs) enriched
+      in lipids and organic acids, indicating that temperature primarily affects Cordyceps
+      militaris membrane function. WGCNA showed that the MEblue module was positively
+      correlated with cordycepin (r = 0.93), with Major Facilitator Superfamily (MFS)
+      members accounting for the highest proportion (47.1%) that may affect cordycepin
+      transmembrane transport. Multi-omics analysis indicated that high temperature
+      promotes cordycepin accumulation through the synergistic regulation of multiple
+      pathways: upregulating genes in the pentose phosphate pathway, purine metabolism,
+      and cordycepin biosynthetic gene cluster ( Cns1 - Cns3 ), increasing protective
+      agent pentostatin content, downregulating cordycepin-degrading genes, and enhancing
+      cordycepin transmembrane transport. This study clarifies the molecular mechanism
+      of temperature-mediated cordycepin accumulation, providing a theoretical basis
+      for improving cordycepin production via temperature regulation, optimizing Cordyceps
+      militaris strain quality, and facilitating efficient industrial production.'
+    ko_literal: 코디세핀은 Cordyceps militaris의 주요 활성 구성 요소이지만 온도 조절 생합성의 기본 분자 메커니즘은 불분명합니다.
+      본 연구에서는 Cordyceps militaris 균주 KN-1을 실험 재료로 사용했으며 자실체 단계 동안 저온(15°C), 대조(20°C)
+      및 고온(25°C) 처리가 적용되었습니다. 온도 매개 코디세핀 생합성의 분자 메커니즘을 설명하기 위해 전사체학, 비표적 대사체학, WGCNA(가중
+      유전자 공동 발현 네트워크 분석) 및 RT-qPCR(역전사 정량적 PCR) 검증을 통합했습니다. 결과에 따르면 25°C에서는 자실체 코디세핀
+      함량이 84% 증가한 반면 15°C에서는 감소했습니다. 전사체 분석에서는 막횡단 수송 및 지방산 대사가 풍부한 차등 발현 유전자(DEG)가
+      확인되었으며, 비표적 대사체학에서는 지질과 유기산이 풍부한 차등 대사산물(DAM)이 밝혀졌는데, 이는 온도가 주로 Cordyceps militaris
+      막 기능에 영향을 미친다는 것을 나타냅니다. WGCNA는 MEblue 모듈이 코디세핀(r = 0.93)과 양의 상관관계가 있으며 MFS(Major
+      Facilitator Superfamily) 구성원이 코디세핀 막 횡단 수송에 영향을 미칠 수 있는 가장 높은 비율(47.1%)을 차지한다는
+      것을 보여주었습니다. 다중 오믹스 분석에 따르면 고온은 오탄당 인산 경로의 유전자 상향 조절, 퓨린 대사 및 코디세핀 생합성 유전자 클러스터(Cns1
+      - Cns3), 보호제 펜토스타틴 함량 증가, 코디세핀 분해 유전자 하향 조절 및 코디세핀 막횡단 수송 강화 등 여러 경로의 시너지적 조절을
+      통해 코디세핀 축적을 촉진하는 것으로 나타났습니다. 이 연구는 온도 매개 코디세핀 축적의 분자 메커니즘을 명확히 하여 온도 조절을 통한
+      코디세핀 생산 개선, Cordyceps militaris 균주 품질 최적화 및 효율적인 산업 생산 촉진을 위한 이론적 기초를 제공합니다.
+    ko_researcher: '[초록 전체] 핵심 용어: **코디세핀**(cordycepin) · **Cordyceps militaris**(cordyceps
+      militaris) · **Cordyceps**(cordyceps) · **생합성**(biosynthesis). 코디세핀은 Cordyceps
+      militaris의 주요 활성 구성 요소이지만 온도 조절 생합성의 기본 분자 메커니즘은 불분명합니다. 본 연구에서는 Cordyceps militaris
+      균주 KN-1을 실험 재료로 사용했으며 자실체 단계 동안 저온(15°C), 대조(20°C) 및 고온(25°C) 처리가 적용되었습니다. 온도
+      매개 코디세핀 생합성의 분자 메커니즘을 설명하기 위해 전사체학, 비표적 대사체학, WGCNA(가중 유전자 공동 발현 네트워크 분석) 및
+      RT-qPCR(역전사 정량적 PCR) 검증을 통합했습니다. 결과에 따르면 25°C에서는 자실체 코디세핀 함량이 84% 증가한 반면 15°C에서는
+      감소했습니다. 전사체 분석에서는 막횡단 수송 및 지방산 대사가 풍부한 차등 발현 유전자(DEG)가 확인되었으며, 비표적 대사체학에서는 지질과
+      유기산이 풍부한 차등 대사산물(DAM)이 밝혀졌는데, 이는 온도가 주로 Cordyceps militaris 막 기능에 영향을 미친다는 것을
+      나타냅니다. WGCNA는 MEblue 모듈이 코디세핀(r = 0.93)과 양의 상관관계가 있으며 MFS(Major Facilitator
+      Superfamily) 구성원이 코디세핀 막 횡단 수송에 영향을 미칠 수 있는 가장 높은 비율(47.1%)을 차지한다는 것을 보여주었습니다.
+      다중 오믹스 분석에 따르면 고온은 오탄당 인산 경로의 유전자 상향 조절, 퓨린 대사 및 코디세핀 생합성 유전자 클러스터(Cns1 - Cns3),
+      보호제 펜토스타틴 함량 증가, 코디세핀 분해 유전자 하향 조절 및 코디세핀 막횡단 수송 강화 등 여러 경로의 시너지적 조절을 통해 코디세핀
+      축적을 촉진하는 것으로 나타났습니다. 이 연구는 온도 매개 코디세핀 축적의 분자 메커니즘을 명확히 하여 온도 조절을 통한 코디세핀 생산
+      개선, Cordyceps militaris 균주 품질 최적화 및 효율적인 산업 생산 촉진을 위한 이론적 기초를 제공합니다.'
+    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. 코디세핀은 Cordyceps militaris의 주요 활성 구성 요소이지만
+      온도 조절 생합성의 기본 분자 메커니즘은 불분명합니다. 본 연구에서는 Cordyceps militaris 균주 KN-1을 실험 재료로 사용했으며
+      자실체 단계 동안 저온(15°C), 대조(20°C) 및 고온(25°C) 처리가 적용되었습니다. 온도 매개 코디세핀 생합성의 분자 메커니즘을
+      설명하기 위해 전사체학, 비표적 대사체학, WGCNA(가중 유전자 공동 발현 네트워크 분석) 및 RT-qPCR(역전사 정량적 PCR) 검증을
+      통합했습니다. 결과에 따르면 25°C에서는 자실체 코디세핀 함량이 84% 증가한 반면 15°C에서는 감소했습니다. 전사체 분석에서는 막횡단
+      수송 및 지방산 대사가 풍부한 차등 발현 유전자(DEG)가 확인되었으며, 비표적 대사체학에서는 지질과 유기산이 풍부한 차등 대사산물(DAM)이
+      밝혀졌는데, 이는 온도가 주로 Cordyceps militaris 막 기능에 영향을 미친다는 것을 나타냅니다. WGCNA는 MEblue
+      모듈이 코디세핀(r = 0.93)과 양의 상관관계가 있으며 MFS(Major Facilitator Superfamily) 구성원이 코디세핀
+      막 횡단 수송에 영향을 미칠 수 있는 가장 높은 비율(47.1%)을 차지한다는 것을 보여주었습니다. 다중 오믹스 분석에 따르면 고온은 오탄당
+      인산 경로의 유전자 상향 조절, 퓨린 대사 및 코디세핀 생합성 유전자 클러스터(Cns1 - Cns3), 보호제 펜토스타틴 함량 증가, 코디세핀
+      분해 유전자 하향 조절 및 코디세핀 막횡단 수송 강화 등 여러 경로의 시너지적 조절을 통해 코디세핀 축적을 촉진하는 것으로 나타났습니다.
+      이 연구는 온도 매개 코디세핀 축적의 분자 메커니즘을 명확히 하여 온도 조절을 통한 코디세핀 생산 개선, Cordyceps militaris
+      균주 품질 최적화 및 효율적인 산업 생산 촉진을 위한 이론적 기초를 제공합니다.
 ---
 
 ## 한국어 요약

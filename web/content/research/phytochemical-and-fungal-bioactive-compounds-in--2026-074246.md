@@ -1,8 +1,8 @@
 ---
 title: 'Phytochemical and Fungal Bioactive Compounds in the "Brain Health Triad":
   A Narrative Review on Neurostimulating, Neurotrophic, and Neuroprotective Synergy.'
-title_ko: 'Phytochemical and Fungal Bioactive Compounds in the "Brain Health Triad":
-  A Narrative Review on Neurostimulating, Neurotrophic, and Neuroprotective Synergy.'
+title_ko: '"뇌 건강의 3요소"에 포함된 식물화학 및 곰팡이 생리 활성 화합물: 신경 자극, 신경 영양 및 신경 보호 시너지 효과에 대한
+  서술적 검토.'
 slug: phytochemical-and-fungal-bioactive-compounds-in--2026-074246
 record_id: e6c3adb0-1484-4b5e-a56d-172b36623329
 date: '2026-07-21'
@@ -117,6 +117,109 @@ api_meta:
     openalex: true
     crossref: true
   fetched_at: '2026-07-21'
+translations:
+  title_ko: '"뇌 건강의 3요소"에 포함된 식물화학 및 곰팡이 생리 활성 화합물: 신경 자극, 신경 영양 및 신경 보호 시너지 효과에 대한
+    서술적 검토.'
+  glossary:
+  - en: cordycepin
+    ko: 코디세핀
+    note: 3'-deoxyadenosine, Cordyceps 주요 bioactive 성분
+  sections:
+  - id: summary
+    label_ko: 초록 전체
+    en: 'This narrative review proposes the ''Brain Health Triad'' as a novel integrative
+      framework for neurorehabilitation and cognitive enhancement, built upon three
+      interdependent biological pillars: neurostimulation, neurotrophy, and neuroprotection.
+      We illustrate how the synergistic interplay between a ''core triad'' composed
+      of Hericium erinaceus , Bacopa monnieri , and L-Theanine targets these pillars
+      with high specificity. Hericium erinaceus fosters neurotrophy by inducing Nerve
+      Growth Factor (NGF) and Brain-derived neurotrophic factor (BDNF) synthesis through
+      erinacines and hericenones; Bacopa monnieri complements this by enhancing neurostimulation
+      and synaptic plasticity via bacosides; and L-Theanine regulates neurotransmitter
+      balance and alpha-wave activity to stabilize the neural signaling environment.
+      This core architecture is further reinforced by adjunctive nootropic clusters-including
+      withanolides, ginkgolides, citicoline, cordycepin, macamides, and fulvic acid-which
+      provide essential support for mitochondrial resilience and the mitigation of
+      amyloid-β and tau toxicities. By synthesizing molecular evidence from the BDNF/TrkB/CREB
+      signaling axis and the Nrf2/NF-κB homeostatic switch, we demonstrate that this
+      multi-target strategy offers a more robust path to neuronal resilience than
+      traditional single-target approaches. We conclude that this integrated model
+      provides a solid framework for future clinical applications in the management
+      of age-related cognitive decline and neurodegenerative diseases.'
+    ko_literal: 이 서사적 리뷰는 세 가지 상호 의존적인 생물학적 기둥인 신경 자극, 신경 영양 및 신경 보호를 기반으로 하는 신경 재활
+      및 인지 향상을 위한 새로운 통합 프레임워크로서 '뇌 건강 트라이어드'를 제안합니다. 우리는 Hericium erinaceus, Bacopa
+      monnieri 및 L-Theanine으로 구성된 '핵심 삼중 요소' 간의 시너지 상호 작용이 높은 특이성을 가지고 이러한 기둥을 표적으로
+      삼는 방법을 설명합니다. Hericium erinaceus는 에리나신과 헤리세논을 통해 신경 성장 인자(NGF)와 뇌 유래 신경 영양 인자(BDNF)
+      합성을 유도하여 신경 영양증을 촉진합니다. Bacopa monnieri는 바코사이드를 통해 신경 자극과 시냅스 가소성을 강화하여 이를 보완합니다.
+      L-테아닌은 신경전달물질 균형과 알파파 활동을 조절하여 신경 신호 전달 환경을 안정화시킵니다. 이 핵심 아키텍처는 미토콘드리아 탄력성과
+      아밀로이드-β 및 타우 독성 완화에 필수적인 지원을 제공하는 비타놀라이드, 은행나무, 시티콜린, 코디세핀, 마카미드 및 풀빅산을 포함한
+      보조 이방성 클러스터에 의해 더욱 강화됩니다. BDNF/TrkB/CREB 신호 전달 축과 Nrf2/NF-κB 항상성 스위치의 분자 증거를
+      합성함으로써 우리는 이 다중 표적 전략이 기존 단일 표적 접근법보다 신경 회복력에 대한 더 강력한 경로를 제공한다는 것을 입증합니다. 우리는
+      이 통합 모델이 연령 관련 인지 저하 및 신경퇴행성 질환 관리에 있어 향후 임상 적용을 위한 견고한 프레임워크를 제공한다고 결론을 내렸습니다.
+    ko_researcher: '[초록 전체] 핵심 용어: **코디세핀**(cordycepin). 이 서사적 리뷰는 세 가지 상호 의존적인 생물학적
+      기둥인 신경 자극, 신경 영양 및 신경 보호를 기반으로 하는 신경 재활 및 인지 향상을 위한 새로운 통합 프레임워크로서 ''뇌 건강 트라이어드''를
+      제안합니다. 우리는 Hericium erinaceus, Bacopa monnieri 및 L-Theanine으로 구성된 ''핵심 삼중 요소''
+      간의 시너지 상호 작용이 높은 특이성을 가지고 이러한 기둥을 표적으로 삼는 방법을 설명합니다. Hericium erinaceus는 에리나신과
+      헤리세논을 통해 신경 성장 인자(NGF)와 뇌 유래 신경 영양 인자(BDNF) 합성을 유도하여 신경 영양증을 촉진합니다. Bacopa monnieri는
+      바코사이드를 통해 신경 자극과 시냅스 가소성을 강화하여 이를 보완합니다. L-테아닌은 신경전달물질 균형과 알파파 활동을 조절하여 신경 신호
+      전달 환경을 안정화시킵니다. 이 핵심 아키텍처는 미토콘드리아 탄력성과 아밀로이드-β 및 타우 독성 완화에 필수적인 지원을 제공하는 비타놀라이드,
+      은행나무, 시티콜린, 코디세핀, 마카미드 및 풀빅산을 포함한 보조 이방성 클러스터에 의해 더욱 강화됩니다. BDNF/TrkB/CREB 신호
+      전달 축과 Nrf2/NF-κB 항상성 스위치의 분자 증거를 합성함으로써 우리는 이 다중 표적 전략이 기존 단일 표적 접근법보다 신경 회복력에
+      대한 더 강력한 경로를 제공한다는 것을 입증합니다. 우리는 이 통합 모델이 연령 관련 인지 저하 및 신경퇴행성 질환 관리에 있어 향후 임상
+      적용을 위한 견고한 프레임워크를 제공한다고 결론을 내렸습니다.'
+    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. 이 서사적 리뷰는 세 가지 상호 의존적인 생물학적 기둥인 신경 자극, 신경
+      영양 및 신경 보호를 기반으로 하는 신경 재활 및 인지 향상을 위한 새로운 통합 프레임워크로서 '뇌 건강 트라이어드'를 제안합니다. 우리는
+      Hericium erinaceus, Bacopa monnieri 및 L-Theanine으로 구성된 '핵심 삼중 요소' 간의 시너지 상호
+      작용이 높은 특이성을 가지고 이러한 기둥을 표적으로 삼는 방법을 설명합니다. Hericium erinaceus는 에리나신과 헤리세논을 통해
+      신경 성장 인자(NGF)와 뇌 유래 신경 영양 인자(BDNF) 합성을 유도하여 신경 영양증을 촉진합니다. Bacopa monnieri는
+      바코사이드를 통해 신경 자극과 시냅스 가소성을 강화하여 이를 보완합니다. …
+  full:
+    en: 'This narrative review proposes the ''Brain Health Triad'' as a novel integrative
+      framework for neurorehabilitation and cognitive enhancement, built upon three
+      interdependent biological pillars: neurostimulation, neurotrophy, and neuroprotection.
+      We illustrate how the synergistic interplay between a ''core triad'' composed
+      of Hericium erinaceus , Bacopa monnieri , and L-Theanine targets these pillars
+      with high specificity. Hericium erinaceus fosters neurotrophy by inducing Nerve
+      Growth Factor (NGF) and Brain-derived neurotrophic factor (BDNF) synthesis through
+      erinacines and hericenones; Bacopa monnieri complements this by enhancing neurostimulation
+      and synaptic plasticity via bacosides; and L-Theanine regulates neurotransmitter
+      balance and alpha-wave activity to stabilize the neural signaling environment.
+      This core architecture is further reinforced by adjunctive nootropic clusters-including
+      withanolides, ginkgolides, citicoline, cordycepin, macamides, and fulvic acid-which
+      provide essential support for mitochondrial resilience and the mitigation of
+      amyloid-β and tau toxicities. By synthesizing molecular evidence from the BDNF/TrkB/CREB
+      signaling axis and the Nrf2/NF-κB homeostatic switch, we demonstrate that this
+      multi-target strategy offers a more robust path to neuronal resilience than
+      traditional single-target approaches. We conclude that this integrated model
+      provides a solid framework for future clinical applications in the management
+      of age-related cognitive decline and neurodegenerative diseases.'
+    ko_literal: 이 서사적 리뷰는 세 가지 상호 의존적인 생물학적 기둥인 신경 자극, 신경 영양 및 신경 보호를 기반으로 하는 신경 재활
+      및 인지 향상을 위한 새로운 통합 프레임워크로서 '뇌 건강 트라이어드'를 제안합니다. 우리는 Hericium erinaceus, Bacopa
+      monnieri 및 L-Theanine으로 구성된 '핵심 삼중 요소' 간의 시너지 상호 작용이 높은 특이성을 가지고 이러한 기둥을 표적으로
+      삼는 방법을 설명합니다. Hericium erinaceus는 에리나신과 헤리세논을 통해 신경 성장 인자(NGF)와 뇌 유래 신경 영양 인자(BDNF)
+      합성을 유도하여 신경 영양증을 촉진합니다. Bacopa monnieri는 바코사이드를 통해 신경 자극과 시냅스 가소성을 강화하여 이를 보완합니다.
+      L-테아닌은 신경전달물질 균형과 알파파 활동을 조절하여 신경 신호 전달 환경을 안정화시킵니다. 이 핵심 아키텍처는 미토콘드리아 탄력성과
+      아밀로이드-β 및 타우 독성 완화에 필수적인 지원을 제공하는 비타놀라이드, 은행나무, 시티콜린, 코디세핀, 마카미드 및 풀빅산을 포함한
+      보조 이방성 클러스터에 의해 더욱 강화됩니다. BDNF/TrkB/CREB 신호 전달 축과 Nrf2/NF-κB 항상성 스위치의 분자 증거를
+      합성함으로써 우리는 이 다중 표적 전략이 기존 단일 표적 접근법보다 신경 회복력에 대한 더 강력한 경로를 제공한다는 것을 입증합니다. 우리는
+      이 통합 모델이 연령 관련 인지 저하 및 신경퇴행성 질환 관리에 있어 향후 임상 적용을 위한 견고한 프레임워크를 제공한다고 결론을 내렸습니다.
+    ko_researcher: '[초록 전체] 핵심 용어: **코디세핀**(cordycepin). 이 서사적 리뷰는 세 가지 상호 의존적인 생물학적
+      기둥인 신경 자극, 신경 영양 및 신경 보호를 기반으로 하는 신경 재활 및 인지 향상을 위한 새로운 통합 프레임워크로서 ''뇌 건강 트라이어드''를
+      제안합니다. 우리는 Hericium erinaceus, Bacopa monnieri 및 L-Theanine으로 구성된 ''핵심 삼중 요소''
+      간의 시너지 상호 작용이 높은 특이성을 가지고 이러한 기둥을 표적으로 삼는 방법을 설명합니다. Hericium erinaceus는 에리나신과
+      헤리세논을 통해 신경 성장 인자(NGF)와 뇌 유래 신경 영양 인자(BDNF) 합성을 유도하여 신경 영양증을 촉진합니다. Bacopa monnieri는
+      바코사이드를 통해 신경 자극과 시냅스 가소성을 강화하여 이를 보완합니다. L-테아닌은 신경전달물질 균형과 알파파 활동을 조절하여 신경 신호
+      전달 환경을 안정화시킵니다. 이 핵심 아키텍처는 미토콘드리아 탄력성과 아밀로이드-β 및 타우 독성 완화에 필수적인 지원을 제공하는 비타놀라이드,
+      은행나무, 시티콜린, 코디세핀, 마카미드 및 풀빅산을 포함한 보조 이방성 클러스터에 의해 더욱 강화됩니다. BDNF/TrkB/CREB 신호
+      전달 축과 Nrf2/NF-κB 항상성 스위치의 분자 증거를 합성함으로써 우리는 이 다중 표적 전략이 기존 단일 표적 접근법보다 신경 회복력에
+      대한 더 강력한 경로를 제공한다는 것을 입증합니다. 우리는 이 통합 모델이 연령 관련 인지 저하 및 신경퇴행성 질환 관리에 있어 향후 임상
+      적용을 위한 견고한 프레임워크를 제공한다고 결론을 내렸습니다.'
+    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. 이 서사적 리뷰는 세 가지 상호 의존적인 생물학적 기둥인 신경 자극, 신경
+      영양 및 신경 보호를 기반으로 하는 신경 재활 및 인지 향상을 위한 새로운 통합 프레임워크로서 '뇌 건강 트라이어드'를 제안합니다. 우리는
+      Hericium erinaceus, Bacopa monnieri 및 L-Theanine으로 구성된 '핵심 삼중 요소' 간의 시너지 상호
+      작용이 높은 특이성을 가지고 이러한 기둥을 표적으로 삼는 방법을 설명합니다. Hericium erinaceus는 에리나신과 헤리세논을 통해
+      신경 성장 인자(NGF)와 뇌 유래 신경 영양 인자(BDNF) 합성을 유도하여 신경 영양증을 촉진합니다. Bacopa monnieri는
+      바코사이드를 통해 신경 자극과 시냅스 가소성을 강화하여 이를 보완합니다. …
 ---
 
 ## 한국어 요약

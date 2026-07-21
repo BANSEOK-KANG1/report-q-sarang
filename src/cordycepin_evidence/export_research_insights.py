@@ -15,6 +15,7 @@ import yaml
 from .utils import EVIDENCE_JSONL, EXPORT_DIR, ROOT, load_yaml, read_jsonl, slugify, vault_path
 
 from .fetch_paper_visuals import fetch_visuals_for_record
+from .multiview_translate import build_multiview_translations
 
 CONTENT_DIR = ROOT / "content" / "research"
 WEB_CONTENT_DIR = ROOT / "web" / "content" / "research"
@@ -301,6 +302,7 @@ def _frontmatter(
     slug: str,
     cfg: dict[str, Any],
     visual: dict[str, Any] | None = None,
+    translations: dict[str, Any] | None = None,
 ) -> str:
     flags = r.get("risk_flags") or []
     data = {
@@ -347,6 +349,10 @@ def _frontmatter(
             "apis": visual.get("apis") or {},
             "fetched_at": visual.get("fetched_at") or "",
         }
+    if translations:
+        data["translations"] = translations
+        if translations.get("title_ko"):
+            data["title_ko"] = translations["title_ko"]
     body = yaml.safe_dump(data, allow_unicode=True, sort_keys=False).strip()
     return f"---\n{body}\n---\n"
 
@@ -373,6 +379,7 @@ def export_research_insights() -> int:
     index_rows: list[dict[str, str]] = []
     disclaimer = (cfg.get("disclaimer") or "").strip()
     fetch_visuals = cfg.get("fetch_visuals", True)
+    do_translate = cfg.get("multiview_translate", True)
     visual_manifests: dict[str, dict[str, Any]] = {}
 
     for r in selected:
@@ -382,8 +389,15 @@ def export_research_insights() -> int:
             print(f"[research] fetching visuals for {slug}")
             visual = fetch_visuals_for_record(r, slug)
             visual_manifests[slug] = visual
+        translations: dict[str, Any] | None = None
+        if do_translate:
+            print(f"[research] translating {slug}")
+            translations = build_multiview_translations(
+                r.get("abstract") or "",
+                _clean(r.get("title") or ""),
+            )
         sections = _parse_abstract_sections(r.get("abstract") or "")
-        fm = _frontmatter(r, slug, cfg, visual)
+        fm = _frontmatter(r, slug, cfg, visual, translations)
         body_parts = [
             _korean_summary(r, sections),
             _bibliography(r),
@@ -470,7 +484,8 @@ def refresh_research_visuals() -> int:
         visual = fetch_visuals_for_record(record, slug)
         visual_manifests[slug] = visual
         cfg = load_yaml("research_insights.yaml")
-        new_fm = _frontmatter(record, slug, cfg, visual)
+        translations = fm.get("translations")
+        new_fm = _frontmatter(record, slug, cfg, visual, translations)
         path.write_text(new_fm + "\n" + parts[2].lstrip("\n"), encoding="utf-8")
         web_path = WEB_CONTENT_DIR / path.name
         web_path.write_text(new_fm + "\n" + parts[2].lstrip("\n"), encoding="utf-8")
@@ -485,4 +500,58 @@ def refresh_research_visuals() -> int:
             encoding="utf-8",
         )
     print(f"[research-visuals] updated {updated} pages")
+    return updated
+
+
+def refresh_research_translations() -> int:
+    """Re-build multi-view translations for existing research pages."""
+    import yaml as yaml_lib
+
+    records = {r["record_id"]: r for r in read_jsonl(EVIDENCE_JSONL)}
+    cfg = load_yaml("research_insights.yaml")
+    updated = 0
+
+    for path in sorted(CONTENT_DIR.glob("*.md")):
+        raw = path.read_text(encoding="utf-8")
+        if not raw.startswith("---"):
+            continue
+        parts = raw.split("---", 2)
+        if len(parts) < 3:
+            continue
+        fm = yaml_lib.safe_load(parts[1]) or {}
+        slug = fm.get("slug") or path.stem
+        record = records.get(fm.get("record_id") or "")
+        if not record:
+            continue
+        print(f"[research-translate] {slug}")
+        translations = build_multiview_translations(
+            record.get("abstract") or "",
+            _clean(record.get("title") or ""),
+        )
+        visual_data = None
+        if fm.get("visuals") or fm.get("api_meta"):
+            am = fm.get("api_meta") or {}
+            visual_data = {
+                "figures": fm.get("visuals") or [],
+                "pmcid": fm.get("pmcid") or "",
+                "keywords": am.get("keywords") or [],
+                "mesh_terms": am.get("mesh_terms") or [],
+                "concepts": am.get("concepts") or [],
+                "cited_by_count": am.get("cited_by_count"),
+                "reference_count": am.get("reference_count"),
+                "publisher": am.get("publisher") or "",
+                "journal": am.get("journal") or "",
+                "oa_status": am.get("oa_status") or "",
+                "oa_url": am.get("oa_url") or "",
+                "apis": am.get("apis") or {},
+                "fetched_at": am.get("fetched_at") or "",
+            }
+        new_fm = _frontmatter(record, slug, cfg, visual_data, translations)
+        content = new_fm + "\n" + parts[2].lstrip("\n")
+        path.write_text(content, encoding="utf-8")
+        (WEB_CONTENT_DIR / path.name).write_text(content, encoding="utf-8")
+        (vault_path() / VAULT_INSIGHTS / path.name).write_text(content, encoding="utf-8")
+        updated += 1
+
+    print(f"[research-translate] updated {updated} pages")
     return updated

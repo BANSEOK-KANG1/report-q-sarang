@@ -1,8 +1,7 @@
 ---
 title: High-level production of cordycepin by the xylose-utilising Cordyceps militaris
   strain 147 in an optimised medium.
-title_ko: High-level production of cordycepin by the xylose-utilising Cordyceps militaris
-  strain 147 in an optimised medium.
+title_ko: 최적화된 배지에서 자일로스를 활용하는 Cordyceps militaris 균주 147에 의한 코디세핀의 높은 수준 생산.
 slug: high-level-production-of-cordycepin-by-the-xylos-2023-734485
 record_id: 6b8de1df-0132-483f-a43c-c9da412dcc76
 date: '2026-07-21'
@@ -93,6 +92,109 @@ api_meta:
     openalex: true
     crossref: true
   fetched_at: '2026-07-21'
+translations:
+  title_ko: 최적화된 배지에서 자일로스를 활용하는 Cordyceps militaris 균주 147에 의한 코디세핀의 높은 수준 생산.
+  glossary:
+  - en: cordycepin
+    ko: 코디세핀
+    note: 3'-deoxyadenosine, Cordyceps 주요 bioactive 성분
+  - en: cordyceps militaris
+    ko: Cordyceps militaris
+    note: 동충하초 균종
+  - en: cordyceps
+    ko: Cordyceps
+    note: 충Cordyceps属 진균
+  - en: biosynthesis
+    ko: 생합성
+    note: 생물체 내에서 물질이 만들어지는 과정
+  - en: fermentation
+    ko: 발효
+    note: 미생물·균류를 이용한 대량 배양
+  - en: metabolite
+    ko: 대사산물
+    note: 균류·세포가 만든 화학물질
+  sections:
+  - id: summary
+    label_ko: 초록 전체
+    en: Cordycepin is an important active metabolite of Cordyceps militaris. Xylose,
+      an attractive feedstock for producing chemicals through microbial fermentation,
+      cannot be effectively utilised by many reported C. militaris strains. Herein,
+      a xylose-utilising C. militaris strain 147 produced the highest level of cordycepin
+      (3.03 g/L) in xylose culture. Xylose, alanine, and ammonium citrate were determined
+      as the main affecting factors on the cordycepin production using a Plackett-Burman
+      design. The combination of these factors was optimised using response surface
+      methodology, and the maximal 6.54 g/L of cordycepin was produced by the fungus
+      in the optimal medium. Transcriptome analysis revealed that xylose utilisation
+      upregulated the transcriptional levels of genes participating in purine and
+      energy metabolisms in the fungus, which may facilitate the formation of precursors
+      for cordycepin biosynthesis. This investigation provides new insights into the
+      efficient production of cordycepin and is conducive to the valorisation of biomass
+      rich in xylose.
+    ko_literal: 코디세핀은 Cordyceps militaris의 중요한 활성 대사산물입니다. 미생물 발효을 통해 화학 물질을 생산하기
+      위한 매력적인 공급원료인 자일로스(Xylose)는 보고된 많은 C. militaris 균주에서 효과적으로 활용될 수 없습니다. 여기서,
+      자일로스를 활용하는 C. militaris 균주 147은 자일로스 배양에서 가장 높은 수준의 코디세핀(3.03g/L)을 생산했습니다. 자일로스,
+      알라닌 및 구연산암모늄은 Plackett-Burman 설계를 사용하여 코디세핀 생산에 대한 주요 영향 요인으로 결정되었습니다. 이러한 요소들의
+      조합은 반응 표면 방법론을 사용하여 최적화되었으며, 최적 배지에서 곰팡이에 의해 최대 6.54g/L의 코디세핀이 생성되었습니다. 전사체
+      분석에 따르면 자일로스 활용은 곰팡이의 퓨린 및 에너지 대사에 참여하는 유전자의 전사 수준을 상향조절했으며, 이는 코디세핀 생합성에 대한
+      전구체 형성을 촉진할 수 있습니다. 이 조사는 코디세핀의 효율적인 생산에 대한 새로운 통찰력을 제공하고 자일로스가 풍부한 바이오매스의 가치화에
+      도움이 됩니다.
+    ko_researcher: '[초록 전체] 핵심 용어: **코디세핀**(cordycepin) · **Cordyceps militaris**(cordyceps
+      militaris) · **Cordyceps**(cordyceps) · **생합성**(biosynthesis). 코디세핀은 Cordyceps
+      militaris의 중요한 활성 대사산물입니다. 미생물 발효을 통해 화학 물질을 생산하기 위한 매력적인 공급원료인 자일로스(Xylose)는
+      보고된 많은 C. militaris 균주에서 효과적으로 활용될 수 없습니다. 여기서, 자일로스를 활용하는 C. militaris 균주 147은
+      자일로스 배양에서 가장 높은 수준의 코디세핀(3.03g/L)을 생산했습니다. 자일로스, 알라닌 및 구연산암모늄은 Plackett-Burman
+      설계를 사용하여 코디세핀 생산에 대한 주요 영향 요인으로 결정되었습니다. 이러한 요소들의 조합은 반응 표면 방법론을 사용하여 최적화되었으며,
+      최적 배지에서 곰팡이에 의해 최대 6.54g/L의 코디세핀이 생성되었습니다. 전사체 분석에 따르면 자일로스 활용은 곰팡이의 퓨린 및 에너지
+      대사에 참여하는 유전자의 전사 수준을 상향조절했으며, 이는 코디세핀 생합성에 대한 전구체 형성을 촉진할 수 있습니다. 이 조사는 코디세핀의
+      효율적인 생산에 대한 새로운 통찰력을 제공하고 자일로스가 풍부한 바이오매스의 가치화에 도움이 됩니다.'
+    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. 코디세핀은 Cordyceps militaris의 중요한 활성 대사산물입니다.
+      미생물 발효을 통해 화학 물질을 생산하기 위한 매력적인 공급원료인 자일로스(Xylose)는 보고된 많은 C. militaris 균주에서
+      효과적으로 활용될 수 없습니다. 여기서, 자일로스를 활용하는 C. militaris 균주 147은 자일로스 배양에서 가장 높은 수준의 코디세핀(3.03g/L)을
+      생산했습니다. 자일로스, 알라닌 및 구연산암모늄은 Plackett-Burman 설계를 사용하여 코디세핀 생산에 대한 주요 영향 요인으로
+      결정되었습니다. 이러한 요소들의 조합은 반응 표면 방법론을 사용하여 최적화되었으며, 최적 배지에서 곰팡이에 의해 최대 6.54g/L의 코디세핀이
+      생성되었습니다. 전사체 분석에 따르면 자일로스 활용은 곰팡이의 퓨린 및 에너지 대사에 참여하는 유전자의 전사 수준을 상향조절했으며, 이는
+      코디세핀 생합성에 대한 전구체 형성을 촉진할 수 있습니다. 이 조사는 코디세핀의 효율적인 생산에 대한 새로운 통찰력을 제공하고 자일로스가
+      풍부한 바이오매스의 가치화에 도움이 됩니다.
+  full:
+    en: Cordycepin is an important active metabolite of Cordyceps militaris. Xylose,
+      an attractive feedstock for producing chemicals through microbial fermentation,
+      cannot be effectively utilised by many reported C. militaris strains. Herein,
+      a xylose-utilising C. militaris strain 147 produced the highest level of cordycepin
+      (3.03 g/L) in xylose culture. Xylose, alanine, and ammonium citrate were determined
+      as the main affecting factors on the cordycepin production using a Plackett-Burman
+      design. The combination of these factors was optimised using response surface
+      methodology, and the maximal 6.54 g/L of cordycepin was produced by the fungus
+      in the optimal medium. Transcriptome analysis revealed that xylose utilisation
+      upregulated the transcriptional levels of genes participating in purine and
+      energy metabolisms in the fungus, which may facilitate the formation of precursors
+      for cordycepin biosynthesis. This investigation provides new insights into the
+      efficient production of cordycepin and is conducive to the valorisation of biomass
+      rich in xylose.
+    ko_literal: 코디세핀은 Cordyceps militaris의 중요한 활성 대사산물입니다. 미생물 발효을 통해 화학 물질을 생산하기
+      위한 매력적인 공급원료인 자일로스(Xylose)는 보고된 많은 C. militaris 균주에서 효과적으로 활용될 수 없습니다. 여기서,
+      자일로스를 활용하는 C. militaris 균주 147은 자일로스 배양에서 가장 높은 수준의 코디세핀(3.03g/L)을 생산했습니다. 자일로스,
+      알라닌 및 구연산암모늄은 Plackett-Burman 설계를 사용하여 코디세핀 생산에 대한 주요 영향 요인으로 결정되었습니다. 이러한 요소들의
+      조합은 반응 표면 방법론을 사용하여 최적화되었으며, 최적 배지에서 곰팡이에 의해 최대 6.54g/L의 코디세핀이 생성되었습니다. 전사체
+      분석에 따르면 자일로스 활용은 곰팡이의 퓨린 및 에너지 대사에 참여하는 유전자의 전사 수준을 상향조절했으며, 이는 코디세핀 생합성에 대한
+      전구체 형성을 촉진할 수 있습니다. 이 조사는 코디세핀의 효율적인 생산에 대한 새로운 통찰력을 제공하고 자일로스가 풍부한 바이오매스의 가치화에
+      도움이 됩니다.
+    ko_researcher: '[초록 전체] 핵심 용어: **코디세핀**(cordycepin) · **Cordyceps militaris**(cordyceps
+      militaris) · **Cordyceps**(cordyceps) · **생합성**(biosynthesis). 코디세핀은 Cordyceps
+      militaris의 중요한 활성 대사산물입니다. 미생물 발효을 통해 화학 물질을 생산하기 위한 매력적인 공급원료인 자일로스(Xylose)는
+      보고된 많은 C. militaris 균주에서 효과적으로 활용될 수 없습니다. 여기서, 자일로스를 활용하는 C. militaris 균주 147은
+      자일로스 배양에서 가장 높은 수준의 코디세핀(3.03g/L)을 생산했습니다. 자일로스, 알라닌 및 구연산암모늄은 Plackett-Burman
+      설계를 사용하여 코디세핀 생산에 대한 주요 영향 요인으로 결정되었습니다. 이러한 요소들의 조합은 반응 표면 방법론을 사용하여 최적화되었으며,
+      최적 배지에서 곰팡이에 의해 최대 6.54g/L의 코디세핀이 생성되었습니다. 전사체 분석에 따르면 자일로스 활용은 곰팡이의 퓨린 및 에너지
+      대사에 참여하는 유전자의 전사 수준을 상향조절했으며, 이는 코디세핀 생합성에 대한 전구체 형성을 촉진할 수 있습니다. 이 조사는 코디세핀의
+      효율적인 생산에 대한 새로운 통찰력을 제공하고 자일로스가 풍부한 바이오매스의 가치화에 도움이 됩니다.'
+    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. 코디세핀은 Cordyceps militaris의 중요한 활성 대사산물입니다.
+      미생물 발효을 통해 화학 물질을 생산하기 위한 매력적인 공급원료인 자일로스(Xylose)는 보고된 많은 C. militaris 균주에서
+      효과적으로 활용될 수 없습니다. 여기서, 자일로스를 활용하는 C. militaris 균주 147은 자일로스 배양에서 가장 높은 수준의 코디세핀(3.03g/L)을
+      생산했습니다. 자일로스, 알라닌 및 구연산암모늄은 Plackett-Burman 설계를 사용하여 코디세핀 생산에 대한 주요 영향 요인으로
+      결정되었습니다. 이러한 요소들의 조합은 반응 표면 방법론을 사용하여 최적화되었으며, 최적 배지에서 곰팡이에 의해 최대 6.54g/L의 코디세핀이
+      생성되었습니다. 전사체 분석에 따르면 자일로스 활용은 곰팡이의 퓨린 및 에너지 대사에 참여하는 유전자의 전사 수준을 상향조절했으며, 이는
+      코디세핀 생합성에 대한 전구체 형성을 촉진할 수 있습니다. 이 조사는 코디세핀의 효율적인 생산에 대한 새로운 통찰력을 제공하고 자일로스가
+      풍부한 바이오매스의 가치화에 도움이 됩니다.
 ---
 
 ## 한국어 요약
