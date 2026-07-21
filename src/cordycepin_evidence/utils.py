@@ -38,6 +38,7 @@ def ensure_dirs() -> None:
     for sub in (
         "00_Inbox",
         "10_Evidence",
+        "15_Research_Insights",
         "20_Regulatory",
         "30_Marketing_Safe",
         "40_Blog",

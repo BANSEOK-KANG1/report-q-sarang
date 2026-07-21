@@ -16,6 +16,7 @@ export const siteConfig = {
 
 export const navItems = [
   { href: "/", label: "홈" },
+  { href: "/research", label: "연구 인사이트" },
   { href: "/blog", label: "이야기" },
   { href: "/about", label: "소개" },
 ] as const;

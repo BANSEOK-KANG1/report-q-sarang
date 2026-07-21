@@ -21,6 +21,10 @@ def main(argv: list[str] | None = None) -> int:
     p_notion.add_argument("--limit", type=int, default=None)
     sub.add_parser("export", help="CSV exports + marketing brief")
     sub.add_parser("blog", help="Generate blog-ready post drafts + checklist")
+    sub.add_parser(
+        "research",
+        help="Generate per-paper research insight pages (Korean summary + abstract)",
+    )
     p_wp = sub.add_parser(
         "wp-publish",
         help="Upsert blog drafts to WordPress (q-sarang.measuremkt.com)",
@@ -113,6 +117,12 @@ def main(argv: list[str] | None = None) -> int:
         export_blog()
         return 0
 
+    if args.cmd == "research":
+        from .export_research_insights import export_research_insights
+
+        export_research_insights()
+        return 0
+
     if args.cmd == "wp-publish":
         from .sync_wordpress import sync_wordpress
 
@@ -144,6 +154,7 @@ def main(argv: list[str] | None = None) -> int:
     if args.cmd == "run-all":
         from .export_blog import export_blog
         from .export_marketing_pack import export_marketing_pack
+        from .export_research_insights import export_research_insights
         from .ingest_europepmc import ingest_europepmc
         from .ingest_openalex import ingest_openalex
         from .ingest_pubmed import ingest_pubmed
@@ -160,6 +171,7 @@ def main(argv: list[str] | None = None) -> int:
         sync_obsidian()
         export_marketing_pack()
         export_blog()
+        export_research_insights()
         print("[run-all] done. Optional: cordycepin sync-notion | cordycepin wp-publish")
         return 0
 
