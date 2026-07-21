@@ -27,14 +27,25 @@ STUDY_GRANDMA: dict[str, str] = {
 }
 
 TOPIC_HINTS: list[tuple[str, str]] = [
+    ("immunomodul", "몸의 방어 반응(면역)과 관련된 연구 주제"),
+    ("immune", "몸의 방어 반응(면역)과 관련된 연구 주제"),
+    ("fatigue", "피곤함·기운과 관련된 연구 주제"),
+    ("exercise", "운동·체력과 관련된 연구 주제"),
+    ("endurance", "지구력·운동 지속과 관련된 연구 주제"),
+    ("antioxidant", "산화 스트레스·항산화와 관련된 연구 주제"),
+    ("anti-inflammatory", "염증 반응과 관련된 연구 주제"),
+    ("inflammation", "염증 반응과 관련된 연구 주제"),
+    ("bioavailability", "성분이 몸에서 얼마나 쓰이는지(흡수) 연구"),
+    ("metabolic", "몸속 대사·에너지와 관련된 연구 주제"),
+    ("cognitive", "기억·집중 등 뇌 활동과 관련된 연구 주제"),
+    ("biological effect", "성분·버섯이 몸에서 어떤 반응을 보이는지"),
+    ("bioactive", "몸에 작용할 수 있는 성분(생리활성) 연구"),
     ("biosynthesis", "코디세핀이 균류 안에서 어떻게 만들어지는지"),
     ("production", "코디세핀을 더 많이·안정적으로 만드는 방법"),
     ("fermentation", "버섯·균을 키우며 성분을 만드는 방법"),
     ("cultivation", "동충하초를 어떻게 키우면 좋은지"),
     ("culture condition", "재배 환경(온도·영양 등)이 성분에 미치는 영향"),
     ("review", "지금까지 나온 연구들을 한데 모아 정리"),
-    ("machine learning", "컴퓨터로 재배 조건과 성분량을 예측"),
-    ("metabolic", "몸속·균 안에서 물질이 만들어지는 과정"),
 ]
 
 # 학술 표현 → 쉬운 말
@@ -144,14 +155,17 @@ def _headline(record: dict[str, Any], title_ko: str) -> str:
 def _good_to_know(record: dict[str, Any]) -> list[str]:
     lines = [
         "이 글은 **술·담금주가 몸에 좋다**는 이야기가 아닙니다.",
-        "연구실·논문에서 나온 이야기를 **할머니·할아버지도 읽기 쉽게** 풀어 쓴 것입니다.",
+        "연구실·논문에서 말하는 **생리활성·기능성 주제**를 할머니·할아버지도 읽기 쉽게 풀어 쓴 것입니다.",
+        "**제품 효능·효과를 보장하거나 광고하지 않습니다.**",
     ]
     flags = record.get("risk_flags") or []
     st = record.get("study_type") or ""
     if "preclinical_only" in flags or st in ("animal", "in_vitro"):
         lines.append("아직 **사람에게 직접 먹여 본 실험**이 아닐 수 있습니다. 실험실·동물 단계 이야기입니다.")
     if "disease_language" in flags:
-        lines.append("원문에는 **병·치료** 관련 표현이 있을 수 있으나, 여기서는 **버섯·성분 연구**만 쉽게 옮겼습니다.")
+        lines.append("원문에는 **병·치료** 관련 표현이 있을 수 있으나, 여기서는 **연구 주제**만 쉽게 옮겼습니다.")
+    if st == "rct":
+        lines.append("사람을 대상으로 한 비교 실험이지만, **시료·용량이 제왕충초 담금주와 같지 않을 수 있습니다.**")
     lines.append("궁금하시면 아래 **원문·번역 참고**를 펼쳐 보시면 됩니다.")
     return lines
 

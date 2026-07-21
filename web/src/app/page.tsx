@@ -24,7 +24,7 @@ export default function HomePage() {
             <p className="text-xs tracking-[0.16em] text-accent uppercase mb-2">Research</p>
             <h2 className="font-display text-3xl md:text-4xl text-gold">연구 인사이트</h2>
             <p className="mt-2 text-sm text-ink-soft max-w-xl">
-              논문을 할머니도 읽기 쉽게 풀어 쓴 페이지 — GitHub 파이프라인 자동 갱신
+              면역·피로·운동·항산화 등 생리활성 주제 논문을 쉽게 풀어 씀 — 제품 효능 주장 아님
             </p>
           </div>
           <Link href="/research" className="text-sm text-ink-soft hover:text-gold shrink-0">

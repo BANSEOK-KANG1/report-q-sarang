@@ -90,12 +90,118 @@ def _title_preference(title: str, cfg: dict[str, Any]) -> int:
     return sum(1 for k in prefs if k.lower() in t)
 
 
+def _text_blob(r: dict[str, Any]) -> str:
+    return _clean(
+        f"{r.get('title') or ''} {r.get('abstract') or ''} {r.get('claim_category') or ''}"
+    ).lower()
+
+
+def _is_efficacy_paper(r: dict[str, Any], cfg: dict[str, Any]) -> bool:
+    """True if paper is about biological effects / structure-function themes."""
+    blob = _text_blob(r)
+    title = _clean(r.get("title") or "").lower()
+    # Must be about cordycepin / Cordyceps (not random exercise papers)
+    if not any(
+        k in blob
+        for k in ("cordycepin", "cordyceps", "militaris", "ophiocordyceps")
+    ):
+        return False
+    # Title must signal an effect / review of effects (not genome, drying, extraction)
+    title_markers = [
+        "immunomod",
+        "immune",
+        "anti-inflammatory",
+        "antiinflammatory",
+        "inflammation",
+        "fatigue",
+        "exercise",
+        "endurance",
+        "performance",
+        "antioxidant",
+        "biological effect",
+        "bioactive metabolite",
+        "wellbeing",
+        "wellness",
+        "ergogenic",
+        "recovery",
+        "effect of",
+        "effects of",
+        "effect via",
+        "beneficial effect",
+        "protective effect",
+        "modulatory",
+    ]
+    if not any(m in title for m in title_markers):
+        return False
+    cats = set(cfg.get("prefer_claim_categories") or [])
+    cat = r.get("claim_category") or "other"
+    if cat in cats:
+        return True
+    markers = [
+        "biological effect",
+        "immunomodul",
+        "immune",
+        "fatigue",
+        "exercise",
+        "endurance",
+        "performance",
+        "antioxidant",
+        "anti-inflammatory",
+        "antiinflammatory",
+        "inflammation",
+        "bioavailability",
+        "wellbeing",
+        "wellness",
+        "bioactive",
+        "cytokine",
+        "oxidative",
+        "metabolic",
+        "cognitive",
+        "memory",
+        "stamina",
+        "vo2",
+        "effect of",
+        "effects of",
+        "activity of",
+    ]
+    return any(m in blob for m in markers)
+
+
+def _dedupe_key(title: str) -> str:
+    t = _clean(title).lower()
+    t = re.sub(r"[^a-z0-9가-힣]+", " ", t)
+    return " ".join(t.split())[:90]
+
+
+def _efficacy_score(r: dict[str, Any], cfg: dict[str, Any]) -> int:
+    """Higher = more efficacy-relevant. Used as negative key for sorting."""
+    score = 0
+    cats = cfg.get("prefer_claim_categories") or []
+    cat = r.get("claim_category") or "other"
+    if cat in cats:
+        score += 10 + max(0, 8 - cats.index(cat))
+    score += min(6, _title_preference(r.get("title") or "", cfg) * 2)
+    st = r.get("study_type") or ""
+    preferred = cfg.get("prefer_study_types") or []
+    if st in preferred:
+        score += max(0, 12 - preferred.index(st))
+    if r.get("relevance_to_product") in ("direct", "partial"):
+        score += 2
+    if r.get("priority_review"):
+        score += 1
+    return score
+
+
 def _rank_record(r: dict[str, Any], cfg: dict[str, Any]) -> tuple:
     title = _clean(r.get("title") or "")
     if _title_blocked(title, cfg):
         return (99, 0, 0, 0)
+    focus = (cfg.get("focus") or "").lower()
     flags = r.get("risk_flags") or []
+    # In efficacy focus, allow disease_language papers if title passed exclude list —
+    # still sort them slightly lower for grandma-safe browsing.
     disease = 1 if "disease_language" in flags else 0
+    efficacy = -_efficacy_score(r, cfg) if focus == "efficacy" else 0
     priority = 0 if r.get("priority_review") else 1
     approved = 0 if (
         r.get("citation_status") == "approved"
@@ -105,41 +211,97 @@ def _rank_record(r: dict[str, Any], cfg: dict[str, Any]) -> tuple:
     year = -(r.get("year") or 0)
     abstract_ok = 0 if (r.get("abstract") or "").strip() else 1
     study_rank = {
-        "systematic_review": 0,
-        "meta_analysis": 0,
-        "review_narrative": 1,
-        "rct": 2,
-        "observational_human": 3,
+        "rct": 0,
+        "systematic_review": 1,
+        "meta_analysis": 1,
+        "observational_human": 2,
+        "review_narrative": 3,
         "animal": 4,
         "in_vitro": 5,
     }.get(r.get("study_type") or "", 6)
+    if focus == "efficacy":
+        return (efficacy, study_rank, disease, abstract_ok, year, pref)
     return (priority, approved, disease, abstract_ok, study_rank, pref, year)
 
 
 def _select_records(records: list[dict[str, Any]], cfg: dict[str, Any]) -> list[dict[str, Any]]:
     pool: list[dict[str, Any]] = []
     seen_titles: set[str] = set()
+    focus = (cfg.get("focus") or "").lower()
     for r in records:
         if not (r.get("abstract") or "").strip():
             continue
-        title_key = _clean(r.get("title") or "").lower()[:80]
-        if title_key in seen_titles:
+        title_key = _dedupe_key(r.get("title") or "")
+        if not title_key or title_key in seen_titles:
             continue
         if _title_blocked(_clean(r.get("title") or ""), cfg):
             continue
+
         include = False
-        if cfg.get("include_priority_review") and r.get("priority_review"):
-            include = True
-        if (
-            cfg.get("include_approved_liquor")
-            and r.get("citation_status") == "approved"
-            and r.get("maps_to_market") == "KR_liquor_context"
-        ):
-            include = True
-        if r.get("relevance_to_product") in ("direct", "partial") and _title_preference(
-            r.get("title") or "", cfg
-        ) >= 2:
-            include = True
+        if focus == "efficacy":
+            include = _is_efficacy_paper(r, cfg)
+            title_l = title_key
+            production_only = any(
+                k in title_l
+                for k in (
+                    "biosynthesis",
+                    "fermentation",
+                    "production",
+                    "cultivation",
+                    "metabolic engineering",
+                    "quorum sensing",
+                    "machine learning",
+                    "xylose",
+                    "transcription factor",
+                    "substrate",
+                    "exopolysaccharide",
+                    "structural elucidation",
+                )
+            )
+            if production_only:
+                # Keep only if title also clearly states an efficacy theme
+                efficacy_title = any(
+                    k in title_l
+                    for k in (
+                        "immunomod",
+                        "immune",
+                        "fatigue",
+                        "exercise",
+                        "antioxidant",
+                        "anti inflammatory",
+                        "antiinflammatory",
+                        "biological effect",
+                        "wellbeing",
+                        "performance",
+                    )
+                )
+                if not efficacy_title:
+                    include = False
+            # Prefer militaris / cordycepin over pure sinensis comparator
+            if include and (
+                r.get("track") == "comparator_sinensis"
+                or ("sinensis" in title_l and "militaris" not in title_l and "cordycepin" not in title_l)
+            ):
+                include = False
+            # Deduplicate near-identical titles already handled; also skip 2nd OA duplicate by PMID
+            pmid = str(r.get("pmid") or "").strip()
+            if include and pmid:
+                if any(str(x.get("pmid") or "") == pmid for x in pool):
+                    include = False
+        else:
+            if cfg.get("include_priority_review") and r.get("priority_review"):
+                include = True
+            if (
+                cfg.get("include_approved_liquor")
+                and r.get("citation_status") == "approved"
+                and r.get("maps_to_market") == "KR_liquor_context"
+            ):
+                include = True
+            if r.get("relevance_to_product") in ("direct", "partial") and _title_preference(
+                r.get("title") or "", cfg
+            ) >= 2:
+                include = True
+
         if include:
             seen_titles.add(title_key)
             pool.append(r)
@@ -152,7 +314,8 @@ def _select_records(records: list[dict[str, Any]], cfg: dict[str, Any]) -> list[
 def _slug_for(r: dict[str, Any]) -> str:
     base = slugify(_clean(r.get("title") or "paper"), max_len=48)
     year = r.get("year") or ""
-    pmid = (r.get("pmid") or "")[-6:]
+    pmid = str(r.get("pmid") or r.get("doi") or r.get("record_id") or "")[-8:]
+    pmid = re.sub(r"[^a-zA-Z0-9]", "", pmid) or "x"
     return f"{base}-{year}-{pmid}".strip("-")
 
 
@@ -294,7 +457,21 @@ def _description(r: dict[str, Any]) -> str:
     st = STUDY_TYPE_KO.get(r.get("study_type") or "", "연구")
     year = r.get("year") or ""
     species = SPECIES_KO.get(r.get("species") or "", "Cordyceps")
-    return f"{year} · {st} · {species} — 코디세핀·제왕충초 관련 학술 문헌 전문 요약 (교육용)"
+    cat = r.get("claim_category") or "other"
+    cat_ko = {
+        "immune": "면역",
+        "energy_fatigue": "피로·기운",
+        "exercise_performance": "운동·체력",
+        "antioxidant": "항산화",
+        "anti_inflammatory": "염증 반응",
+        "metabolic": "대사",
+        "cognitive": "인지",
+        "other": "생리활성",
+    }.get(cat, "생리활성")
+    return (
+        f"{year} · {st} · {cat_ko} · {species} — "
+        "효능·생리활성 관련 학술 문헌 쉬운 정리 (교육용, 제품 효능 주장 아님)"
+    )
 
 
 def _frontmatter(

@@ -1,38 +1,116 @@
-# Research insights — per-paper professional summaries (not marketing blog)
+# Research insights — efficacy / biological-effects focused (education only)
 
-max_insights: 20
+max_insights: 18
 fetch_visuals: true
 multiview_translate: true
 include_priority_review: true
-include_approved_liquor: true
+include_approved_liquor: false
+# Prefer papers about biological effects / structure-function themes
+focus: efficacy
 
-# Skip papers whose titles suggest disease/therapy framing
+# Hard disease-name / off-topic titles stay out of the public hub
 exclude_title_keywords:
   - cancer
   - anticancer
   - antitumor
   - anti-tumor
+  - carcinoma
+  - leukemia
   - diabetic
+  - diabetes
   - alzheimer
   - parkinson
   - thrombo
   - obesity
   - wound
   - neurodegener
+  - hepatitis
+  - covid
+  - tumor
+  - influenza
+  - encephalomyelitis
+  - autoimmune
+  - antibacterial
+  - anti-bacterial
+  - virus activity
+  - antiviral
+  - stem cell
+  - polysaccharide on raw
+  - raw 264.7
+  - insects
+  - insect
+  - genome
+  - telomere
+  - drying
+  - ultrasound
+  - remyelination
+  - enzyme extraction
+  - transcriptome
+  - exogenous
+  - carotenoid-rich
+  - caterpillar fungus
+  - orange cordyceps
+  - medicinal uses
+  - protective effect of a water
+  - research progress on the molecular
+  - skin pathogenic
+  - selenium
+  - simultaneous determination
+  - immunopharmacology
+  - visceral adipose
+  - nanoemulsion
+  - silkworm
+  - cultivated on
+  - multi-omics
+  - multiphase composition
+  - chemical constituents in relation
 
+# Prefer efficacy / biological-effect language in titles
 prefer_title_keywords:
-  - biosynthesis
-  - production
-  - cultivation
-  - militaris
-  - cordycepin
+  - biological effect
+  - immunomodul
+  - immune
+  - fatigue
+  - exercise
+  - endurance
+  - performance
+  - antioxidant
+  - anti-inflammatory
+  - antiinflammatory
+  - inflammation
+  - metabolic
+  - bioavailability
+  - wellbeing
+  - wellness
   - review
-  - fermentation
-  - metabol
-  - compound
+  - effect
+  - activity
   - bioactive
+  - cordycepin
+  - militaris
+
+# claim_category values from scoring to prefer
+prefer_claim_categories:
+  - immune
+  - energy_fatigue
+  - exercise_performance
+  - antioxidant
+  - anti_inflammatory
+  - metabolic
+  - cognitive
+
+# Prefer higher evidence when available
+prefer_study_types:
+  - rct
+  - systematic_review
+  - meta_analysis
+  - observational_human
+  - review_narrative
+  - animal
+  - in_vitro
 
 disclaimer: |
   본 페이지는 학술 문헌을 **연구·교육 목적**으로 요약·정리한 자료입니다.
   질병의 예방·치료·진단과 무관하며, 제왕충초 담금주의 효능·효과를 주장하지 않습니다.
+  ‘효능 관련 논문’은 **연구자들이 다루는 생리활성·기능성 주제**를 뜻하며, 제품 광고 문구가 아닙니다.
   원문과 상이한 해석이 있을 수 있으며, 인용 시 반드시 원문을 확인하세요.
