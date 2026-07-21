@@ -2,6 +2,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
+import { ResearchVisualPanel } from "@/components/ResearchVisualPanel";
 import { getInsight, getInsightSlugs, studyTypeLabel } from "@/lib/insights";
 import { liquorNotice, siteConfig } from "@/lib/site-config";
 
@@ -73,6 +74,7 @@ export default async function ResearchDetailPage({ params }: Props) {
       </div>
 
       <div className="mx-auto max-w-3xl px-5 py-12">
+        <ResearchVisualPanel visuals={item.visuals} apiMeta={item.apiMeta} />
         <div className="prose-qs">
           <ReactMarkdown remarkPlugins={[remarkGfm]}>{item.body}</ReactMarkdown>
         </div>

@@ -1,6 +1,7 @@
 # Research insights — per-paper professional summaries (not marketing blog)
 
 max_insights: 20
+fetch_visuals: true
 include_priority_review: true
 include_approved_liquor: true
 

@@ -11,6 +11,7 @@ authors:
 - Park HJ.
 doi: 10.3390/foods14193408
 pmid: '41097576'
+pmcid: PMC12523487
 url: https://europepmc.org/article/MED/41097576
 study_type: review_narrative
 evidence_strength: F_review_only
@@ -34,6 +35,62 @@ tags:
 - evidence
 - 제왕충초
 generated: '2026-07-21'
+visuals:
+- type: figure
+  src: /research-figures/influence-of-culture-conditions-on-bioactive-com-2025-097576/foods-14-03408-g001.jpg
+  caption: 원문 Figure (foods-14-03408-g001) — Europe PMC OA
+  source: europepmc
+  filename: foods-14-03408-g001.jpg
+- type: figure
+  src: /research-figures/influence-of-culture-conditions-on-bioactive-com-2025-097576/foods-14-03408-g001.gif
+  caption: 원문 Figure (foods-14-03408-g001) — Europe PMC OA
+  source: europepmc
+  filename: foods-14-03408-g001.gif
+api_meta:
+  keywords:
+  - Cordyceps militaris
+  - Solid fermentation
+  - Bioactive compounds
+  - liquid fermentation
+  - Fungal Cultivation
+  - Cultivation Substrates
+  mesh_terms: []
+  concepts:
+  - name: Bioprocess
+    score: 0.613
+    level: 2
+  - name: Cordycepin
+    score: 0.598
+    level: 2
+  - name: Metabolite
+    score: 0.565
+    level: 2
+  - name: Cordyceps
+    score: 0.518
+    level: 2
+  - name: Biochemical engineering
+    score: 0.516
+    level: 1
+  - name: Biotechnology
+    score: 0.506
+    level: 1
+  - name: Secondary metabolite
+    score: 0.499
+    level: 3
+  - name: Fermentation
+    score: 0.412
+    level: 2
+  cited_by_count: 7
+  reference_count: 108
+  publisher: MDPI AG
+  journal: ''
+  oa_status: gold
+  oa_url: https://www.mdpi.com/2304-8158/14/19/3408/pdf?version=1759327199
+  apis:
+    europepmc: true
+    openalex: true
+    crossref: true
+  fetched_at: '2026-07-21'
 ---
 
 ## 한국어 요약

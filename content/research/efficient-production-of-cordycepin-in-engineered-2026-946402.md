@@ -19,6 +19,7 @@ authors:
 - Ying H.
 doi: 10.1016/j.biortech.2026.134565
 pmid: '41946402'
+pmcid: ''
 url: https://europepmc.org/article/MED/41946402
 study_type: animal
 evidence_strength: C_animal
@@ -43,6 +44,57 @@ tags:
 - evidence
 - 제왕충초
 generated: '2026-07-21'
+visuals: []
+api_meta:
+  keywords:
+  - Fed-batch fermentation
+  - metabolic engineering
+  - Membraneless Organelles
+  - Cordycepin Biosynthesis
+  - Metabolic Effector Molecules
+  mesh_terms:
+  - Saccharomyces cerevisiae
+  - Deoxyadenosines
+  - Bioreactors
+  - Fermentation
+  - Metabolic Engineering
+  - Batch Cell Culture Techniques
+  concepts:
+  - name: Saccharomyces cerevisiae
+    score: 0.809
+    level: 3
+  - name: Cordycepin
+    score: 0.748
+    level: 2
+  - name: Metabolic engineering
+    score: 0.709
+    level: 3
+  - name: Nucleoside
+    score: 0.674
+    level: 2
+  - name: Fermentation
+    score: 0.655
+    level: 2
+  - name: Chemistry
+    score: 0.615
+    level: 0
+  - name: Biochemistry
+    score: 0.598
+    level: 1
+  - name: Effector
+    score: 0.56
+    level: 2
+  cited_by_count: 0
+  reference_count: 41
+  publisher: Elsevier BV
+  journal: ''
+  oa_status: green
+  oa_url: https://doi.org/10.2139/ssrn.5675986
+  apis:
+    europepmc: true
+    openalex: true
+    crossref: true
+  fetched_at: '2026-07-21'
 ---
 
 ## 한국어 요약

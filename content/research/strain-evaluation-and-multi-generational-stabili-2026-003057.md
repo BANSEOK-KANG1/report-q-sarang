@@ -21,6 +21,7 @@ authors:
 - Huu Trung K.
 doi: 10.2174/0113892002410536251027102107
 pmid: '42003057'
+pmcid: ''
 url: https://europepmc.org/article/MED/42003057
 study_type: animal
 evidence_strength: C_animal
@@ -45,6 +46,52 @@ tags:
 - evidence
 - 제왕충초
 generated: '2026-07-21'
+visuals: []
+api_meta:
+  keywords:
+  - Polysaccharides
+  - Genetic stability
+  - Antioxidant activity
+  - Bioactive compounds
+  - cordycepin
+  - Strain Selection.
+  mesh_terms: []
+  concepts:
+  - name: Cordyceps militaris
+    score: 0.915
+    level: 3
+  - name: Antioxidant
+    score: 0.774
+    level: 2
+  - name: Cordycepin
+    score: 0.767
+    level: 2
+  - name: Nutraceutical
+    score: 0.755
+    level: 2
+  - name: Bioactive compound
+    score: 0.732
+    level: 2
+  - name: Strain (injury)
+    score: 0.679
+    level: 2
+  - name: DPPH
+    score: 0.599
+    level: 3
+  - name: Metabolite
+    score: 0.504
+    level: 2
+  cited_by_count: 0
+  reference_count: 0
+  publisher: Bentham Science Publishers Ltd.
+  journal: ''
+  oa_status: closed
+  oa_url: https://europepmc.org/article/MED/42003057
+  apis:
+    europepmc: true
+    openalex: true
+    crossref: true
+  fetched_at: '2026-07-21'
 ---
 
 ## 한국어 요약

@@ -16,6 +16,7 @@ authors:
 - Yanbin Guo
 doi: 10.1016/j.biortech.2024.131446
 pmid: '39241814'
+pmcid: ''
 url: https://pubmed.ncbi.nlm.nih.gov/39241814/
 study_type: animal
 evidence_strength: C_animal
@@ -39,6 +40,59 @@ tags:
 - evidence
 - 제왕충초
 generated: '2026-07-21'
+visuals: []
+api_meta:
+  keywords:
+  - Precursor
+  - cordycepin
+  - Cofactors
+  - Greenhouse Gas Emissions
+  - Methanol Assimilation
+  mesh_terms:
+  - Saccharomycetales
+  - Pichia
+  - Carbon
+  - Methanol
+  - Deoxyadenosines
+  - Fermentation
+  - Promoter Regions, Genetic
+  - Metabolic Engineering
+  concepts:
+  - name: Cordycepin
+    score: 0.927
+    level: 2
+  - name: Pichia pastoris
+    score: 0.658
+    level: 4
+  - name: Industrial fermentation
+    score: 0.613
+    level: 3
+  - name: Fermentation
+    score: 0.535
+    level: 2
+  - name: Chemistry
+    score: 0.534
+    level: 0
+  - name: Biochemistry
+    score: 0.505
+    level: 1
+  - name: Bioprocess
+    score: 0.462
+    level: 2
+  - name: Methanol
+    score: 0.428
+    level: 2
+  cited_by_count: 27
+  reference_count: 48
+  publisher: Elsevier BV
+  journal: Bioresource technology
+  oa_status: closed
+  oa_url: https://pubmed.ncbi.nlm.nih.gov/39241814/
+  apis:
+    europepmc: true
+    openalex: true
+    crossref: true
+  fetched_at: '2026-07-21'
 ---
 
 ## 한국어 요약

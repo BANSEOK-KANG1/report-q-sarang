@@ -17,6 +17,7 @@ authors:
 - Shengli Yang
 doi: 10.1021/bp049765r
 pmid: '36459233'
+pmcid: ''
 url: https://pubmed.ncbi.nlm.nih.gov/36459233/
 study_type: animal
 evidence_strength: C_animal
@@ -40,6 +41,50 @@ tags:
 - evidence
 - 제왕충초
 generated: '2026-07-21'
+visuals: []
+api_meta:
+  keywords: []
+  mesh_terms:
+  - Seeds
+  - Deoxyadenosines
+  - Temperature
+  - Fermentation
+  concepts:
+  - name: Cordycepin
+    score: 0.98
+    level: 2
+  - name: Bioreactor
+    score: 0.779
+    level: 2
+  - name: Cordyceps militaris
+    score: 0.731
+    level: 3
+  - name: Mushroom
+    score: 0.532
+    level: 2
+  - name: Cordyceps
+    score: 0.498
+    level: 2
+  - name: Oxygen
+    score: 0.46
+    level: 2
+  - name: Botany
+    score: 0.416
+    level: 1
+  - name: Chemistry
+    score: 0.41
+    level: 0
+  cited_by_count: 107
+  reference_count: 0
+  publisher: Wiley
+  journal: Current microbiology
+  oa_status: closed
+  oa_url: https://pubmed.ncbi.nlm.nih.gov/36459233/
+  apis:
+    europepmc: true
+    openalex: true
+    crossref: true
+  fetched_at: '2026-07-21'
 ---
 
 ## 한국어 요약

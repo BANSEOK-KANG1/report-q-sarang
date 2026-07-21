@@ -15,6 +15,7 @@ authors:
 - Arora S.
 doi: 10.1080/10826068.2026.2666122
 pmid: '42113971'
+pmcid: ''
 url: https://europepmc.org/article/MED/42113971
 study_type: animal
 evidence_strength: C_animal
@@ -39,6 +40,48 @@ tags:
 - evidence
 - 제왕충초
 generated: '2026-07-21'
+visuals: []
+api_meta:
+  keywords:
+  - Adenosine
+  - Cordyceps militaris
+  - cordycepin
+  - Iron Biofortification
+  - Iron Sulfate Nanoparticles
+  mesh_terms: []
+  concepts:
+  - name: Chemistry
+    score: 0.772
+    level: 0
+  - name: Cordycepin
+    score: 0.686
+    level: 2
+  - name: Nanoparticle
+    score: 0.567
+    level: 2
+  - name: Adenosine
+    score: 0.557
+    level: 2
+  - name: Biochemistry
+    score: 0.427
+    level: 1
+  - name: Nanotechnology
+    score: 0.357
+    level: 1
+  - name: Combinatorial chemistry
+    score: 0.324
+    level: 1
+  cited_by_count: 0
+  reference_count: 27
+  publisher: Informa UK Limited
+  journal: ''
+  oa_status: closed
+  oa_url: https://europepmc.org/article/MED/42113971
+  apis:
+    europepmc: true
+    openalex: true
+    crossref: true
+  fetched_at: '2026-07-21'
 ---
 
 ## 한국어 요약

@@ -1,6 +1,8 @@
 import Link from "next/link";
+import { ArticleImage } from "@/components/ArticleImage";
 import type { ResearchInsight } from "@/lib/insights";
-import { studyTypeLabel } from "@/lib/insights";
+import { coverForInsight, studyTypeLabel } from "@/lib/insights";
+import { visuals } from "@/lib/visuals";
 
 type Props = {
   insight: ResearchInsight;
@@ -30,10 +32,22 @@ function Badges({ insight }: { insight: ResearchInsight }) {
 }
 
 export function ResearchCard({ insight, featured = false }: Props) {
+  const cover = coverForInsight(insight);
+  const fallback = visuals.research;
+
   if (featured) {
     return (
-      <article className="border-b border-line/70 pb-10">
-        <p className="text-xs tracking-[0.14em] text-accent mb-3 uppercase">Featured · Research</p>
+      <article className="grid gap-6 md:grid-cols-[1.1fr_1fr] md:gap-10 items-center border-b border-line/70 pb-10">
+        <Link href={`/research/${insight.slug}`} className="block">
+          <ArticleImage
+            src={cover?.src || fallback.src}
+            alt={cover?.caption || fallback.alt}
+            aspect="video"
+            priority
+          />
+        </Link>
+        <div>
+          <p className="text-xs tracking-[0.14em] text-accent mb-3 uppercase">Featured · Research</p>
         <Link href={`/research/${insight.slug}`}>
           <h3 className="font-display text-2xl md:text-3xl leading-snug hover:text-gold transition-colors">
             {insight.titleKo}
@@ -47,12 +61,21 @@ export function ResearchCard({ insight, featured = false }: Props) {
         >
           전문 요약 읽기 →
         </Link>
+        </div>
       </article>
     );
   }
 
   return (
-    <article className="border-b border-line/70 pb-8">
+    <article className="grid gap-4 md:grid-cols-[160px_1fr] border-b border-line/70 pb-8">
+      <Link href={`/research/${insight.slug}`} className="block">
+        <ArticleImage
+          src={cover?.src || fallback.src}
+          alt={cover?.caption || fallback.alt}
+          aspect="square"
+        />
+      </Link>
+      <div>
       <Link href={`/research/${insight.slug}`}>
         <h3 className="font-display text-lg md:text-xl leading-snug hover:text-gold transition-colors">
           {insight.titleKo}
@@ -66,6 +89,7 @@ export function ResearchCard({ insight, featured = false }: Props) {
       >
         요약 보기 →
       </Link>
+      </div>
     </article>
   );
 }

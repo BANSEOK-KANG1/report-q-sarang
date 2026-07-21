@@ -22,7 +22,8 @@ export default function ResearchPage() {
             브랜드 블로그(이야기)와 달리, 논문 단위의 학술 인사이트를 다룹니다.
           </p>
           <p className="mt-3 text-sm text-ink-soft max-w-2xl leading-relaxed border-l-2 border-gold/50 pl-4">
-            질병·효능 주장이 아닌 연구·교육 목적 자료입니다. 원문 확인 후 인용하세요.
+            질병·효능 주장이 아닌 연구·교육 목적 자료입니다. Europe PMC · OpenAlex · Crossref API
+            연동 시각 자료 포함.
           </p>
         </div>
       </section>

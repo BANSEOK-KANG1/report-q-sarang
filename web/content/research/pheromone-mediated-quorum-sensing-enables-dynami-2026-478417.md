@@ -15,6 +15,7 @@ authors:
 - Yang S.
 doi: 10.1016/j.biortech.2025.133915
 pmid: '41478417'
+pmcid: ''
 url: https://europepmc.org/article/MED/41478417
 study_type: animal
 evidence_strength: C_animal
@@ -38,6 +39,58 @@ tags:
 - evidence
 - 제왕충초
 generated: '2026-07-21'
+visuals: []
+api_meta:
+  keywords:
+  - Cordyceps militaris
+  - Secondary metabolite
+  - Quorum-sensing
+  - cordycepin
+  - Dynamic Regulation
+  mesh_terms:
+  - Cordyceps
+  - Deoxyadenosines
+  - Pheromones
+  - Phylogeny
+  - Gene Expression Regulation, Fungal
+  - Quorum Sensing
+  - Promoter Regions, Genetic
+  concepts:
+  - name: Cordycepin
+    score: 0.979
+    level: 2
+  - name: Cordyceps militaris
+    score: 0.839
+    level: 3
+  - name: Biology
+    score: 0.59
+    level: 0
+  - name: Quorum sensing
+    score: 0.59
+    level: 4
+  - name: Biochemistry
+    score: 0.506
+    level: 1
+  - name: Saccharomyces cerevisiae
+    score: 0.499
+    level: 3
+  - name: Biosynthesis
+    score: 0.48
+    level: 3
+  - name: Transcription factor
+    score: 0.448
+    level: 3
+  cited_by_count: 0
+  reference_count: 46
+  publisher: Elsevier BV
+  journal: ''
+  oa_status: closed
+  oa_url: https://europepmc.org/article/MED/41478417
+  apis:
+    europepmc: true
+    openalex: true
+    crossref: true
+  fetched_at: '2026-07-21'
 ---
 
 ## 한국어 요약

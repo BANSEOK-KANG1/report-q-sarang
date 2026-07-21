@@ -14,6 +14,7 @@ authors:
 - Zhihong Hu
 doi: 10.3390/bioengineering9020069
 pmid: '35200422'
+pmcid: PMC8869658
 url: https://doi.org/10.3390/bioengineering9020069
 study_type: animal
 evidence_strength: C_animal
@@ -37,6 +38,64 @@ tags:
 - evidence
 - 제왕충초
 generated: '2026-07-21'
+visuals:
+- type: figure
+  src: /research-figures/research-progress-on-cordycepin-synthesis-and-me-2022-200422/bioengineering-09-00069-i006.jpg
+  caption: 원문 Figure (bioengineering-09-00069-i006) — Europe PMC OA
+  source: europepmc
+  filename: bioengineering-09-00069-i006.jpg
+- type: figure
+  src: /research-figures/research-progress-on-cordycepin-synthesis-and-me-2022-200422/bioengineering-09-00069-g003.jpg
+  caption: 원문 Figure (bioengineering-09-00069-g003) — Europe PMC OA
+  source: europepmc
+  filename: bioengineering-09-00069-g003.jpg
+- type: figure
+  src: /research-figures/research-progress-on-cordycepin-synthesis-and-me-2022-200422/bioengineering-09-00069-g001.gif
+  caption: 원문 Figure (bioengineering-09-00069-g001) — Europe PMC OA
+  source: europepmc
+  filename: bioengineering-09-00069-g001.gif
+- type: figure
+  src: /research-figures/research-progress-on-cordycepin-synthesis-and-me-2022-200422/bioengineering-09-00069-g002.jpg
+  caption: 원문 Figure (bioengineering-09-00069-g002) — Europe PMC OA
+  source: europepmc
+  filename: bioengineering-09-00069-g002.jpg
+api_meta:
+  keywords:
+  - Biosynthesis
+  - Cordyceps militaris
+  - Genetic modification
+  - cordycepin
+  mesh_terms: []
+  concepts:
+  - name: Cordyceps militaris
+    score: 0.998
+    level: 3
+  - name: Cordycepin
+    score: 0.988
+    level: 2
+  - name: Fermentation
+    score: 0.52
+    level: 2
+  - name: Mesoamerica
+    score: 0.46
+    level: 2
+  - name: Biology
+    score: 0.414
+    level: 0
+  - name: Traditional medicine
+    score: 0.36
+    level: 1
+  cited_by_count: 58
+  reference_count: 98
+  publisher: MDPI AG
+  journal: Bioengineering
+  oa_status: gold
+  oa_url: https://www.mdpi.com/2306-5354/9/2/69/pdf?version=1645016280
+  apis:
+    europepmc: true
+    openalex: true
+    crossref: true
+  fetched_at: '2026-07-21'
 ---
 
 ## 한국어 요약

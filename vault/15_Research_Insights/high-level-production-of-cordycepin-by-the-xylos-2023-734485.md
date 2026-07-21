@@ -17,6 +17,7 @@ authors:
 - Chunying Deng
 doi: 10.1016/j.biortech.2023.129742
 pmid: '37734485'
+pmcid: ''
 url: https://pubmed.ncbi.nlm.nih.gov/37734485/
 study_type: animal
 evidence_strength: C_animal
@@ -40,6 +41,58 @@ tags:
 - evidence
 - 제왕충초
 generated: '2026-07-21'
+visuals: []
+api_meta:
+  keywords:
+  - Xylose
+  - Cordyceps militaris
+  - cordycepin
+  - Transcriptome Analysis
+  - Medium Optimisation
+  mesh_terms:
+  - Cordyceps
+  - Xylose
+  - Deoxyadenosines
+  - Culture Media
+  - Gene Expression Profiling
+  - Biomass
+  - Fermentation
+  concepts:
+  - name: Cordycepin
+    score: 0.99
+    level: 2
+  - name: Xylose
+    score: 0.898
+    level: 3
+  - name: Cordyceps militaris
+    score: 0.895
+    level: 3
+  - name: Cordyceps
+    score: 0.528
+    level: 2
+  - name: Fermentation
+    score: 0.483
+    level: 2
+  - name: Chemistry
+    score: 0.475
+    level: 0
+  - name: Biochemistry
+    score: 0.444
+    level: 1
+  - name: Food science
+    score: 0.424
+    level: 1
+  cited_by_count: 20
+  reference_count: 42
+  publisher: Elsevier BV
+  journal: Bioresource technology
+  oa_status: closed
+  oa_url: https://pubmed.ncbi.nlm.nih.gov/37734485/
+  apis:
+    europepmc: true
+    openalex: true
+    crossref: true
+  fetched_at: '2026-07-21'
 ---
 
 ## 한국어 요약

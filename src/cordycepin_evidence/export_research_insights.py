@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import csv
+import json
 import re
 from datetime import date
 from html import unescape
@@ -12,6 +13,8 @@ from typing import Any
 import yaml
 
 from .utils import EVIDENCE_JSONL, EXPORT_DIR, ROOT, load_yaml, read_jsonl, slugify, vault_path
+
+from .fetch_paper_visuals import fetch_visuals_for_record
 
 CONTENT_DIR = ROOT / "content" / "research"
 WEB_CONTENT_DIR = ROOT / "web" / "content" / "research"
@@ -293,7 +296,12 @@ def _description(r: dict[str, Any]) -> str:
     return f"{year} · {st} · {species} — 코디세핀·제왕충초 관련 학술 문헌 전문 요약 (교육용)"
 
 
-def _frontmatter(r: dict[str, Any], slug: str, cfg: dict[str, Any]) -> str:
+def _frontmatter(
+    r: dict[str, Any],
+    slug: str,
+    cfg: dict[str, Any],
+    visual: dict[str, Any] | None = None,
+) -> str:
     flags = r.get("risk_flags") or []
     data = {
         "title": _clean(r.get("title") or ""),
@@ -305,6 +313,7 @@ def _frontmatter(r: dict[str, Any], slug: str, cfg: dict[str, Any]) -> str:
         "authors": r.get("authors") or [],
         "doi": r.get("doi") or "",
         "pmid": r.get("pmid") or "",
+        "pmcid": (visual or {}).get("pmcid") or r.get("pmcid") or "",
         "url": r.get("url") or "",
         "study_type": r.get("study_type"),
         "evidence_strength": r.get("evidence_strength"),
@@ -323,6 +332,21 @@ def _frontmatter(r: dict[str, Any], slug: str, cfg: dict[str, Any]) -> str:
         "tags": ["research", "cordycepin", "evidence", "제왕충초"],
         "generated": date.today().isoformat(),
     }
+    if visual:
+        data["visuals"] = visual.get("figures") or []
+        data["api_meta"] = {
+            "keywords": visual.get("keywords") or [],
+            "mesh_terms": visual.get("mesh_terms") or [],
+            "concepts": visual.get("concepts") or [],
+            "cited_by_count": visual.get("cited_by_count"),
+            "reference_count": visual.get("reference_count"),
+            "publisher": visual.get("publisher") or "",
+            "journal": visual.get("journal") or "",
+            "oa_status": visual.get("oa_status") or "",
+            "oa_url": visual.get("oa_url") or "",
+            "apis": visual.get("apis") or {},
+            "fetched_at": visual.get("fetched_at") or "",
+        }
     body = yaml.safe_dump(data, allow_unicode=True, sort_keys=False).strip()
     return f"---\n{body}\n---\n"
 
@@ -348,11 +372,18 @@ def export_research_insights() -> int:
 
     index_rows: list[dict[str, str]] = []
     disclaimer = (cfg.get("disclaimer") or "").strip()
+    fetch_visuals = cfg.get("fetch_visuals", True)
+    visual_manifests: dict[str, dict[str, Any]] = {}
 
     for r in selected:
         slug = _slug_for(r)
+        visual: dict[str, Any] | None = None
+        if fetch_visuals:
+            print(f"[research] fetching visuals for {slug}")
+            visual = fetch_visuals_for_record(r, slug)
+            visual_manifests[slug] = visual
         sections = _parse_abstract_sections(r.get("abstract") or "")
-        fm = _frontmatter(r, slug, cfg)
+        fm = _frontmatter(r, slug, cfg, visual)
         body_parts = [
             _korean_summary(r, sections),
             _bibliography(r),
@@ -397,6 +428,61 @@ def export_research_insights() -> int:
         w.writeheader()
         w.writerows(index_rows)
 
+    if visual_manifests:
+        from .fetch_paper_visuals import VISUALS_JSON
+
+        VISUALS_JSON.parent.mkdir(parents=True, exist_ok=True)
+        VISUALS_JSON.write_text(
+            json.dumps(visual_manifests, ensure_ascii=False, indent=2),
+            encoding="utf-8",
+        )
+        fig_count = sum(len(m.get("figures") or []) for m in visual_manifests.values())
+        print(f"[research] visuals: {fig_count} figures -> {VISUALS_JSON}")
+
     print(f"[research] wrote {len(selected)} insight pages -> {CONTENT_DIR}")
     print(f"[research] index -> {index_path}")
     return len(selected)
+
+
+def refresh_research_visuals() -> int:
+    """Re-fetch API visuals for existing research markdown pages."""
+    import yaml as yaml_lib
+
+    from .fetch_paper_visuals import VISUALS_JSON, fetch_visuals_for_record
+
+    records = {r["record_id"]: r for r in read_jsonl(EVIDENCE_JSONL)}
+    visual_manifests: dict[str, dict[str, Any]] = {}
+    updated = 0
+
+    for path in sorted(CONTENT_DIR.glob("*.md")):
+        raw = path.read_text(encoding="utf-8")
+        if not raw.startswith("---"):
+            continue
+        parts = raw.split("---", 2)
+        if len(parts) < 3:
+            continue
+        fm = yaml_lib.safe_load(parts[1]) or {}
+        slug = fm.get("slug") or path.stem
+        record = records.get(fm.get("record_id") or "")
+        if not record:
+            continue
+        print(f"[research-visuals] {slug}")
+        visual = fetch_visuals_for_record(record, slug)
+        visual_manifests[slug] = visual
+        cfg = load_yaml("research_insights.yaml")
+        new_fm = _frontmatter(record, slug, cfg, visual)
+        path.write_text(new_fm + "\n" + parts[2].lstrip("\n"), encoding="utf-8")
+        web_path = WEB_CONTENT_DIR / path.name
+        web_path.write_text(new_fm + "\n" + parts[2].lstrip("\n"), encoding="utf-8")
+        (vault_path() / VAULT_INSIGHTS / path.name).write_text(
+            new_fm + "\n" + parts[2].lstrip("\n"), encoding="utf-8"
+        )
+        updated += 1
+
+    if visual_manifests:
+        VISUALS_JSON.write_text(
+            json.dumps(visual_manifests, ensure_ascii=False, indent=2),
+            encoding="utf-8",
+        )
+    print(f"[research-visuals] updated {updated} pages")
+    return updated

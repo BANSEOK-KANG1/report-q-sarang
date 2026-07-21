@@ -22,6 +22,7 @@ authors:
 - Vriesekoop F.
 doi: 10.3390/cimb48040370
 pmid: '42042030'
+pmcid: PMC13114370
 url: https://europepmc.org/article/MED/42042030
 study_type: animal
 evidence_strength: C_animal
@@ -45,6 +46,72 @@ tags:
 - evidence
 - 제왕충초
 generated: '2026-07-21'
+visuals:
+- type: figure
+  src: /research-figures/an-acetyl-coa-gated-metabolic-checkpoint-links-p-2026-042030/cimb-48-00370-g009.gif
+  caption: 원문 Figure (cimb-48-00370-g009) — Europe PMC OA
+  source: europepmc
+  filename: cimb-48-00370-g009.gif
+- type: figure
+  src: /research-figures/an-acetyl-coa-gated-metabolic-checkpoint-links-p-2026-042030/cimb-48-00370-g005.jpg
+  caption: 원문 Figure (cimb-48-00370-g005) — Europe PMC OA
+  source: europepmc
+  filename: cimb-48-00370-g005.jpg
+- type: figure
+  src: /research-figures/an-acetyl-coa-gated-metabolic-checkpoint-links-p-2026-042030/cimb-48-00370-g004.jpg
+  caption: 원문 Figure (cimb-48-00370-g004) — Europe PMC OA
+  source: europepmc
+  filename: cimb-48-00370-g004.jpg
+- type: figure
+  src: /research-figures/an-acetyl-coa-gated-metabolic-checkpoint-links-p-2026-042030/cimb-48-00370-g001.jpg
+  caption: 원문 Figure (cimb-48-00370-g001) — Europe PMC OA
+  source: europepmc
+  filename: cimb-48-00370-g001.jpg
+api_meta:
+  keywords:
+  - Biosynthesis
+  - Secondary metabolites
+  - Cordyceps militaris
+  - Metabolic pathways
+  - Proteomics
+  - cordycepin
+  mesh_terms: []
+  concepts:
+  - name: Cordycepin
+    score: 0.969
+    level: 2
+  - name: Acetylation
+    score: 0.626
+    level: 3
+  - name: Chemistry
+    score: 0.57
+    level: 0
+  - name: Cell cycle checkpoint
+    score: 0.547
+    level: 4
+  - name: Biochemistry
+    score: 0.535
+    level: 1
+  - name: Cordyceps militaris
+    score: 0.533
+    level: 3
+  - name: Overproduction
+    score: 0.468
+    level: 3
+  - name: Flux (metallurgy)
+    score: 0.445
+    level: 2
+  cited_by_count: 0
+  reference_count: 40
+  publisher: MDPI AG
+  journal: ''
+  oa_status: gold
+  oa_url: https://www.mdpi.com/1467-3045/48/4/370/pdf?version=1775118454
+  apis:
+    europepmc: true
+    openalex: true
+    crossref: true
+  fetched_at: '2026-07-21'
 ---
 
 ## 한국어 요약

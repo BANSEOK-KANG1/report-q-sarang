@@ -1,0 +1,1615 @@
+{
+  "an-acetyl-coa-gated-metabolic-checkpoint-links-p-2026-042030": {
+    "slug": "an-acetyl-coa-gated-metabolic-checkpoint-links-p-2026-042030",
+    "record_id": "3c004761-c6eb-41e2-abea-5efdb0948c60",
+    "doi": "10.3390/cimb48040370",
+    "pmid": "42042030",
+    "pmcid": "PMC13114370",
+    "figures": [
+      {
+        "type": "figure",
+        "src": "/research-figures/an-acetyl-coa-gated-metabolic-checkpoint-links-p-2026-042030/cimb-48-00370-g009.gif",
+        "caption": "원문 Figure (cimb-48-00370-g009) — Europe PMC OA",
+        "source": "europepmc",
+        "filename": "cimb-48-00370-g009.gif"
+      },
+      {
+        "type": "figure",
+        "src": "/research-figures/an-acetyl-coa-gated-metabolic-checkpoint-links-p-2026-042030/cimb-48-00370-g005.jpg",
+        "caption": "원문 Figure (cimb-48-00370-g005) — Europe PMC OA",
+        "source": "europepmc",
+        "filename": "cimb-48-00370-g005.jpg"
+      },
+      {
+        "type": "figure",
+        "src": "/research-figures/an-acetyl-coa-gated-metabolic-checkpoint-links-p-2026-042030/cimb-48-00370-g004.jpg",
+        "caption": "원문 Figure (cimb-48-00370-g004) — Europe PMC OA",
+        "source": "europepmc",
+        "filename": "cimb-48-00370-g004.jpg"
+      },
+      {
+        "type": "figure",
+        "src": "/research-figures/an-acetyl-coa-gated-metabolic-checkpoint-links-p-2026-042030/cimb-48-00370-g001.jpg",
+        "caption": "원문 Figure (cimb-48-00370-g001) — Europe PMC OA",
+        "source": "europepmc",
+        "filename": "cimb-48-00370-g001.jpg"
+      }
+    ],
+    "keywords": [
+      "Biosynthesis",
+      "Secondary metabolites",
+      "Cordyceps militaris",
+      "Metabolic pathways",
+      "Proteomics",
+      "cordycepin"
+    ],
+    "mesh_terms": [],
+    "concepts": [
+      {
+        "name": "Cordycepin",
+        "score": 0.969,
+        "level": 2
+      },
+      {
+        "name": "Acetylation",
+        "score": 0.626,
+        "level": 3
+      },
+      {
+        "name": "Chemistry",
+        "score": 0.57,
+        "level": 0
+      },
+      {
+        "name": "Cell cycle checkpoint",
+        "score": 0.547,
+        "level": 4
+      },
+      {
+        "name": "Biochemistry",
+        "score": 0.535,
+        "level": 1
+      },
+      {
+        "name": "Cordyceps militaris",
+        "score": 0.533,
+        "level": 3
+      },
+      {
+        "name": "Overproduction",
+        "score": 0.468,
+        "level": 3
+      },
+      {
+        "name": "Flux (metallurgy)",
+        "score": 0.445,
+        "level": 2
+      }
+    ],
+    "cited_by_count": 0,
+    "reference_count": 40,
+    "publisher": "MDPI AG",
+    "journal": "",
+    "oa_status": "gold",
+    "oa_url": "https://www.mdpi.com/1467-3045/48/4/370/pdf?version=1775118454",
+    "apis": {
+      "europepmc": true,
+      "openalex": true,
+      "crossref": true
+    },
+    "fetched_at": "2026-07-21"
+  },
+  "enhancement-of-cordycepin-production-through-liq-2024-241164": {
+    "slug": "enhancement-of-cordycepin-production-through-liq-2024-241164",
+    "record_id": "11dbfa85-54a9-4101-b4c8-23b42a6f5b93",
+    "doi": "10.1615/intjmedmushrooms.2024055323",
+    "pmid": "39241164",
+    "pmcid": "",
+    "figures": [],
+    "keywords": [],
+    "mesh_terms": [
+      "Cordyceps",
+      "Adenine",
+      "Peptones",
+      "Deoxyadenosines",
+      "Culture Media",
+      "Fermentation",
+      "Peanut Oil"
+    ],
+    "concepts": [
+      {
+        "name": "Cordycepin",
+        "score": 0.954,
+        "level": 2
+      },
+      {
+        "name": "Mushroom",
+        "score": 0.874,
+        "level": 2
+      },
+      {
+        "name": "Cordyceps militaris",
+        "score": 0.726,
+        "level": 3
+      },
+      {
+        "name": "Medicinal fungi",
+        "score": 0.67,
+        "level": 3
+      },
+      {
+        "name": "Caterpillar",
+        "score": 0.641,
+        "level": 3
+      },
+      {
+        "name": "Fermentation",
+        "score": 0.581,
+        "level": 2
+      },
+      {
+        "name": "Biology",
+        "score": 0.468,
+        "level": 0
+      },
+      {
+        "name": "Botany",
+        "score": 0.372,
+        "level": 1
+      }
+    ],
+    "cited_by_count": 0,
+    "reference_count": 28,
+    "publisher": "Begell House",
+    "journal": "International journal of medicinal mushrooms",
+    "oa_status": "closed",
+    "oa_url": "https://pubmed.ncbi.nlm.nih.gov/39241164/",
+    "apis": {
+      "europepmc": true,
+      "openalex": true,
+      "crossref": true
+    },
+    "fetched_at": "2026-07-21"
+  },
+  "optimization-of-cordycepin-fermentation-by-cordy-2026-162183": {
+    "slug": "optimization-of-cordycepin-fermentation-by-cordy-2026-162183",
+    "record_id": "8d37cf9b-ad14-45a2-97cd-9f113b34b0a5",
+    "doi": "10.1038/s41598-026-54117-8",
+    "pmid": "42162183",
+    "pmcid": "",
+    "figures": [],
+    "keywords": [
+      "Fermentation",
+      "Cordyceps militaris",
+      "Response surface methodology",
+      "cordycepin"
+    ],
+    "mesh_terms": [],
+    "concepts": [
+      {
+        "name": "Cordycepin",
+        "score": 0.894,
+        "level": 2
+      },
+      {
+        "name": "Response surface methodology",
+        "score": 0.854,
+        "level": 2
+      },
+      {
+        "name": "Cordyceps militaris",
+        "score": 0.849,
+        "level": 3
+      },
+      {
+        "name": "Cordyceps",
+        "score": 0.666,
+        "level": 2
+      },
+      {
+        "name": "Chemistry",
+        "score": 0.605,
+        "level": 0
+      },
+      {
+        "name": "Fermentation",
+        "score": 0.593,
+        "level": 2
+      },
+      {
+        "name": "Food science",
+        "score": 0.419,
+        "level": 1
+      },
+      {
+        "name": "Chromatography",
+        "score": 0.393,
+        "level": 1
+      }
+    ],
+    "cited_by_count": 0,
+    "reference_count": 0,
+    "publisher": "Springer Science and Business Media LLC",
+    "journal": "",
+    "oa_status": "gold",
+    "oa_url": "https://www.nature.com/articles/s41598-026-54117-8_reference.pdf",
+    "apis": {
+      "europepmc": true,
+      "openalex": true,
+      "crossref": true
+    },
+    "fetched_at": "2026-07-21"
+  },
+  "pheromone-mediated-quorum-sensing-enables-dynami-2026-478417": {
+    "slug": "pheromone-mediated-quorum-sensing-enables-dynami-2026-478417",
+    "record_id": "2b09a08c-05bc-48ce-9dcd-9364b745a2ba",
+    "doi": "10.1016/j.biortech.2025.133915",
+    "pmid": "41478417",
+    "pmcid": "",
+    "figures": [],
+    "keywords": [
+      "Cordyceps militaris",
+      "Secondary metabolite",
+      "Quorum-sensing",
+      "cordycepin",
+      "Dynamic Regulation"
+    ],
+    "mesh_terms": [
+      "Cordyceps",
+      "Deoxyadenosines",
+      "Pheromones",
+      "Phylogeny",
+      "Gene Expression Regulation, Fungal",
+      "Quorum Sensing",
+      "Promoter Regions, Genetic"
+    ],
+    "concepts": [
+      {
+        "name": "Cordycepin",
+        "score": 0.979,
+        "level": 2
+      },
+      {
+        "name": "Cordyceps militaris",
+        "score": 0.839,
+        "level": 3
+      },
+      {
+        "name": "Biology",
+        "score": 0.59,
+        "level": 0
+      },
+      {
+        "name": "Quorum sensing",
+        "score": 0.59,
+        "level": 4
+      },
+      {
+        "name": "Biochemistry",
+        "score": 0.506,
+        "level": 1
+      },
+      {
+        "name": "Saccharomyces cerevisiae",
+        "score": 0.499,
+        "level": 3
+      },
+      {
+        "name": "Biosynthesis",
+        "score": 0.48,
+        "level": 3
+      },
+      {
+        "name": "Transcription factor",
+        "score": 0.448,
+        "level": 3
+      }
+    ],
+    "cited_by_count": 0,
+    "reference_count": 46,
+    "publisher": "Elsevier BV",
+    "journal": "",
+    "oa_status": "closed",
+    "oa_url": "https://europepmc.org/article/MED/41478417",
+    "apis": {
+      "europepmc": true,
+      "openalex": true,
+      "crossref": true
+    },
+    "fetched_at": "2026-07-21"
+  },
+  "predictive-modeling-of-cordycepin-content-in-cor-2026-636097": {
+    "slug": "predictive-modeling-of-cordycepin-content-in-cor-2026-636097",
+    "record_id": "6bf0db81-2425-4b9a-8d57-9c0ea6293096",
+    "doi": "10.1002/jobm.70148",
+    "pmid": "41636097",
+    "pmcid": "",
+    "figures": [],
+    "keywords": [
+      "Cordyceps militaris",
+      "cordycepin",
+      "Machine Learning",
+      "Bioprocessing",
+      "GUI",
+      "Xgboost"
+    ],
+    "mesh_terms": [
+      "Cordyceps",
+      "Carbon",
+      "Nitrogen",
+      "Deoxyadenosines",
+      "Culture Media",
+      "Reproducibility of Results",
+      "Fermentation",
+      "Machine Learning",
+      "Support Vector Machine",
+      "Random Forest",
+      "Boosting Machine Learning Algorithms",
+      "Predictive Learning Models",
+      "Prediction Algorithms"
+    ],
+    "concepts": [
+      {
+        "name": "Cordycepin",
+        "score": 0.826,
+        "level": 2
+      },
+      {
+        "name": "Machine learning",
+        "score": 0.725,
+        "level": 1
+      },
+      {
+        "name": "Artificial intelligence",
+        "score": 0.643,
+        "level": 1
+      },
+      {
+        "name": "Support vector machine",
+        "score": 0.643,
+        "level": 2
+      },
+      {
+        "name": "Computer science",
+        "score": 0.58,
+        "level": 0
+      },
+      {
+        "name": "Scalability",
+        "score": 0.579,
+        "level": 2
+      },
+      {
+        "name": "Bioprocess",
+        "score": 0.57,
+        "level": 2
+      },
+      {
+        "name": "Random forest",
+        "score": 0.425,
+        "level": 2
+      }
+    ],
+    "cited_by_count": 0,
+    "reference_count": 63,
+    "publisher": "Wiley",
+    "journal": "",
+    "oa_status": "bronze",
+    "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jobm.70148",
+    "apis": {
+      "europepmc": true,
+      "openalex": true,
+      "crossref": true
+    },
+    "fetched_at": "2026-07-21"
+  },
+  "advances-in-biosynthesis-and-metabolic-engineeri-2024-903790": {
+    "slug": "advances-in-biosynthesis-and-metabolic-engineeri-2024-903790",
+    "record_id": "0771f70a-a291-4ec7-b3c9-78a8e1218eeb",
+    "doi": "10.16488/j.cnki.1005-9873.2007.02.015",
+    "pmid": "38903790",
+    "pmcid": "PMC11188397",
+    "figures": [
+      {
+        "type": "figure",
+        "src": "/research-figures/advances-in-biosynthesis-and-metabolic-engineeri-2024-903790/fmicb-15-1386855-g002.jpg",
+        "caption": "원문 Figure (fmicb-15-1386855-g002) — Europe PMC OA",
+        "source": "europepmc",
+        "filename": "fmicb-15-1386855-g002.jpg"
+      },
+      {
+        "type": "figure",
+        "src": "/research-figures/advances-in-biosynthesis-and-metabolic-engineeri-2024-903790/fmicb-15-1386855-g003.jpg",
+        "caption": "원문 Figure (fmicb-15-1386855-g003) — Europe PMC OA",
+        "source": "europepmc",
+        "filename": "fmicb-15-1386855-g003.jpg"
+      },
+      {
+        "type": "figure",
+        "src": "/research-figures/advances-in-biosynthesis-and-metabolic-engineeri-2024-903790/fmicb-15-1386855-g001.gif",
+        "caption": "원문 Figure (fmicb-15-1386855-g001) — Europe PMC OA",
+        "source": "europepmc",
+        "filename": "fmicb-15-1386855-g001.gif"
+      },
+      {
+        "type": "figure",
+        "src": "/research-figures/advances-in-biosynthesis-and-metabolic-engineeri-2024-903790/fmicb-15-1386855-g002.gif",
+        "caption": "원문 Figure (fmicb-15-1386855-g002) — Europe PMC OA",
+        "source": "europepmc",
+        "filename": "fmicb-15-1386855-g002.gif"
+      }
+    ],
+    "keywords": [
+      "Biosynthesis",
+      "Cordyceps militaris",
+      "metabolic engineering",
+      "cordycepin",
+      "Microbial Fermentation"
+    ],
+    "mesh_terms": [],
+    "concepts": [],
+    "cited_by_count": 6,
+    "reference_count": null,
+    "publisher": "",
+    "journal": "Frontiers in microbiology",
+    "oa_status": "",
+    "oa_url": "https://pubmed.ncbi.nlm.nih.gov/38903790/",
+    "apis": {
+      "europepmc": true,
+      "openalex": false,
+      "crossref": false
+    },
+    "fetched_at": "2026-07-21"
+  },
+  "evidence-for-regulation-of-cordycepin-biosynthes-2024-171629": {
+    "slug": "evidence-for-regulation-of-cordycepin-biosynthes-2024-171629",
+    "record_id": "cacacb71-79ad-436c-af9b-630d8ab70d02",
+    "doi": "10.1615/intjmedmushrooms.2024054952",
+    "pmid": "39171629",
+    "pmcid": "",
+    "figures": [],
+    "keywords": [],
+    "mesh_terms": [
+      "Cordyceps",
+      "Fungal Proteins",
+      "Transcription Factors",
+      "Deoxyadenosines",
+      "Gene Expression Profiling",
+      "Gene Expression Regulation, Fungal",
+      "Kruppel-Like Transcription Factors",
+      "Biosynthetic Pathways",
+      "Kruppel-Like Factor 4"
+    ],
+    "concepts": [
+      {
+        "name": "Cordycepin",
+        "score": 0.947,
+        "level": 2
+      },
+      {
+        "name": "Krüppel",
+        "score": 0.846,
+        "level": 4
+      },
+      {
+        "name": "Cordyceps militaris",
+        "score": 0.764,
+        "level": 3
+      },
+      {
+        "name": "Transcription factor",
+        "score": 0.595,
+        "level": 3
+      },
+      {
+        "name": "Alpha (finance)",
+        "score": 0.513,
+        "level": 4
+      },
+      {
+        "name": "Biology",
+        "score": 0.45,
+        "level": 0
+      },
+      {
+        "name": "Cordyceps",
+        "score": 0.392,
+        "level": 2
+      },
+      {
+        "name": "Gene",
+        "score": 0.347,
+        "level": 2
+      }
+    ],
+    "cited_by_count": 0,
+    "reference_count": 46,
+    "publisher": "Begell House",
+    "journal": "International journal of medicinal mushrooms",
+    "oa_status": "closed",
+    "oa_url": "https://pubmed.ncbi.nlm.nih.gov/39171629/",
+    "apis": {
+      "europepmc": true,
+      "openalex": true,
+      "crossref": true
+    },
+    "fetched_at": "2026-07-21"
+  },
+  "high-level-production-of-cordycepin-by-the-xylos-2023-734485": {
+    "slug": "high-level-production-of-cordycepin-by-the-xylos-2023-734485",
+    "record_id": "6b8de1df-0132-483f-a43c-c9da412dcc76",
+    "doi": "10.1016/j.biortech.2023.129742",
+    "pmid": "37734485",
+    "pmcid": "",
+    "figures": [],
+    "keywords": [
+      "Xylose",
+      "Cordyceps militaris",
+      "cordycepin",
+      "Transcriptome Analysis",
+      "Medium Optimisation"
+    ],
+    "mesh_terms": [
+      "Cordyceps",
+      "Xylose",
+      "Deoxyadenosines",
+      "Culture Media",
+      "Gene Expression Profiling",
+      "Biomass",
+      "Fermentation"
+    ],
+    "concepts": [
+      {
+        "name": "Cordycepin",
+        "score": 0.99,
+        "level": 2
+      },
+      {
+        "name": "Xylose",
+        "score": 0.898,
+        "level": 3
+      },
+      {
+        "name": "Cordyceps militaris",
+        "score": 0.895,
+        "level": 3
+      },
+      {
+        "name": "Cordyceps",
+        "score": 0.528,
+        "level": 2
+      },
+      {
+        "name": "Fermentation",
+        "score": 0.483,
+        "level": 2
+      },
+      {
+        "name": "Chemistry",
+        "score": 0.475,
+        "level": 0
+      },
+      {
+        "name": "Biochemistry",
+        "score": 0.444,
+        "level": 1
+      },
+      {
+        "name": "Food science",
+        "score": 0.424,
+        "level": 1
+      }
+    ],
+    "cited_by_count": 20,
+    "reference_count": 42,
+    "publisher": "Elsevier BV",
+    "journal": "Bioresource technology",
+    "oa_status": "closed",
+    "oa_url": "https://pubmed.ncbi.nlm.nih.gov/37734485/",
+    "apis": {
+      "europepmc": true,
+      "openalex": true,
+      "crossref": true
+    },
+    "fetched_at": "2026-07-21"
+  },
+  "increased-cordycepin-production-in-yarrowia-lipo-2023-791366": {
+    "slug": "increased-cordycepin-production-in-yarrowia-lipo-2023-791366",
+    "record_id": "a33e9720-ec0e-41d3-8ad0-84efc0f34da7",
+    "doi": "10.1021/acssynbio.2c00570",
+    "pmid": "36791366",
+    "pmcid": "",
+    "figures": [],
+    "keywords": [
+      "Yarrowia lipolytica",
+      "Fermentation optimization",
+      "cordycepin",
+      "Combinatorial Metabolic Engineering",
+      "Green Biomanufacturing"
+    ],
+    "mesh_terms": [
+      "Yarrowia",
+      "Nucleosides",
+      "Deoxyadenosines",
+      "Fermentation",
+      "Metabolic Engineering"
+    ],
+    "concepts": [
+      {
+        "name": "Cordycepin",
+        "score": 0.983,
+        "level": 2
+      },
+      {
+        "name": "Yarrowia",
+        "score": 0.922,
+        "level": 3
+      },
+      {
+        "name": "Metabolic engineering",
+        "score": 0.815,
+        "level": 3
+      },
+      {
+        "name": "Synthetic biology",
+        "score": 0.661,
+        "level": 2
+      },
+      {
+        "name": "Cordyceps militaris",
+        "score": 0.584,
+        "level": 3
+      },
+      {
+        "name": "Fermentation",
+        "score": 0.556,
+        "level": 2
+      },
+      {
+        "name": "Biomanufacturing",
+        "score": 0.503,
+        "level": 2
+      },
+      {
+        "name": "Biochemistry",
+        "score": 0.463,
+        "level": 1
+      }
+    ],
+    "cited_by_count": 26,
+    "reference_count": 53,
+    "publisher": "American Chemical Society (ACS)",
+    "journal": "ACS synthetic biology",
+    "oa_status": "closed",
+    "oa_url": "https://pubmed.ncbi.nlm.nih.gov/36791366/",
+    "apis": {
+      "europepmc": true,
+      "openalex": true,
+      "crossref": true
+    },
+    "fetched_at": "2026-07-21"
+  },
+  "research-progress-on-cordycepin-synthesis-and-me-2022-200422": {
+    "slug": "research-progress-on-cordycepin-synthesis-and-me-2022-200422",
+    "record_id": "51938d7a-3f12-4f88-84b4-276dc7705d6f",
+    "doi": "10.3390/bioengineering9020069",
+    "pmid": "35200422",
+    "pmcid": "PMC8869658",
+    "figures": [
+      {
+        "type": "figure",
+        "src": "/research-figures/research-progress-on-cordycepin-synthesis-and-me-2022-200422/bioengineering-09-00069-i006.jpg",
+        "caption": "원문 Figure (bioengineering-09-00069-i006) — Europe PMC OA",
+        "source": "europepmc",
+        "filename": "bioengineering-09-00069-i006.jpg"
+      },
+      {
+        "type": "figure",
+        "src": "/research-figures/research-progress-on-cordycepin-synthesis-and-me-2022-200422/bioengineering-09-00069-g003.jpg",
+        "caption": "원문 Figure (bioengineering-09-00069-g003) — Europe PMC OA",
+        "source": "europepmc",
+        "filename": "bioengineering-09-00069-g003.jpg"
+      },
+      {
+        "type": "figure",
+        "src": "/research-figures/research-progress-on-cordycepin-synthesis-and-me-2022-200422/bioengineering-09-00069-g001.gif",
+        "caption": "원문 Figure (bioengineering-09-00069-g001) — Europe PMC OA",
+        "source": "europepmc",
+        "filename": "bioengineering-09-00069-g001.gif"
+      },
+      {
+        "type": "figure",
+        "src": "/research-figures/research-progress-on-cordycepin-synthesis-and-me-2022-200422/bioengineering-09-00069-g002.jpg",
+        "caption": "원문 Figure (bioengineering-09-00069-g002) — Europe PMC OA",
+        "source": "europepmc",
+        "filename": "bioengineering-09-00069-g002.jpg"
+      }
+    ],
+    "keywords": [
+      "Biosynthesis",
+      "Cordyceps militaris",
+      "Genetic modification",
+      "cordycepin"
+    ],
+    "mesh_terms": [],
+    "concepts": [
+      {
+        "name": "Cordyceps militaris",
+        "score": 0.998,
+        "level": 3
+      },
+      {
+        "name": "Cordycepin",
+        "score": 0.988,
+        "level": 2
+      },
+      {
+        "name": "Fermentation",
+        "score": 0.52,
+        "level": 2
+      },
+      {
+        "name": "Mesoamerica",
+        "score": 0.46,
+        "level": 2
+      },
+      {
+        "name": "Biology",
+        "score": 0.414,
+        "level": 0
+      },
+      {
+        "name": "Traditional medicine",
+        "score": 0.36,
+        "level": 1
+      }
+    ],
+    "cited_by_count": 58,
+    "reference_count": 98,
+    "publisher": "MDPI AG",
+    "journal": "Bioengineering",
+    "oa_status": "gold",
+    "oa_url": "https://www.mdpi.com/2306-5354/9/2/69/pdf?version=1645016280",
+    "apis": {
+      "europepmc": true,
+      "openalex": true,
+      "crossref": true
+    },
+    "fetched_at": "2026-07-21"
+  },
+  "exploration-of-the-potential-utilization-value-i-2026-444510": {
+    "slug": "exploration-of-the-potential-utilization-value-i-2026-444510",
+    "record_id": "fcafe934-d800-491d-8c2a-5a70b07dd44e",
+    "doi": "10.1177/00368504261467525",
+    "pmid": "42444510",
+    "pmcid": "",
+    "figures": [],
+    "keywords": [
+      "Substrate",
+      "Cordyceps militaris",
+      "Volatile components",
+      "Utilization value",
+      "Bioactive ingredients",
+      "Optimum Drying Parameters"
+    ],
+    "mesh_terms": [
+      "Cordyceps",
+      "Fruiting Bodies, Fungal",
+      "Polysaccharides",
+      "Deoxyadenosines",
+      "Temperature"
+    ],
+    "concepts": [
+      {
+        "name": "Cordyceps militaris",
+        "score": 0.908,
+        "level": 3
+      },
+      {
+        "name": "Kjeldahl method",
+        "score": 0.757,
+        "level": 3
+      },
+      {
+        "name": "Cordycepin",
+        "score": 0.669,
+        "level": 2
+      },
+      {
+        "name": "Food science",
+        "score": 0.578,
+        "level": 1
+      },
+      {
+        "name": "Substrate (aquarium)",
+        "score": 0.561,
+        "level": 2
+      },
+      {
+        "name": "Chemistry",
+        "score": 0.5,
+        "level": 0
+      },
+      {
+        "name": "Biological value",
+        "score": 0.476,
+        "level": 2
+      },
+      {
+        "name": "Nutrient",
+        "score": 0.416,
+        "level": 2
+      }
+    ],
+    "cited_by_count": 0,
+    "reference_count": 53,
+    "publisher": "SAGE Publications",
+    "journal": "",
+    "oa_status": "diamond",
+    "oa_url": "https://doi.org/10.1177/00368504261467525",
+    "apis": {
+      "europepmc": true,
+      "openalex": true,
+      "crossref": true
+    },
+    "fetched_at": "2026-07-21"
+  },
+  "low-carbon-and-overproduction-of-cordycepin-from-2024-241814": {
+    "slug": "low-carbon-and-overproduction-of-cordycepin-from-2024-241814",
+    "record_id": "9f6a91c5-3639-447d-ba1c-461a13b2bf0c",
+    "doi": "10.1016/j.biortech.2024.131446",
+    "pmid": "39241814",
+    "pmcid": "",
+    "figures": [],
+    "keywords": [
+      "Precursor",
+      "cordycepin",
+      "Cofactors",
+      "Greenhouse Gas Emissions",
+      "Methanol Assimilation"
+    ],
+    "mesh_terms": [
+      "Saccharomycetales",
+      "Pichia",
+      "Carbon",
+      "Methanol",
+      "Deoxyadenosines",
+      "Fermentation",
+      "Promoter Regions, Genetic",
+      "Metabolic Engineering"
+    ],
+    "concepts": [
+      {
+        "name": "Cordycepin",
+        "score": 0.927,
+        "level": 2
+      },
+      {
+        "name": "Pichia pastoris",
+        "score": 0.658,
+        "level": 4
+      },
+      {
+        "name": "Industrial fermentation",
+        "score": 0.613,
+        "level": 3
+      },
+      {
+        "name": "Fermentation",
+        "score": 0.535,
+        "level": 2
+      },
+      {
+        "name": "Chemistry",
+        "score": 0.534,
+        "level": 0
+      },
+      {
+        "name": "Biochemistry",
+        "score": 0.505,
+        "level": 1
+      },
+      {
+        "name": "Bioprocess",
+        "score": 0.462,
+        "level": 2
+      },
+      {
+        "name": "Methanol",
+        "score": 0.428,
+        "level": 2
+      }
+    ],
+    "cited_by_count": 27,
+    "reference_count": 48,
+    "publisher": "Elsevier BV",
+    "journal": "Bioresource technology",
+    "oa_status": "closed",
+    "oa_url": "https://pubmed.ncbi.nlm.nih.gov/39241814/",
+    "apis": {
+      "europepmc": true,
+      "openalex": true,
+      "crossref": true
+    },
+    "fetched_at": "2026-07-21"
+  },
+  "construction-of-cordycepin-high-production-strai-2022-459233": {
+    "slug": "construction-of-cordycepin-high-production-strai-2022-459233",
+    "record_id": "a4506213-7ac4-44bf-8a31-13ac729e911e",
+    "doi": "10.1021/bp049765r",
+    "pmid": "36459233",
+    "pmcid": "",
+    "figures": [],
+    "keywords": [],
+    "mesh_terms": [
+      "Seeds",
+      "Deoxyadenosines",
+      "Temperature",
+      "Fermentation"
+    ],
+    "concepts": [
+      {
+        "name": "Cordycepin",
+        "score": 0.98,
+        "level": 2
+      },
+      {
+        "name": "Bioreactor",
+        "score": 0.779,
+        "level": 2
+      },
+      {
+        "name": "Cordyceps militaris",
+        "score": 0.731,
+        "level": 3
+      },
+      {
+        "name": "Mushroom",
+        "score": 0.532,
+        "level": 2
+      },
+      {
+        "name": "Cordyceps",
+        "score": 0.498,
+        "level": 2
+      },
+      {
+        "name": "Oxygen",
+        "score": 0.46,
+        "level": 2
+      },
+      {
+        "name": "Botany",
+        "score": 0.416,
+        "level": 1
+      },
+      {
+        "name": "Chemistry",
+        "score": 0.41,
+        "level": 0
+      }
+    ],
+    "cited_by_count": 107,
+    "reference_count": 0,
+    "publisher": "Wiley",
+    "journal": "Current microbiology",
+    "oa_status": "closed",
+    "oa_url": "https://pubmed.ncbi.nlm.nih.gov/36459233/",
+    "apis": {
+      "europepmc": true,
+      "openalex": true,
+      "crossref": true
+    },
+    "fetched_at": "2026-07-21"
+  },
+  "influence-of-culture-conditions-on-bioactive-com-2025-097576": {
+    "slug": "influence-of-culture-conditions-on-bioactive-com-2025-097576",
+    "record_id": "d5f49d17-e227-45aa-aeb7-0fd2b1126847",
+    "doi": "10.3390/foods14193408",
+    "pmid": "41097576",
+    "pmcid": "PMC12523487",
+    "figures": [
+      {
+        "type": "figure",
+        "src": "/research-figures/influence-of-culture-conditions-on-bioactive-com-2025-097576/foods-14-03408-g001.jpg",
+        "caption": "원문 Figure (foods-14-03408-g001) — Europe PMC OA",
+        "source": "europepmc",
+        "filename": "foods-14-03408-g001.jpg"
+      },
+      {
+        "type": "figure",
+        "src": "/research-figures/influence-of-culture-conditions-on-bioactive-com-2025-097576/foods-14-03408-g001.gif",
+        "caption": "원문 Figure (foods-14-03408-g001) — Europe PMC OA",
+        "source": "europepmc",
+        "filename": "foods-14-03408-g001.gif"
+      }
+    ],
+    "keywords": [
+      "Cordyceps militaris",
+      "Solid fermentation",
+      "Bioactive compounds",
+      "liquid fermentation",
+      "Fungal Cultivation",
+      "Cultivation Substrates"
+    ],
+    "mesh_terms": [],
+    "concepts": [
+      {
+        "name": "Bioprocess",
+        "score": 0.613,
+        "level": 2
+      },
+      {
+        "name": "Cordycepin",
+        "score": 0.598,
+        "level": 2
+      },
+      {
+        "name": "Metabolite",
+        "score": 0.565,
+        "level": 2
+      },
+      {
+        "name": "Cordyceps",
+        "score": 0.518,
+        "level": 2
+      },
+      {
+        "name": "Biochemical engineering",
+        "score": 0.516,
+        "level": 1
+      },
+      {
+        "name": "Biotechnology",
+        "score": 0.506,
+        "level": 1
+      },
+      {
+        "name": "Secondary metabolite",
+        "score": 0.499,
+        "level": 3
+      },
+      {
+        "name": "Fermentation",
+        "score": 0.412,
+        "level": 2
+      }
+    ],
+    "cited_by_count": 7,
+    "reference_count": 108,
+    "publisher": "MDPI AG",
+    "journal": "",
+    "oa_status": "gold",
+    "oa_url": "https://www.mdpi.com/2304-8158/14/19/3408/pdf?version=1759327199",
+    "apis": {
+      "europepmc": true,
+      "openalex": true,
+      "crossref": true
+    },
+    "fetched_at": "2026-07-21"
+  },
+  "strain-evaluation-and-multi-generational-stabili-2026-003057": {
+    "slug": "strain-evaluation-and-multi-generational-stabili-2026-003057",
+    "record_id": "fba2d32a-d796-45d9-bfdc-7ffdd7dea5a5",
+    "doi": "10.2174/0113892002410536251027102107",
+    "pmid": "42003057",
+    "pmcid": "",
+    "figures": [],
+    "keywords": [
+      "Polysaccharides",
+      "Genetic stability",
+      "Antioxidant activity",
+      "Bioactive compounds",
+      "cordycepin",
+      "Strain Selection."
+    ],
+    "mesh_terms": [],
+    "concepts": [
+      {
+        "name": "Cordyceps militaris",
+        "score": 0.915,
+        "level": 3
+      },
+      {
+        "name": "Antioxidant",
+        "score": 0.774,
+        "level": 2
+      },
+      {
+        "name": "Cordycepin",
+        "score": 0.767,
+        "level": 2
+      },
+      {
+        "name": "Nutraceutical",
+        "score": 0.755,
+        "level": 2
+      },
+      {
+        "name": "Bioactive compound",
+        "score": 0.732,
+        "level": 2
+      },
+      {
+        "name": "Strain (injury)",
+        "score": 0.679,
+        "level": 2
+      },
+      {
+        "name": "DPPH",
+        "score": 0.599,
+        "level": 3
+      },
+      {
+        "name": "Metabolite",
+        "score": 0.504,
+        "level": 2
+      }
+    ],
+    "cited_by_count": 0,
+    "reference_count": 0,
+    "publisher": "Bentham Science Publishers Ltd.",
+    "journal": "",
+    "oa_status": "closed",
+    "oa_url": "https://europepmc.org/article/MED/42003057",
+    "apis": {
+      "europepmc": true,
+      "openalex": true,
+      "crossref": true
+    },
+    "fetched_at": "2026-07-21"
+  },
+  "harnessing-iron-nanoparticles-for-scalable-cordy-2026-113971": {
+    "slug": "harnessing-iron-nanoparticles-for-scalable-cordy-2026-113971",
+    "record_id": "8fcacd03-9843-48bb-8113-6a73c0de55d0",
+    "doi": "10.1080/10826068.2026.2666122",
+    "pmid": "42113971",
+    "pmcid": "",
+    "figures": [],
+    "keywords": [
+      "Adenosine",
+      "Cordyceps militaris",
+      "cordycepin",
+      "Iron Biofortification",
+      "Iron Sulfate Nanoparticles"
+    ],
+    "mesh_terms": [],
+    "concepts": [
+      {
+        "name": "Chemistry",
+        "score": 0.772,
+        "level": 0
+      },
+      {
+        "name": "Cordycepin",
+        "score": 0.686,
+        "level": 2
+      },
+      {
+        "name": "Nanoparticle",
+        "score": 0.567,
+        "level": 2
+      },
+      {
+        "name": "Adenosine",
+        "score": 0.557,
+        "level": 2
+      },
+      {
+        "name": "Biochemistry",
+        "score": 0.427,
+        "level": 1
+      },
+      {
+        "name": "Nanotechnology",
+        "score": 0.357,
+        "level": 1
+      },
+      {
+        "name": "Combinatorial chemistry",
+        "score": 0.324,
+        "level": 1
+      }
+    ],
+    "cited_by_count": 0,
+    "reference_count": 27,
+    "publisher": "Informa UK Limited",
+    "journal": "",
+    "oa_status": "closed",
+    "oa_url": "https://europepmc.org/article/MED/42113971",
+    "apis": {
+      "europepmc": true,
+      "openalex": true,
+      "crossref": true
+    },
+    "fetched_at": "2026-07-21"
+  },
+  "molecular-mechanisms-of-temperature-regulated-co-2026-745261": {
+    "slug": "molecular-mechanisms-of-temperature-regulated-co-2026-745261",
+    "record_id": "3776d637-356e-4eda-bcf7-5599e2748bec",
+    "doi": "10.3390/jof12020118",
+    "pmid": "41745261",
+    "pmcid": "PMC12942562",
+    "figures": [
+      {
+        "type": "figure",
+        "src": "/research-figures/molecular-mechanisms-of-temperature-regulated-co-2026-745261/jof-12-00118-g004.jpg",
+        "caption": "원문 Figure (jof-12-00118-g004) — Europe PMC OA",
+        "source": "europepmc",
+        "filename": "jof-12-00118-g004.jpg"
+      },
+      {
+        "type": "figure",
+        "src": "/research-figures/molecular-mechanisms-of-temperature-regulated-co-2026-745261/jof-12-00118-g005.gif",
+        "caption": "원문 Figure (jof-12-00118-g005) — Europe PMC OA",
+        "source": "europepmc",
+        "filename": "jof-12-00118-g005.gif"
+      },
+      {
+        "type": "figure",
+        "src": "/research-figures/molecular-mechanisms-of-temperature-regulated-co-2026-745261/jof-12-00118-g006.jpg",
+        "caption": "원문 Figure (jof-12-00118-g006) — Europe PMC OA",
+        "source": "europepmc",
+        "filename": "jof-12-00118-g006.jpg"
+      },
+      {
+        "type": "figure",
+        "src": "/research-figures/molecular-mechanisms-of-temperature-regulated-co-2026-745261/jof-12-00118-g007.jpg",
+        "caption": "원문 Figure (jof-12-00118-g007) — Europe PMC OA",
+        "source": "europepmc",
+        "filename": "jof-12-00118-g007.jpg"
+      }
+    ],
+    "keywords": [
+      "Temperature",
+      "Cordyceps militaris",
+      "Metabolomics",
+      "cordycepin",
+      "Transcriptomics"
+    ],
+    "mesh_terms": [],
+    "concepts": [
+      {
+        "name": "Cordycepin",
+        "score": 0.996,
+        "level": 2
+      },
+      {
+        "name": "Biochemistry",
+        "score": 0.601,
+        "level": 1
+      },
+      {
+        "name": "Cordyceps",
+        "score": 0.574,
+        "level": 2
+      },
+      {
+        "name": "Biosynthesis",
+        "score": 0.567,
+        "level": 3
+      },
+      {
+        "name": "Gene",
+        "score": 0.5,
+        "level": 2
+      },
+      {
+        "name": "Biology",
+        "score": 0.495,
+        "level": 0
+      },
+      {
+        "name": "Metabolomics",
+        "score": 0.495,
+        "level": 2
+      },
+      {
+        "name": "Transcriptome",
+        "score": 0.461,
+        "level": 4
+      }
+    ],
+    "cited_by_count": 0,
+    "reference_count": 56,
+    "publisher": "MDPI AG",
+    "journal": "",
+    "oa_status": "gold",
+    "oa_url": "https://www.mdpi.com/2309-608X/12/2/118/pdf",
+    "apis": {
+      "europepmc": true,
+      "openalex": true,
+      "crossref": true
+    },
+    "fetched_at": "2026-07-21"
+  },
+  "efficient-production-of-cordycepin-in-engineered-2026-946402": {
+    "slug": "efficient-production-of-cordycepin-in-engineered-2026-946402",
+    "record_id": "91a62af7-d180-460b-b9b1-19bfb60eba4b",
+    "doi": "10.1016/j.biortech.2026.134565",
+    "pmid": "41946402",
+    "pmcid": "",
+    "figures": [],
+    "keywords": [
+      "Fed-batch fermentation",
+      "metabolic engineering",
+      "Membraneless Organelles",
+      "Cordycepin Biosynthesis",
+      "Metabolic Effector Molecules"
+    ],
+    "mesh_terms": [
+      "Saccharomyces cerevisiae",
+      "Deoxyadenosines",
+      "Bioreactors",
+      "Fermentation",
+      "Metabolic Engineering",
+      "Batch Cell Culture Techniques"
+    ],
+    "concepts": [
+      {
+        "name": "Saccharomyces cerevisiae",
+        "score": 0.809,
+        "level": 3
+      },
+      {
+        "name": "Cordycepin",
+        "score": 0.748,
+        "level": 2
+      },
+      {
+        "name": "Metabolic engineering",
+        "score": 0.709,
+        "level": 3
+      },
+      {
+        "name": "Nucleoside",
+        "score": 0.674,
+        "level": 2
+      },
+      {
+        "name": "Fermentation",
+        "score": 0.655,
+        "level": 2
+      },
+      {
+        "name": "Chemistry",
+        "score": 0.615,
+        "level": 0
+      },
+      {
+        "name": "Biochemistry",
+        "score": 0.598,
+        "level": 1
+      },
+      {
+        "name": "Effector",
+        "score": 0.56,
+        "level": 2
+      }
+    ],
+    "cited_by_count": 0,
+    "reference_count": 41,
+    "publisher": "Elsevier BV",
+    "journal": "",
+    "oa_status": "green",
+    "oa_url": "https://doi.org/10.2139/ssrn.5675986",
+    "apis": {
+      "europepmc": true,
+      "openalex": true,
+      "crossref": true
+    },
+    "fetched_at": "2026-07-21"
+  },
+  "phytochemical-and-fungal-bioactive-compounds-in--2026-074246": {
+    "slug": "phytochemical-and-fungal-bioactive-compounds-in--2026-074246",
+    "record_id": "e6c3adb0-1484-4b5e-a56d-172b36623329",
+    "doi": "10.3390/ijms27083607",
+    "pmid": "42074246",
+    "pmcid": "PMC13116414",
+    "figures": [
+      {
+        "type": "figure",
+        "src": "/research-figures/phytochemical-and-fungal-bioactive-compounds-in--2026-074246/ijms-27-03607-g002.jpg",
+        "caption": "원문 Figure (ijms-27-03607-g002) — Europe PMC OA",
+        "source": "europepmc",
+        "filename": "ijms-27-03607-g002.jpg"
+      },
+      {
+        "type": "figure",
+        "src": "/research-figures/phytochemical-and-fungal-bioactive-compounds-in--2026-074246/ijms-27-03607-g001.jpg",
+        "caption": "원문 Figure (ijms-27-03607-g001) — Europe PMC OA",
+        "source": "europepmc",
+        "filename": "ijms-27-03607-g001.jpg"
+      },
+      {
+        "type": "figure",
+        "src": "/research-figures/phytochemical-and-fungal-bioactive-compounds-in--2026-074246/ijms-27-03607-g001.gif",
+        "caption": "원문 Figure (ijms-27-03607-g001) — Europe PMC OA",
+        "source": "europepmc",
+        "filename": "ijms-27-03607-g001.gif"
+      },
+      {
+        "type": "figure",
+        "src": "/research-figures/phytochemical-and-fungal-bioactive-compounds-in--2026-074246/ijms-27-03607-g002.gif",
+        "caption": "원문 Figure (ijms-27-03607-g002) — Europe PMC OA",
+        "source": "europepmc",
+        "filename": "ijms-27-03607-g002.gif"
+      }
+    ],
+    "keywords": [
+      "Neurogenesis",
+      "BDNF",
+      "Hericium erinaceus",
+      "neuroprotection",
+      "Neurorehabilitation",
+      "Cognitive Enhancement",
+      "L-theanine",
+      "Brain Health",
+      "Bacopa Monnieri",
+      "Nootropics"
+    ],
+    "mesh_terms": [
+      "Brain",
+      "Animals",
+      "Humans",
+      "Brain-Derived Neurotrophic Factor",
+      "Neuroprotective Agents",
+      "Phytochemicals",
+      "Cognitive Enhancement"
+    ],
+    "concepts": [
+      {
+        "name": "Neuroscience",
+        "score": 0.616,
+        "level": 1
+      },
+      {
+        "name": "Nootropic",
+        "score": 0.594,
+        "level": 2
+      },
+      {
+        "name": "Neuroprotection",
+        "score": 0.533,
+        "level": 2
+      },
+      {
+        "name": "Biology",
+        "score": 0.43,
+        "level": 0
+      },
+      {
+        "name": "Neuroinflammation",
+        "score": 0.399,
+        "level": 3
+      },
+      {
+        "name": "Neuroplasticity",
+        "score": 0.371,
+        "level": 2
+      },
+      {
+        "name": "Perineuronal net",
+        "score": 0.366,
+        "level": 3
+      },
+      {
+        "name": "Neurorehabilitation",
+        "score": 0.358,
+        "level": 3
+      }
+    ],
+    "cited_by_count": 1,
+    "reference_count": 169,
+    "publisher": "MDPI AG",
+    "journal": "",
+    "oa_status": "gold",
+    "oa_url": "https://www.mdpi.com/1422-0067/27/8/3607/pdf?version=1776502054",
+    "apis": {
+      "europepmc": true,
+      "openalex": true,
+      "crossref": true
+    },
+    "fetched_at": "2026-07-21"
+  },
+  "trends-in-the-immunomodulatory-effects-of-cordyc-2020-328984": {
+    "slug": "trends-in-the-immunomodulatory-effects-of-cordyc-2020-328984",
+    "record_id": "f6247e36-9e13-4308-8859-bc440e0c1d75",
+    "doi": "10.3389/fphar.2020.575704",
+    "pmid": "33328984",
+    "pmcid": "PMC7735063",
+    "figures": [
+      {
+        "type": "figure",
+        "src": "/research-figures/trends-in-the-immunomodulatory-effects-of-cordyc-2020-328984/fphar-11-575704-g003.jpg",
+        "caption": "원문 Figure (fphar-11-575704-g003) — Europe PMC OA",
+        "source": "europepmc",
+        "filename": "fphar-11-575704-g003.jpg"
+      },
+      {
+        "type": "figure",
+        "src": "/research-figures/trends-in-the-immunomodulatory-effects-of-cordyc-2020-328984/fphar-11-575704-g004.jpg",
+        "caption": "원문 Figure (fphar-11-575704-g004) — Europe PMC OA",
+        "source": "europepmc",
+        "filename": "fphar-11-575704-g004.jpg"
+      },
+      {
+        "type": "figure",
+        "src": "/research-figures/trends-in-the-immunomodulatory-effects-of-cordyc-2020-328984/fphar-11-575704-g002.jpg",
+        "caption": "원문 Figure (fphar-11-575704-g002) — Europe PMC OA",
+        "source": "europepmc",
+        "filename": "fphar-11-575704-g002.jpg"
+      },
+      {
+        "type": "figure",
+        "src": "/research-figures/trends-in-the-immunomodulatory-effects-of-cordyc-2020-328984/fphar-11-575704-g001.gif",
+        "caption": "원문 Figure (fphar-11-575704-g001) — Europe PMC OA",
+        "source": "europepmc",
+        "filename": "fphar-11-575704-g001.gif"
+      }
+    ],
+    "keywords": [
+      "Polysaccharides",
+      "Immunomodulation",
+      "Cordyceps militaris",
+      "cordycepin",
+      "Type 2 Immunity",
+      "Type 1 Immunity"
+    ],
+    "mesh_terms": [],
+    "concepts": [
+      {
+        "name": "Cordyceps militaris",
+        "score": 0.997,
+        "level": 3
+      },
+      {
+        "name": "Cordycepin",
+        "score": 0.991,
+        "level": 2
+      },
+      {
+        "name": "Traditional medicine",
+        "score": 0.668,
+        "level": 1
+      },
+      {
+        "name": "Polysaccharide",
+        "score": 0.595,
+        "level": 2
+      },
+      {
+        "name": "Folk medicine",
+        "score": 0.566,
+        "level": 2
+      },
+      {
+        "name": "Cordyceps",
+        "score": 0.477,
+        "level": 2
+      },
+      {
+        "name": "Immunity",
+        "score": 0.472,
+        "level": 3
+      },
+      {
+        "name": "Medicinal fungi",
+        "score": 0.426,
+        "level": 3
+      }
+    ],
+    "cited_by_count": 100,
+    "reference_count": 100,
+    "publisher": "Frontiers Media SA",
+    "journal": "Frontiers in Pharmacology",
+    "oa_status": "gold",
+    "oa_url": "https://www.frontiersin.org/articles/10.3389/fphar.2020.575704/pdf",
+    "apis": {
+      "europepmc": true,
+      "openalex": true,
+      "crossref": true
+    },
+    "fetched_at": "2026-07-21"
+  }
+}

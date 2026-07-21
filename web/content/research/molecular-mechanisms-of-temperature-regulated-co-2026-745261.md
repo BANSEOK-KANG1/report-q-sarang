@@ -18,6 +18,7 @@ authors:
 - Tu J.
 doi: 10.3390/jof12020118
 pmid: '41745261'
+pmcid: PMC12942562
 url: https://europepmc.org/article/MED/41745261
 study_type: animal
 evidence_strength: C_animal
@@ -42,6 +43,71 @@ tags:
 - evidence
 - 제왕충초
 generated: '2026-07-21'
+visuals:
+- type: figure
+  src: /research-figures/molecular-mechanisms-of-temperature-regulated-co-2026-745261/jof-12-00118-g004.jpg
+  caption: 원문 Figure (jof-12-00118-g004) — Europe PMC OA
+  source: europepmc
+  filename: jof-12-00118-g004.jpg
+- type: figure
+  src: /research-figures/molecular-mechanisms-of-temperature-regulated-co-2026-745261/jof-12-00118-g005.gif
+  caption: 원문 Figure (jof-12-00118-g005) — Europe PMC OA
+  source: europepmc
+  filename: jof-12-00118-g005.gif
+- type: figure
+  src: /research-figures/molecular-mechanisms-of-temperature-regulated-co-2026-745261/jof-12-00118-g006.jpg
+  caption: 원문 Figure (jof-12-00118-g006) — Europe PMC OA
+  source: europepmc
+  filename: jof-12-00118-g006.jpg
+- type: figure
+  src: /research-figures/molecular-mechanisms-of-temperature-regulated-co-2026-745261/jof-12-00118-g007.jpg
+  caption: 원문 Figure (jof-12-00118-g007) — Europe PMC OA
+  source: europepmc
+  filename: jof-12-00118-g007.jpg
+api_meta:
+  keywords:
+  - Temperature
+  - Cordyceps militaris
+  - Metabolomics
+  - cordycepin
+  - Transcriptomics
+  mesh_terms: []
+  concepts:
+  - name: Cordycepin
+    score: 0.996
+    level: 2
+  - name: Biochemistry
+    score: 0.601
+    level: 1
+  - name: Cordyceps
+    score: 0.574
+    level: 2
+  - name: Biosynthesis
+    score: 0.567
+    level: 3
+  - name: Gene
+    score: 0.5
+    level: 2
+  - name: Biology
+    score: 0.495
+    level: 0
+  - name: Metabolomics
+    score: 0.495
+    level: 2
+  - name: Transcriptome
+    score: 0.461
+    level: 4
+  cited_by_count: 0
+  reference_count: 56
+  publisher: MDPI AG
+  journal: ''
+  oa_status: gold
+  oa_url: https://www.mdpi.com/2309-608X/12/2/118/pdf
+  apis:
+    europepmc: true
+    openalex: true
+    crossref: true
+  fetched_at: '2026-07-21'
 ---
 
 ## 한국어 요약

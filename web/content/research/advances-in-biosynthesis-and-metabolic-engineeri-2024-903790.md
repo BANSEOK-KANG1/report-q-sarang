@@ -11,6 +11,7 @@ authors:
 - Xinxin Tong
 doi: 10.16488/j.cnki.1005-9873.2007.02.015
 pmid: '38903790'
+pmcid: PMC11188397
 url: https://pubmed.ncbi.nlm.nih.gov/38903790/
 study_type: animal
 evidence_strength: C_animal
@@ -34,6 +35,47 @@ tags:
 - evidence
 - 제왕충초
 generated: '2026-07-21'
+visuals:
+- type: figure
+  src: /research-figures/advances-in-biosynthesis-and-metabolic-engineeri-2024-903790/fmicb-15-1386855-g002.jpg
+  caption: 원문 Figure (fmicb-15-1386855-g002) — Europe PMC OA
+  source: europepmc
+  filename: fmicb-15-1386855-g002.jpg
+- type: figure
+  src: /research-figures/advances-in-biosynthesis-and-metabolic-engineeri-2024-903790/fmicb-15-1386855-g003.jpg
+  caption: 원문 Figure (fmicb-15-1386855-g003) — Europe PMC OA
+  source: europepmc
+  filename: fmicb-15-1386855-g003.jpg
+- type: figure
+  src: /research-figures/advances-in-biosynthesis-and-metabolic-engineeri-2024-903790/fmicb-15-1386855-g001.gif
+  caption: 원문 Figure (fmicb-15-1386855-g001) — Europe PMC OA
+  source: europepmc
+  filename: fmicb-15-1386855-g001.gif
+- type: figure
+  src: /research-figures/advances-in-biosynthesis-and-metabolic-engineeri-2024-903790/fmicb-15-1386855-g002.gif
+  caption: 원문 Figure (fmicb-15-1386855-g002) — Europe PMC OA
+  source: europepmc
+  filename: fmicb-15-1386855-g002.gif
+api_meta:
+  keywords:
+  - Biosynthesis
+  - Cordyceps militaris
+  - metabolic engineering
+  - cordycepin
+  - Microbial Fermentation
+  mesh_terms: []
+  concepts: []
+  cited_by_count: 6
+  reference_count: null
+  publisher: ''
+  journal: Frontiers in microbiology
+  oa_status: ''
+  oa_url: https://pubmed.ncbi.nlm.nih.gov/38903790/
+  apis:
+    europepmc: true
+    openalex: false
+    crossref: false
+  fetched_at: '2026-07-21'
 ---
 
 ## 한국어 요약

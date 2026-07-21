@@ -21,6 +21,7 @@ authors:
 - Zhu CJ.
 doi: 10.1038/s41598-026-54117-8
 pmid: '42162183'
+pmcid: ''
 url: https://europepmc.org/article/MED/42162183
 study_type: animal
 evidence_strength: C_animal
@@ -44,6 +45,50 @@ tags:
 - evidence
 - 제왕충초
 generated: '2026-07-21'
+visuals: []
+api_meta:
+  keywords:
+  - Fermentation
+  - Cordyceps militaris
+  - Response surface methodology
+  - cordycepin
+  mesh_terms: []
+  concepts:
+  - name: Cordycepin
+    score: 0.894
+    level: 2
+  - name: Response surface methodology
+    score: 0.854
+    level: 2
+  - name: Cordyceps militaris
+    score: 0.849
+    level: 3
+  - name: Cordyceps
+    score: 0.666
+    level: 2
+  - name: Chemistry
+    score: 0.605
+    level: 0
+  - name: Fermentation
+    score: 0.593
+    level: 2
+  - name: Food science
+    score: 0.419
+    level: 1
+  - name: Chromatography
+    score: 0.393
+    level: 1
+  cited_by_count: 0
+  reference_count: 0
+  publisher: Springer Science and Business Media LLC
+  journal: ''
+  oa_status: gold
+  oa_url: https://www.nature.com/articles/s41598-026-54117-8_reference.pdf
+  apis:
+    europepmc: true
+    openalex: true
+    crossref: true
+  fetched_at: '2026-07-21'
 ---
 
 ## 한국어 요약

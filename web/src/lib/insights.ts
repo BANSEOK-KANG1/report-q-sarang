@@ -2,6 +2,33 @@ import fs from "fs";
 import path from "path";
 import matter from "gray-matter";
 
+export type PaperFigure = {
+  type: string;
+  src: string;
+  caption: string;
+  source: string;
+};
+
+export type PaperConcept = {
+  name: string;
+  score: number;
+  level?: number;
+};
+
+export type PaperApiMeta = {
+  keywords: string[];
+  meshTerms: string[];
+  concepts: PaperConcept[];
+  citedByCount: number | null;
+  referenceCount: number | null;
+  publisher: string;
+  journal: string;
+  oaStatus: string;
+  oaUrl: string;
+  apis: Record<string, boolean>;
+  fetchedAt: string;
+};
+
 export type ResearchInsight = {
   slug: string;
   title: string;
@@ -15,8 +42,11 @@ export type ResearchInsight = {
   compound: string;
   doi: string;
   pmid: string;
+  pmcid: string;
   url: string;
   riskFlags: string[];
+  visuals: PaperFigure[];
+  apiMeta: PaperApiMeta | null;
   body: string;
 };
 
@@ -50,6 +80,47 @@ export function studyTypeLabel(studyType: string): string {
   return STUDY_TYPE_LABEL[studyType] || studyType || "연구";
 }
 
+function parseApiMeta(data: Record<string, unknown>): PaperApiMeta | null {
+  const raw = data.api_meta as Record<string, unknown> | undefined;
+  if (!raw) return null;
+  const concepts = Array.isArray(raw.concepts)
+    ? raw.concepts.map((c) => {
+        const item = c as Record<string, unknown>;
+        return {
+          name: String(item.name || ""),
+          score: Number(item.score || 0),
+          level: item.level != null ? Number(item.level) : undefined,
+        };
+      })
+    : [];
+  return {
+    keywords: Array.isArray(raw.keywords) ? raw.keywords.map(String) : [],
+    meshTerms: Array.isArray(raw.mesh_terms) ? raw.mesh_terms.map(String) : [],
+    concepts,
+    citedByCount: raw.cited_by_count != null ? Number(raw.cited_by_count) : null,
+    referenceCount: raw.reference_count != null ? Number(raw.reference_count) : null,
+    publisher: String(raw.publisher || ""),
+    journal: String(raw.journal || ""),
+    oaStatus: String(raw.oa_status || ""),
+    oaUrl: String(raw.oa_url || ""),
+    apis: (raw.apis as Record<string, boolean>) || {},
+    fetchedAt: String(raw.fetched_at || ""),
+  };
+}
+
+function parseVisuals(data: Record<string, unknown>): PaperFigure[] {
+  if (!Array.isArray(data.visuals)) return [];
+  return data.visuals.map((v) => {
+    const item = v as Record<string, unknown>;
+    return {
+      type: String(item.type || "figure"),
+      src: String(item.src || ""),
+      caption: String(item.caption || ""),
+      source: String(item.source || ""),
+    };
+  });
+}
+
 export function getAllInsights(): ResearchInsight[] {
   const dir = contentDir();
   if (!fs.existsSync(dir)) return [];
@@ -75,8 +146,11 @@ export function getAllInsights(): ResearchInsight[] {
       compound: String(data.compound || ""),
       doi: String(data.doi || ""),
       pmid: String(data.pmid || ""),
+      pmcid: String(data.pmcid || ""),
       url: String(data.url || ""),
       riskFlags: Array.isArray(data.risk_flags) ? data.risk_flags.map(String) : [],
+      visuals: parseVisuals(data as Record<string, unknown>),
+      apiMeta: parseApiMeta(data as Record<string, unknown>),
       body,
     } satisfies ResearchInsight;
   });
@@ -94,4 +168,8 @@ export function getInsight(slug: string): ResearchInsight | null {
 
 export function getInsightSlugs(): string[] {
   return getAllInsights().map((i) => i.slug);
+}
+
+export function coverForInsight(insight: ResearchInsight): PaperFigure | null {
+  return insight.visuals[0] ?? null;
 }

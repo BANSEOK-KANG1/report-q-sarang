@@ -24,6 +24,7 @@ authors:
 - Chih-Hui Yang
 doi: 10.3389/fphar.2020.575704
 pmid: '33328984'
+pmcid: PMC7735063
 url: https://doi.org/10.3389/fphar.2020.575704
 study_type: review_narrative
 evidence_strength: F_review_only
@@ -46,6 +47,72 @@ tags:
 - evidence
 - 제왕충초
 generated: '2026-07-21'
+visuals:
+- type: figure
+  src: /research-figures/trends-in-the-immunomodulatory-effects-of-cordyc-2020-328984/fphar-11-575704-g003.jpg
+  caption: 원문 Figure (fphar-11-575704-g003) — Europe PMC OA
+  source: europepmc
+  filename: fphar-11-575704-g003.jpg
+- type: figure
+  src: /research-figures/trends-in-the-immunomodulatory-effects-of-cordyc-2020-328984/fphar-11-575704-g004.jpg
+  caption: 원문 Figure (fphar-11-575704-g004) — Europe PMC OA
+  source: europepmc
+  filename: fphar-11-575704-g004.jpg
+- type: figure
+  src: /research-figures/trends-in-the-immunomodulatory-effects-of-cordyc-2020-328984/fphar-11-575704-g002.jpg
+  caption: 원문 Figure (fphar-11-575704-g002) — Europe PMC OA
+  source: europepmc
+  filename: fphar-11-575704-g002.jpg
+- type: figure
+  src: /research-figures/trends-in-the-immunomodulatory-effects-of-cordyc-2020-328984/fphar-11-575704-g001.gif
+  caption: 원문 Figure (fphar-11-575704-g001) — Europe PMC OA
+  source: europepmc
+  filename: fphar-11-575704-g001.gif
+api_meta:
+  keywords:
+  - Polysaccharides
+  - Immunomodulation
+  - Cordyceps militaris
+  - cordycepin
+  - Type 2 Immunity
+  - Type 1 Immunity
+  mesh_terms: []
+  concepts:
+  - name: Cordyceps militaris
+    score: 0.997
+    level: 3
+  - name: Cordycepin
+    score: 0.991
+    level: 2
+  - name: Traditional medicine
+    score: 0.668
+    level: 1
+  - name: Polysaccharide
+    score: 0.595
+    level: 2
+  - name: Folk medicine
+    score: 0.566
+    level: 2
+  - name: Cordyceps
+    score: 0.477
+    level: 2
+  - name: Immunity
+    score: 0.472
+    level: 3
+  - name: Medicinal fungi
+    score: 0.426
+    level: 3
+  cited_by_count: 100
+  reference_count: 100
+  publisher: Frontiers Media SA
+  journal: Frontiers in Pharmacology
+  oa_status: gold
+  oa_url: https://www.frontiersin.org/articles/10.3389/fphar.2020.575704/pdf
+  apis:
+    europepmc: true
+    openalex: true
+    crossref: true
+  fetched_at: '2026-07-21'
 ---
 
 ## 한국어 요약

@@ -19,6 +19,7 @@ authors:
 - Zou X.
 doi: 10.1177/00368504261467525
 pmid: '42444510'
+pmcid: ''
 url: https://europepmc.org/article/MED/42444510
 study_type: animal
 evidence_strength: C_animal
@@ -42,6 +43,57 @@ tags:
 - evidence
 - 제왕충초
 generated: '2026-07-21'
+visuals: []
+api_meta:
+  keywords:
+  - Substrate
+  - Cordyceps militaris
+  - Volatile components
+  - Utilization value
+  - Bioactive ingredients
+  - Optimum Drying Parameters
+  mesh_terms:
+  - Cordyceps
+  - Fruiting Bodies, Fungal
+  - Polysaccharides
+  - Deoxyadenosines
+  - Temperature
+  concepts:
+  - name: Cordyceps militaris
+    score: 0.908
+    level: 3
+  - name: Kjeldahl method
+    score: 0.757
+    level: 3
+  - name: Cordycepin
+    score: 0.669
+    level: 2
+  - name: Food science
+    score: 0.578
+    level: 1
+  - name: Substrate (aquarium)
+    score: 0.561
+    level: 2
+  - name: Chemistry
+    score: 0.5
+    level: 0
+  - name: Biological value
+    score: 0.476
+    level: 2
+  - name: Nutrient
+    score: 0.416
+    level: 2
+  cited_by_count: 0
+  reference_count: 53
+  publisher: SAGE Publications
+  journal: ''
+  oa_status: diamond
+  oa_url: https://doi.org/10.1177/00368504261467525
+  apis:
+    europepmc: true
+    openalex: true
+    crossref: true
+  fetched_at: '2026-07-21'
 ---
 
 ## 한국어 요약

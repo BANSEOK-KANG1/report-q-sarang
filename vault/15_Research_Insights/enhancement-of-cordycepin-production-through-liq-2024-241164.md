@@ -13,6 +13,7 @@ authors:
 - Sanjay K Singh
 doi: 10.1615/intjmedmushrooms.2024055323
 pmid: '39241164'
+pmcid: ''
 url: https://pubmed.ncbi.nlm.nih.gov/39241164/
 study_type: animal
 evidence_strength: C_animal
@@ -36,6 +37,53 @@ tags:
 - evidence
 - 제왕충초
 generated: '2026-07-21'
+visuals: []
+api_meta:
+  keywords: []
+  mesh_terms:
+  - Cordyceps
+  - Adenine
+  - Peptones
+  - Deoxyadenosines
+  - Culture Media
+  - Fermentation
+  - Peanut Oil
+  concepts:
+  - name: Cordycepin
+    score: 0.954
+    level: 2
+  - name: Mushroom
+    score: 0.874
+    level: 2
+  - name: Cordyceps militaris
+    score: 0.726
+    level: 3
+  - name: Medicinal fungi
+    score: 0.67
+    level: 3
+  - name: Caterpillar
+    score: 0.641
+    level: 3
+  - name: Fermentation
+    score: 0.581
+    level: 2
+  - name: Biology
+    score: 0.468
+    level: 0
+  - name: Botany
+    score: 0.372
+    level: 1
+  cited_by_count: 0
+  reference_count: 28
+  publisher: Begell House
+  journal: International journal of medicinal mushrooms
+  oa_status: closed
+  oa_url: https://pubmed.ncbi.nlm.nih.gov/39241164/
+  apis:
+    europepmc: true
+    openalex: true
+    crossref: true
+  fetched_at: '2026-07-21'
 ---
 
 ## 한국어 요약

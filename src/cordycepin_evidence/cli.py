@@ -25,6 +25,10 @@ def main(argv: list[str] | None = None) -> int:
         "research",
         help="Generate per-paper research insight pages (Korean summary + abstract)",
     )
+    sub.add_parser(
+        "research-visuals",
+        help="Refresh API visuals (figures, concepts) for existing research pages",
+    )
     p_wp = sub.add_parser(
         "wp-publish",
         help="Upsert blog drafts to WordPress (q-sarang.measuremkt.com)",
@@ -121,6 +125,12 @@ def main(argv: list[str] | None = None) -> int:
         from .export_research_insights import export_research_insights
 
         export_research_insights()
+        return 0
+
+    if args.cmd == "research-visuals":
+        from .export_research_insights import refresh_research_visuals
+
+        refresh_research_visuals()
         return 0
 
     if args.cmd == "wp-publish":

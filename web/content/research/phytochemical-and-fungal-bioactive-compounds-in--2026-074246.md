@@ -18,6 +18,7 @@ authors:
 - Anchesi I.
 doi: 10.3390/ijms27083607
 pmid: '42074246'
+pmcid: PMC13116414
 url: https://europepmc.org/article/MED/42074246
 study_type: review_narrative
 evidence_strength: F_review_only
@@ -39,6 +40,83 @@ tags:
 - evidence
 - 제왕충초
 generated: '2026-07-21'
+visuals:
+- type: figure
+  src: /research-figures/phytochemical-and-fungal-bioactive-compounds-in--2026-074246/ijms-27-03607-g002.jpg
+  caption: 원문 Figure (ijms-27-03607-g002) — Europe PMC OA
+  source: europepmc
+  filename: ijms-27-03607-g002.jpg
+- type: figure
+  src: /research-figures/phytochemical-and-fungal-bioactive-compounds-in--2026-074246/ijms-27-03607-g001.jpg
+  caption: 원문 Figure (ijms-27-03607-g001) — Europe PMC OA
+  source: europepmc
+  filename: ijms-27-03607-g001.jpg
+- type: figure
+  src: /research-figures/phytochemical-and-fungal-bioactive-compounds-in--2026-074246/ijms-27-03607-g001.gif
+  caption: 원문 Figure (ijms-27-03607-g001) — Europe PMC OA
+  source: europepmc
+  filename: ijms-27-03607-g001.gif
+- type: figure
+  src: /research-figures/phytochemical-and-fungal-bioactive-compounds-in--2026-074246/ijms-27-03607-g002.gif
+  caption: 원문 Figure (ijms-27-03607-g002) — Europe PMC OA
+  source: europepmc
+  filename: ijms-27-03607-g002.gif
+api_meta:
+  keywords:
+  - Neurogenesis
+  - BDNF
+  - Hericium erinaceus
+  - neuroprotection
+  - Neurorehabilitation
+  - Cognitive Enhancement
+  - L-theanine
+  - Brain Health
+  - Bacopa Monnieri
+  - Nootropics
+  mesh_terms:
+  - Brain
+  - Animals
+  - Humans
+  - Brain-Derived Neurotrophic Factor
+  - Neuroprotective Agents
+  - Phytochemicals
+  - Cognitive Enhancement
+  concepts:
+  - name: Neuroscience
+    score: 0.616
+    level: 1
+  - name: Nootropic
+    score: 0.594
+    level: 2
+  - name: Neuroprotection
+    score: 0.533
+    level: 2
+  - name: Biology
+    score: 0.43
+    level: 0
+  - name: Neuroinflammation
+    score: 0.399
+    level: 3
+  - name: Neuroplasticity
+    score: 0.371
+    level: 2
+  - name: Perineuronal net
+    score: 0.366
+    level: 3
+  - name: Neurorehabilitation
+    score: 0.358
+    level: 3
+  cited_by_count: 1
+  reference_count: 169
+  publisher: MDPI AG
+  journal: ''
+  oa_status: gold
+  oa_url: https://www.mdpi.com/1422-0067/27/8/3607/pdf?version=1776502054
+  apis:
+    europepmc: true
+    openalex: true
+    crossref: true
+  fetched_at: '2026-07-21'
 ---
 
 ## 한국어 요약

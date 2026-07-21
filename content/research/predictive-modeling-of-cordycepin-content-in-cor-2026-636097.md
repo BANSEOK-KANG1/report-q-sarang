@@ -13,6 +13,7 @@ authors:
 - Yang JK.
 doi: 10.1002/jobm.70148
 pmid: '41636097'
+pmcid: ''
 url: https://europepmc.org/article/MED/41636097
 study_type: animal
 evidence_strength: C_animal
@@ -36,6 +37,65 @@ tags:
 - evidence
 - 제왕충초
 generated: '2026-07-21'
+visuals: []
+api_meta:
+  keywords:
+  - Cordyceps militaris
+  - cordycepin
+  - Machine Learning
+  - Bioprocessing
+  - GUI
+  - Xgboost
+  mesh_terms:
+  - Cordyceps
+  - Carbon
+  - Nitrogen
+  - Deoxyadenosines
+  - Culture Media
+  - Reproducibility of Results
+  - Fermentation
+  - Machine Learning
+  - Support Vector Machine
+  - Random Forest
+  - Boosting Machine Learning Algorithms
+  - Predictive Learning Models
+  - Prediction Algorithms
+  concepts:
+  - name: Cordycepin
+    score: 0.826
+    level: 2
+  - name: Machine learning
+    score: 0.725
+    level: 1
+  - name: Artificial intelligence
+    score: 0.643
+    level: 1
+  - name: Support vector machine
+    score: 0.643
+    level: 2
+  - name: Computer science
+    score: 0.58
+    level: 0
+  - name: Scalability
+    score: 0.579
+    level: 2
+  - name: Bioprocess
+    score: 0.57
+    level: 2
+  - name: Random forest
+    score: 0.425
+    level: 2
+  cited_by_count: 0
+  reference_count: 63
+  publisher: Wiley
+  journal: ''
+  oa_status: bronze
+  oa_url: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jobm.70148
+  apis:
+    europepmc: true
+    openalex: true
+    crossref: true
+  fetched_at: '2026-07-21'
 ---
 
 ## 한국어 요약

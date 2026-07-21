@@ -26,6 +26,7 @@ authors:
 - Frank Vriesekoop
 doi: 10.1615/intjmedmushrooms.2024054952
 pmid: '39171629'
+pmcid: ''
 url: https://pubmed.ncbi.nlm.nih.gov/39171629/
 study_type: animal
 evidence_strength: C_animal
@@ -49,6 +50,55 @@ tags:
 - evidence
 - 제왕충초
 generated: '2026-07-21'
+visuals: []
+api_meta:
+  keywords: []
+  mesh_terms:
+  - Cordyceps
+  - Fungal Proteins
+  - Transcription Factors
+  - Deoxyadenosines
+  - Gene Expression Profiling
+  - Gene Expression Regulation, Fungal
+  - Kruppel-Like Transcription Factors
+  - Biosynthetic Pathways
+  - Kruppel-Like Factor 4
+  concepts:
+  - name: Cordycepin
+    score: 0.947
+    level: 2
+  - name: Krüppel
+    score: 0.846
+    level: 4
+  - name: Cordyceps militaris
+    score: 0.764
+    level: 3
+  - name: Transcription factor
+    score: 0.595
+    level: 3
+  - name: Alpha (finance)
+    score: 0.513
+    level: 4
+  - name: Biology
+    score: 0.45
+    level: 0
+  - name: Cordyceps
+    score: 0.392
+    level: 2
+  - name: Gene
+    score: 0.347
+    level: 2
+  cited_by_count: 0
+  reference_count: 46
+  publisher: Begell House
+  journal: International journal of medicinal mushrooms
+  oa_status: closed
+  oa_url: https://pubmed.ncbi.nlm.nih.gov/39171629/
+  apis:
+    europepmc: true
+    openalex: true
+    crossref: true
+  fetched_at: '2026-07-21'
 ---
 
 ## 한국어 요약

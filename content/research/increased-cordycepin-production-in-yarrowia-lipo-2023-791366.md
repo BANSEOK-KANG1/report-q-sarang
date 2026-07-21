@@ -20,6 +20,7 @@ authors:
 - Huhu Liu
 doi: 10.1021/acssynbio.2c00570
 pmid: '36791366'
+pmcid: ''
 url: https://pubmed.ncbi.nlm.nih.gov/36791366/
 study_type: animal
 evidence_strength: C_animal
@@ -43,6 +44,56 @@ tags:
 - evidence
 - 제왕충초
 generated: '2026-07-21'
+visuals: []
+api_meta:
+  keywords:
+  - Yarrowia lipolytica
+  - Fermentation optimization
+  - cordycepin
+  - Combinatorial Metabolic Engineering
+  - Green Biomanufacturing
+  mesh_terms:
+  - Yarrowia
+  - Nucleosides
+  - Deoxyadenosines
+  - Fermentation
+  - Metabolic Engineering
+  concepts:
+  - name: Cordycepin
+    score: 0.983
+    level: 2
+  - name: Yarrowia
+    score: 0.922
+    level: 3
+  - name: Metabolic engineering
+    score: 0.815
+    level: 3
+  - name: Synthetic biology
+    score: 0.661
+    level: 2
+  - name: Cordyceps militaris
+    score: 0.584
+    level: 3
+  - name: Fermentation
+    score: 0.556
+    level: 2
+  - name: Biomanufacturing
+    score: 0.503
+    level: 2
+  - name: Biochemistry
+    score: 0.463
+    level: 1
+  cited_by_count: 26
+  reference_count: 53
+  publisher: American Chemical Society (ACS)
+  journal: ACS synthetic biology
+  oa_status: closed
+  oa_url: https://pubmed.ncbi.nlm.nih.gov/36791366/
+  apis:
+    europepmc: true
+    openalex: true
+    crossref: true
+  fetched_at: '2026-07-21'
 ---
 
 ## 한국어 요약
