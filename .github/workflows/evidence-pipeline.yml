@@ -1,0 +1,48 @@
+name: Evidence Pipeline
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Weekly Monday 03:00 UTC (12:00 KST)
+    - cron: "0 3 * * 1"
+
+permissions:
+  contents: write
+
+jobs:
+  run-all:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install pipeline
+        run: pip install -e .
+
+      - name: Run pipeline
+        run: cordycepin run-all
+        env:
+          NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
+          OPENALEX_EMAIL: ${{ secrets.OPENALEX_EMAIL }}
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+          NOTION_DB_ID: ${{ secrets.NOTION_DB_ID }}
+
+      - name: Commit updates
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add content/blog data/exports data/normalized vault docs/MARKETING_EVIDENCE_BRIEF.md 2>/dev/null || true
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "$(cat <<'EOF'
+chore: refresh evidence and blog from pipeline
+
+Automated weekly run of cordycepin run-all.
+EOF
+)"
+            git push
+          fi

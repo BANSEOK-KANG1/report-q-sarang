@@ -1,0 +1,141 @@
+@import "tailwindcss";
+
+:root {
+  --paper: #1a1410;
+  --paper-deep: #120e0b;
+  --ink: #f3e6d4;
+  --ink-soft: #b9a48c;
+  --accent: #c4783a;
+  --accent-deep: #8a4e1f;
+  --gold: #e8c27a;
+  --line: #3a2e24;
+}
+
+@theme inline {
+  --color-paper: var(--paper);
+  --color-paper-deep: var(--paper-deep);
+  --color-ink: var(--ink);
+  --color-ink-soft: var(--ink-soft);
+  --color-accent: var(--accent);
+  --color-accent-deep: var(--accent-deep);
+  --color-gold: var(--gold);
+  --color-line: var(--line);
+  --font-sans: var(--font-body);
+  --font-display: var(--font-display);
+}
+
+body {
+  background:
+    radial-gradient(900px 500px at 90% -5%, rgba(196, 120, 58, 0.22), transparent 55%),
+    radial-gradient(700px 400px at -5% 40%, rgba(232, 194, 122, 0.08), transparent 50%),
+    linear-gradient(180deg, #1f1712 0%, var(--paper) 40%, var(--paper-deep) 100%);
+  color: var(--ink);
+  font-family: var(--font-body), "Apple SD Gothic Neo", "Malgun Gothic", sans-serif;
+  min-height: 100vh;
+  line-height: 1.75;
+  letter-spacing: -0.01em;
+  word-break: keep-all;
+  overflow-wrap: break-word;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.font-display {
+  font-family: var(--font-display), var(--font-body), "Apple SD Gothic Neo", serif;
+  letter-spacing: -0.02em;
+}
+
+@keyframes rise-in {
+  from {
+    opacity: 0;
+    transform: translateY(16px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.rise-in {
+  animation: rise-in 0.7s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+.rise-in-delay-1 {
+  animation-delay: 0.1s;
+}
+
+.rise-in-delay-2 {
+  animation-delay: 0.2s;
+}
+
+.prose-qs h2 {
+  font-family: var(--font-display), var(--font-body), serif;
+  font-weight: 600;
+  font-size: 1.4rem;
+  margin-top: 2.4rem;
+  margin-bottom: 0.9rem;
+  color: var(--gold);
+  letter-spacing: -0.02em;
+}
+
+.prose-qs h3 {
+  font-family: var(--font-display), var(--font-body), serif;
+  font-weight: 600;
+  font-size: 1.15rem;
+  margin-top: 1.8rem;
+  margin-bottom: 0.6rem;
+  color: var(--ink);
+}
+
+.prose-qs p {
+  margin: 1rem 0;
+  line-height: 1.95;
+  font-size: 1.02rem;
+}
+
+.prose-qs ul {
+  margin: 1rem 0 1rem 1.2rem;
+  list-style: disc;
+  color: var(--ink-soft);
+}
+
+.prose-qs li {
+  margin: 0.4rem 0;
+  line-height: 1.75;
+}
+
+.prose-qs a {
+  color: var(--gold);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.prose-qs table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  font-size: 0.92rem;
+}
+
+.prose-qs th,
+.prose-qs td {
+  border: 1px solid var(--line);
+  padding: 0.55rem 0.7rem;
+  text-align: left;
+}
+
+.prose-qs hr {
+  border: none;
+  border-top: 1px solid var(--line);
+  margin: 2rem 0;
+}
+
+.prose-qs strong {
+  color: var(--ink);
+  font-weight: 600;
+}
+
+.prose-qs em {
+  font-style: italic;
+  color: var(--gold);
+}

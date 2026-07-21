@@ -1,0 +1,58 @@
+# WordPress publish target for Q-Sarang cordycepin blog
+# Live site brand hub: https://measuremkt.com/
+# Q-Sarang content site (subdomain): https://q-sarang.measuremkt.com/
+# Served by Vercel Next.js — NOT WordPress on the subdomain.
+
+site:
+  name: Q-Sarang · 제왕충초
+  # Vercel site (canonical content)
+  content_site_url: https://q-sarang.measuremkt.com
+  # Legacy WP subdomain target (unused while on Vercel)
+  base_url: https://q-sarang.measuremkt.com
+  # WordPress hub on main brand site
+  parent_brand_url: https://measuremkt.com
+  allow_parent_fallback: true
+  locale: ko
+
+# measuremkt.com ↔ Vercel bridge
+hub:
+  menu_id: 7
+  menu_title: 큐사랑
+  page_slug: q-sarang
+  page_title: 큐사랑 · 제왕충초
+  # When publishing to parent WP, link to full article on Vercel
+  teaser_mode: true
+
+# REST API paths (standard WP)
+api:
+  posts: /wp-json/wp/v2/posts
+  tags: /wp-json/wp/v2/tags
+  categories: /wp-json/wp/v2/categories
+  users_me: /wp-json/wp/v2/users/me
+
+publish:
+  # Safer default: create as draft; use --status publish to go live
+  default_status: draft
+  # Upsert by slug so re-runs update the same post
+  upsert_by_slug: true
+  # Map blog series category -> WP category name (created if missing)
+  category_map:
+    education: 코디세핀 가이드
+    brand: 제왕충초
+  default_tags:
+    - 코디세핀
+    - 제왕충초
+    - 큐사랑
+    - Cordyceps
+  # Custom field / meta key storing pipeline slug (also in post slug)
+  source_meta_key: qsarang_pipeline_slug
+
+compliance:
+  append_disclaimer: true
+  footer_html: |
+    <hr />
+    <p><strong>안내</strong> 본 글은 주류 제품 관련 객관 정보입니다.
+    질병의 예방·치료·진단과 무관하며, 음주가 건강에 도움이 된다는 의미가 아닙니다.
+    미성년자 음주 금지. 지나친 음주는 건강을 해칩니다.</p>
+    <p>운영: <a href="https://measuremkt.com/">측정하는 마케터</a> ·
+    브랜드 콘텐츠: <a href="https://q-sarang.measuremkt.com/">q-sarang.measuremkt.com</a></p>

@@ -1,0 +1,1 @@
+Set NOTION_TOKEN and NOTION_DB_ID (or NOTION_PARENT_PAGE_ID) in .env, then run: cordycepin sync-notion

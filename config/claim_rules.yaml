@@ -1,0 +1,157 @@
+# Claim risk rules for marketing compliance (KR liquor + general)
+
+disease_terms:
+  - cancer
+  - tumor
+  - tumour
+  - carcinoma
+  - leukemia
+  - leukaemia
+  - diabetes
+  - diabetic
+  - alzheimer
+  - parkinson
+  - covid
+  - antiviral
+  - antiretroviral
+  - hepatitis
+  - hypertension
+  - stroke
+  - infarct
+  - asthma
+  - bronchitis
+  - pneumonia
+  - infection
+  - treat
+  - treatment
+  - cure
+  - curing
+  - therap
+  - prevent
+  - prevention
+  - diagnose
+  - diagnosis
+  - anti-cancer
+  - anticancer
+  - antitumor
+  - anti-tumor
+  - antitumor
+  - cytotoxic against
+  - apoptosis of cancer
+
+disease_terms_ko:
+  - 암
+  - 항암
+  - 당뇨
+  - 치료
+  - 예방
+  - 진단
+  - 염증성질환
+  - 고혈압
+  - 뇌졸중
+
+# Structure/function-ish categories (still not auto-approved for liquor ads)
+claim_categories:
+  immune:
+    keywords: [immune, immunity, immunomodul, cytokine, nk cell]
+  energy_fatigue:
+    keywords: [fatigue, energy, exhaustion, tiredness]
+  exercise_performance:
+    keywords: [exercise, athletic, endurance, vo2, performance, stamina]
+  antioxidant:
+    keywords: [antioxidant, oxidative stress, ros, radical]
+  metabolic:
+    keywords: [metabolic, glucose, lipid, cholesterol, ampK]
+  respiratory:
+    keywords: [respiratory, lung, pulmonary, airway]
+  cognitive:
+    keywords: [cognitive, memory, brain, neuro]
+  anti_inflammatory:
+    keywords: [anti-inflammatory, antiinflammatory, inflammation, nf-kb, nfkb]
+  other:
+    keywords: []
+
+species_patterns:
+  militaris:
+    - cordyceps militaris
+    - c. militaris
+  sinensis:
+    - cordyceps sinensis
+    - ophiocordyceps sinensis
+    - c. sinensis
+  cs4:
+    - paecilomyces hepiali
+    - cs-4
+    - cs4
+  cordycepin:
+    - cordycepin
+    - 3'-deoxyadenosine
+    - 3-deoxyadenosine
+
+study_type_patterns:
+  meta_analysis:
+    - meta-analysis
+    - meta analysis
+    - metaanalysis
+  systematic_review:
+    - systematic review
+  rct:
+    - randomized
+    - randomised
+    - placebo-controlled
+    - double-blind
+    - clinical trial
+  observational_human:
+    - cohort
+    - cross-sectional
+    - observational
+    - case-control
+  animal:
+    - mice
+    - mouse
+    - rat
+    - rats
+    - murine
+    - in vivo
+    - animal model
+  in_vitro:
+    - in vitro
+    - cell line
+    - cultured cells
+    - hepg2
+    - mcf-7
+    - apoptosis assay
+  review_narrative:
+    - review
+  case_report:
+    - case report
+    - case study
+
+# Default market mapping by study type
+maps_by_study_type:
+  rct: research_only
+  observational_human: research_only
+  systematic_review: research_only
+  meta_analysis: research_only
+  animal: research_only
+  in_vitro: research_only
+  review_narrative: research_only
+  case_report: research_only
+
+# Liquor ads: only objective ingredient/research-existence language after human approval
+liquor_safe_requires:
+  citation_status: approved
+  maps_to_market: KR_liquor_context
+  max_evidence_for_auto_context: [F, E]  # traditional / review context only; never disease
+
+prohibited_marketing_phrases:
+  - FDA approved
+  - FDA-approved
+  - cures
+  - treats
+  - prevents cancer
+  - clinically proven to treat
+  - 암 치료
+  - 면역력 증진 보장
+  - 피로 회복 효과
+  - 식약처 효능 인정

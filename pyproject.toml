@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cordycepin-evidence"
+version = "0.1.0"
+description = "Cordycepin / Cordyceps militaris evidence collection pipeline for Q-Sarang"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "requests>=2.31.0",
+  "pyyaml>=6.0.1",
+  "python-dotenv>=1.0.0",
+  "notion-client>=2.2.1",
+  "tenacity>=8.2.3",
+  "markdown>=3.5.0",
+]
+
+[project.scripts]
+cordycepin = "cordycepin_evidence.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

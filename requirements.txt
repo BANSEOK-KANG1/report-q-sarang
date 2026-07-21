@@ -1,0 +1,6 @@
+requests>=2.31.0
+pyyaml>=6.0.1
+python-dotenv>=1.0.0
+notion-client>=2.2.1
+tenacity>=8.2.3
+markdown>=3.5.0

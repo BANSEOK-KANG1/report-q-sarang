@@ -1,0 +1,70 @@
+---
+record_id: 72f18c99-a9e9-4a80-a2a0-81c9e5365b26
+title: Anti-oxidation activity of different types of natural Cordyceps sinensis and
+  cultured Cordyceps mycelia
+authors:
+- Shaoping Li
+- P. Li
+- T.T.X. Dong
+- Karl Wah Keung Tsim
+year: 2001
+journal: Phytomedicine
+doi: 10.1078/0944-7113-00030
+pmid: '11417914'
+url: https://doi.org/10.1078/0944-7113-00030
+track: comparator_sinensis
+compound: unclear
+species: Cordyceps_sinensis
+study_type: unclear
+evidence_strength: F_review_only
+relevance_to_product: extrapolated
+claim_category: other
+risk_flags:
+- missing_abstract
+maps_to_market: research_only
+citation_status: candidate
+priority_review: false
+jurisdiction_caveats:
+- KR_liquor_no_disease_claims
+- not_HFF_product
+- research_only
+source_apis:
+- openalex
+full_text_available: false
+tags:
+- evidence
+- status/candidate
+- study/unclear
+- market/research_only
+---
+
+# Anti-oxidation activity of different types of natural Cordyceps sinensis and cultured Cordyceps mycelia
+
+## Summary fields
+- **Year:** 2001
+- **Study type:** unclear
+- **Evidence strength:** F_review_only
+- **Species:** Cordyceps_sinensis
+- **Compound:** unclear
+- **Claim category:** other
+- **Risk flags:** missing_abstract
+- **Maps to market:** research_only
+- **Citation status:** candidate
+- **DOI:** 10.1078/0944-7113-00030
+- **PMID:** 11417914
+- **URL:** https://doi.org/10.1078/0944-7113-00030
+
+## Abstract
+_No abstract_
+
+## Relevance notes
+Comparator species / Cs-4 — do not equate to C. militaris cordycepin product
+
+## Compliance
+- Product context: Q-Sarang 제왕충초 **liquor** (not HFF).
+- Do not convert this note into disease / efficacy advertising copy without legal approval.
+- See [[COMPLIANCE]] and `docs/COMPLIANCE.md`.
+
+## Allowed / prohibited claim drafts
+- **Allowed (if approved):** _empty_
+- **Prohibited phrasing:** _empty_

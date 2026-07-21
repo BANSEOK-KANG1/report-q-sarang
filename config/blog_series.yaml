@@ -1,0 +1,50 @@
+# Blog series for Q-Sarang · 제왕충초
+# Editorial posts: readable narrative. Citations only as light further-reading (max 2).
+
+brand: 큐사랑
+product: 제왕충초 담금주
+disclaimer: |
+  본 글은 주류 제품과 관련된 객관 정보입니다.
+  질병의 예방·치료·진단과 무관하며, 음주가 건강에 도움이 된다는 의미가 아닙니다.
+  미성년자 음주 금지. 지나친 음주는 건강을 해칩니다.
+
+series:
+  - slug: what-is-cordycepin
+    title: 코디세핀, 이름이 낯설다면 — 동충하초 이야기 속에 자주 나오는 그 성분
+    category: education
+    keywords: [코디세핀, cordycepin, 동충하초, 제왕충초]
+    status: draft_ready
+    angle: ingredient_intro
+
+  - slug: cordyceps-militaris-basics
+    title: 제왕충초가 가리키는 균류 — Cordyceps militaris를 먼저 기억하는 이유
+    category: education
+    keywords: [Cordyceps militaris, 제왕충초, 동충하초, 큐사랑]
+    status: draft_ready
+    angle: species_intro
+
+  - slug: how-to-read-cordycepin-research
+    title: 코디세핀 논문이 보여도, 제품 소개로 옮기지 않는 이유
+    category: education
+    keywords: [코디세핀 연구, 주류 광고, 콘텐츠]
+    status: draft_ready
+    angle: research_literacy
+
+  - slug: fda-mfds-context
+    title: FDA·식약처 이름을 붙이기 전에 — 코디세핀 이야기에서 자주 생기는 오해
+    category: education
+    keywords: [FDA, 식약처, 코디세핀, 주류]
+    status: draft_ready
+    angle: regulatory_literacy
+
+  - slug: qsarang-jewang-damgeumju
+    title: 큐사랑 제왕충초 담금주 — 이름을 담되, 약처럼 말하지 않기
+    category: brand
+    keywords: [큐사랑, 제왕충초, 담금주]
+    status: draft_ready
+    angle: brand_product
+
+output:
+  content_dir: content/blog
+  vault_dir: vault/40_Blog
+  export_index: data/exports/blog_index.csv

@@ -1,0 +1,34 @@
+# Search seeds for cordycepin / Cordyceps militaris evidence collection
+# Keep compound / species / comparator tracks separate to avoid conflation.
+
+tracks:
+  compound:
+    label: Cordycepin compound
+    relevance_default: direct
+    pubmed: '(cordycepin[Title/Abstract] OR "3-deoxyadenosine"[Title/Abstract])'
+    openalex: cordycepin OR "3-deoxyadenosine"
+    europepmc: cordycepin OR "3-deoxyadenosine"
+
+  militaris:
+    label: Cordyceps militaris
+    relevance_default: partial
+    pubmed: '"Cordyceps militaris"[Title/Abstract]'
+    openalex: '"Cordyceps militaris"'
+    europepmc: '"Cordyceps militaris"'
+
+  comparator_sinensis:
+    label: Cordyceps sinensis / Cs-4 (comparator only)
+    relevance_default: extrapolated
+    pubmed: '("Cordyceps sinensis"[Title/Abstract] OR "Ophiocordyceps sinensis"[Title/Abstract] OR "Paecilomyces hepiali"[Title/Abstract]) AND (cordycepin OR extract OR supplementation)'
+    openalex: '("Cordyceps sinensis" OR "Ophiocordyceps sinensis" OR "Paecilomyces hepiali") AND (cordycepin OR extract)'
+    europepmc: '("Cordyceps sinensis" OR "Ophiocordyceps sinensis") AND cordycepin'
+
+limits:
+  per_track_pubmed: 150
+  per_track_openalex: 100
+  per_track_europepmc: 80
+  target_normalized_min: 100
+
+filters:
+  min_year: 1990
+  prefer_has_abstract: true
