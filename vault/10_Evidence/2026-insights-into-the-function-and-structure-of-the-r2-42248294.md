@@ -1,7 +1,7 @@
 ---
 record_id: 13e40244-2b2f-49d9-bf9d-56dfe83bd970
-title: Insights into the function and structure of the R2TP (RUVBL1-RUVBL2-RPAP3-PIH1D1)chaperone
-  complex.
+title: Insights into the function and structure of the R2TP (RUVBL1-RUVBL2-RPAP3-PIH1D1)
+  chaperone complex.
 authors:
 - Mohamed M
 - Wu R
@@ -37,7 +37,7 @@ tags:
 - market/research_only
 ---
 
-# Insights into the function and structure of the R2TP (RUVBL1-RUVBL2-RPAP3-PIH1D1)chaperone complex.
+# Insights into the function and structure of the R2TP (RUVBL1-RUVBL2-RPAP3-PIH1D1) chaperone complex.
 
 ## Summary fields
 - **Year:** 2026

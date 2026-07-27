@@ -4,7 +4,7 @@ title: Lipid-lowering effect of cordycepin (3'-deoxyadenosine) from Cordyceps mi
 title_ko: 고지혈증 햄스터와 쥐에 대한 Cordyceps militaris의 코디세핀(3'-deoxy아데노신)의 지질 저하 효과.
 slug: lipid-lowering-effect-of-cordycepin-3-deoxyadeno-2011-21882527
 record_id: 6eac6d4b-26ca-48be-8b32-beff25569c42
-date: '2026-07-21'
+date: '2026-07-27'
 year: 2011
 authors:
 - Jian Gao
@@ -37,7 +37,7 @@ tags:
 - cordycepin
 - evidence
 - 제왕충초
-generated: '2026-07-21'
+generated: '2026-07-27'
 visuals: []
 api_meta:
   keywords: []
@@ -72,7 +72,7 @@ api_meta:
     europepmc: true
     openalex: false
     crossref: false
-  fetched_at: '2026-07-21'
+  fetched_at: '2026-07-27'
 translations:
   title_ko: 고지혈증 햄스터와 쥐에 대한 Cordyceps militaris의 코디세핀(3'-deoxy아데노신)의 지질 저하 효과.
   glossary:

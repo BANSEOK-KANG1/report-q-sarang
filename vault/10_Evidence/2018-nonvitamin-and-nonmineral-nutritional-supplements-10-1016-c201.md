@@ -2,7 +2,8 @@
 record_id: 3aba1141-92f7-45ea-9164-129920592558
 title: Nonvitamin and Nonmineral Nutritional Supplements
 authors:
-- Filippo Maggi
+- Seyed Fazel Nabavi
+- Ana Sanches Silva
 year: 2018
 journal: Elsevier eBooks
 doi: 10.1016/c2016-0-03546-5

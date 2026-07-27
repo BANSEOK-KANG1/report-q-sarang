@@ -3,7 +3,7 @@ title: 'Cordyceps Polysaccharides: A Review of Their Immunomodulatory Effects.'
 title_ko: 'Cordyceps 다당류s: 면역조절 효과에 대한 검토.'
 slug: cordyceps-polysaccharides-a-review-of-their-immu-2024-39519748
 record_id: 71f03648-2c59-4fef-902e-96a3f705584d
-date: '2026-07-21'
+date: '2026-07-27'
 year: 2024
 authors:
 - Liping Chen
@@ -44,7 +44,7 @@ tags:
 - cordycepin
 - evidence
 - 제왕충초
-generated: '2026-07-21'
+generated: '2026-07-27'
 visuals:
 - type: figure
   src: /research-figures/cordyceps-polysaccharides-a-review-of-their-immu-2024-39519748/molecules-29-05107-g001.gif
@@ -107,7 +107,7 @@ api_meta:
     europepmc: true
     openalex: true
     crossref: true
-  fetched_at: '2026-07-21'
+  fetched_at: '2026-07-27'
 translations:
   title_ko: 'Cordyceps 다당류s: 면역조절 효과에 대한 검토.'
   glossary:

@@ -1,6 +1,6 @@
 # Marketing Evidence Brief — 제왕충초 × 코디세핀
 
-_Generated: 2026-07-21_
+_Generated: 2026-07-27_
 
 > 제왕충초 담금주는 **주류**입니다. 아래 내용은 효능 광고 승인이 아닙니다.
 > 소비자 카피는 법무 검토 후 `citation_status=approved` + `KR_liquor_context`만 사용하세요.
@@ -145,6 +145,11 @@ _Generated: 2026-07-21_
   - flags: disease_language, preclinical_only
   - link: https://europepmc.org/article/MED/42314834
 
+- **2026** [observational_human/B_limited_human] Cordycepin ameliorates lipopolysaccharide-challenged C2C12 myotube shrinkage by regulating sodium channel kinetics and inhibiting the protein degradation pathway.
+  - observational_human study touching energy_fatigue endpoints (auto-tagged; verify before use).
+  - flags: disease_language
+  - link: https://europepmc.org/article/MED/42492235
+
 - **2026** [animal/C_animal] Cordycepin attenuates diabetic nephropathy by dual-pathway activation of TFEB to restore autophagy and ameliorate podocyte injury.
   - animal study touching other endpoints (auto-tagged; verify before use).
   - flags: disease_language, preclinical_only
@@ -195,16 +200,11 @@ _Generated: 2026-07-21_
   - flags: preclinical_only
   - link: https://europepmc.org/article/MED/42444510
 
-- **2026** [animal/C_animal] Harnessing iron nanoparticles for scalable cordycepin and adenosine production in &lt;i&gt;Cordyceps militaris&lt;/i&gt;.
-  - animal study touching antioxidant endpoints (auto-tagged; verify before use).
-  - flags: disease_language, preclinical_only
-  - link: https://europepmc.org/article/MED/42113971
-
 ## Stats snapshot
 
-- Total normalized records: **795**
-- research_only: **777**
-- needs_legal_review: **475**
+- Total normalized records: **799**
+- research_only: **781**
+- needs_legal_review: **477**
 - approved liquor-context: **18**
 
 ## See also

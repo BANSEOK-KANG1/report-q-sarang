@@ -1,7 +1,7 @@
 ---
 title: 제왕충초가 가리키는 균류 — Cordyceps militaris를 먼저 기억하는 이유
 slug: cordyceps-militaris-basics
-date: '2026-07-21'
+date: '2026-07-27'
 brand: 큐사랑
 product: 제왕충초 담금주
 category: education
@@ -20,7 +20,7 @@ tags:
 - cordycepin
 - 제왕충초
 - 큐사랑
-generated: '2026-07-21'
+generated: '2026-07-27'
 ---
 
 # 제왕충초가 가리키는 균류 — Cordyceps militaris를 먼저 기억하는 이유

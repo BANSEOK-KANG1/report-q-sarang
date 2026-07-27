@@ -4,7 +4,7 @@ title: Cordycepin (3'-deoxyadenosine) attenuates age-related oxidative stress an
 title_ko: 코디세핀(3'-deoxy아데노신)은 쥐의 노화 관련 산화 스트레스를 약화시키고 항산화 능력을 개선합니다.
 slug: cordycepin-3-deoxyadenosine-attenuates-age-relat-2012-23000874
 record_id: 649af8df-7789-4b06-98d9-fe7b0a7eed17
-date: '2026-07-21'
+date: '2026-07-27'
 year: 2012
 authors:
 - Thiyagarajan Ramesh
@@ -42,7 +42,7 @@ tags:
 - cordycepin
 - evidence
 - 제왕충초
-generated: '2026-07-21'
+generated: '2026-07-27'
 visuals: []
 api_meta:
   keywords: []
@@ -100,7 +100,7 @@ api_meta:
     europepmc: true
     openalex: true
     crossref: true
-  fetched_at: '2026-07-21'
+  fetched_at: '2026-07-27'
 translations:
   title_ko: 코디세핀(3'-deoxy아데노신)은 쥐의 노화 관련 산화 스트레스를 약화시키고 항산화 능력을 개선합니다.
   glossary:
