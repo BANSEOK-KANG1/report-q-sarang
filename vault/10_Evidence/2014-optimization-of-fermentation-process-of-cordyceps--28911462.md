@@ -14,12 +14,12 @@ doi: 10.1016/j.jfda.2014.01.028
 pmid: '28911462'
 url: https://doi.org/10.1016/j.jfda.2014.01.028
 track: militaris
-compound: unclear
+compound: cordyceps_extract
 species: Cordyceps_militaris
 study_type: animal
 evidence_strength: C_animal
 relevance_to_product: partial
-claim_category: other
+claim_category: antioxidant
 risk_flags:
 - disease_language
 - preclinical_only
@@ -48,8 +48,8 @@ tags:
 - **Study type:** animal
 - **Evidence strength:** C_animal
 - **Species:** Cordyceps_militaris
-- **Compound:** unclear
-- **Claim category:** other
+- **Compound:** cordyceps_extract
+- **Claim category:** antioxidant
 - **Risk flags:** disease_language, preclinical_only
 - **Maps to market:** research_only
 - **Citation status:** needs_legal_review
@@ -58,7 +58,7 @@ tags:
 - **URL:** https://doi.org/10.1016/j.jfda.2014.01.028
 
 ## Abstract
-5.60 g/L and the optimal culture conditions are initial pH 6, 25°C, rotation speed 150 r/minute, inoculum size 4%(v/v), and medium capacity 40 mL/250 mL. Under these conditions, the yield of mycelia, intracellular polysaccharide, adenosine and mannitol reached 12.19 g/L, 0.6 g/L, 61.84 mg/L, and 1.38 g/L, respectively, and the D value was 0.77. Furthermore, the polysaccharides showed significant antitumor activities against HeLa and HepG2 in vitro in a dose-dependent manner in 72 hours. At a concentration of 1000 mg/mL, the inhibition rate of polysaccharides was 92.38% and 98.79%. The IC50 for HeLa and HepG2 were 70.91 μg/mL and 97.63 μg/mL, respectively.
+The influence of medium composition and cultural conditions on simultaneous yield of mycelia, intracellular polysaccharide, adenosine, and mannitol by Cordyceps militaris CGMCC 2909 was investigated with desirability functions in this study. An optimization strategy based on the desirability function approach, together with response surface methodology (RSM) has been used to optimize medium composition, and the optimal medium was obtained via the desirability as follows: yeast extract 10.33 g/L, sucrose 27.24 g/L, KH 2 PO 4 5.60 g/L and the optimal culture conditions are initial pH 6, 25°C, rotation speed 150 r/minute, inoculum size 4%(v/v), and medium capacity 40 mL/250 mL. Under these conditions, the yield of mycelia, intracellular polysaccharide, adenosine and mannitol reached 12.19 g/L, 0.6 g/L, 61.84 mg/L, and 1.38 g/L, respectively, and the D value was 0.77. Furthermore, the polysaccharides showed significant antitumor activities against HeLa and HepG2 in vitro in a dose-dependent manner in 72 hours. At a concentration of 1000 mg/mL, the inhibition rate of polysaccharides was 92.38% and 98.79%. The IC50 for HeLa and HepG2 were 70.91 μg/mL and 97.63 μg/mL, respectively.
 
 ## Relevance notes
 _n/a_

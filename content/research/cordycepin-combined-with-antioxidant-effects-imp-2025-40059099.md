@@ -4,7 +4,7 @@ title: Cordycepin combined with antioxidant effects improves fatigue caused by e
 title_ko: 코디세핀 항산화 효과가 결합되어 과도한 운동으로 인한 피로를 개선합니다.
 slug: cordycepin-combined-with-antioxidant-effects-imp-2025-40059099
 record_id: e1ee2919-58ce-432d-b623-3054a7b5bd0f
-date: '2026-07-27'
+date: '2026-08-03'
 year: 2025
 authors:
 - Chunfang Cheng
@@ -44,7 +44,7 @@ tags:
 - cordycepin
 - evidence
 - 제왕충초
-generated: '2026-07-27'
+generated: '2026-08-03'
 visuals:
 - type: figure
   src: /research-figures/cordycepin-combined-with-antioxidant-effects-imp-2025-40059099/41598_2025_92790_Fig1_HTML.jpg
@@ -119,7 +119,7 @@ api_meta:
     europepmc: true
     openalex: true
     crossref: true
-  fetched_at: '2026-07-27'
+  fetched_at: '2026-08-03'
 translations:
   title_ko: 코디세핀 항산화 효과가 결합되어 과도한 운동으로 인한 피로를 개선합니다.
   glossary:

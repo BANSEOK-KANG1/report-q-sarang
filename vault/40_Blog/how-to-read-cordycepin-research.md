@@ -1,7 +1,7 @@
 ---
 title: 코디세핀 논문이 보여도, 제품 소개로 옮기지 않는 이유
 slug: how-to-read-cordycepin-research
-date: '2026-07-27'
+date: '2026-08-03'
 brand: 큐사랑
 product: 제왕충초 담금주
 category: education
@@ -19,7 +19,7 @@ tags:
 - cordycepin
 - 제왕충초
 - 큐사랑
-generated: '2026-07-27'
+generated: '2026-08-03'
 ---
 
 # 코디세핀 논문이 보여도, 제품 소개로 옮기지 않는 이유

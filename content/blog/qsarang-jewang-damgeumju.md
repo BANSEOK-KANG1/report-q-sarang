@@ -1,7 +1,7 @@
 ---
 title: 큐사랑 제왕충초 담금주 — 이름을 담되, 약처럼 말하지 않기
 slug: qsarang-jewang-damgeumju
-date: '2026-07-27'
+date: '2026-08-03'
 brand: 큐사랑
 product: 제왕충초 담금주
 category: brand
@@ -19,7 +19,7 @@ tags:
 - cordycepin
 - 제왕충초
 - 큐사랑
-generated: '2026-07-27'
+generated: '2026-08-03'
 ---
 
 # 큐사랑 제왕충초 담금주 — 이름을 담되, 약처럼 말하지 않기

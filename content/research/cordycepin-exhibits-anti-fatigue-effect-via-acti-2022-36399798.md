@@ -4,7 +4,7 @@ title: Cordycepin exhibits anti-fatigue effect via activating TIGAR/SIRT1/PGC-1�
 title_ko: 코디세핀은 TIGAR/SIRT1/PGC-1α 신호 전달 경로를 활성화하여 항피로 효과를 나타냅니다.
 slug: cordycepin-exhibits-anti-fatigue-effect-via-acti-2022-36399798
 record_id: f282ee55-5ce7-4e68-bf47-7bc166b660f9
-date: '2026-07-27'
+date: '2026-08-03'
 year: 2022
 authors:
 - Xiaoming Chai
@@ -40,7 +40,7 @@ tags:
 - cordycepin
 - evidence
 - 제왕충초
-generated: '2026-07-27'
+generated: '2026-08-03'
 visuals: []
 api_meta:
   keywords:
@@ -77,7 +77,7 @@ api_meta:
   - name: Pharmacology
     score: 0.366
     level: 1
-  cited_by_count: 20
+  cited_by_count: 21
   reference_count: 64
   publisher: Elsevier BV
   journal: Biochemical and biophysical research communications
@@ -87,7 +87,7 @@ api_meta:
     europepmc: true
     openalex: true
     crossref: true
-  fetched_at: '2026-07-27'
+  fetched_at: '2026-08-03'
 translations:
   title_ko: 코디세핀은 TIGAR/SIRT1/PGC-1α 신호 전달 경로를 활성화하여 항피로 효과를 나타냅니다.
   glossary:

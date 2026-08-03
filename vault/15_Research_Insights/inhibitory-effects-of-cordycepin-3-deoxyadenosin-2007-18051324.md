@@ -5,7 +5,7 @@ title_ko: Cordyceps militaris의 구성 요소인 코디세핀(3'-deoxy아데노
   대한 억제 효과.
 slug: inhibitory-effects-of-cordycepin-3-deoxyadenosin-2007-18051324
 record_id: a10c1577-e895-4ad5-9f66-c0e0c29cb772
-date: '2026-07-27'
+date: '2026-08-03'
 year: 2007
 authors:
 - Hyun-Jeong Cho
@@ -40,7 +40,7 @@ tags:
 - cordycepin
 - evidence
 - 제왕충초
-generated: '2026-07-27'
+generated: '2026-08-03'
 visuals: []
 api_meta:
   keywords: []
@@ -63,7 +63,7 @@ api_meta:
     europepmc: true
     openalex: false
     crossref: false
-  fetched_at: '2026-07-27'
+  fetched_at: '2026-08-03'
 translations:
   title_ko: Cordyceps militaris의 구성 요소인 코디세핀(3'-deoxy아데노신)이 탑시가르긴에 의해 유도된 인간 혈소판 응집에
     대한 억제 효과.

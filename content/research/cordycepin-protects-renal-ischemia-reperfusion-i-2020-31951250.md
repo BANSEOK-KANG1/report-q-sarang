@@ -4,7 +4,7 @@ title: Cordycepin protects renal ischemia/reperfusion injury through regulating 
 title_ko: 코디세핀은 염증, 세포사멸 및 산화 스트레스를 조절하여 신장 허혈/재관류 손상을 보호합니다.
 slug: cordycepin-protects-renal-ischemia-reperfusion-i-2020-31951250
 record_id: ba2f492f-187c-474a-8ca6-4015c51ba449
-date: '2026-07-27'
+date: '2026-08-03'
 year: 2020
 authors:
 - Feng Han
@@ -44,7 +44,7 @@ tags:
 - cordycepin
 - evidence
 - 제왕충초
-generated: '2026-07-27'
+generated: '2026-08-03'
 visuals: []
 api_meta:
   keywords:
@@ -100,7 +100,7 @@ api_meta:
     europepmc: true
     openalex: true
     crossref: true
-  fetched_at: '2026-07-27'
+  fetched_at: '2026-08-03'
 translations:
   title_ko: 코디세핀은 염증, 세포사멸 및 산화 스트레스를 조절하여 신장 허혈/재관류 손상을 보호합니다.
   glossary:

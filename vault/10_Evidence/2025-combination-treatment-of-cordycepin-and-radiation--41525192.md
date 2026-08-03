@@ -15,12 +15,12 @@ journal: ''
 doi: 10.38212/2224-6614.3567
 pmid: '41525192'
 url: https://europepmc.org/article/MED/41525192
-track: comparator_sinensis
+track: compound
 compound: cordycepin
 species: unclear
 study_type: animal
 evidence_strength: C_animal
-relevance_to_product: extrapolated
+relevance_to_product: partial
 claim_category: antioxidant
 risk_flags:
 - disease_language
@@ -63,7 +63,7 @@ tags:
 Leydig cells are anatomically located in the testicular interstitial tissue, and their main function is to produce and secrete testosterone and indirectly support spermatogenesis. We previously reported that the combination treatment of cordycepin and radiation can effectively induce Leydig tumor cell apoptosis through cell cycle arrest, caspase activation, endoplasmic reticulum (ER) stress, reactive oxygen species (ROS) accumulation, and DNA damage. However, there is still a lack of scientific evidence for the susceptibility of normal Leydig cells to the combination treatment. In the present study, mouse TM3 Leydig progenitor cells were used as a model to evaluate the effects and mechanisms of the combination treatment on normal Leydig cells. It was found that 2-fold higher concentration of cordycepin (50 μM) plus 1.5-fold higher dosage of radiation (6 Gy) induce death-related morphological changes and reduce cell viability to a similar extent in TM3 cells as compared to the effects on MA-10 Leydig tumor cells. The treated TM3 cells showed a significant augmented percentage in sub-G1 and G2/M phases with a decreased percentage of G1 and S phase in the cell cycle progression. Interestingly, protective autophagy with the regulation of autophagy-related proteins, including an increase in LC3 conversion, Atg5 and Atg12-Atg5 expressions, and a decrease in Beclin-1 expression were observed in TM3 cells following the combination treatment. However, p62 accumulation became more pronounced over time after 24 h of treatment, accompanied by a rising percentage of apoptotic cells. In conclusion, normal Leydig cells show higher resistance to the combination treatment of cordycepin and radiation than Leydig tumor cells. Although apoptosis is eventually induced in TM3 cells, protective autophagy is also activated to mitigate the cytotoxic impact of the combination treatment. This finding may provide a reference for the development of safe therapeutic regimen for Leydig cell tumors.
 
 ## Relevance notes
-Comparator species / Cs-4 — do not equate to C. militaris cordycepin product
+Cordycepin-focused; verify species/form vs product
 
 ## Compliance
 - Product context: Q-Sarang 제왕충초 **liquor** (not HFF).

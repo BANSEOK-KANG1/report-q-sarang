@@ -13,12 +13,12 @@ journal: ''
 doi: ''
 pmid: ''
 url: ''
-track: compound
-compound: cordycepin
+track: militaris
+compound: unclear
 species: Cordyceps_militaris
 study_type: animal
 evidence_strength: C_animal
-relevance_to_product: direct
+relevance_to_product: partial
 claim_category: antioxidant
 risk_flags:
 - missing_abstract
@@ -47,7 +47,7 @@ tags:
 - **Study type:** animal
 - **Evidence strength:** C_animal
 - **Species:** Cordyceps_militaris
-- **Compound:** cordycepin
+- **Compound:** unclear
 - **Claim category:** antioxidant
 - **Risk flags:** missing_abstract, preclinical_only
 - **Maps to market:** research_only
