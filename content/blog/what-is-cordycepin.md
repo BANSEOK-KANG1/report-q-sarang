@@ -1,7 +1,7 @@
 ---
 title: 코디세핀, 이름이 낯설다면 — 동충하초 이야기 속에 자주 나오는 그 성분
 slug: what-is-cordycepin
-date: '2026-08-03'
+date: '2026-08-10'
 brand: 큐사랑
 product: 제왕충초 담금주
 category: education
@@ -20,7 +20,7 @@ tags:
 - cordycepin
 - 제왕충초
 - 큐사랑
-generated: '2026-08-03'
+generated: '2026-08-10'
 ---
 
 # 코디세핀, 이름이 낯설다면 — 동충하초 이야기 속에 자주 나오는 그 성분

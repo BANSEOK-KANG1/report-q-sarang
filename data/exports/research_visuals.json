@@ -97,7 +97,7 @@
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-08-03"
+    "fetched_at": "2026-08-10"
   },
   "anti-inflammatory-effects-of-cordycepin-a-review-2020-33090621": {
     "slug": "anti-inflammatory-effects-of-cordycepin-a-review-2020-33090621",
@@ -163,7 +163,7 @@
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-08-03"
+    "fetched_at": "2026-08-10"
   },
   "cordycepin-for-health-and-wellbeing-a-potent-bio-2020-32545666": {
     "slug": "cordycepin-for-health-and-wellbeing-a-potent-bio-2020-32545666",
@@ -257,7 +257,7 @@
         "level": 1
       }
     ],
-    "cited_by_count": 118,
+    "cited_by_count": 119,
     "reference_count": 203,
     "publisher": "MDPI AG",
     "journal": "Molecules (Basel, Switzerland)",
@@ -268,7 +268,7 @@
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-08-03"
+    "fetched_at": "2026-08-10"
   },
   "cordyceps-polysaccharides-a-review-of-their-immu-2024-39519748": {
     "slug": "cordyceps-polysaccharides-a-review-of-their-immu-2024-39519748",
@@ -362,7 +362,7 @@
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-08-03"
+    "fetched_at": "2026-08-10"
   },
   "a-systematic-review-of-the-biological-effects-of-2021-34641429": {
     "slug": "a-systematic-review-of-the-biological-effects-of-2021-34641429",
@@ -465,7 +465,7 @@
         "level": 3
       }
     ],
-    "cited_by_count": 92,
+    "cited_by_count": 93,
     "reference_count": 355,
     "publisher": "MDPI AG",
     "journal": "Molecules",
@@ -476,7 +476,7 @@
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-08-03"
+    "fetched_at": "2026-08-10"
   },
   "an-immunomodulatory-mushroom-cordyceps-militaris-2026-41432716": {
     "slug": "an-immunomodulatory-mushroom-cordyceps-militaris-2026-41432716",
@@ -555,7 +555,7 @@
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-08-03"
+    "fetched_at": "2026-08-10"
   },
   "immunomodulation-and-protective-effects-of-cordy-2024-39590481": {
     "slug": "immunomodulation-and-protective-effects-of-cordy-2024-39590481",
@@ -655,7 +655,7 @@
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-08-03"
+    "fetched_at": "2026-08-10"
   },
   "current-evidence-of-ergogenic-and-post-exercise--2026-41829950": {
     "slug": "current-evidence-of-ergogenic-and-post-exercise--2026-41829950",
@@ -741,7 +741,7 @@
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-08-03"
+    "fetched_at": "2026-08-10"
   },
   "cordycepin-exhibits-anti-fatigue-effect-via-acti-2022-36399798": {
     "slug": "cordycepin-exhibits-anti-fatigue-effect-via-acti-2022-36399798",
@@ -810,7 +810,7 @@
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-08-03"
+    "fetched_at": "2026-08-10"
   },
   "beneficial-effect-of-cordyceps-militaris-on-exer-2020-33312018": {
     "slug": "beneficial-effect-of-cordyceps-militaris-on-exer-2020-33312018",
@@ -903,7 +903,7 @@
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-08-03"
+    "fetched_at": "2026-08-10"
   },
   "inhibitory-effects-of-cordycepin-3-deoxyadenosin-2007-18051324": {
     "slug": "inhibitory-effects-of-cordycepin-3-deoxyadenosin-2007-18051324",
@@ -934,7 +934,7 @@
       "openalex": false,
       "crossref": false
     },
-    "fetched_at": "2026-08-03"
+    "fetched_at": "2026-08-10"
   },
   "cordycepin-combined-with-antioxidant-effects-imp-2025-40059099": {
     "slug": "cordycepin-combined-with-antioxidant-effects-imp-2025-40059099",
@@ -945,10 +945,17 @@
     "figures": [
       {
         "type": "figure",
-        "src": "/research-figures/cordycepin-combined-with-antioxidant-effects-imp-2025-40059099/41598_2025_92790_Fig1_HTML.jpg",
-        "caption": "원문 Figure (41598_2025_92790_Fig1_HTML) — Europe PMC OA",
+        "src": "/research-figures/cordycepin-combined-with-antioxidant-effects-imp-2025-40059099/41598_2025_92790_Fig3_HTML.jpg",
+        "caption": "원문 Figure (41598_2025_92790_Fig3_HTML) — Europe PMC OA",
         "source": "europepmc",
-        "filename": "41598_2025_92790_Fig1_HTML.jpg"
+        "filename": "41598_2025_92790_Fig3_HTML.jpg"
+      },
+      {
+        "type": "figure",
+        "src": "/research-figures/cordycepin-combined-with-antioxidant-effects-imp-2025-40059099/41598_2025_92790_Fig5_HTML.jpg",
+        "caption": "원문 Figure (41598_2025_92790_Fig5_HTML) — Europe PMC OA",
+        "source": "europepmc",
+        "filename": "41598_2025_92790_Fig5_HTML.jpg"
       },
       {
         "type": "figure",
@@ -959,17 +966,10 @@
       },
       {
         "type": "figure",
-        "src": "/research-figures/cordycepin-combined-with-antioxidant-effects-imp-2025-40059099/41598_2025_92790_Fig3_HTML.jpg",
-        "caption": "원문 Figure (41598_2025_92790_Fig3_HTML) — Europe PMC OA",
-        "source": "europepmc",
-        "filename": "41598_2025_92790_Fig3_HTML.jpg"
-      },
-      {
-        "type": "figure",
-        "src": "/research-figures/cordycepin-combined-with-antioxidant-effects-imp-2025-40059099/41598_2025_92790_Fig6_HTML.jpg",
+        "src": "/research-figures/cordycepin-combined-with-antioxidant-effects-imp-2025-40059099/41598_2025_92790_Fig6_HTML.gif",
         "caption": "원문 Figure (41598_2025_92790_Fig6_HTML) — Europe PMC OA",
         "source": "europepmc",
-        "filename": "41598_2025_92790_Fig6_HTML.jpg"
+        "filename": "41598_2025_92790_Fig6_HTML.gif"
       }
     ],
     "keywords": [
@@ -1044,7 +1044,7 @@
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-08-03"
+    "fetched_at": "2026-08-10"
   },
   "cordyceps-militaris-reduces-oxidative-stress-and-2022-36009221": {
     "slug": "cordyceps-militaris-reduces-oxidative-stress-and-2022-36009221",
@@ -1132,18 +1132,18 @@
         "level": 1
       }
     ],
-    "cited_by_count": 357,
+    "cited_by_count": 360,
     "reference_count": 373,
     "publisher": "Frontiers Media SA",
     "journal": "Antioxidants (Basel, Switzerland)",
     "oa_status": "gold",
-    "oa_url": "https://doi.org/10.3389/fimmu.2020.00167",
+    "oa_url": "https://www.frontiersin.org/articles/10.3389/fimmu.2020.00167/pdf",
     "apis": {
       "europepmc": true,
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-08-03"
+    "fetched_at": "2026-08-10"
   },
   "protective-effects-of-cordycepin-against-d-galac-2022-35352454": {
     "slug": "protective-effects-of-cordycepin-against-d-galac-2022-35352454",
@@ -1209,7 +1209,7 @@
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-08-03"
+    "fetched_at": "2026-08-10"
   },
   "cordycepin-protects-renal-ischemia-reperfusion-i-2020-31951250": {
     "slug": "cordycepin-protects-renal-ischemia-reperfusion-i-2020-31951250",
@@ -1291,7 +1291,7 @@
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-08-03"
+    "fetched_at": "2026-08-10"
   },
   "the-protective-effect-of-cordycepin-on-d-galacto-2017-28522898": {
     "slug": "the-protective-effect-of-cordycepin-on-d-galacto-2017-28522898",
@@ -1397,7 +1397,7 @@
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-08-03"
+    "fetched_at": "2026-08-10"
   },
   "cordycepin-3-deoxyadenosine-attenuates-age-relat-2012-23000874": {
     "slug": "cordycepin-3-deoxyadenosine-attenuates-age-relat-2012-23000874",
@@ -1480,7 +1480,7 @@
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-08-03"
+    "fetched_at": "2026-08-10"
   },
   "lipid-lowering-effect-of-cordycepin-3-deoxyadeno-2011-21882527": {
     "slug": "lipid-lowering-effect-of-cordycepin-3-deoxyadeno-2011-21882527",
@@ -1523,6 +1523,6 @@
       "openalex": false,
       "crossref": false
     },
-    "fetched_at": "2026-08-03"
+    "fetched_at": "2026-08-10"
   }
 }

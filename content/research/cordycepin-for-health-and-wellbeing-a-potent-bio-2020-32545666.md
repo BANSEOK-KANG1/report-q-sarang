@@ -4,7 +4,7 @@ title: 'Cordycepin for Health and Wellbeing: A Potent Bioactive Metabolite of an
 title_ko: '코디세핀 건강과 복지를 위한: 곤충병원성 Cordyceps 약용 곰팡이의 강력한 생체 활성 대사산물 및 그 기능식품 및 치료 잠재력.'
 slug: cordycepin-for-health-and-wellbeing-a-potent-bio-2020-32545666
 record_id: 02ce56e8-cb49-49a8-ad58-bda82a3f5432
-date: '2026-08-03'
+date: '2026-08-10'
 year: 2020
 authors:
 - Syed Amir Ashraf
@@ -40,7 +40,7 @@ tags:
 - cordycepin
 - evidence
 - 제왕충초
-generated: '2026-08-03'
+generated: '2026-08-10'
 visuals:
 - type: figure
   src: /research-figures/cordycepin-for-health-and-wellbeing-a-potent-bio-2020-32545666/molecules-25-02735-g005.gif
@@ -102,7 +102,7 @@ api_meta:
   - name: Computational biology
     score: 0.362
     level: 1
-  cited_by_count: 118
+  cited_by_count: 119
   reference_count: 203
   publisher: MDPI AG
   journal: Molecules (Basel, Switzerland)
@@ -112,7 +112,7 @@ api_meta:
     europepmc: true
     openalex: true
     crossref: true
-  fetched_at: '2026-08-03'
+  fetched_at: '2026-08-10'
 translations:
   title_ko: '코디세핀 건강과 복지를 위한: 곤충병원성 Cordyceps 약용 곰팡이의 강력한 생체 활성 대사산물 및 그 기능식품 및 치료
     잠재력.'

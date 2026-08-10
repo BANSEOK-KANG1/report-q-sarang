@@ -1,24 +1,26 @@
 ---
-record_id: 2712d3ac-0d2a-4d26-898f-97650b6df695
-title: A comparison of the chemical composition and bioactive ingredients of the Chinese
-  medicinal mushroom DongChongXiaCao, its counterfeit and mimic, and fermented mycelium
-  of Cordyceps sinensis
+record_id: e16a8aff-e144-48b1-b74a-679500ec1fc9
+title: Purification and characterization of a novel fibrinolytic enzyme from fruiting
+  bodies of Korean Cordyceps militaris
 authors:
-- Tai‐Hao Hsu
-- Li-Hua Shiao
-- Chienyan Hsieh
-- Der‐Ming Chang
-year: 2002
-journal: Food Chemistry
-doi: 10.1016/s0308-8146(02)00158-9
-pmid: ''
-url: https://doi.org/10.1016/s0308-8146(02)00158-9
-track: comparator_sinensis
+- DuBok Choi
+- Wol-Suk Cha
+- Naomi Park
+- Hyun‐Woo Kim
+- Jong Hyuk Lee
+- Ji Seon Park
+- Sang‐Shin Park
+year: 2010
+journal: Bioresource Technology
+doi: 10.1016/j.biortech.2010.10.002
+pmid: '21071214'
+url: https://doi.org/10.1016/j.biortech.2010.10.002
+track: militaris
 compound: unclear
-species: Cordyceps_sinensis
+species: Cordyceps_militaris
 study_type: unclear
 evidence_strength: F_review_only
-relevance_to_product: extrapolated
+relevance_to_product: partial
 claim_category: other
 risk_flags:
 - missing_abstract
@@ -39,27 +41,27 @@ tags:
 - market/research_only
 ---
 
-# A comparison of the chemical composition and bioactive ingredients of the Chinese medicinal mushroom DongChongXiaCao, its counterfeit and mimic, and fermented mycelium of Cordyceps sinensis
+# Purification and characterization of a novel fibrinolytic enzyme from fruiting bodies of Korean Cordyceps militaris
 
 ## Summary fields
-- **Year:** 2002
+- **Year:** 2010
 - **Study type:** unclear
 - **Evidence strength:** F_review_only
-- **Species:** Cordyceps_sinensis
+- **Species:** Cordyceps_militaris
 - **Compound:** unclear
 - **Claim category:** other
 - **Risk flags:** missing_abstract
 - **Maps to market:** research_only
 - **Citation status:** candidate
-- **DOI:** 10.1016/s0308-8146(02)00158-9
-- **PMID:** —
-- **URL:** https://doi.org/10.1016/s0308-8146(02)00158-9
+- **DOI:** 10.1016/j.biortech.2010.10.002
+- **PMID:** 21071214
+- **URL:** https://doi.org/10.1016/j.biortech.2010.10.002
 
 ## Abstract
 _No abstract_
 
 ## Relevance notes
-Comparator species / Cs-4 — do not equate to C. militaris cordycepin product
+_n/a_
 
 ## Compliance
 - Product context: Q-Sarang 제왕충초 **liquor** (not HFF).

@@ -1,6 +1,6 @@
 # Marketing Evidence Brief — 제왕충초 × 코디세핀
 
-_Generated: 2026-08-03_
+_Generated: 2026-08-10_
 
 > 제왕충초 담금주는 **주류**입니다. 아래 내용은 효능 광고 승인이 아닙니다.
 > 소비자 카피는 법무 검토 후 `citation_status=approved` + `KR_liquor_context`만 사용하세요.
@@ -125,6 +125,11 @@ _Generated: 2026-08-03_
 
 다음 항목은 자동 우선 검수 후보입니다. 광고에 바로 쓰지 마세요.
 
+- **2026** [animal/C_animal] A C-Nucleoside Analogue of Cordycepin With High Metabolic Stability and Potent Anti-Psoriatic Activity via Microneedle Delivery.
+  - animal study touching immune endpoints (auto-tagged; verify before use).
+  - flags: disease_language, preclinical_only
+  - link: https://europepmc.org/article/MED/42554624
+
 - **2026** [animal/C_animal] An Acetyl-CoA-Gated Metabolic Checkpoint Links Precursor Supply to Cordycepin Biosynthesis in &lt;i&gt;Cordyceps militaris&lt;/i&gt;.
   - animal study touching metabolic endpoints (auto-tagged; verify before use).
   - flags: preclinical_only
@@ -195,16 +200,11 @@ _Generated: 2026-08-03_
   - flags: disease_language, preclinical_only
   - link: https://europepmc.org/article/MED/41496335
 
-- **2026** [animal/C_animal] Exploration of the potential utilization value in &lt;i&gt;Cordyceps militaris&lt;/i&gt; substrate after industrial cultivation in terms of nutritional and pharmaceutical applications.
-  - animal study touching other endpoints (auto-tagged; verify before use).
-  - flags: preclinical_only
-  - link: https://europepmc.org/article/MED/42444510
-
 ## Stats snapshot
 
-- Total normalized records: **793**
-- research_only: **775**
-- needs_legal_review: **474**
+- Total normalized records: **796**
+- research_only: **778**
+- needs_legal_review: **478**
 - approved liquor-context: **18**
 
 ## See also

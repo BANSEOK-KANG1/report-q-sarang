@@ -13,14 +13,15 @@ journal: Journal of Food and Drug Analysis
 doi: 10.1016/j.jfda.2016.10.020
 pmid: '28911537'
 url: https://doi.org/10.1016/j.jfda.2016.10.020
-track: comparator_sinensis
+track: compound
 compound: cordycepin
 species: Cordyceps_sinensis
 study_type: review_narrative
 evidence_strength: F_review_only
-relevance_to_product: extrapolated
+relevance_to_product: partial
 claim_category: other
-risk_flags: []
+risk_flags:
+- species_mismatch
 maps_to_market: research_only
 citation_status: candidate
 priority_review: false
@@ -47,7 +48,7 @@ tags:
 - **Species:** Cordyceps_sinensis
 - **Compound:** cordycepin
 - **Claim category:** other
-- **Risk flags:** none
+- **Risk flags:** species_mismatch
 - **Maps to market:** research_only
 - **Citation status:** candidate
 - **DOI:** 10.1016/j.jfda.2016.10.020
@@ -58,7 +59,7 @@ tags:
 Cordyceps sinensis has various biological and pharmacological functions, and it has been claimed as a tonic supplement for sexual and reproductive dysfunctions for a long time in oriental society. In this article, the in vitro and in vivo effects of C. sinensis and cordycepin on mouse Leydig cell steroidogenesis are briefly described, the stimulatory mechanisms are summarized, and the recent findings related to the alternative substances regulating male reproductive functions are also discussed.
 
 ## Relevance notes
-Comparator species / Cs-4 — do not equate to C. militaris cordycepin product
+Cordycepin-focused; verify species/form vs product
 
 ## Compliance
 - Product context: Q-Sarang 제왕충초 **liquor** (not HFF).

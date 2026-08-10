@@ -14,7 +14,7 @@ journal: Letters in applied microbiology
 doi: 10.1093/lambio/ovad053
 pmid: '37113039'
 url: https://pubmed.ncbi.nlm.nih.gov/37113039/
-track: militaris
+track: compound
 compound: cordycepin
 species: Cordyceps_militaris
 study_type: unclear

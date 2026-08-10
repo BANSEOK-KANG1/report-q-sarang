@@ -5,7 +5,7 @@ title_ko: Galleria mellonella 유충의 Candida albicans 감염에 대한 Cordyc
   면역조절 및 보호 효과.
 slug: immunomodulation-and-protective-effects-of-cordy-2024-39590481
 record_id: 21182ed3-076f-4f80-870d-cf0f0082acf2
-date: '2026-08-03'
+date: '2026-08-10'
 year: 2024
 authors:
 - Sadaf Ashraf
@@ -44,7 +44,7 @@ tags:
 - cordycepin
 - evidence
 - 제왕충초
-generated: '2026-08-03'
+generated: '2026-08-10'
 visuals:
 - type: figure
   src: /research-figures/immunomodulation-and-protective-effects-of-cordy-2024-39590481/insects-15-00882-g010.jpg
@@ -110,7 +110,7 @@ api_meta:
     europepmc: true
     openalex: true
     crossref: true
-  fetched_at: '2026-08-03'
+  fetched_at: '2026-08-10'
 translations:
   title_ko: Galleria mellonella 유충의 Candida albicans 감염에 대한 Cordyceps militaris 추출물의
     면역조절 및 보호 효과.

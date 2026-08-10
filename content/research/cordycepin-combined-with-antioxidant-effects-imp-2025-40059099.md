@@ -4,7 +4,7 @@ title: Cordycepin combined with antioxidant effects improves fatigue caused by e
 title_ko: 코디세핀 항산화 효과가 결합되어 과도한 운동으로 인한 피로를 개선합니다.
 slug: cordycepin-combined-with-antioxidant-effects-imp-2025-40059099
 record_id: e1ee2919-58ce-432d-b623-3054a7b5bd0f
-date: '2026-08-03'
+date: '2026-08-10'
 year: 2025
 authors:
 - Chunfang Cheng
@@ -44,28 +44,28 @@ tags:
 - cordycepin
 - evidence
 - 제왕충초
-generated: '2026-08-03'
+generated: '2026-08-10'
 visuals:
-- type: figure
-  src: /research-figures/cordycepin-combined-with-antioxidant-effects-imp-2025-40059099/41598_2025_92790_Fig1_HTML.jpg
-  caption: 원문 Figure (41598_2025_92790_Fig1_HTML) — Europe PMC OA
-  source: europepmc
-  filename: 41598_2025_92790_Fig1_HTML.jpg
-- type: figure
-  src: /research-figures/cordycepin-combined-with-antioxidant-effects-imp-2025-40059099/41598_2025_92790_Fig3_HTML.gif
-  caption: 원문 Figure (41598_2025_92790_Fig3_HTML) — Europe PMC OA
-  source: europepmc
-  filename: 41598_2025_92790_Fig3_HTML.gif
 - type: figure
   src: /research-figures/cordycepin-combined-with-antioxidant-effects-imp-2025-40059099/41598_2025_92790_Fig3_HTML.jpg
   caption: 원문 Figure (41598_2025_92790_Fig3_HTML) — Europe PMC OA
   source: europepmc
   filename: 41598_2025_92790_Fig3_HTML.jpg
 - type: figure
-  src: /research-figures/cordycepin-combined-with-antioxidant-effects-imp-2025-40059099/41598_2025_92790_Fig6_HTML.jpg
+  src: /research-figures/cordycepin-combined-with-antioxidant-effects-imp-2025-40059099/41598_2025_92790_Fig5_HTML.jpg
+  caption: 원문 Figure (41598_2025_92790_Fig5_HTML) — Europe PMC OA
+  source: europepmc
+  filename: 41598_2025_92790_Fig5_HTML.jpg
+- type: figure
+  src: /research-figures/cordycepin-combined-with-antioxidant-effects-imp-2025-40059099/41598_2025_92790_Fig3_HTML.gif
+  caption: 원문 Figure (41598_2025_92790_Fig3_HTML) — Europe PMC OA
+  source: europepmc
+  filename: 41598_2025_92790_Fig3_HTML.gif
+- type: figure
+  src: /research-figures/cordycepin-combined-with-antioxidant-effects-imp-2025-40059099/41598_2025_92790_Fig6_HTML.gif
   caption: 원문 Figure (41598_2025_92790_Fig6_HTML) — Europe PMC OA
   source: europepmc
-  filename: 41598_2025_92790_Fig6_HTML.jpg
+  filename: 41598_2025_92790_Fig6_HTML.gif
 api_meta:
   keywords:
   - Antioxidant
@@ -119,7 +119,7 @@ api_meta:
     europepmc: true
     openalex: true
     crossref: true
-  fetched_at: '2026-08-03'
+  fetched_at: '2026-08-10'
 translations:
   title_ko: 코디세핀 항산화 효과가 결합되어 과도한 운동으로 인한 피로를 개선합니다.
   glossary:
