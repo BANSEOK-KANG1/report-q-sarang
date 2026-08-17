@@ -4,7 +4,7 @@ title: Cordyceps militaris Reduces Oxidative Stress and Regulates Immune T Cells
 title_ko: Cordyceps militaris 산화 스트레스를 줄이고 면역 T 세포를 조절하여 전이성 흑색종 침입을 억제합니다.
 slug: cordyceps-militaris-reduces-oxidative-stress-and-2022-36009221
 record_id: 8de659c8-0087-4f66-9450-9cb0827c4f72
-date: '2026-08-10'
+date: '2026-08-17'
 year: 2022
 authors:
 - Yuan-Hong Lan
@@ -41,7 +41,7 @@ tags:
 - cordycepin
 - evidence
 - 제왕충초
-generated: '2026-08-10'
+generated: '2026-08-17'
 visuals:
 - type: figure
   src: /research-figures/cordyceps-militaris-reduces-oxidative-stress-and-2022-36009221/antioxidants-11-01502-g005.jpg
@@ -96,7 +96,7 @@ api_meta:
   - name: Immunology
     score: 0.4
     level: 1
-  cited_by_count: 360
+  cited_by_count: 361
   reference_count: 373
   publisher: Frontiers Media SA
   journal: Antioxidants (Basel, Switzerland)
@@ -106,7 +106,7 @@ api_meta:
     europepmc: true
     openalex: true
     crossref: true
-  fetched_at: '2026-08-10'
+  fetched_at: '2026-08-17'
 translations:
   title_ko: Cordyceps militaris 산화 스트레스를 줄이고 면역 T 세포를 조절하여 전이성 흑색종 침입을 억제합니다.
   glossary:

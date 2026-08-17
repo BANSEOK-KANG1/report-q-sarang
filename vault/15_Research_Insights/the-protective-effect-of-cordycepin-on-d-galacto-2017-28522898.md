@@ -4,7 +4,7 @@ title: The Protective Effect of Cordycepin on D-Galactosamine/Lipopolysaccharide
 title_ko: D-갈락토사민/Lipo다당류로 인한 급성 간 손상에 대한 코디세핀의 보호 효과
 slug: the-protective-effect-of-cordycepin-on-d-galacto-2017-28522898
 record_id: 2192294e-b117-4450-a516-ba4ecb0e6962
-date: '2026-08-10'
+date: '2026-08-17'
 year: 2017
 authors:
 - Jin Li
@@ -37,7 +37,7 @@ tags:
 - cordycepin
 - evidence
 - 제왕충초
-generated: '2026-08-10'
+generated: '2026-08-17'
 visuals:
 - type: figure
   src: /research-figures/the-protective-effect-of-cordycepin-on-d-galacto-2017-28522898/MI2017-3946706.005.jpg
@@ -109,7 +109,7 @@ api_meta:
     europepmc: true
     openalex: true
     crossref: true
-  fetched_at: '2026-08-10'
+  fetched_at: '2026-08-17'
 translations:
   title_ko: D-갈락토사민/Lipo다당류로 인한 급성 간 손상에 대한 코디세핀의 보호 효과
   glossary:

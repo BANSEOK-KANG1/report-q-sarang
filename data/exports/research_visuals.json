@@ -97,7 +97,7 @@
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-08-10"
+    "fetched_at": "2026-08-17"
   },
   "anti-inflammatory-effects-of-cordycepin-a-review-2020-33090621": {
     "slug": "anti-inflammatory-effects-of-cordycepin-a-review-2020-33090621",
@@ -163,7 +163,7 @@
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-08-10"
+    "fetched_at": "2026-08-17"
   },
   "cordycepin-for-health-and-wellbeing-a-potent-bio-2020-32545666": {
     "slug": "cordycepin-for-health-and-wellbeing-a-potent-bio-2020-32545666",
@@ -268,7 +268,7 @@
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-08-10"
+    "fetched_at": "2026-08-17"
   },
   "cordyceps-polysaccharides-a-review-of-their-immu-2024-39519748": {
     "slug": "cordyceps-polysaccharides-a-review-of-their-immu-2024-39519748",
@@ -362,7 +362,7 @@
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-08-10"
+    "fetched_at": "2026-08-17"
   },
   "a-systematic-review-of-the-biological-effects-of-2021-34641429": {
     "slug": "a-systematic-review-of-the-biological-effects-of-2021-34641429",
@@ -476,7 +476,7 @@
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-08-10"
+    "fetched_at": "2026-08-17"
   },
   "an-immunomodulatory-mushroom-cordyceps-militaris-2026-41432716": {
     "slug": "an-immunomodulatory-mushroom-cordyceps-militaris-2026-41432716",
@@ -544,10 +544,10 @@
         "level": 3
       }
     ],
-    "cited_by_count": 4,
+    "cited_by_count": 5,
     "reference_count": 190,
     "publisher": "Wiley",
-    "journal": "Phytotherapy research : PTR",
+    "journal": "",
     "oa_status": "bronze",
     "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ptr.70144",
     "apis": {
@@ -555,7 +555,7 @@
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-08-10"
+    "fetched_at": "2026-08-17"
   },
   "immunomodulation-and-protective-effects-of-cordy-2024-39590481": {
     "slug": "immunomodulation-and-protective-effects-of-cordy-2024-39590481",
@@ -566,31 +566,31 @@
     "figures": [
       {
         "type": "figure",
-        "src": "/research-figures/immunomodulation-and-protective-effects-of-cordy-2024-39590481/insects-15-00882-g010.jpg",
-        "caption": "원문 Figure (insects-15-00882-g010) — Europe PMC OA",
+        "src": "/research-figures/immunomodulation-and-protective-effects-of-cordy-2024-39590481/insects-15-00882-g001.gif",
+        "caption": "원문 Figure (insects-15-00882-g001) — Europe PMC OA",
         "source": "europepmc",
-        "filename": "insects-15-00882-g010.jpg"
+        "filename": "insects-15-00882-g001.gif"
       },
       {
         "type": "figure",
-        "src": "/research-figures/immunomodulation-and-protective-effects-of-cordy-2024-39590481/insects-15-00882-g004.jpg",
-        "caption": "원문 Figure (insects-15-00882-g004) — Europe PMC OA",
+        "src": "/research-figures/immunomodulation-and-protective-effects-of-cordy-2024-39590481/insects-15-00882-g003.jpg",
+        "caption": "원문 Figure (insects-15-00882-g003) — Europe PMC OA",
         "source": "europepmc",
-        "filename": "insects-15-00882-g004.jpg"
+        "filename": "insects-15-00882-g003.jpg"
       },
       {
         "type": "figure",
-        "src": "/research-figures/immunomodulation-and-protective-effects-of-cordy-2024-39590481/insects-15-00882-g004.gif",
-        "caption": "원문 Figure (insects-15-00882-g004) — Europe PMC OA",
+        "src": "/research-figures/immunomodulation-and-protective-effects-of-cordy-2024-39590481/insects-15-00882-g007.gif",
+        "caption": "원문 Figure (insects-15-00882-g007) — Europe PMC OA",
         "source": "europepmc",
-        "filename": "insects-15-00882-g004.gif"
+        "filename": "insects-15-00882-g007.gif"
       },
       {
         "type": "figure",
-        "src": "/research-figures/immunomodulation-and-protective-effects-of-cordy-2024-39590481/insects-15-00882-g006.jpg",
-        "caption": "원문 Figure (insects-15-00882-g006) — Europe PMC OA",
+        "src": "/research-figures/immunomodulation-and-protective-effects-of-cordy-2024-39590481/insects-15-00882-g011.jpg",
+        "caption": "원문 Figure (insects-15-00882-g011) — Europe PMC OA",
         "source": "europepmc",
-        "filename": "insects-15-00882-g006.jpg"
+        "filename": "insects-15-00882-g011.jpg"
       }
     ],
     "keywords": [
@@ -655,7 +655,7 @@
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-08-10"
+    "fetched_at": "2026-08-17"
   },
   "current-evidence-of-ergogenic-and-post-exercise--2026-41829950": {
     "slug": "current-evidence-of-ergogenic-and-post-exercise--2026-41829950",
@@ -741,7 +741,7 @@
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-08-10"
+    "fetched_at": "2026-08-17"
   },
   "cordycepin-exhibits-anti-fatigue-effect-via-acti-2022-36399798": {
     "slug": "cordycepin-exhibits-anti-fatigue-effect-via-acti-2022-36399798",
@@ -810,7 +810,7 @@
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-08-10"
+    "fetched_at": "2026-08-17"
   },
   "beneficial-effect-of-cordyceps-militaris-on-exer-2020-33312018": {
     "slug": "beneficial-effect-of-cordyceps-militaris-on-exer-2020-33312018",
@@ -903,7 +903,93 @@
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-08-10"
+    "fetched_at": "2026-08-17"
+  },
+  "cordycepin-attenuated-cyclophosphamide-ctx-induc-2025-40695148": {
+    "slug": "cordycepin-attenuated-cyclophosphamide-ctx-induc-2025-40695148",
+    "record_id": "b4110bf1-f89c-4ea5-b70f-b793e1b15004",
+    "doi": "10.1016/j.intimp.2025.115235",
+    "pmid": "40695148",
+    "pmcid": "",
+    "figures": [],
+    "keywords": [
+      "EGFR",
+      "Metabolomics",
+      "immunosuppression",
+      "cordycepin",
+      "Network Pharmacology",
+      "Nrf2 Pathway"
+    ],
+    "mesh_terms": [
+      "Spleen",
+      "Animals",
+      "Mice, Inbred BALB C",
+      "Mice",
+      "Cyclophosphamide",
+      "Deoxyadenosines",
+      "Immunosuppressive Agents",
+      "Cytokines",
+      "Antioxidants",
+      "Signal Transduction",
+      "Male",
+      "NF-E2-Related Factor 2",
+      "ErbB Receptors",
+      "Immunosuppression Therapy"
+    ],
+    "concepts": [
+      {
+        "name": "Immunosuppression",
+        "score": 0.856,
+        "level": 2
+      },
+      {
+        "name": "Cyclophosphamide",
+        "score": 0.753,
+        "level": 3
+      },
+      {
+        "name": "Signal transduction",
+        "score": 0.57,
+        "level": 2
+      },
+      {
+        "name": "Cordycepin",
+        "score": 0.551,
+        "level": 2
+      },
+      {
+        "name": "Medicine",
+        "score": 0.423,
+        "level": 0
+      },
+      {
+        "name": "Antioxidant",
+        "score": 0.415,
+        "level": 2
+      },
+      {
+        "name": "Pharmacology",
+        "score": 0.41,
+        "level": 1
+      },
+      {
+        "name": "Immunology",
+        "score": 0.398,
+        "level": 1
+      }
+    ],
+    "cited_by_count": 5,
+    "reference_count": 49,
+    "publisher": "Elsevier BV",
+    "journal": "International immunopharmacology",
+    "oa_status": "closed",
+    "oa_url": "https://pubmed.ncbi.nlm.nih.gov/40695148/",
+    "apis": {
+      "europepmc": true,
+      "openalex": true,
+      "crossref": true
+    },
+    "fetched_at": "2026-08-17"
   },
   "inhibitory-effects-of-cordycepin-3-deoxyadenosin-2007-18051324": {
     "slug": "inhibitory-effects-of-cordycepin-3-deoxyadenosin-2007-18051324",
@@ -934,7 +1020,7 @@
       "openalex": false,
       "crossref": false
     },
-    "fetched_at": "2026-08-10"
+    "fetched_at": "2026-08-17"
   },
   "cordycepin-combined-with-antioxidant-effects-imp-2025-40059099": {
     "slug": "cordycepin-combined-with-antioxidant-effects-imp-2025-40059099",
@@ -1044,7 +1130,7 @@
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-08-10"
+    "fetched_at": "2026-08-17"
   },
   "cordyceps-militaris-reduces-oxidative-stress-and-2022-36009221": {
     "slug": "cordyceps-militaris-reduces-oxidative-stress-and-2022-36009221",
@@ -1132,7 +1218,7 @@
         "level": 1
       }
     ],
-    "cited_by_count": 360,
+    "cited_by_count": 361,
     "reference_count": 373,
     "publisher": "Frontiers Media SA",
     "journal": "Antioxidants (Basel, Switzerland)",
@@ -1143,7 +1229,7 @@
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-08-10"
+    "fetched_at": "2026-08-17"
   },
   "protective-effects-of-cordycepin-against-d-galac-2022-35352454": {
     "slug": "protective-effects-of-cordycepin-against-d-galac-2022-35352454",
@@ -1209,7 +1295,7 @@
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-08-10"
+    "fetched_at": "2026-08-17"
   },
   "cordycepin-protects-renal-ischemia-reperfusion-i-2020-31951250": {
     "slug": "cordycepin-protects-renal-ischemia-reperfusion-i-2020-31951250",
@@ -1280,7 +1366,7 @@
         "level": 2
       }
     ],
-    "cited_by_count": 49,
+    "cited_by_count": 50,
     "reference_count": 36,
     "publisher": "China Science Publishing & Media Ltd.",
     "journal": "Acta biochimica et biophysica Sinica",
@@ -1291,7 +1377,7 @@
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-08-10"
+    "fetched_at": "2026-08-17"
   },
   "the-protective-effect-of-cordycepin-on-d-galacto-2017-28522898": {
     "slug": "the-protective-effect-of-cordycepin-on-d-galacto-2017-28522898",
@@ -1397,132 +1483,95 @@
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-08-10"
+    "fetched_at": "2026-08-17"
   },
-  "cordycepin-3-deoxyadenosine-attenuates-age-relat-2012-23000874": {
-    "slug": "cordycepin-3-deoxyadenosine-attenuates-age-relat-2012-23000874",
-    "record_id": "649af8df-7789-4b06-98d9-fe7b0a7eed17",
-    "doi": "10.1016/j.exger.2012.09.003",
-    "pmid": "23000874",
+  "protective-effect-of-cordycepin-enriched-cordyce-2013-23876821": {
+    "slug": "protective-effect-of-cordycepin-enriched-cordyce-2013-23876821",
+    "record_id": "165246c0-84ad-456c-a282-a7f05bf29c01",
+    "doi": "10.1016/j.fct.2013.07.033",
+    "pmid": "23876821",
     "pmcid": "",
     "figures": [],
-    "keywords": [],
+    "keywords": [
+      "Cordyceps militaris",
+      "Hepatotoxicity",
+      "Silymarin",
+      "Cordycepin-enriched Cordyceps Militaris",
+      "Paecilomyces Japonica"
+    ],
     "mesh_terms": [
+      "Liver",
+      "Hepatocytes",
       "Animals",
       "Rats",
       "Rats, Sprague-Dawley",
-      "Body Weight",
-      "Ascorbic Acid",
-      "Vitamin E",
-      "Catalase",
-      "Superoxide Dismutase",
-      "Glutathione",
+      "Cordyceps",
+      "Liver Diseases, Alcoholic",
+      "Ethanol",
+      "Acetaldehyde",
+      "Silymarin",
+      "Alkaline Phosphatase",
+      "L-Lactate Dehydrogenase",
+      "gamma-Glutamyltransferase",
+      "Alanine Transaminase",
+      "Aspartate Aminotransferases",
       "Deoxyadenosines",
-      "Antioxidants",
-      "Drug Evaluation, Preclinical",
-      "Lipid Peroxidation",
-      "Oxidative Stress",
-      "Aging",
-      "Eating",
-      "Male",
-      "Biomarkers"
+      "Alcohol Drinking",
+      "Male"
     ],
     "concepts": [
       {
-        "name": "Lipid peroxidation",
-        "score": 0.763,
+        "name": "Cordyceps militaris",
+        "score": 0.952,
         "level": 3
-      },
-      {
-        "name": "Glutathione peroxidase",
-        "score": 0.745,
-        "level": 4
-      },
-      {
-        "name": "Internal medicine",
-        "score": 0.663,
-        "level": 1
       },
       {
         "name": "Cordycepin",
-        "score": 0.656,
+        "score": 0.941,
         "level": 2
       },
       {
-        "name": "Endocrinology",
-        "score": 0.648,
-        "level": 1
-      },
-      {
-        "name": "Malondialdehyde",
-        "score": 0.64,
+        "name": "Acetaldehyde",
+        "score": 0.779,
         "level": 3
       },
       {
-        "name": "Oxidative stress",
-        "score": 0.639,
+        "name": "Hepatoprotection",
+        "score": 0.682,
+        "level": 4
+      },
+      {
+        "name": "Aldehyde dehydrogenase",
+        "score": 0.67,
+        "level": 3
+      },
+      {
+        "name": "Lactate dehydrogenase",
+        "score": 0.664,
+        "level": 3
+      },
+      {
+        "name": "Alcohol",
+        "score": 0.611,
         "level": 2
       },
       {
-        "name": "Glutathione",
-        "score": 0.632,
+        "name": "Alcohol dehydrogenase",
+        "score": 0.585,
         "level": 3
       }
     ],
-    "cited_by_count": 119,
-    "reference_count": 46,
+    "cited_by_count": 50,
+    "reference_count": 38,
     "publisher": "Elsevier BV",
-    "journal": "Experimental gerontology",
+    "journal": "Food and chemical toxicology : an international journal published for the British Industrial Biological Research Association",
     "oa_status": "closed",
-    "oa_url": "https://pubmed.ncbi.nlm.nih.gov/23000874/",
+    "oa_url": "https://pubmed.ncbi.nlm.nih.gov/23876821/",
     "apis": {
       "europepmc": true,
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-08-10"
-  },
-  "lipid-lowering-effect-of-cordycepin-3-deoxyadeno-2011-21882527": {
-    "slug": "lipid-lowering-effect-of-cordycepin-3-deoxyadeno-2011-21882527",
-    "record_id": "6eac6d4b-26ca-48be-8b32-beff25569c42",
-    "doi": "",
-    "pmid": "21882527",
-    "pmcid": "",
-    "figures": [],
-    "keywords": [],
-    "mesh_terms": [
-      "Animals",
-      "Mice, Inbred ICR",
-      "Mesocricetus",
-      "Mice",
-      "Rats",
-      "Rats, Wistar",
-      "Cordyceps",
-      "Cholesterol",
-      "Lipase",
-      "Lipoprotein Lipase",
-      "Lipids",
-      "Triglycerides",
-      "Deoxyadenosines",
-      "Cricetinae",
-      "Male",
-      "Cholesterol, LDL",
-      "Hyperlipidemias",
-      "Cholesterol, VLDL",
-      "Hypolipidemic Agents"
-    ],
-    "concepts": [],
-    "cited_by_count": 17,
-    "reference_count": null,
-    "publisher": "",
-    "journal": "Yao xue xue bao = Acta pharmaceutica Sinica",
-    "oa_status": "",
-    "oa_url": "https://pubmed.ncbi.nlm.nih.gov/21882527/",
-    "apis": {
-      "europepmc": true,
-      "openalex": false,
-      "crossref": false
-    },
-    "fetched_at": "2026-08-10"
+    "fetched_at": "2026-08-17"
   }
 }

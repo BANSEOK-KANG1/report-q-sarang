@@ -5,7 +5,7 @@ title_ko: Galleria mellonella 유충의 Candida albicans 감염에 대한 Cordyc
   면역조절 및 보호 효과.
 slug: immunomodulation-and-protective-effects-of-cordy-2024-39590481
 record_id: 21182ed3-076f-4f80-870d-cf0f0082acf2
-date: '2026-08-10'
+date: '2026-08-17'
 year: 2024
 authors:
 - Sadaf Ashraf
@@ -44,28 +44,28 @@ tags:
 - cordycepin
 - evidence
 - 제왕충초
-generated: '2026-08-10'
+generated: '2026-08-17'
 visuals:
 - type: figure
-  src: /research-figures/immunomodulation-and-protective-effects-of-cordy-2024-39590481/insects-15-00882-g010.jpg
-  caption: 원문 Figure (insects-15-00882-g010) — Europe PMC OA
+  src: /research-figures/immunomodulation-and-protective-effects-of-cordy-2024-39590481/insects-15-00882-g001.gif
+  caption: 원문 Figure (insects-15-00882-g001) — Europe PMC OA
   source: europepmc
-  filename: insects-15-00882-g010.jpg
+  filename: insects-15-00882-g001.gif
 - type: figure
-  src: /research-figures/immunomodulation-and-protective-effects-of-cordy-2024-39590481/insects-15-00882-g004.jpg
-  caption: 원문 Figure (insects-15-00882-g004) — Europe PMC OA
+  src: /research-figures/immunomodulation-and-protective-effects-of-cordy-2024-39590481/insects-15-00882-g003.jpg
+  caption: 원문 Figure (insects-15-00882-g003) — Europe PMC OA
   source: europepmc
-  filename: insects-15-00882-g004.jpg
+  filename: insects-15-00882-g003.jpg
 - type: figure
-  src: /research-figures/immunomodulation-and-protective-effects-of-cordy-2024-39590481/insects-15-00882-g004.gif
-  caption: 원문 Figure (insects-15-00882-g004) — Europe PMC OA
+  src: /research-figures/immunomodulation-and-protective-effects-of-cordy-2024-39590481/insects-15-00882-g007.gif
+  caption: 원문 Figure (insects-15-00882-g007) — Europe PMC OA
   source: europepmc
-  filename: insects-15-00882-g004.gif
+  filename: insects-15-00882-g007.gif
 - type: figure
-  src: /research-figures/immunomodulation-and-protective-effects-of-cordy-2024-39590481/insects-15-00882-g006.jpg
-  caption: 원문 Figure (insects-15-00882-g006) — Europe PMC OA
+  src: /research-figures/immunomodulation-and-protective-effects-of-cordy-2024-39590481/insects-15-00882-g011.jpg
+  caption: 원문 Figure (insects-15-00882-g011) — Europe PMC OA
   source: europepmc
-  filename: insects-15-00882-g006.jpg
+  filename: insects-15-00882-g011.jpg
 api_meta:
   keywords:
   - Candida albicans
@@ -110,7 +110,7 @@ api_meta:
     europepmc: true
     openalex: true
     crossref: true
-  fetched_at: '2026-08-10'
+  fetched_at: '2026-08-17'
 translations:
   title_ko: Galleria mellonella 유충의 Candida albicans 감염에 대한 Cordyceps militaris 추출물의
     면역조절 및 보호 효과.

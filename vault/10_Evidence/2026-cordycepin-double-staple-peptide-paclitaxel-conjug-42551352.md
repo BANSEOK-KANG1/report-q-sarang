@@ -1,7 +1,7 @@
 ---
 record_id: 2d8fab80-f7ab-4b74-ba84-85053878d8bf
-title: 'Cordycepin-double staple peptide-paclitaxel conjugate enhanced antitumor activity
-  via autophagy and apoptosis pathways. '
+title: Cordycepin-double staple peptide-paclitaxel conjugate enhanced antitumor activity
+  via autophagy and apoptosis pathways.
 authors:
 - Xie K
 - Yang H
@@ -44,7 +44,7 @@ tags:
 - market/research_only
 ---
 
-# Cordycepin-double staple peptide-paclitaxel conjugate enhanced antitumor activity via autophagy and apoptosis pathways. 
+# Cordycepin-double staple peptide-paclitaxel conjugate enhanced antitumor activity via autophagy and apoptosis pathways.
 
 ## Summary fields
 - **Year:** 2026
@@ -61,7 +61,7 @@ tags:
 - **URL:** https://europepmc.org/article/MED/42551352
 
 ## Abstract
-Cancer is one of the major diseases threatening human health worldwide. The numerous side effects exhibited by the traditional anti-cancer drugs can significantly limit their curative effects. In recent years, it has been found that the combination of drugs can greatly reduce the dosage of drugs, which will play a complementary role and can also enhance the anti-cancer efficacies. In this study, we advanced the structural modification of 3'-dA, yielding StLK-24, a bis-stapled peptide variant exhibiting augmented stability. Subsequent reaction with Paclitaxel (PTX) culminated in the formation of the tripartite compound 3'-dA-StLK-24-PTX, which demonstrated greater antineoplastic activity than its binary counterpart. This compound induced autophagic responses in tumor cells and promoted Ca2+ efflux from the endoplasmic reticulum into the cytosol, facilitating the calpain-mediated conversion of ATG5 from a full-length protein to its truncated form, tATG5-N, and elevating tBeclin-1C. tATG5-N and tBeclin-1C synergistically induced tumor cell apoptosis through mitochondrial pathways. These findings underscored the improved stability and potentiated antitumor efficacy of 3'-dA-StLK-24-PTX, reflecting the principle that the combined efficacy of the compound constituents exceeds their isolated actions. In conclusion, this investigation provides foundational insights for novel antitumor drug screening and offers a new dimension to cancer therapeutic strategy.
+Cancer is one of the major diseases threatening human health worldwide. The numerous side effects exhibited by the traditional anti-cancer drugs can significantly limit their curative effects. In recent years, it has been found that the combination of drugs can greatly reduce the dosage of drugs, which will play a complementary role and can also enhance the anti-cancer efficacies. In this study, we advanced the structural modification of 3'-dA, yielding StLK-24, a bis-stapled peptide variant exhibiting augmented stability. Subsequent reaction with Paclitaxel (PTX) culminated in the formation of the tripartite compound 3'-dA-StLK-24-PTX, which demonstrated greater antineoplastic activity than its binary counterpart. This compound induced autophagic responses in tumor cells and promoted Ca<sup>2+</sup> efflux from the endoplasmic reticulum into the cytosol, facilitating the calpain-mediated conversion of ATG5 from a full-length protein to its truncated form, tATG5-N, and elevating tBeclin-1C. tATG5-N and tBeclin-1C synergistically induced tumor cell apoptosis through mitochondrial pathways. These findings underscored the improved stability and potentiated antitumor efficacy of 3'-dA-StLK-24-PTX, reflecting the principle that the combined efficacy of the compound constituents exceeds their isolated actions. In conclusion, this investigation provides foundational insights for novel antitumor drug screening and offers a new dimension to cancer therapeutic strategy.
 
 ## Relevance notes
 Cordycepin-focused; verify species/form vs product

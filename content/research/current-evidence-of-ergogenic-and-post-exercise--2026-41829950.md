@@ -4,7 +4,7 @@ title: Current Evidence of Ergogenic and Post-Exercise Recovery Effects of Dieta
 title_ko: 인간의 서사적 검토에서 Cordyceps militaris을 사용한 식이 보충제의 효능 및 운동 후 회복 효과에 대한 현재 증거.
 slug: current-evidence-of-ergogenic-and-post-exercise--2026-41829950
 record_id: a8693206-38b9-47be-9b3a-4ba9ac7826df
-date: '2026-08-10'
+date: '2026-08-17'
 year: 2026
 authors:
 - Jędrejko M
@@ -37,7 +37,7 @@ tags:
 - cordycepin
 - evidence
 - 제왕충초
-generated: '2026-08-10'
+generated: '2026-08-17'
 visuals: []
 api_meta:
   keywords:
@@ -97,7 +97,7 @@ api_meta:
     europepmc: true
     openalex: true
     crossref: true
-  fetched_at: '2026-08-10'
+  fetched_at: '2026-08-17'
 translations:
   title_ko: 인간의 서사적 검토에서 Cordyceps militaris을 사용한 식이 보충제의 효능 및 운동 후 회복 효과에 대한 현재 증거.
   glossary:

@@ -3,18 +3,18 @@ record_id: 7abff759-52d0-4b88-930c-e1e1c41bd557
 title: 'An Immunomodulatory Mushroom, Cordyceps militaris, and Its Constituents: A
   Review of In Vitro/In Vivo Studies and Clinical Trials.'
 authors:
-- Eun-Ju Yang
-- Lan Jin
-- Hai Hua Jiang
-- Bong Gyeong Lee
-- Eun Hye Han
-- Chun Hee Yun
-- Dong Hee Na
+- Yang EJ
+- Jin L
+- Jiang HH
+- Lee BG
+- Han EH
+- Yun CH
+- Na DH.
 year: 2026
-journal: 'Phytotherapy research : PTR'
+journal: ''
 doi: 10.1002/ptr.70144
 pmid: '41432716'
-url: https://pubmed.ncbi.nlm.nih.gov/41432716/
+url: https://europepmc.org/article/MED/41432716
 track: militaris
 compound: cordycepin
 species: mixed
@@ -36,7 +36,6 @@ jurisdiction_caveats:
 - research_only
 source_apis:
 - europepmc
-- pubmed
 full_text_available: false
 tags:
 - evidence
@@ -59,7 +58,7 @@ tags:
 - **Citation status:** needs_legal_review
 - **DOI:** 10.1002/ptr.70144
 - **PMID:** 41432716
-- **URL:** https://pubmed.ncbi.nlm.nih.gov/41432716/
+- **URL:** https://europepmc.org/article/MED/41432716
 
 ## Abstract
 Cordyceps, known as "winter-worm summer-grass", has been used as a medicinal mushroom to boost energy levels and immune activity. Among cordyceps types, Cordyceps militaris (CM) is the most commercially useful owing to its ease of artificial cultivation for mass production. In contrast, other types, such as Ophiocordyceps sinensis, are expensive and difficult to collect. Therefore, numerous studies have explored the therapeutic potential and active constituents of CM. The therapeutic use of CM is based on its various pharmacological activities, including immunomodulatory, anti-tumor, antioxidant, anti-diabetic, anti-obesity, and neuroprotective activities, of which the immunomodulatory effects have been the most studied. CM contains active constituents such as nucleosides (cordycepin and adenosine), polysaccharides, peptides, proteins, sterols, glycolipids, and carotenoids. Recent studies show that CM extract, cordycepin, and polysaccharides exert immunomodulatory effects in response to the immune environments. They enhance innate and cell-mediated adaptive immunity not only under normal conditions but also in immunosuppressed states induced by cyclophosphamide, interleukin-4, tumor culture supernatant, methotrexate, cancer cell-line-xenografts, influenza virus, and severe acute respiratory syndrome coronavirus 2. Meanwhile, they suppress an overactivated immune system stimulated by factors such as angiotensin II ± vascular endothelial growth factors, concanavalin A, 2,4-dinitrophenyl (DNP)-serum albumin ± DNP-specific immunoglobulin E, lipopolysaccharide (LPS), lipoteichoic acid, phytohemagglutinin, phorbol myristate acetate plus calcium ionophore A23187, calcium chloride, cecal ligation and puncture ± LPS, dextran sodium sulfate, monosodium iodoacetate, ovalbumin, myelin oligodendrocyte glycoprotein 25-35, monosodium urate, and Western diet by ameliorating innate and humoral adaptive immune responses. This study reviewed recent and notable literature evaluating the immunomodulatory potentials of CM extract, cordycepin, and polysaccharides. In vitro, in vivo, and clinical trial results indicate that CM is safe for administration and shows promise for developing functional foods having various efficacies such as immunomodulation, anti-tumor, and neuroprotection.
