@@ -1,7 +1,7 @@
 ---
 record_id: 25b6b0ae-b4c2-4f38-84d0-68f77d824bb0
-title: Cordycepin:  Selective Growth Inhibitor Derived from Liquid Culture of <i>Cordyceps
-  </i><i>m</i><i>ilitaris</i> against <i>Clostridium </i>spp.
+title: 'Cordycepin: Selective Growth Inhibitor Derived from Liquid Culture of Cordyceps
+  militaris against Clostridium spp.'
 authors:
 - Young‐Joon Ahn
 - Suck-Joon Park
@@ -40,7 +40,7 @@ tags:
 - market/research_only
 ---
 
-# Cordycepin:  Selective Growth Inhibitor Derived from Liquid Culture of <i>Cordyceps </i><i>m</i><i>ilitaris</i> against <i>Clostridium </i>spp.
+# Cordycepin: Selective Growth Inhibitor Derived from Liquid Culture of Cordyceps militaris against Clostridium spp.
 
 ## Summary fields
 - **Year:** 2000

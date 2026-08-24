@@ -1,10 +1,11 @@
 ---
 title: Current Evidence of Ergogenic and Post-Exercise Recovery Effects of Dietary
   Supplementation with Cordyceps militaris in Humans-A Narrative Review.
-title_ko: 인간의 서사적 검토에서 Cordyceps militaris을 사용한 식이 보충제의 효능 및 운동 후 회복 효과에 대한 현재 증거.
+title_ko: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please
+  try again later.That’s all we know.
 slug: current-evidence-of-ergogenic-and-post-exercise--2026-41829950
 record_id: a8693206-38b9-47be-9b3a-4ba9ac7826df
-date: '2026-08-17'
+date: '2026-08-24'
 year: 2026
 authors:
 - Jędrejko M
@@ -15,12 +16,12 @@ authors:
 - Muszyńska B.
 doi: 10.3390/nu18050781
 pmid: '41829950'
-pmcid: ''
+pmcid: PMC12986667
 url: https://europepmc.org/article/MED/41829950
 study_type: review_narrative
 evidence_strength: F_review_only
 species: Cordyceps_militaris
-compound: unclear
+compound: cordycepin
 claim_category: exercise_performance
 risk_flags: []
 citation_status: candidate
@@ -37,8 +38,28 @@ tags:
 - cordycepin
 - evidence
 - 제왕충초
-generated: '2026-08-17'
-visuals: []
+generated: '2026-08-24'
+visuals:
+- type: figure
+  src: /research-figures/current-evidence-of-ergogenic-and-post-exercise--2026-41829950/nutrients-18-00781-g002.gif
+  caption: 원문 Figure (nutrients-18-00781-g002) — Europe PMC OA
+  source: europepmc
+  filename: nutrients-18-00781-g002.gif
+- type: figure
+  src: /research-figures/current-evidence-of-ergogenic-and-post-exercise--2026-41829950/nutrients-18-00781-g001.jpg
+  caption: 원문 Figure (nutrients-18-00781-g001) — Europe PMC OA
+  source: europepmc
+  filename: nutrients-18-00781-g001.jpg
+- type: figure
+  src: /research-figures/current-evidence-of-ergogenic-and-post-exercise--2026-41829950/nutrients-18-00781-g005.jpg
+  caption: 원문 Figure (nutrients-18-00781-g005) — Europe PMC OA
+  source: europepmc
+  filename: nutrients-18-00781-g005.jpg
+- type: figure
+  src: /research-figures/current-evidence-of-ergogenic-and-post-exercise--2026-41829950/nutrients-18-00781-g006.jpg
+  caption: 원문 Figure (nutrients-18-00781-g006) — Europe PMC OA
+  source: europepmc
+  filename: nutrients-18-00781-g006.jpg
 api_meta:
   keywords:
   - Cordyceps militaris
@@ -97,9 +118,10 @@ api_meta:
     europepmc: true
     openalex: true
     crossref: true
-  fetched_at: '2026-08-17'
+  fetched_at: '2026-08-24'
 translations:
-  title_ko: 인간의 서사적 검토에서 Cordyceps militaris을 사용한 식이 보충제의 효능 및 운동 후 회복 효과에 대한 현재 증거.
+  title_ko: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please
+    try again later.That’s all we know.
   glossary:
   - en: cordyceps militaris
     ko: Cordyceps militaris
@@ -144,22 +166,22 @@ translations:
       활동을 포함한 잠재적인 건강 증진 특성에 대해 점점 더 많은 연구가 진행되고 있습니다. 최근에는 스포츠 영양에 적용 가능한 건강보조식품으로
       주목을 받고 있습니다. 이 서술적 검토는 건강한 개인의 C. militaris 보충제의 활동성 및 운동 후 회복 효과에 관한 현재의 인간
       증거를 요약하고 비판적으로 평가합니다. 미리 정의된 적격성 기준을 사용하여 구조화된 데이터베이스 검색을 수행했으며, 포함된 연구의 방법론적
-      품질을 영역 기반 편향 위험 평가를 통해 평가했습니다. 2017년부터 2024년 사이에 발표된 16~35세 참가자 321명을 대상으로 한
-      5개의 개입 연구가 확인되었습니다. 보충 프로토콜은 1주에서 16주까지 다양했으며, 분리된 곰팡이 물질 또는 다중 성분 제제의 일부로 매일
-      1-12g을 투여했습니다. 평가된 결과에는 최대 또는 최대 산소 섭취량(VO 2 max/VO 2 피크), 피로 시간, 출력, 달리기 성능,
-      고강도 운동 중 말초 산소 포화도 유지와 같은 유산소 성능 및 운동 능력 지표가 포함되었습니다. 또한 여러 연구에서는 크레아틴 키나제,
-      혈액 요소 질소 및 백혈구 수를 포함하여 근육 손상 및 염증 반응과 관련된 생화학적 지표를 평가했습니다. 일부 연구에서는 선택된 성능 및
-      회복 매개변수의 개선이 보고되었지만 결과는 일관되지 않았습니다. 증거의 확실성은 작은 표본 크기, 참가자 및 운동 프로토콜의 이질성, 무작위
-      보고의 불충분함, 대부분의 연구에서 시험 등록 부족, 정량화된 생리 활성 성분을 포함하는 표준화된 제제의 부재, 다양한 성분 보충제의 사용으로
-      인해 제한됩니다. 스포츠 영양에 있어서 C. militaris의 효능과 실제적 관련성을 명확히 하기 위해서는 화학적으로 특성화된 제제와
-      동질적인 운동 인구를 사용한 잘 설계된 무작위 배정 대조 시험이 필요합니다.
+      품질을 영역 기반 편향 위험 평가를 통해 평가했습니다. 2017년부터 2024년 사이에 발표된 16~35세 참가자 321명으로 구성된 5개의
+      개입 연구가 확인되었습니다. 보충 프로토콜은 1주에서 16주까지 다양했으며, 분리된 곰팡이 물질 또는 다중 성분 제제의 일부로 매일 1-12g을
+      투여했습니다. 평가된 결과에는 최대 또는 최대 산소 섭취량(VO 2 max/VO 2 피크), 피로 시간, 출력, 달리기 성능, 고강도 운동
+      중 말초 산소 포화도 유지와 같은 유산소 성능 및 운동 능력 지표가 포함되었습니다. 또한 여러 연구에서는 크레아틴 키나제, 혈액 요소 질소
+      및 백혈구 수를 포함하여 근육 손상 및 염증 반응과 관련된 생화학적 지표를 평가했습니다. 일부 연구에서는 선택된 성능 및 회복 매개변수의
+      개선이 보고되었지만 결과는 일관되지 않았습니다. 증거의 확실성은 작은 표본 크기, 참가자 및 운동 프로토콜의 이질성, 무작위 보고의 불충분함,
+      대부분의 연구에서 시험 등록 부족, 정량화된 생리 활성 성분을 포함하는 표준화된 제제의 부재, 다양한 성분 보충제의 사용으로 인해 제한됩니다.
+      스포츠 영양에 있어서 C. militaris의 효능과 실제적 관련성을 명확히 하기 위해서는 화학적으로 특성화된 제제와 동질적인 운동 인구를
+      사용한 잘 설계된 무작위 배정 대조 시험이 필요합니다.
     ko_researcher: '[초록 전체] 핵심 용어: **Cordyceps militaris**(cordyceps militaris) ·
       **Cordyceps**(cordyceps) · **무작위 배정**(randomized). Cordyceps militaris은 전통적으로
       아시아 민족 의학에서 사용되는 곤충병원성 곰팡이이며 면역 조절 및 항염증 활동을 포함한 잠재적인 건강 증진 특성에 대해 점점 더 많은 연구가
       진행되고 있습니다. 최근에는 스포츠 영양에 적용 가능한 건강보조식품으로 주목을 받고 있습니다. 이 서술적 검토는 건강한 개인의 C. militaris
       보충제의 활동성 및 운동 후 회복 효과에 관한 현재의 인간 증거를 요약하고 비판적으로 평가합니다. 미리 정의된 적격성 기준을 사용하여 구조화된
       데이터베이스 검색을 수행했으며, 포함된 연구의 방법론적 품질을 영역 기반 편향 위험 평가를 통해 평가했습니다. 2017년부터 2024년
-      사이에 발표된 16~35세 참가자 321명을 대상으로 한 5개의 개입 연구가 확인되었습니다. 보충 프로토콜은 1주에서 16주까지 다양했으며,
+      사이에 발표된 16~35세 참가자 321명으로 구성된 5개의 개입 연구가 확인되었습니다. 보충 프로토콜은 1주에서 16주까지 다양했으며,
       분리된 곰팡이 물질 또는 다중 성분 제제의 일부로 매일 1-12g을 투여했습니다. 평가된 결과에는 최대 또는 최대 산소 섭취량(VO 2
       max/VO 2 피크), 피로 시간, 출력, 달리기 성능, 고강도 운동 중 말초 산소 포화도 유지와 같은 유산소 성능 및 운동 능력 지표가
       포함되었습니다. 또한 여러 연구에서는 크레아틴 키나제, 혈액 요소 질소 및 백혈구 수를 포함하여 근육 손상 및 염증 반응과 관련된 생화학적
@@ -223,22 +245,22 @@ translations:
       활동을 포함한 잠재적인 건강 증진 특성에 대해 점점 더 많은 연구가 진행되고 있습니다. 최근에는 스포츠 영양에 적용 가능한 건강보조식품으로
       주목을 받고 있습니다. 이 서술적 검토는 건강한 개인의 C. militaris 보충제의 활동성 및 운동 후 회복 효과에 관한 현재의 인간
       증거를 요약하고 비판적으로 평가합니다. 미리 정의된 적격성 기준을 사용하여 구조화된 데이터베이스 검색을 수행했으며, 포함된 연구의 방법론적
-      품질을 영역 기반 편향 위험 평가를 통해 평가했습니다. 2017년부터 2024년 사이에 발표된 16~35세 참가자 321명을 대상으로 한
-      5개의 개입 연구가 확인되었습니다. 보충 프로토콜은 1주에서 16주까지 다양했으며, 분리된 곰팡이 물질 또는 다중 성분 제제의 일부로 매일
-      1-12g을 투여했습니다. 평가된 결과에는 최대 또는 최대 산소 섭취량(VO 2 max/VO 2 피크), 피로 시간, 출력, 달리기 성능,
-      고강도 운동 중 말초 산소 포화도 유지와 같은 유산소 성능 및 운동 능력 지표가 포함되었습니다. 또한 여러 연구에서는 크레아틴 키나제,
-      혈액 요소 질소 및 백혈구 수를 포함하여 근육 손상 및 염증 반응과 관련된 생화학적 지표를 평가했습니다. 일부 연구에서는 선택된 성능 및
-      회복 매개변수의 개선이 보고되었지만 결과는 일관되지 않았습니다. 증거의 확실성은 작은 표본 크기, 참가자 및 운동 프로토콜의 이질성, 무작위
-      보고의 불충분함, 대부분의 연구에서 시험 등록 부족, 정량화된 생리 활성 성분을 포함하는 표준화된 제제의 부재, 다양한 성분 보충제의 사용으로
-      인해 제한됩니다. 스포츠 영양에 있어서 C. militaris의 효능과 실제적 관련성을 명확히 하기 위해서는 화학적으로 특성화된 제제와
-      동질적인 운동 인구를 사용한 잘 설계된 무작위 배정 대조 시험이 필요합니다.
+      품질을 영역 기반 편향 위험 평가를 통해 평가했습니다. 2017년부터 2024년 사이에 발표된 16~35세 참가자 321명으로 구성된 5개의
+      개입 연구가 확인되었습니다. 보충 프로토콜은 1주에서 16주까지 다양했으며, 분리된 곰팡이 물질 또는 다중 성분 제제의 일부로 매일 1-12g을
+      투여했습니다. 평가된 결과에는 최대 또는 최대 산소 섭취량(VO 2 max/VO 2 피크), 피로 시간, 출력, 달리기 성능, 고강도 운동
+      중 말초 산소 포화도 유지와 같은 유산소 성능 및 운동 능력 지표가 포함되었습니다. 또한 여러 연구에서는 크레아틴 키나제, 혈액 요소 질소
+      및 백혈구 수를 포함하여 근육 손상 및 염증 반응과 관련된 생화학적 지표를 평가했습니다. 일부 연구에서는 선택된 성능 및 회복 매개변수의
+      개선이 보고되었지만 결과는 일관되지 않았습니다. 증거의 확실성은 작은 표본 크기, 참가자 및 운동 프로토콜의 이질성, 무작위 보고의 불충분함,
+      대부분의 연구에서 시험 등록 부족, 정량화된 생리 활성 성분을 포함하는 표준화된 제제의 부재, 다양한 성분 보충제의 사용으로 인해 제한됩니다.
+      스포츠 영양에 있어서 C. militaris의 효능과 실제적 관련성을 명확히 하기 위해서는 화학적으로 특성화된 제제와 동질적인 운동 인구를
+      사용한 잘 설계된 무작위 배정 대조 시험이 필요합니다.
     ko_researcher: '[초록 전체] 핵심 용어: **Cordyceps militaris**(cordyceps militaris) ·
       **Cordyceps**(cordyceps) · **무작위 배정**(randomized). Cordyceps militaris은 전통적으로
       아시아 민족 의학에서 사용되는 곤충병원성 곰팡이이며 면역 조절 및 항염증 활동을 포함한 잠재적인 건강 증진 특성에 대해 점점 더 많은 연구가
       진행되고 있습니다. 최근에는 스포츠 영양에 적용 가능한 건강보조식품으로 주목을 받고 있습니다. 이 서술적 검토는 건강한 개인의 C. militaris
       보충제의 활동성 및 운동 후 회복 효과에 관한 현재의 인간 증거를 요약하고 비판적으로 평가합니다. 미리 정의된 적격성 기준을 사용하여 구조화된
       데이터베이스 검색을 수행했으며, 포함된 연구의 방법론적 품질을 영역 기반 편향 위험 평가를 통해 평가했습니다. 2017년부터 2024년
-      사이에 발표된 16~35세 참가자 321명을 대상으로 한 5개의 개입 연구가 확인되었습니다. 보충 프로토콜은 1주에서 16주까지 다양했으며,
+      사이에 발표된 16~35세 참가자 321명으로 구성된 5개의 개입 연구가 확인되었습니다. 보충 프로토콜은 1주에서 16주까지 다양했으며,
       분리된 곰팡이 물질 또는 다중 성분 제제의 일부로 매일 1-12g을 투여했습니다. 평가된 결과에는 최대 또는 최대 산소 섭취량(VO 2
       max/VO 2 피크), 피로 시간, 출력, 달리기 성능, 고강도 운동 중 말초 산소 포화도 유지와 같은 유산소 성능 및 운동 능력 지표가
       포함되었습니다. 또한 여러 연구에서는 크레아틴 키나제, 혈액 요소 질소 및 백혈구 수를 포함하여 근육 손상 및 염증 반응과 관련된 생화학적
@@ -262,8 +284,8 @@ Cordyceps militaris is an entomopathogenic fungus traditionally used in Asian et
 ### 전문가 메모
 
 - **연구 수준:** 리뷰·고찰 · 서술적 리뷰
-- **대상:** Cordyceps militaris (동충하초) / unclear
-- **제품 연관성:** partial
+- **대상:** Cordyceps militaris (동충하초) / cordycepin
+- **제품 연관성:** direct
 - **인사이트:** 여러 연구를 종합한 고찰이므로, 개별 실험의 질·편향을 원문 표/부록에서 확인하는 것이 좋습니다.
 
 ## 출처 · 원문

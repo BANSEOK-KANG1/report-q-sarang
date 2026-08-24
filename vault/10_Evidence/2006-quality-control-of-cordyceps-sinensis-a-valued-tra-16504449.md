@@ -1,27 +1,25 @@
 ---
-record_id: 12952409-2548-4d3c-9e97-f82c30957a2e
-title: Antithrombotic Effects of Cordycepin-Enriched WIB-801CE via Inhibition of Thromboxane
-  A2-Induced αIIbβ3 Activation and Thrombin-Mediated Fibrin Clot Retraction
+record_id: bf7934de-ad42-481c-9f96-78265b55c042
+title: Quality control of Cordyceps sinensis, a valued traditional Chinese medicine
 authors:
-- Park M
-- Bae J
-- Jang H
-- Shin J
-- Park H.
-year: 2026
-journal: ''
-doi: ''
-pmid: ''
-url: ''
-track: compound
-compound: cordycepin
-species: unclear
+- Shaoping Li
+- Feng Yang
+- Karl Wah Keung Tsim
+year: 2006
+journal: Journal of Pharmaceutical and Biomedical Analysis
+doi: 10.1016/j.jpba.2006.01.046
+pmid: '16504449'
+url: https://doi.org/10.1016/j.jpba.2006.01.046
+track: militaris
+compound: unclear
+species: Cordyceps_sinensis
 study_type: unclear
 evidence_strength: F_review_only
 relevance_to_product: partial
 claim_category: other
 risk_flags:
 - missing_abstract
+- species_mismatch
 maps_to_market: research_only
 citation_status: candidate
 priority_review: false
@@ -30,8 +28,8 @@ jurisdiction_caveats:
 - not_HFF_product
 - research_only
 source_apis:
-- europepmc
-full_text_available: true
+- openalex
+full_text_available: false
 tags:
 - evidence
 - status/candidate
@@ -39,27 +37,27 @@ tags:
 - market/research_only
 ---
 
-# Antithrombotic Effects of Cordycepin-Enriched WIB-801CE via Inhibition of Thromboxane A2-Induced αIIbβ3 Activation and Thrombin-Mediated Fibrin Clot Retraction
+# Quality control of Cordyceps sinensis, a valued traditional Chinese medicine
 
 ## Summary fields
-- **Year:** 2026
+- **Year:** 2006
 - **Study type:** unclear
 - **Evidence strength:** F_review_only
-- **Species:** unclear
-- **Compound:** cordycepin
+- **Species:** Cordyceps_sinensis
+- **Compound:** unclear
 - **Claim category:** other
-- **Risk flags:** missing_abstract
+- **Risk flags:** missing_abstract, species_mismatch
 - **Maps to market:** research_only
 - **Citation status:** candidate
-- **DOI:** —
-- **PMID:** —
-- **URL:** —
+- **DOI:** 10.1016/j.jpba.2006.01.046
+- **PMID:** 16504449
+- **URL:** https://doi.org/10.1016/j.jpba.2006.01.046
 
 ## Abstract
 _No abstract_
 
 ## Relevance notes
-Cordycepin-focused; verify species/form vs product
+_n/a_
 
 ## Compliance
 - Product context: Q-Sarang 제왕충초 **liquor** (not HFF).

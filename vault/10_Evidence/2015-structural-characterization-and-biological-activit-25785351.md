@@ -1,7 +1,7 @@
 ---
 record_id: e120f5d3-cc2f-4d92-9e91-6556b633db15
 title: Structural Characterization and Biological Activities of a Novel Polysaccharide
-  from Cultured <i>Cordyceps militaris</i> and Its Sulfated Derivative
+  from Cultured Cordyceps militaris and Its Sulfated Derivative
 authors:
 - Yongshuai Jing
 - Jianhua Zhu
@@ -42,7 +42,7 @@ tags:
 - market/research_only
 ---
 
-# Structural Characterization and Biological Activities of a Novel Polysaccharide from Cultured <i>Cordyceps militaris</i> and Its Sulfated Derivative
+# Structural Characterization and Biological Activities of a Novel Polysaccharide from Cultured Cordyceps militaris and Its Sulfated Derivative
 
 ## Summary fields
 - **Year:** 2015

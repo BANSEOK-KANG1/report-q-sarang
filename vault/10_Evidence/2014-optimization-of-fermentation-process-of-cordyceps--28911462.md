@@ -1,7 +1,7 @@
 ---
 record_id: 1c06a3e8-9cc6-42af-b7ca-341819958e77
 title: Optimization of fermentation process of Cordyceps militaris and antitumor activities
-  of polysaccharides in vitro
+  of polysaccharides in vitro
 authors:
 - Shuang Yang
 - Jin Lu
@@ -41,7 +41,7 @@ tags:
 - market/research_only
 ---
 
-# Optimization of fermentation process of Cordyceps militaris and antitumor activities of polysaccharides in vitro
+# Optimization of fermentation process of Cordyceps militaris and antitumor activities of polysaccharides in vitro
 
 ## Summary fields
 - **Year:** 2014

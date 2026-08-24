@@ -1,10 +1,11 @@
 ---
 title: The Protective Effect of Cordycepin on D-Galactosamine/Lipopolysaccharide-Induced
   Acute Liver Injury
-title_ko: D-갈락토사민/Lipo다당류로 인한 급성 간 손상에 대한 코디세핀의 보호 효과
+title_ko: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please
+  try again later.That’s all we know.
 slug: the-protective-effect-of-cordycepin-on-d-galacto-2017-28522898
 record_id: 2192294e-b117-4450-a516-ba4ecb0e6962
-date: '2026-08-17'
+date: '2026-08-24'
 year: 2017
 authors:
 - Jin Li
@@ -37,7 +38,7 @@ tags:
 - cordycepin
 - evidence
 - 제왕충초
-generated: '2026-08-17'
+generated: '2026-08-24'
 visuals:
 - type: figure
   src: /research-figures/the-protective-effect-of-cordycepin-on-d-galacto-2017-28522898/MI2017-3946706.005.jpg
@@ -109,9 +110,10 @@ api_meta:
     europepmc: true
     openalex: true
     crossref: true
-  fetched_at: '2026-08-17'
+  fetched_at: '2026-08-24'
 translations:
-  title_ko: D-갈락토사민/Lipo다당류로 인한 급성 간 손상에 대한 코디세핀의 보호 효과
+  title_ko: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please
+    try again later.That’s all we know.
   glossary:
   - en: cordycepin
     ko: 코디세핀
@@ -137,7 +139,7 @@ translations:
   sections:
   - id: summary
     label_ko: 초록 전체
-    en: As the major active ingredient of Cordyceps militaris , cordycepin (3′-deoxyadenosine)
+    en: As the major active ingredient ofCordyceps militaris, cordycepin (3′-deoxyadenosine)
       has been well documented to alleviate inflammation and oxidative stress both
       in vitro and in vivo. To explore the potential protective effect of cordycepin
       in fulminant hepatic failure, mice were pretreated with cordycepin for 3 weeks
@@ -146,47 +148,28 @@ translations:
       liver function, and suppressed hepatocyte apoptosis and necrosis in mice with
       severe hepatic damage by GalN/LPS treatment. Further, cordycepin inhibited hepatic
       neutrophil and macrophage infiltration and prevented proinflammatory cytokine
-      production possibly through suppressing TLR4 and NF- κ B signaling transduction.
+      production possibly through suppressing TLR4 and NF-κB signaling transduction.
       The blockade of reactive oxygen species (ROS) and lipid peroxidation production
       by cordycepin was associated with the decrease of NAD(P)H oxidase (NOX) activity.
       Besides, cordycepin significantly prevented excessive autophagy induced by GalN/LPS
       in the liver. These data suggested that cordycepin could be a promising therapeutic
       agent for GalN/LPS-induced hepatotoxicity.
-    ko_literal: Cordyceps militaris의 주요 활성 성분인 코디세핀(3'-deoxy아데노신)은 시험관(in vitro) 및
-      생체(in vivo) 모두 염증 및 산화 스트레스를 완화시키는 것으로 잘 알려져 있습니다. 전격성 간부전에서 코디세핀의 잠재적 보호 효과를
-      알아보기 위해 마우스에 3주 동안 코디세핀을 전처리한 후 D-갈락토사민(GalN)/lipo다당류(LPS)을 주사했습니다. 그런 다음 코디세핀(200
-      mg/kg) 투여로 GalN/LPS 처리를 통해 심각한 간 손상이 있는 마우스에서 생존율이 증가하고 간 기능이 개선되었으며 간세포 사멸
-      및 괴사가 억제되었음을 확인했습니다. 또한, 코디세핀은 간 호중구 및 대식세포 침윤을 억제하고 TLR4 및 NF-κ B 신호전달 전달을
-      억제함으로써 전염증성 사이토카인 생성을 예방했습니다. 코디세핀에 의한 활성산소종(ROS) 및 지질 과산화 생성의 차단은 NAD(P)H 산화효소(NOX)
-      활성의 감소와 관련이 있었습니다. 게다가 코디세핀은 간에서 GalN/LPS에 의해 유발된 과도한 자가포식을 유의하게 예방했습니다. 이러한
-      데이터는 코디세핀이 GalN/LPS로 유발된 간독성에 대한 유망한 치료제가 될 수 있음을 시사했습니다.
+    ko_literal: Error 500 (Server Error)!!1500.That’s an error.There was an error.
+      Please try again later.That’s all we know.
     ko_researcher: '[초록 전체] 핵심 용어: **코디세핀**(cordycepin) · **Cordyceps militaris**(cordyceps
-      militaris) · **Cordyceps**(cordyceps) · **시험관(in vitro)**(in vitro). Cordyceps
-      militaris의 주요 활성 성분인 코디세핀(3''-deoxy아데노신)은 시험관(in vitro) 및 생체(in vivo) 모두 염증
-      및 산화 스트레스를 완화시키는 것으로 잘 알려져 있습니다. 전격성 간부전에서 코디세핀의 잠재적 보호 효과를 알아보기 위해 마우스에 3주
-      동안 코디세핀을 전처리한 후 D-갈락토사민(GalN)/lipo다당류(LPS)을 주사했습니다. 그런 다음 코디세핀(200 mg/kg) 투여로
-      GalN/LPS 처리를 통해 심각한 간 손상이 있는 마우스에서 생존율이 증가하고 간 기능이 개선되었으며 간세포 사멸 및 괴사가 억제되었음을
-      확인했습니다. 또한, 코디세핀은 간 호중구 및 대식세포 침윤을 억제하고 TLR4 및 NF-κ B 신호전달 전달을 억제함으로써 전염증성 사이토카인
-      생성을 예방했습니다. 코디세핀에 의한 활성산소종(ROS) 및 지질 과산화 생성의 차단은 NAD(P)H 산화효소(NOX) 활성의 감소와 관련이
-      있었습니다. 게다가 코디세핀은 간에서 GalN/LPS에 의해 유발된 과도한 자가포식을 유의하게 예방했습니다. 이러한 데이터는 코디세핀이
-      GalN/LPS로 유발된 간독성에 대한 유망한 치료제가 될 수 있음을 시사했습니다.'
-    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. Cordyceps militaris의 주요 활성 성분인 코디세핀(3'-deoxy아데노신)은
-      시험관(in vitro) 및 생체(in vivo) 모두 염증 및 산화 스트레스를 완화시키는 것으로 잘 알려져 있습니다. 전격성 간부전에서
-      코디세핀의 잠재적 보호 효과를 알아보기 위해 마우스에 3주 동안 코디세핀을 전처리한 후 D-갈락토사민(GalN)/lipo다당류(LPS)을
-      주사했습니다. 그런 다음 코디세핀(200 mg/kg) 투여로 GalN/LPS 처리를 통해 심각한 간 손상이 있는 마우스에서 생존율이 증가하고
-      간 기능이 개선되었으며 간세포 사멸 및 괴사가 억제되었음을 확인했습니다. …
+      militaris) · **Cordyceps**(cordyceps) · **시험관(in vitro)**(in vitro). Error 500
+      (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s
+      all we know.'
+    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. Error 500 (Server Error)!!1500.That’s an
+      error.There was an error. Please try again later.That’s all we know.
   easy_read:
     headline: 2017년에 나온 아직 실험실·동물 단계 논문입니다. 핵심 주제는 「동충하초(버섯)와 코디세핀(성분 이름)에 관한 이야기」입니다.
-    what_is_this: 이 글은 「동충하초(버섯)와 코디세핀(성분 이름)에 관한 이야기」에 대한 학술 정리입니다. Cordyceps militaris의
-      주요 활성 성분인 코디세핀(3'-deoxy아데노신)은 시험관(접시·시험관 안에서) 및 생체(살아 있는 동물 안에서) 모두 염증 및 산화
-      스트레스를 완화시키는 것으로 잘 알려져 있습니다. 전격성 간부전에서 코디세핀의 잠재적 보호 효과를 알아보기 위해 마우스에 3주 동안 코디세핀을
-      전처리한 후 D-갈락토사민(GalN)/lipo다당류(LPS)을 주사했습니다.
+    what_is_this: 이 글은 「동충하초(버섯)와 코디세핀(성분 이름)에 관한 이야기」에 대한 학술 정리입니다. Error 500 (Server
+      Error)!!1500.That’s an error.There was an error. Please try again later.That’s
+      all we know.
     what_they_did: 논문·데이터를 모아 분석·정리했습니다.
-    what_they_found: Cordyceps militaris의 주요 활성 성분인 코디세핀(3'-deoxy아데노신)은 시험관(접시·시험관
-      안에서) 및 생체(살아 있는 동물 안에서) 모두 염증 및 산화 스트레스를 완화시키는 것으로 잘 알려져 있습니다. 전격성 간부전에서 코디세핀의
-      잠재적 보호 효과를 알아보기 위해 마우스에 3주 동안 코디세핀을 전처리한 후 D-갈락토사민(GalN)/lipo다당류(LPS)을 주사했습니다.
-      그런 다음 코디세핀(200 mg/kg) 투여로 GalN/LPS 처리를 통해 심각한 간 손상이 있는 마우스에서 생존율이 증가하고 간 기능이
-      개선되었으며 간세포 사멸 및 괴사가 억제되었음을 확인했습니다.
+    what_they_found: Error 500 (Server Error)!!1500.That’s an error.There was an error.
+      Please try again later.That’s all we know.
     good_to_know:
     - 이 글은 **술·담금주가 몸에 좋다**는 이야기가 아닙니다.
     - 연구실·논문에서 말하는 **생리활성·기능성 주제**를 할머니·할아버지도 읽기 쉽게 풀어 쓴 것입니다.
@@ -197,11 +180,10 @@ translations:
     sections:
     - id: summary
       label: 한줄 요약
-      text: Cordyceps militaris의 주요 활성 성분인 코디세핀(3'-deoxy아데노신)은 시험관(접시·시험관 안에서) 및 생체(살아
-        있는 동물 안에서) 모두 염증 및 산화 스트레스를 완화시키는 것으로 잘 알려져 있습니다. 전격성 간부전에서 코디세핀의 잠재적 보호 효과를
-        알아보기 위해 마우스에 3주 동안 코디세핀을 전처리한 후 D-갈락토사민(GalN)/lipo다당류(LPS)을 주사했습니다.
+      text: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please
+        try again later.That’s all we know.
   full:
-    en: As the major active ingredient of Cordyceps militaris , cordycepin (3′-deoxyadenosine)
+    en: As the major active ingredient ofCordyceps militaris, cordycepin (3′-deoxyadenosine)
       has been well documented to alleviate inflammation and oxidative stress both
       in vitro and in vivo. To explore the potential protective effect of cordycepin
       in fulminant hepatic failure, mice were pretreated with cordycepin for 3 weeks
@@ -210,7 +192,7 @@ translations:
       liver function, and suppressed hepatocyte apoptosis and necrosis in mice with
       severe hepatic damage by GalN/LPS treatment. Further, cordycepin inhibited hepatic
       neutrophil and macrophage infiltration and prevented proinflammatory cytokine
-      production possibly through suppressing TLR4 and NF- κ B signaling transduction.
+      production possibly through suppressing TLR4 and NF-κB signaling transduction.
       The blockade of reactive oxygen species (ROS) and lipid peroxidation production
       by cordycepin was associated with the decrease of NAD(P)H oxidase (NOX) activity.
       Besides, cordycepin significantly prevented excessive autophagy induced by GalN/LPS
@@ -220,8 +202,8 @@ translations:
       생체(in vivo) 모두 염증 및 산화 스트레스를 완화시키는 것으로 잘 알려져 있습니다. 전격성 간부전에서 코디세핀의 잠재적 보호 효과를
       알아보기 위해 마우스에 3주 동안 코디세핀을 전처리한 후 D-갈락토사민(GalN)/lipo다당류(LPS)을 주사했습니다. 그런 다음 코디세핀(200
       mg/kg) 투여로 GalN/LPS 처리를 통해 심각한 간 손상이 있는 마우스에서 생존율이 증가하고 간 기능이 개선되었으며 간세포 사멸
-      및 괴사가 억제되었음을 확인했습니다. 또한, 코디세핀은 간 호중구 및 대식세포 침윤을 억제하고 TLR4 및 NF-κ B 신호전달 전달을
-      억제함으로써 전염증성 사이토카인 생성을 예방했습니다. 코디세핀에 의한 활성산소종(ROS) 및 지질 과산화 생성의 차단은 NAD(P)H 산화효소(NOX)
+      및 괴사가 억제되었음을 확인했습니다. 또한 코디세핀은 TLR4 및 NF-κB 신호전달 전달을 억제함으로써 간 호중구 및 대식세포 침윤을
+      억제하고 전염증성 사이토카인 생성을 예방했습니다. 코디세핀에 의한 활성산소종(ROS) 및 지질 과산화 생성의 차단은 NAD(P)H 산화효소(NOX)
       활성의 감소와 관련이 있었습니다. 게다가 코디세핀은 간에서 GalN/LPS에 의해 유발된 과도한 자가포식을 유의하게 예방했습니다. 이러한
       데이터는 코디세핀이 GalN/LPS로 유발된 간독성에 대한 유망한 치료제가 될 수 있음을 시사했습니다.
     ko_researcher: '[초록 전체] 핵심 용어: **코디세핀**(cordycepin) · **Cordyceps militaris**(cordyceps
@@ -230,7 +212,7 @@ translations:
       및 산화 스트레스를 완화시키는 것으로 잘 알려져 있습니다. 전격성 간부전에서 코디세핀의 잠재적 보호 효과를 알아보기 위해 마우스에 3주
       동안 코디세핀을 전처리한 후 D-갈락토사민(GalN)/lipo다당류(LPS)을 주사했습니다. 그런 다음 코디세핀(200 mg/kg) 투여로
       GalN/LPS 처리를 통해 심각한 간 손상이 있는 마우스에서 생존율이 증가하고 간 기능이 개선되었으며 간세포 사멸 및 괴사가 억제되었음을
-      확인했습니다. 또한, 코디세핀은 간 호중구 및 대식세포 침윤을 억제하고 TLR4 및 NF-κ B 신호전달 전달을 억제함으로써 전염증성 사이토카인
+      확인했습니다. 또한 코디세핀은 TLR4 및 NF-κB 신호전달 전달을 억제함으로써 간 호중구 및 대식세포 침윤을 억제하고 전염증성 사이토카인
       생성을 예방했습니다. 코디세핀에 의한 활성산소종(ROS) 및 지질 과산화 생성의 차단은 NAD(P)H 산화효소(NOX) 활성의 감소와 관련이
       있었습니다. 게다가 코디세핀은 간에서 GalN/LPS에 의해 유발된 과도한 자가포식을 유의하게 예방했습니다. 이러한 데이터는 코디세핀이
       GalN/LPS로 유발된 간독성에 대한 유망한 치료제가 될 수 있음을 시사했습니다.'
@@ -247,7 +229,7 @@ translations:
 
 ### 초록 요지
 
-As the major active ingredient of Cordyceps militaris , cordycepin (3′-deoxyadenosine) has been well documented to alleviate inflammation and oxidative stress both in vitro and in vivo. To explore the potential protective effect of cordycepin in fulminant hepatic failure, mice were pretreated with cordycepin for 3 weeks followed by D-galactosamine (GalN)/lipopolysaccharide (LPS) injection. Then we found cordycepin (200 mg/kg) administration elevated survival rate, improved liver function, and suppressed hepatocyte apoptosis and necrosis in mice with severe hepatic damage by GalN/LPS treatment. Further, cordycepin inhibited hepatic neutrophil and macrophage infiltration and prevented proinflammatory cytokine production possibly through suppressing TLR4 and NF- κ B signaling transduction. The blockade of reactive oxygen species (ROS) and lipid peroxidation production by cordycepin was associated with the decrease of NAD(P)H oxidase (NOX) activity. Besides, cordycepin significantly prevented excessive autophagy induced by GalN/LPS in the liver. These data suggested that cordycepin could be a promising therapeutic agent for GalN/LPS-induced hepatotoxicity.
+As the major active ingredient ofCordyceps militaris, cordycepin (3′-deoxyadenosine) has been well documented to alleviate inflammation and oxidative stress both in vitro and in vivo. To explore the potential protective effect of cordycepin in fulminant hepatic failure, mice were pretreated with cordycepin for 3 weeks followed by D-galactosamine (GalN)/lipopolysaccharide (LPS) injection. Then we found cordycepin (200 mg/kg) administration elevated survival rate, improved liver function, and suppressed hepatocyte apoptosis and necrosis in mice with severe hepatic damage by GalN/LPS treatment. Further, cordycepin inhibited hepatic neutrophil and macrophage infiltration and prevented proinflammatory cytokine production possibly through suppressing TLR4 and NF-κB signaling transduction. The blockade of reactive oxygen species (ROS) and lipid peroxidation production by cordycepin was associated with the decrease of NAD(P)H oxidase (NOX) activity. Besides, cordycepin significantly prevented excessive autophagy induced by GalN/LPS in the liver. These data suggested that cordycepin could be a promising therapeutic agent for GalN/LPS-induced hepatotoxicity.
 
 ### 전문가 메모
 
@@ -270,7 +252,7 @@ As the major active ingredient of Cordyceps militaris , cordycepin (3′-deoxyad
 
 ## 원문 초록 (English)
 
-**Summary** — As the major active ingredient of Cordyceps militaris , cordycepin (3′-deoxyadenosine) has been well documented to alleviate inflammation and oxidative stress both in vitro and in vivo. To explore the potential protective effect of cordycepin in fulminant hepatic failure, mice were pretreated with cordycepin for 3 weeks followed by D-galactosamine (GalN)/lipopolysaccharide (LPS) injection. Then we found cordycepin (200 mg/kg) administration elevated survival rate, improved liver function, and suppressed hepatocyte apoptosis and necrosis in mice with severe hepatic damage by GalN/LPS treatment. Further, cordycepin inhibited hepatic neutrophil and macrophage infiltration and prevented proinflammatory cytokine production possibly through suppressing TLR4 and NF- κ B signaling transduction. The blockade of reactive oxygen species (ROS) and lipid peroxidation production by cordycepin was associated with the decrease of NAD(P)H oxidase (NOX) activity. Besides, cordycepin significantly prevented excessive autophagy induced by GalN/LPS in the liver. These data suggested that cordycepin could be a promising therapeutic agent for GalN/LPS-induced hepatotoxicity.
+**Summary** — As the major active ingredient ofCordyceps militaris, cordycepin (3′-deoxyadenosine) has been well documented to alleviate inflammation and oxidative stress both in vitro and in vivo. To explore the potential protective effect of cordycepin in fulminant hepatic failure, mice were pretreated with cordycepin for 3 weeks followed by D-galactosamine (GalN)/lipopolysaccharide (LPS) injection. Then we found cordycepin (200 mg/kg) administration elevated survival rate, improved liver function, and suppressed hepatocyte apoptosis and necrosis in mice with severe hepatic damage by GalN/LPS treatment. Further, cordycepin inhibited hepatic neutrophil and macrophage infiltration and prevented proinflammatory cytokine production possibly through suppressing TLR4 and NF-κB signaling transduction. The blockade of reactive oxygen species (ROS) and lipid peroxidation production by cordycepin was associated with the decrease of NAD(P)H oxidase (NOX) activity. Besides, cordycepin significantly prevented excessive autophagy induced by GalN/LPS in the liver. These data suggested that cordycepin could be a promising therapeutic agent for GalN/LPS-induced hepatotoxicity.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 record_id: dacf30a3-42b3-4958-a491-be8a8a86a577
-title: 'Cordycepin protects against simulated microgravity-induced osteogenic impairment
-  involving ferroptosis-related signaling. '
+title: Cordycepin protects against simulated microgravity-induced osteogenic impairment
+  involving ferroptosis-related signaling.
 authors:
 - Nie P
 - Liu Y
@@ -49,7 +49,7 @@ tags:
 - market/research_only
 ---
 
-# Cordycepin protects against simulated microgravity-induced osteogenic impairment involving ferroptosis-related signaling. 
+# Cordycepin protects against simulated microgravity-induced osteogenic impairment involving ferroptosis-related signaling.
 
 ## Summary fields
 - **Year:** 2026
@@ -66,7 +66,7 @@ tags:
 - **URL:** https://europepmc.org/article/MED/42603620
 
 ## Abstract
-Microgravity-induced bone loss is a major challenge during long-duration spaceflight and is closely associated with impaired bone marrow mesenchymal stem cell (BMSC) function. Simulated microgravity (SMG) disrupts osteogenic differentiation and induces oxidative stress and mitochondrial dysfunction in BMSCs. Emerging evidence suggests that ferroptosis-related stress responses may contribute to these pathological alterations. However, effective pharmacological strategies and the underlying regulatory mechanisms remain incompletely understood. In the present study, we investigated the protective effects of cordycepin (Cor) against SMG-induced BMSC dysfunction and bone loss. Exposure to SMG resulted in excessive reactive oxygen species accumulation, intracellular iron dysregulation, reduced glutathione peroxidase 4 (GPX4) expression, mitochondrial injury, ferroptosis-associated cellular damage, and impaired osteogenic differentiation. Cordycepin treatment markedly alleviated these alterations by restoring redox balance, preserving mitochondrial integrity, increasing GPX4 expression, and enhancing osteogenic marker expression. Transcriptomic analysis identified thrombospondin-1 (Thbs-1) as a stress-responsive factor associated with SMG-induced ferroptosis-related injury. Furthermore, genetic silencing of Thbs-1 reduced oxidative stress, improved mitochondrial function, and partially restored osteogenic differentiation capacity in BMSCs under SMG conditions. Additional analyses suggested that A2A receptor (A2AR)/AKT serine/threonine kinase (AKT)-related signaling may be involved in the protective effects of cordycepin. In a tail-suspension mouse model, cordycepin administration mitigated bone loss, reduced oxidative stress, and increased circulating GPX4 and glutathione levels. Collectively, these findings indicate that cordycepin alleviates SMG-induced BMSC dysfunction and bone loss in association with ferroptosis-related stress signaling.
+Microgravity-induced bone loss is a major challenge during long-duration spaceflight and is closely associated with impaired bone marrow mesenchymal stem cell (BMSC) function. Simulated microgravity (SMG) disrupts osteogenic differentiation and induces oxidative stress and mitochondrial dysfunction in BMSCs. Emerging evidence suggests that ferroptosis-related stress responses may contribute to these pathological alterations. However, effective pharmacological strategies and the underlying regulatory mechanisms remain incompletely understood. In the present study, we investigated the protective effects of cordycepin (Cor) against SMG-induced BMSC dysfunction and bone loss. Exposure to SMG resulted in excessive reactive oxygen species accumulation, intracellular iron dysregulation, reduced glutathione peroxidase 4 (GPX4) expression, mitochondrial injury, ferroptosis-associated cellular damage, and impaired osteogenic differentiation. Cordycepin treatment markedly alleviated these alterations by restoring redox balance, preserving mitochondrial integrity, increasing GPX4 expression, and enhancing osteogenic marker expression. Transcriptomic analysis identified thrombospondin-1 (Thbs-1) as a stress-responsive factor associated with SMG-induced ferroptosis-related injury. Furthermore, genetic silencing of Thbs-1 reduced oxidative stress, improved mitochondrial function, and partially restored osteogenic differentiation capacity in BMSCs under SMG conditions. Additional analyses suggested that A<sub>2A</sub> receptor (A<sub>2A</sub>R)/AKT serine/threonine kinase (AKT)-related signaling may be involved in the protective effects of cordycepin. In a tail-suspension mouse model, cordycepin administration mitigated bone loss, reduced oxidative stress, and increased circulating GPX4 and glutathione levels. Collectively, these findings indicate that cordycepin alleviates SMG-induced BMSC dysfunction and bone loss in association with ferroptosis-related stress signaling.
 
 ## Relevance notes
 Cordycepin-focused; verify species/form vs product

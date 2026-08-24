@@ -5,7 +5,7 @@ title_ko: Cordyceps militaris의 구성 요소인 코디세핀(3'-deoxy아데노
   대한 억제 효과.
 slug: inhibitory-effects-of-cordycepin-3-deoxyadenosin-2007-18051324
 record_id: a10c1577-e895-4ad5-9f66-c0e0c29cb772
-date: '2026-08-17'
+date: '2026-08-24'
 year: 2007
 authors:
 - Hyun-Jeong Cho
@@ -40,7 +40,7 @@ tags:
 - cordycepin
 - evidence
 - 제왕충초
-generated: '2026-08-17'
+generated: '2026-08-24'
 visuals: []
 api_meta:
   keywords: []
@@ -63,7 +63,7 @@ api_meta:
     europepmc: true
     openalex: false
     crossref: false
-  fetched_at: '2026-08-17'
+  fetched_at: '2026-08-24'
 translations:
   title_ko: Cordyceps militaris의 구성 요소인 코디세핀(3'-deoxy아데노신)이 탑시가르긴에 의해 유도된 인간 혈소판 응집에
     대한 억제 효과.
@@ -95,35 +95,22 @@ translations:
       increased the thapsigargin-reduced cGMP levels. Accordingly, our data demonstrated
       that cordycepin may have a beneficial effect on platelet aggregation-mediated
       thrombotic diseases through the [Ca2+]i-regulating system such as cGMP.
-    ko_literal: 코디세핀(3'-deoxy아데노신)은 Cordyceps militaris에서 분리된 아데노신 유사체로, 한의학에서 항암
-      및 항염증 성분으로 사용되어 왔습니다. 우리는 종양 촉진제인 탑시가르긴(thapsigargin)에 의해 유도된 인간 혈소판 응집에 대한
-      코디세핀(3'-deoxy아데노신)의 효과를 조사하고 세포질의 유리 Ca2+ 수준([Ca2+]i)(응집 자극 분자) 및 순환 구아노신 모노포스페이트(cGMP)(응집
-      억제 분자)를 결정했습니다. 코디세핀은 탑시가르긴에 의해 유발된 혈소판 응집을 용량 의존적으로 억제했으며, 탑시가르긴(1μM) 또는 U46619(3μM)에
-      의해 증가된 [Ca+]i 수준을 분명히 감소시켰습니다. 코디세핀은 또한 탑시가르긴으로 감소된 cGMP 수준을 증가시켰습니다. 따라서 우리의
-      데이터는 코디세핀이 cGMP와 같은 [Ca2+]i 조절 시스템을 통해 혈소판 응집 매개성 혈전증 질환에 유익한 효과를 가질 수 있음을 입증했습니다.
+    ko_literal: Error 500 (Server Error)!!1500.That’s an error.There was an error.
+      Please try again later.That’s all we know.
     ko_researcher: '[초록 전체] 핵심 용어: **코디세핀**(cordycepin) · **Cordyceps militaris**(cordyceps
-      militaris) · **Cordyceps**(cordyceps) · **아데노신**(adenosine). 코디세핀(3''-deoxy아데노신)은
-      Cordyceps militaris에서 분리된 아데노신 유사체로, 한의학에서 항암 및 항염증 성분으로 사용되어 왔습니다. 우리는 종양 촉진제인
-      탑시가르긴(thapsigargin)에 의해 유도된 인간 혈소판 응집에 대한 코디세핀(3''-deoxy아데노신)의 효과를 조사하고 세포질의
-      유리 Ca2+ 수준([Ca2+]i)(응집 자극 분자) 및 순환 구아노신 모노포스페이트(cGMP)(응집 억제 분자)를 결정했습니다. 코디세핀은
-      탑시가르긴에 의해 유발된 혈소판 응집을 용량 의존적으로 억제했으며, 탑시가르긴(1μM) 또는 U46619(3μM)에 의해 증가된 [Ca+]i
-      수준을 분명히 감소시켰습니다. 코디세핀은 또한 탑시가르긴으로 감소된 cGMP 수준을 증가시켰습니다. 따라서 우리의 데이터는 코디세핀이 cGMP와
-      같은 [Ca2+]i 조절 시스템을 통해 혈소판 응집 매개성 혈전증 질환에 유익한 효과를 가질 수 있음을 입증했습니다.'
-    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. 코디세핀(3'-deoxy아데노신)은 Cordyceps militaris에서
-      분리된 아데노신 유사체로, 한의학에서 항암 및 항염증 성분으로 사용되어 왔습니다. 우리는 종양 촉진제인 탑시가르긴(thapsigargin)에
-      의해 유도된 인간 혈소판 응집에 대한 코디세핀(3'-deoxy아데노신)의 효과를 조사하고 세포질의 유리 Ca2+ 수준([Ca2+]i)(응집
-      자극 분자) 및 순환 구아노신 모노포스페이트(cGMP)(응집 억제 분자)를 결정했습니다. 코디세핀은 탑시가르긴에 의해 유발된 혈소판 응집을
-      용량 의존적으로 억제했으며, 탑시가르긴(1μM) 또는 U46619(3μM)에 의해 증가된 [Ca+]i 수준을 분명히 감소시켰습니다. …
+      militaris) · **Cordyceps**(cordyceps) · **아데노신**(adenosine). Error 500 (Server
+      Error)!!1500.That’s an error.There was an error. Please try again later.That’s
+      all we know.'
+    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. Error 500 (Server Error)!!1500.That’s an
+      error.There was an error. Please try again later.That’s all we know.
   easy_read:
     headline: 2007년에 나온 아직 실험실·동물 단계 논문입니다. 핵심 주제는 「동충하초(버섯)와 코디세핀(성분 이름)에 관한 이야기」입니다.
-    what_is_this: 이 글은 「동충하초(버섯)와 코디세핀(성분 이름)에 관한 이야기」에 대한 학술 정리입니다. 코디세핀(3'-deoxy아데노신)은
-      Cordyceps militaris에서 분리된 아데노신 유사체로, 한의학에서 연구용 및 항염증 성분으로 사용되어 왔습니다.
+    what_is_this: 이 글은 「동충하초(버섯)와 코디세핀(성분 이름)에 관한 이야기」에 대한 학술 정리입니다. Error 500 (Server
+      Error)!!1500.That’s an error.There was an error. Please try again later.That’s
+      all we know.
     what_they_did: 논문·데이터를 모아 분석·정리했습니다.
-    what_they_found: 코디세핀(3'-deoxy아데노신)은 Cordyceps militaris에서 분리된 아데노신 유사체로, 한의학에서
-      연구용 및 항염증 성분으로 사용되어 왔습니다. 우리는 종양 촉진제인 탑시가르긴(thapsigargin)에 의해 유도된 인간 혈소판 응집에
-      대한 코디세핀(3'-deoxy아데노신)의 효과를 조사하고 세포질의 유리 Ca2+ 수준([Ca2+]i)(응집 자극 분자) 및 순환 구아노신
-      모노포스페이트(cGMP)(응집 억제 분자)를 결정했습니다. 코디세핀은 탑시가르긴에 의해 유발된 혈소판 응집을 용량 의존적으로 억제했으며,
-      탑시가르긴(1μM) 또는 U46619(3μM)에 의해 증가된 [Ca+]i 수준을 분명히 감소시켰습니다.
+    what_they_found: Error 500 (Server Error)!!1500.That’s an error.There was an error.
+      Please try again later.That’s all we know.
     good_to_know:
     - 이 글은 **술·담금주가 몸에 좋다**는 이야기가 아닙니다.
     - 연구실·논문에서 말하는 **생리활성·기능성 주제**를 할머니·할아버지도 읽기 쉽게 풀어 쓴 것입니다.
@@ -134,10 +121,8 @@ translations:
     sections:
     - id: summary
       label: 한줄 요약
-      text: 코디세핀(3'-deoxy아데노신)은 Cordyceps militaris에서 분리된 아데노신 유사체로, 한의학에서 연구용 및 항염증
-        성분으로 사용되어 왔습니다. 우리는 종양 촉진제인 탑시가르긴(thapsigargin)에 의해 유도된 인간 혈소판 응집에 대한 코디세핀(3'-deoxy아데노신)의
-        효과를 조사하고 세포질의 유리 Ca2+ 수준([Ca2+]i)(응집 자극 분자) 및 순환 구아노신 모노포스페이트(cGMP)(응집 억제
-        분자)를 결정했습니다.
+      text: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please
+        try again later.That’s all we know.
   full:
     en: Cordycepin (3'-deoxyadenosine) is an adenosine analog, isolated from Cordyceps
       militaris, and it has been used as an anticancer and anti-inflammation ingredient
@@ -151,25 +136,14 @@ translations:
       increased the thapsigargin-reduced cGMP levels. Accordingly, our data demonstrated
       that cordycepin may have a beneficial effect on platelet aggregation-mediated
       thrombotic diseases through the [Ca2+]i-regulating system such as cGMP.
-    ko_literal: 코디세핀(3'-deoxy아데노신)은 Cordyceps militaris에서 분리된 아데노신 유사체로, 한의학에서 항암
-      및 항염증 성분으로 사용되어 왔습니다. 우리는 종양 촉진제인 탑시가르긴(thapsigargin)에 의해 유도된 인간 혈소판 응집에 대한
-      코디세핀(3'-deoxy아데노신)의 효과를 조사하고 세포질의 유리 Ca2+ 수준([Ca2+]i)(응집 자극 분자) 및 순환 구아노신 모노포스페이트(cGMP)(응집
-      억제 분자)를 결정했습니다. 코디세핀은 탑시가르긴에 의해 유발된 혈소판 응집을 용량 의존적으로 억제했으며, 탑시가르긴(1μM) 또는 U46619(3μM)에
-      의해 증가된 [Ca+]i 수준을 분명히 감소시켰습니다. 코디세핀은 또한 탑시가르긴으로 감소된 cGMP 수준을 증가시켰습니다. 따라서 우리의
-      데이터는 코디세핀이 cGMP와 같은 [Ca2+]i 조절 시스템을 통해 혈소판 응집 매개성 혈전증 질환에 유익한 효과를 가질 수 있음을 입증했습니다.
+    ko_literal: Error 500 (Server Error)!!1500.That’s an error.There was an error.
+      Please try again later.That’s all we know.
     ko_researcher: '[초록 전체] 핵심 용어: **코디세핀**(cordycepin) · **Cordyceps militaris**(cordyceps
-      militaris) · **Cordyceps**(cordyceps) · **아데노신**(adenosine). 코디세핀(3''-deoxy아데노신)은
-      Cordyceps militaris에서 분리된 아데노신 유사체로, 한의학에서 항암 및 항염증 성분으로 사용되어 왔습니다. 우리는 종양 촉진제인
-      탑시가르긴(thapsigargin)에 의해 유도된 인간 혈소판 응집에 대한 코디세핀(3''-deoxy아데노신)의 효과를 조사하고 세포질의
-      유리 Ca2+ 수준([Ca2+]i)(응집 자극 분자) 및 순환 구아노신 모노포스페이트(cGMP)(응집 억제 분자)를 결정했습니다. 코디세핀은
-      탑시가르긴에 의해 유발된 혈소판 응집을 용량 의존적으로 억제했으며, 탑시가르긴(1μM) 또는 U46619(3μM)에 의해 증가된 [Ca+]i
-      수준을 분명히 감소시켰습니다. 코디세핀은 또한 탑시가르긴으로 감소된 cGMP 수준을 증가시켰습니다. 따라서 우리의 데이터는 코디세핀이 cGMP와
-      같은 [Ca2+]i 조절 시스템을 통해 혈소판 응집 매개성 혈전증 질환에 유익한 효과를 가질 수 있음을 입증했습니다.'
-    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. 코디세핀(3'-deoxy아데노신)은 Cordyceps militaris에서
-      분리된 아데노신 유사체로, 한의학에서 항암 및 항염증 성분으로 사용되어 왔습니다. 우리는 종양 촉진제인 탑시가르긴(thapsigargin)에
-      의해 유도된 인간 혈소판 응집에 대한 코디세핀(3'-deoxy아데노신)의 효과를 조사하고 세포질의 유리 Ca2+ 수준([Ca2+]i)(응집
-      자극 분자) 및 순환 구아노신 모노포스페이트(cGMP)(응집 억제 분자)를 결정했습니다. 코디세핀은 탑시가르긴에 의해 유발된 혈소판 응집을
-      용량 의존적으로 억제했으며, 탑시가르긴(1μM) 또는 U46619(3μM)에 의해 증가된 [Ca+]i 수준을 분명히 감소시켰습니다. …
+      militaris) · **Cordyceps**(cordyceps) · **아데노신**(adenosine). Error 500 (Server
+      Error)!!1500.That’s an error.There was an error. Please try again later.That’s
+      all we know.'
+    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. Error 500 (Server Error)!!1500.That’s an
+      error.There was an error. Please try again later.That’s all we know.
 ---
 
 ## 한국어 요약

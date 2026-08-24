@@ -1,6 +1,6 @@
 ---
 record_id: e1ccbaa1-3c7c-4c36-aacc-9d4facb0cfb5
-title: <i>Cordyceps sinensis</i> as an Immunomodulatory Agent
+title: Cordyceps sinensis as an Immunomodulatory Agent
 authors:
 - Yuh‐Chi Kuo
 - Wei-Jem Tsai
@@ -40,7 +40,7 @@ tags:
 - market/research_only
 ---
 
-# <i>Cordyceps sinensis</i> as an Immunomodulatory Agent
+# Cordyceps sinensis as an Immunomodulatory Agent
 
 ## Summary fields
 - **Year:** 1996

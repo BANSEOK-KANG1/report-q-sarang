@@ -3,20 +3,20 @@ record_id: 58d4ce7e-3ae5-4a0e-86d6-bb7825f7bcab
 title: Exopolysaccharides from lecithin-zeaxanthin-stimulated Cordyceps militaris
   alleviate cyclophosphamide-induced immunosuppression and intestine-liver injury.
 authors:
-- Guo HK
-- Mei GF
-- Wu LW
-- Hong JQ
-- Wei SM
-- Yang QQ
-- Zhang B
-- Cheung PC
-- Zhang BB.
+- Huang-Kai Guo
+- Guo-Fei Mei
+- Lin-Wen Wu
+- Jia-Qi Hong
+- Si-Min Wei
+- Qiong-Qiong Yang
+- Bin Zhang
+- Peter Chi-Keung Cheung
+- Bo-Bo Zhang
 year: 2026
-journal: ''
+journal: Carbohydrate polymers
 doi: 10.1016/j.carbpol.2026.125682
 pmid: '42586699'
-url: https://europepmc.org/article/MED/42586699
+url: https://pubmed.ncbi.nlm.nih.gov/42586699/
 track: militaris
 compound: unclear
 species: Cordyceps_militaris
@@ -37,6 +37,7 @@ jurisdiction_caveats:
 - research_only
 source_apis:
 - europepmc
+- pubmed
 full_text_available: false
 tags:
 - evidence
@@ -59,7 +60,7 @@ tags:
 - **Citation status:** needs_legal_review
 - **DOI:** 10.1016/j.carbpol.2026.125682
 - **PMID:** 42586699
-- **URL:** https://europepmc.org/article/MED/42586699
+- **URL:** https://pubmed.ncbi.nlm.nih.gov/42586699/
 
 ## Abstract
 Chemotherapy-induced immunosuppression and multi-organ toxicity remain critical clinical challenges. Herein, we investigated protective effects and mechanisms of two structurally distinct Cordyceps militaris exopolysaccharides, CM-C2 (mannogalactan) and CM-T2 (galactomannoglucan), in a cyclophosphamide (CPA)-induced immunosuppressive mouse model. Both polysaccharides, particularly CM-T2, alleviated CPA-induced systemic damage by restoring immune function, enhancing antioxidant defenses, and repairing intestine-liver injury. Mechanistically, these effects involved modulation of key signaling pathways (TLR4-MYD88/MAPK/NF-κB/JAK-STAT/PI3K-AKT, Nrf2-Keap1, apoptotic, and MLCK) in intestine and liver. The more potent efficacy of CM-T2 was attributable to its →4)-α-Glcp-(1→ and →4,6)-β-d-Glcp-(1→ backbone with branches and high Glc content, which promoted beneficial gut microbiota remodeling and elevated levels of acetic, propionic, butyric, and valeric acids. Collectively, these changes strongly correlated with enhanced host immune and barrier functions. These findings highlight CM-T2 as a promising candidate for adjunctive therapy against chemotherapy-induced toxicity, operating through microbiota-gut-liver axis.

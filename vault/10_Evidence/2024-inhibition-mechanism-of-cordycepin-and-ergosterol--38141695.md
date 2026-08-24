@@ -16,7 +16,7 @@ journal: International journal of biological macromolecules
 doi: 10.1016/j.ijbiomac.2023.128898
 pmid: '38141695'
 url: https://pubmed.ncbi.nlm.nih.gov/38141695/
-track: compound
+track: militaris
 compound: cordycepin
 species: Cordyceps_militaris
 study_type: animal
@@ -27,7 +27,7 @@ risk_flags:
 - preclinical_only
 maps_to_market: research_only
 citation_status: needs_legal_review
-priority_review: true
+priority_review: false
 jurisdiction_caveats:
 - KR_liquor_no_disease_claims
 - not_HFF_product

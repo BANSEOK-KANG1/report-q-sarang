@@ -39,7 +39,7 @@ jurisdiction_caveats:
 - research_only
 source_apis:
 - europepmc
-full_text_available: false
+full_text_available: true
 tags:
 - evidence
 - status/candidate

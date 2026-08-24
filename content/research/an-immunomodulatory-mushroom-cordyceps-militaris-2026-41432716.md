@@ -1,11 +1,11 @@
 ---
 title: 'An Immunomodulatory Mushroom, Cordyceps militaris, and Its Constituents: A
   Review of In Vitro/In Vivo Studies and Clinical Trials.'
-title_ko: '면역 조절 버섯, Cordyceps militaris 및 그 구성 요소: 시험관(in vitro)/생체(in vivo) 연구 및
-  임상 시험 검토.'
+title_ko: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please
+  try again later.That’s all we know.
 slug: an-immunomodulatory-mushroom-cordyceps-militaris-2026-41432716
 record_id: 7abff759-52d0-4b88-930c-e1e1c41bd557
-date: '2026-08-17'
+date: '2026-08-24'
 year: 2026
 authors:
 - Yang EJ
@@ -42,7 +42,7 @@ tags:
 - cordycepin
 - evidence
 - 제왕충초
-generated: '2026-08-17'
+generated: '2026-08-24'
 visuals: []
 api_meta:
   keywords:
@@ -95,10 +95,10 @@ api_meta:
     europepmc: true
     openalex: true
     crossref: true
-  fetched_at: '2026-08-17'
+  fetched_at: '2026-08-24'
 translations:
-  title_ko: '면역 조절 버섯, Cordyceps militaris 및 그 구성 요소: 시험관(in vitro)/생체(in vivo) 연구
-    및 임상 시험 검토.'
+  title_ko: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please
+    try again later.That’s all we know.
   glossary:
   - en: cordycepin
     ko: 코디세핀
@@ -216,40 +216,14 @@ translations:
       In vitro, in vivo, and clinical trial results indicate that CM is safe for administration
       and shows promise for developing functional foods having various efficacies
       such as immunomodulation, anti-tumor, and neuroprotection.
-    ko_literal: '"겨울벌레 여름풀"로 알려진 Cordyceps은 에너지 수준과 면역 활동을 높이는 약용 버섯으로 사용되었습니다. Cordyceps
-      유형 중 Cordyceps militaris(CM)은 대량 생산을 위한 인공적인 재배·배양 용이성으로 인해 상업적으로 가장 유용합니다.
-      대조적으로, OphioCordyceps sinensis와 같은 다른 유형은 가격이 비싸고 수집하기 어렵습니다. 따라서 수많은 연구에서 CM의
-      치료 잠재력과 활성 성분을 탐구했습니다. CM의 치료적 용도는 면역조절, 항종양, 항산화, 항당뇨병, 항비만, 신경보호 활성을 포함한 다양한
-      약리학적 활성을 기반으로 하며, 그 중 면역조절 효과가 가장 많이 연구되어 왔습니다. CM에는 뉴클레오시드(코디세핀 및 아데노신), 다당류,
-      펩타이드, 단백질, 스테롤, 당지질 및 카로티노이드와 같은 활성 성분이 포함되어 있습니다. 최근 연구에 따르면 CM 추출물, 코디세핀 및
-      다당류은 면역 환경에 반응하여 면역 조절 효과를 발휘하는 것으로 나타났습니다. 이들은 정상적인 조건뿐만 아니라 시클로포스파미드, 인터루킨-4,
-      종양 배양 상층액, 메토트렉세이트, 암 세포주 이종 이식편, 인플루엔자 바이러스 및 중증 급성 호흡기 증후군 코로나바이러스 2에 의해 유발된
-      면역 억제 상태에서도 선천성 및 세포 매개 적응 면역을 강화합니다. 한편, 안지오텐신 II ± 혈관 내피 성장 인자, 콘카나발린 A, 2,4-디니트로페닐(DNP)-혈청
-      알부민 ± DNP 특이적 면역글로불린 E, 리포다당류(LPS), 리포테이코산, 피토헤마글루티닌, 포르볼 미리스테이트 아세테이트 + 칼슘
-      이오노포어 A23187, 염화칼슘, 맹장 결찰 및 천자 ± LPS, 덱스트란 황산나트륨, 요오드아세트산일나트륨, 난알부민, 미엘린 희돌기아교세포
-      당단백질 25-35, 요산나트륨 및 서양식 식단을 통해 선천성 및 체액성 적응 면역 반응을 개선합니다. 이 연구에서는 CM 추출물, 코디세핀
-      및 다당류의 면역 조절 잠재력을 평가하는 최근의 주목할만한 문헌을 검토했습니다. 시험관(in vitro), 생체(in vivo) 및 임상시험
-      결과에 따르면 CM은 투여에 안전하며 면역조절, 항종양, 신경보호 등 다양한 효능을 갖는 기능성 식품 개발에 대한 가능성을 보여줍니다.'
+    ko_literal: Error 500 (Server Error)!!1500.That’s an error.There was an error.
+      Please try again later.That’s all we know.
     ko_researcher: '[초록 전체] 핵심 용어: **코디세핀**(cordycepin) · **Cordyceps militaris**(cordyceps
-      militaris) · **Cordyceps**(cordyceps) · **시험관(in vitro)**(in vitro). "겨울벌레 여름풀"로
-      알려진 Cordyceps은 에너지 수준과 면역 활동을 높이는 약용 버섯으로 사용되었습니다. Cordyceps 유형 중 Cordyceps
-      militaris(CM)은 대량 생산을 위한 인공적인 재배·배양 용이성으로 인해 상업적으로 가장 유용합니다. 대조적으로, OphioCordyceps
-      sinensis와 같은 다른 유형은 가격이 비싸고 수집하기 어렵습니다. 따라서 수많은 연구에서 CM의 치료 잠재력과 활성 성분을 탐구했습니다.
-      CM의 치료적 용도는 면역조절, 항종양, 항산화, 항당뇨병, 항비만, 신경보호 활성을 포함한 다양한 약리학적 활성을 기반으로 하며, 그
-      중 면역조절 효과가 가장 많이 연구되어 왔습니다. CM에는 뉴클레오시드(코디세핀 및 아데노신), 다당류, 펩타이드, 단백질, 스테롤, 당지질
-      및 카로티노이드와 같은 활성 성분이 포함되어 있습니다. 최근 연구에 따르면 CM 추출물, 코디세핀 및 다당류은 면역 환경에 반응하여 면역
-      조절 효과를 발휘하는 것으로 나타났습니다. 이들은 정상적인 조건뿐만 아니라 시클로포스파미드, 인터루킨-4, 종양 배양 상층액, 메토트렉세이트,
-      암 세포주 이종 이식편, 인플루엔자 바이러스 및 중증 급성 호흡기 증후군 코로나바이러스 2에 의해 유발된 면역 억제 상태에서도 선천성 및
-      세포 매개 적응 면역을 강화합니다. 한편, 안지오텐신 II ± 혈관 내피 성장 인자, 콘카나발린 A, 2,4-디니트로페닐(DNP)-혈청
-      알부민 ± DNP 특이적 면역글로불린 E, 리포다당류(LPS), 리포테이코산, 피토헤마글루티닌, 포르볼 미리스테이트 아세테이트 + 칼슘
-      이오노포어 A23187, 염화칼슘, 맹장 결찰 및 천자 ± LPS, 덱스트란 황산나트륨, 요오드아세트산일나트륨, 난알부민, 미엘린 희돌기아교세포
-      당단백질 25-35, 요산나트륨 및 서양식 식단을 통해 선천성 및 체액성 적응 면역 반응을 개선합니다. 이 연구에서는 CM 추출물, 코디세핀
-      및 다당류의 면역 조절 잠재력을 평가하는 최근의 주목할만한 문헌을 검토했습니다. 시험관(in vitro), 생체(in vivo) 및 임상시험
-      결과에 따르면 CM은 투여에 안전하며 면역조절, 항종양, 신경보호 등 다양한 효능을 갖는 기능성 식품 개발에 대한 가능성을 보여줍니다.'
-    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. "겨울벌레 여름풀"로 알려진 Cordyceps은 에너지 수준과 면역 활동을
-      높이는 약용 버섯으로 사용되었습니다. Cordyceps 유형 중 Cordyceps militaris(CM)은 대량 생산을 위한 인공적인
-      재배·배양 용이성으로 인해 상업적으로 가장 유용합니다. 대조적으로, OphioCordyceps sinensis와 같은 다른 유형은 가격이
-      비싸고 수집하기 어렵습니다. …
+      militaris) · **Cordyceps**(cordyceps) · **시험관(in vitro)**(in vitro). Error 500
+      (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s
+      all we know.'
+    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. Error 500 (Server Error)!!1500.That’s an
+      error.There was an error. Please try again later.That’s all we know.
 ---
 
 ## 한국어 요약

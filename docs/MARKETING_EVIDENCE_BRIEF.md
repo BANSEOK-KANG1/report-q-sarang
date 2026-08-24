@@ -1,6 +1,6 @@
 # Marketing Evidence Brief — 제왕충초 × 코디세핀
 
-_Generated: 2026-08-17_
+_Generated: 2026-08-24_
 
 > 제왕충초 담금주는 **주류**입니다. 아래 내용은 효능 광고 승인이 아닙니다.
 > 소비자 카피는 법무 검토 후 `citation_status=approved` + `KR_liquor_context`만 사용하세요.
@@ -91,12 +91,6 @@ _Generated: 2026-08-17_
 - Allowed: Cordycepin is a compound studied in Cordyceps militaris / Cordyceps spp.; academic literature reports related research. (Not a disease-treatment claim; not for liquor efficacy advertising.)
 - Prohibited: Do not claim treatment/prevention/cure of disease; do not claim immune boost, fatigue recovery, anticancer effect, FDA/MFDS efficacy approval for liquor.
 
-### 2024 — Low-carbon and overproduction of cordycepin from methanol using engineered Pichia pastoris cell factory.
-- Strength: `C_animal` | Type: `animal`
-- DOI: 10.1016/j.biortech.2024.131446 | PMID: 39241814
-- Allowed: Cordycepin is a compound studied in Cordyceps militaris / Cordyceps spp.; academic literature reports related research. (Not a disease-treatment claim; not for liquor efficacy advertising.)
-- Prohibited: Do not claim treatment/prevention/cure of disease; do not claim immune boost, fatigue recovery, anticancer effect, FDA/MFDS efficacy approval for liquor.
-
 ### 2023 — High-level production of cordycepin by the xylose-utilising Cordyceps militaris strain 147 in an optimised medium.
 - Strength: `C_animal` | Type: `animal`
 - DOI: 10.1016/j.biortech.2023.129742 | PMID: 37734485
@@ -175,6 +169,16 @@ _Generated: 2026-08-17_
   - flags: preclinical_only
   - link: https://europepmc.org/article/MED/41942214
 
+- **2026** [review_narrative/F_review_only] Current Evidence of Ergogenic and Post-Exercise Recovery Effects of Dietary Supplementation with &lt;i&gt;Cordyceps militaris&lt;/i&gt; in Humans-A Narrative Review.
+  - review_narrative study touching exercise_performance endpoints (auto-tagged; verify before use).
+  - flags: none
+  - link: https://europepmc.org/article/MED/41829950
+
+- **2026** [animal/C_animal] Deciphering the Potential Mechanism of Cordycepin in Alleviating Ulcerative Colitis via the AKT1 Signaling Pathway: An Integrated Approach Combining Network Pharmacology, Molecular Docking, and Experimental Validation.
+  - animal study touching energy_fatigue endpoints (auto-tagged; verify before use).
+  - flags: disease_language, preclinical_only
+  - link: https://europepmc.org/article/MED/42609839
+
 - **2026** [animal/C_animal] Deciphering the anticancer potential of an entomopathogenic fungus, Cordyceps militaris in Dalton's Lymphoma transplanted murine model: a multidimensional approach involving computational methods and in vivo validation.
   - animal study touching antioxidant endpoints (auto-tagged; verify before use).
   - flags: disease_language, preclinical_only
@@ -190,22 +194,12 @@ _Generated: 2026-08-17_
   - flags: disease_language, preclinical_only
   - link: https://europepmc.org/article/MED/41946402
 
-- **2026** [animal/C_animal] Elucidation of mechanisms underlying the therapeutic effects of cordycepin on pulmonary hypertension, with a focus on cell senescence and gut microbiota.
-  - animal study touching respiratory endpoints (auto-tagged; verify before use).
-  - flags: disease_language, preclinical_only
-  - link: https://europepmc.org/article/MED/41496335
-
-- **2026** [animal/C_animal] Exploration of the potential utilization value in &lt;i&gt;Cordyceps militaris&lt;/i&gt; substrate after industrial cultivation in terms of nutritional and pharmaceutical applications.
-  - animal study touching other endpoints (auto-tagged; verify before use).
-  - flags: preclinical_only
-  - link: https://europepmc.org/article/MED/42444510
-
 ## Stats snapshot
 
-- Total normalized records: **804**
-- research_only: **786**
+- Total normalized records: **800**
+- research_only: **783**
 - needs_legal_review: **490**
-- approved liquor-context: **18**
+- approved liquor-context: **17**
 
 ## See also
 

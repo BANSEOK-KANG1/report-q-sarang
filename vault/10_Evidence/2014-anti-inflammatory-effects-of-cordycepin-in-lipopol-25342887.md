@@ -1,8 +1,8 @@
 ---
 record_id: c7fd200e-34d1-4327-8156-81f27c35705c
-title: Anti-inflammatory effects of cordycepin in&amp;nbsp;lipopolysaccharide-stimulated
-  RAW 264.7 macrophages through Toll-like receptor 4-mediated suppression of mitogen-activated
-  protein kinases and NF-&amp;kappa;B signaling pathways
+title: Anti-inflammatory effects of cordycepin in lipopolysaccharide-stimulated RAW
+  264.7 macrophages through Toll-like receptor 4-mediated suppression of mitogen-activated
+  protein kinases and NF-κB signaling pathways
 authors:
 - Yung Hyun Choi
 - Gi‐Young Kim
@@ -40,7 +40,7 @@ tags:
 - market/research_only
 ---
 
-# Anti-inflammatory effects of cordycepin in&amp;nbsp;lipopolysaccharide-stimulated RAW 264.7 macrophages through Toll-like receptor 4-mediated suppression of mitogen-activated protein kinases and NF-&amp;kappa;B signaling pathways
+# Anti-inflammatory effects of cordycepin in lipopolysaccharide-stimulated RAW 264.7 macrophages through Toll-like receptor 4-mediated suppression of mitogen-activated protein kinases and NF-κB signaling pathways
 
 ## Summary fields
 - **Year:** 2014

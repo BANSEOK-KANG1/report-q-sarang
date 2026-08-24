@@ -1,7 +1,7 @@
 ---
 record_id: 3fe07be7-c319-42c1-9843-d452b848046b
 title: Structural elucidation and immunostimulatory activity of a new polysaccharide
-  from <i>Cordyceps militaris</i>
+  from Cordyceps militaris
 authors:
 - Sixue Bi
 - Yongshuai Jing
@@ -42,7 +42,7 @@ tags:
 - market/research_only
 ---
 
-# Structural elucidation and immunostimulatory activity of a new polysaccharide from <i>Cordyceps militaris</i>
+# Structural elucidation and immunostimulatory activity of a new polysaccharide from Cordyceps militaris
 
 ## Summary fields
 - **Year:** 2017

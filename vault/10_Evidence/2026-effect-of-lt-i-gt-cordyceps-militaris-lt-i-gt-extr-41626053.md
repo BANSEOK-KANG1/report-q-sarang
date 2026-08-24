@@ -15,12 +15,12 @@ journal: ''
 doi: 10.1155/ije/6699051
 pmid: '41626053'
 url: https://europepmc.org/article/MED/41626053
-track: militaris
+track: comparator_sinensis
 compound: cordycepin
-species: Cordyceps_militaris
+species: unclear
 study_type: animal
 evidence_strength: C_animal
-relevance_to_product: direct
+relevance_to_product: extrapolated
 claim_category: antioxidant
 risk_flags:
 - disease_language
@@ -49,7 +49,7 @@ tags:
 - **Year:** 2026
 - **Study type:** animal
 - **Evidence strength:** C_animal
-- **Species:** Cordyceps_militaris
+- **Species:** unclear
 - **Compound:** cordycepin
 - **Claim category:** antioxidant
 - **Risk flags:** disease_language, preclinical_only
@@ -63,7 +63,7 @@ tags:
 The increasing global prevalence of obesity, exacerbated by factors such as high-fat diets and reduced physical activity, poses a substantial risk for lifestyle-related diseases, particularly in postmenopausal women. Premenopausal women initially have a lower incidence of cardiovascular disease than men, but this risk increases after menopause, highlighting menopause as a critical risk factor. Our previous study showed that the extract of <i>Cordyceps militaris</i> (CM) modulates androgen metabolism partially by inhibiting the gene expression of catabolizing enzyme 5α-reductase. In this study, we investigated the effect of CM on estrogen deficiency-induced obesity in ovariectomized (OVX) mice fed a 0.1% CM diet (estimated human equivalent dose: 7.5 g/day) for 52 days. OVX mice had increased body weight, which subsequently decreased with CM, without altering daily food intake. Regarding visceral fat, CM suppressed OVX-induced adipogenic markers (<i>Pparg</i>, <i>Cebpa</i>, <i>Cebpb</i>, <i>Fabp4,</i> and <i>Adipoq)</i> and protein levels of C/EBPβ, PPARγ, and p-AKT. CM effectively reversed the OVX-induced reduction in the levels of adipose <i>Cyp17a1</i> and <i>Hsd17b1</i>, key enzymes involved in steroid hormone biosynthesis, increased the cellular senescence markers <i>p21</i> and <i>p53,</i> and decreased <i>Lmnb1</i> expression. CM reduced the expression of oxidative stress markers HO-1, NRF2, and 4-HNE. Moreover, CM increased uterine weight and serum superoxide dismutase in 17β-estradiol-treated OVX rats. These findings suggested that CM, particularly its component cordycepin, holds promise as a natural agent for mitigating weight gain, particularly in the context of postmenopausal obesity.
 
 ## Relevance notes
-_n/a_
+Comparator species / Cs-4 — do not equate to C. militaris cordycepin product
 
 ## Compliance
 - Product context: Q-Sarang 제왕충초 **liquor** (not HFF).

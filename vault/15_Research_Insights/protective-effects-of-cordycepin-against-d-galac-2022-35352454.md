@@ -1,10 +1,11 @@
 ---
 title: 'Protective effects of cordycepin against d-galactose-induced aging in rats:
   A view from the heart.'
-title_ko: 'd-갈락토오스로 인한 쥐의 노화에 대한 코디세핀의 보호 효과: 심장에서 본 모습.'
+title_ko: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please
+  try again later.That’s all we know.
 slug: protective-effects-of-cordycepin-against-d-galac-2022-35352454
 record_id: b027ebe0-f029-43e1-a76e-95005adab410
-date: '2026-08-17'
+date: '2026-08-24'
 year: 2022
 authors:
 - Yuanxi Feng
@@ -35,7 +36,7 @@ tags:
 - cordycepin
 - evidence
 - 제왕충초
-generated: '2026-08-17'
+generated: '2026-08-24'
 visuals: []
 api_meta:
   keywords:
@@ -81,9 +82,10 @@ api_meta:
     europepmc: true
     openalex: true
     crossref: true
-  fetched_at: '2026-08-17'
+  fetched_at: '2026-08-24'
 translations:
-  title_ko: 'd-갈락토오스로 인한 쥐의 노화에 대한 코디세핀의 보호 효과: 심장에서 본 모습.'
+  title_ko: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please
+    try again later.That’s all we know.
   glossary:
   - en: cordycepin
     ko: 코디세핀
@@ -118,45 +120,20 @@ translations:
       protect against cardiac dysfunction in a d-galactose-induced aging rat model,
       suggesting the therapeutic cardioprotective potential of cordycepin in aging.
       Geriatr Gerontol Int 2022; 22: 433-440.'
-    ko_literal: '목표: 노화는 심혈관 질환의 중요한 원인입니다. d-갈락토스에 의해 유발된 노화 가속화 모델은 세포 수준에서 생리학적
-      수준까지의 생리학적 노화와 유사합니다. d-갈락토오스 처리는 미토콘드리아 기능 장애, 활성 산소종(ROS) 생성 증가 및 노화 관련 유전자의
-      상향 조절을 유도합니다. 중국 전통 의학의 기능성 요소인 코디세핀은 항산화제 및 ROS 제거제로서 여러 가지 유익한 효과를 가지며 여러
-      허혈 모델에서 효과적인 것으로 보고되었습니다. 이 논문은 d-갈락토스 가속 노화 모델에서 코디세핀의 심장 보호 효과를 조사하는 것을 목표로
-      합니다. 방법: 현재 연구에서는 d-galactose 가속 노화 모델을 사용하여 코디세핀의 심장 보호 효과를 연구했습니다. 무작위로 5개
-      그룹으로 나누어진 8주령 Sprague-Dawley 쥐에게 운반체, d-갈락토오스(150mg/kg/일) 및 코디세핀을 하루 5, 10,
-      20mg/kg씩 투여했습니다. 8주간의 치료가 끝나면 쥐의 심장 구조와 기능을 심장초음파 영상과 혈역학적 매개변수 분석을 통해 평가했습니다.
-      결과: 코디세핀은 혈청과 심장 조직에서 Klotho의 발현을 상향 조절했습니다. 노화 표지인 β-갈락토시다제, p21 및 산화 스트레스
-      표지인 말론디알데히드(MDA)의 발현은 코디세핀 처리에 의해 하향조절되었습니다. d-갈락토오스 처리에 의해 유발된 항산화 인자인 슈퍼옥사이드
-      디스뮤타제(SOD) 및 카탈라제(CAT)의 수준 및 활성 감소는 코디세핀에 의해 개선되었습니다. 또한, 코디세핀은 d-갈락토스로 처리된
-      쥐에서 AMPK 신호를 활성화했습니다. 8주간의 치료 후 코디세핀은 d-갈락토오스 치료로 인한 심근 수축력과 고혈압을 개선한 것으로 나타났습니다.
-      기계적으로 d-갈락토스로 인한 Klotho 단백질 SOD1의 발현 감소는 코디세핀을 함께 처리한 쥐에서 회복되었습니다. 결론: 코디세핀은
-      d-갈락토오스로 유발된 노화 쥐 모델에서 심장 기능 장애를 예방할 수 있으며, 이는 노화 시 코디세핀의 치료적 심장 보호 잠재력을 시사합니다.
-      Geriatr Gerontol Int 2022; 22: 433-440.'
-    ko_researcher: '[초록 전체] 핵심 용어: **코디세핀**(cordycepin). 목표: 노화는 심혈관 질환의 중요한 원인입니다.
-      d-갈락토스에 의해 유발된 노화 가속화 모델은 세포 수준에서 생리학적 수준까지의 생리학적 노화와 유사합니다. d-갈락토오스 처리는 미토콘드리아
-      기능 장애, 활성 산소종(ROS) 생성 증가 및 노화 관련 유전자의 상향 조절을 유도합니다. 중국 전통 의학의 기능성 요소인 코디세핀은
-      항산화제 및 ROS 제거제로서 여러 가지 유익한 효과를 가지며 여러 허혈 모델에서 효과적인 것으로 보고되었습니다. 이 논문은 d-갈락토스
-      가속 노화 모델에서 코디세핀의 심장 보호 효과를 조사하는 것을 목표로 합니다. 방법: 현재 연구에서는 d-galactose 가속 노화 모델을
-      사용하여 코디세핀의 심장 보호 효과를 연구했습니다. 무작위로 5개 그룹으로 나누어진 8주령 Sprague-Dawley 쥐에게 운반체, d-갈락토오스(150mg/kg/일)
-      및 코디세핀을 하루 5, 10, 20mg/kg씩 투여했습니다. 8주간의 치료가 끝나면 쥐의 심장 구조와 기능을 심장초음파 영상과 혈역학적
-      매개변수 분석을 통해 평가했습니다. 결과: 코디세핀은 혈청과 심장 조직에서 Klotho의 발현을 상향 조절했습니다. 노화 표지인 β-갈락토시다제,
-      p21 및 산화 스트레스 표지인 말론디알데히드(MDA)의 발현은 코디세핀 처리에 의해 하향조절되었습니다. d-갈락토오스 처리에 의해 유발된
-      항산화 인자인 슈퍼옥사이드 디스뮤타제(SOD) 및 카탈라제(CAT)의 수준 및 활성 감소는 코디세핀에 의해 개선되었습니다. 또한, 코디세핀은
-      d-갈락토스로 처리된 쥐에서 AMPK 신호를 활성화했습니다. 8주간의 치료 후 코디세핀은 d-갈락토오스 치료로 인한 심근 수축력과 고혈압을
-      개선한 것으로 나타났습니다. 기계적으로 d-갈락토스로 인한 Klotho 단백질 SOD1의 발현 감소는 코디세핀을 함께 처리한 쥐에서 회복되었습니다.
-      결론: 코디세핀은 d-갈락토오스로 유발된 노화 쥐 모델에서 심장 기능 장애를 예방할 수 있으며, 이는 노화 시 코디세핀의 치료적 심장 보호
-      잠재력을 시사합니다. Geriatr Gerontol Int 2022; 22: 433-440.'
-    ko_plain: '논문 초록의 요지를 쉽게 풀면 다음과 같습니다. 목표: 노화는 심혈관 질환의 중요한 원인입니다. d-갈락토스에 의해 유발된
-      노화 가속화 모델은 세포 수준에서 생리학적 수준까지의 생리학적 노화와 유사합니다. d-갈락토오스 처리는 미토콘드리아 기능 장애, 활성 산소종(ROS)
-      생성 증가 및 노화 관련 유전자의 상향 조절을 유도합니다. …'
+    ko_literal: Error 500 (Server Error)!!1500.That’s an error.There was an error.
+      Please try again later.That’s all we know.
+    ko_researcher: '[초록 전체] 핵심 용어: **코디세핀**(cordycepin). Error 500 (Server Error)!!1500.That’s
+      an error.There was an error. Please try again later.That’s all we know.'
+    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. Error 500 (Server Error)!!1500.That’s an
+      error.There was an error. Please try again later.That’s all we know.
   easy_read:
     headline: 2022년에 나온 아직 실험실·동물 단계 논문입니다. 핵심 주제는 「동충하초(버섯)와 코디세핀(성분 이름)에 관한 이야기」입니다.
-    what_is_this: '이 글은 「동충하초(버섯)와 코디세핀(성분 이름)에 관한 이야기」에 대한 학술 정리입니다. 목표: 노화는 심혈관
-      질환의 중요한 원인입니다. d-갈락토스에 의해 유발된 노화 가속화 모델은 세포 수준에서 생리학적 수준까지의 생리학적 노화와 유사합니다.'
+    what_is_this: 이 글은 「동충하초(버섯)와 코디세핀(성분 이름)에 관한 이야기」에 대한 학술 정리입니다. Error 500 (Server
+      Error)!!1500.That’s an error.There was an error. Please try again later.That’s
+      all we know.
     what_they_did: 논문·데이터를 모아 분석·정리했습니다.
-    what_they_found: '목표: 노화는 심혈관 질환의 중요한 원인입니다. d-갈락토스에 의해 유발된 노화 가속화 모델은 세포 수준에서
-      생리학적 수준까지의 생리학적 노화와 유사합니다. d-갈락토오스 처리는 미토콘드리아 기능 장애, 활성 산소종(ROS) 생성 증가 및 노화
-      관련 유전자의 상향 조절을 유도합니다.'
+    what_they_found: Error 500 (Server Error)!!1500.That’s an error.There was an error.
+      Please try again later.That’s all we know.
     good_to_know:
     - 이 글은 **술·담금주가 몸에 좋다**는 이야기가 아닙니다.
     - 연구실·논문에서 말하는 **생리활성·기능성 주제**를 할머니·할아버지도 읽기 쉽게 풀어 쓴 것입니다.
@@ -167,10 +144,8 @@ translations:
     sections:
     - id: summary
       label: 한줄 요약
-      text: '목표: 노화는 심혈관 질환의 중요한 원인입니다. d-갈락토스에 의해 유발된 노화 가속화 모델은 세포 수준에서 생리학적 수준까지의
-        생리학적 노화와 유사합니다. d-갈락토오스 처리는 미토콘드리아 기능 장애, 활성 산소종(ROS) 생성 증가 및 노화 관련 유전자의 상향
-        조절을 유도합니다. 중국 전통 의학의 기능성 요소인 코디세핀은 항산화제 및 ROS 제거제로서 여러 가지 유익한 효과를 가지며 여러 허혈
-        모델에서 효과적인 것으로 보고되었습니다.'
+      text: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please
+        try again later.That’s all we know.
   full:
     en: 'AIMS: Aging is a critical contributing factor for cardiovascular diseases.
       The d-galactose-induced accelerated aging model is comparable to physiological
@@ -199,37 +174,12 @@ translations:
       protect against cardiac dysfunction in a d-galactose-induced aging rat model,
       suggesting the therapeutic cardioprotective potential of cordycepin in aging.
       Geriatr Gerontol Int 2022; 22: 433-440.'
-    ko_literal: '목표: 노화는 심혈관 질환의 중요한 원인입니다. d-갈락토스에 의해 유발된 노화 가속화 모델은 세포 수준에서 생리학적
-      수준까지의 생리학적 노화와 유사합니다. d-갈락토오스 처리는 미토콘드리아 기능 장애, 활성 산소종(ROS) 생성 증가 및 노화 관련 유전자의
-      상향 조절을 유도합니다. 중국 전통 의학의 기능성 요소인 코디세핀은 항산화제 및 ROS 제거제로서 여러 가지 유익한 효과를 가지며 여러
-      허혈 모델에서 효과적인 것으로 보고되었습니다. 이 논문은 d-갈락토스 가속 노화 모델에서 코디세핀의 심장 보호 효과를 조사하는 것을 목표로
-      합니다. 방법: 현재 연구에서는 d-galactose 가속 노화 모델을 사용하여 코디세핀의 심장 보호 효과를 연구했습니다. 무작위로 5개
-      그룹으로 나누어진 8주령 Sprague-Dawley 쥐에게 운반체, d-갈락토오스(150mg/kg/일) 및 코디세핀을 하루 5, 10,
-      20mg/kg씩 투여했습니다. 8주간의 치료가 끝나면 쥐의 심장 구조와 기능을 심장초음파 영상과 혈역학적 매개변수 분석을 통해 평가했습니다.
-      결과: 코디세핀은 혈청과 심장 조직에서 Klotho의 발현을 상향 조절했습니다. 노화 표지인 β-갈락토시다제, p21 및 산화 스트레스
-      표지인 말론디알데히드(MDA)의 발현은 코디세핀 처리에 의해 하향조절되었습니다. d-갈락토오스 처리에 의해 유발된 항산화 인자인 슈퍼옥사이드
-      디스뮤타제(SOD) 및 카탈라제(CAT)의 수준 및 활성 감소는 코디세핀에 의해 개선되었습니다. 또한, 코디세핀은 d-갈락토스로 처리된
-      쥐에서 AMPK 신호를 활성화했습니다. 8주간의 치료 후 코디세핀은 d-갈락토오스 치료로 인한 심근 수축력과 고혈압을 개선한 것으로 나타났습니다.
-      기계적으로 d-갈락토스로 인한 Klotho 단백질 SOD1의 발현 감소는 코디세핀을 함께 처리한 쥐에서 회복되었습니다. 결론: 코디세핀은
-      d-갈락토오스로 유발된 노화 쥐 모델에서 심장 기능 장애를 예방할 수 있으며, 이는 노화 시 코디세핀의 치료적 심장 보호 잠재력을 시사합니다.
-      Geriatr Gerontol Int 2022; 22: 433-440.'
-    ko_researcher: '[초록 전체] 핵심 용어: **코디세핀**(cordycepin). 목표: 노화는 심혈관 질환의 중요한 원인입니다.
-      d-갈락토스에 의해 유발된 노화 가속화 모델은 세포 수준에서 생리학적 수준까지의 생리학적 노화와 유사합니다. d-갈락토오스 처리는 미토콘드리아
-      기능 장애, 활성 산소종(ROS) 생성 증가 및 노화 관련 유전자의 상향 조절을 유도합니다. 중국 전통 의학의 기능성 요소인 코디세핀은
-      항산화제 및 ROS 제거제로서 여러 가지 유익한 효과를 가지며 여러 허혈 모델에서 효과적인 것으로 보고되었습니다. 이 논문은 d-갈락토스
-      가속 노화 모델에서 코디세핀의 심장 보호 효과를 조사하는 것을 목표로 합니다. 방법: 현재 연구에서는 d-galactose 가속 노화 모델을
-      사용하여 코디세핀의 심장 보호 효과를 연구했습니다. 무작위로 5개 그룹으로 나누어진 8주령 Sprague-Dawley 쥐에게 운반체, d-갈락토오스(150mg/kg/일)
-      및 코디세핀을 하루 5, 10, 20mg/kg씩 투여했습니다. 8주간의 치료가 끝나면 쥐의 심장 구조와 기능을 심장초음파 영상과 혈역학적
-      매개변수 분석을 통해 평가했습니다. 결과: 코디세핀은 혈청과 심장 조직에서 Klotho의 발현을 상향 조절했습니다. 노화 표지인 β-갈락토시다제,
-      p21 및 산화 스트레스 표지인 말론디알데히드(MDA)의 발현은 코디세핀 처리에 의해 하향조절되었습니다. d-갈락토오스 처리에 의해 유발된
-      항산화 인자인 슈퍼옥사이드 디스뮤타제(SOD) 및 카탈라제(CAT)의 수준 및 활성 감소는 코디세핀에 의해 개선되었습니다. 또한, 코디세핀은
-      d-갈락토스로 처리된 쥐에서 AMPK 신호를 활성화했습니다. 8주간의 치료 후 코디세핀은 d-갈락토오스 치료로 인한 심근 수축력과 고혈압을
-      개선한 것으로 나타났습니다. 기계적으로 d-갈락토스로 인한 Klotho 단백질 SOD1의 발현 감소는 코디세핀을 함께 처리한 쥐에서 회복되었습니다.
-      결론: 코디세핀은 d-갈락토오스로 유발된 노화 쥐 모델에서 심장 기능 장애를 예방할 수 있으며, 이는 노화 시 코디세핀의 치료적 심장 보호
-      잠재력을 시사합니다. Geriatr Gerontol Int 2022; 22: 433-440.'
-    ko_plain: '논문 초록의 요지를 쉽게 풀면 다음과 같습니다. 목표: 노화는 심혈관 질환의 중요한 원인입니다. d-갈락토스에 의해 유발된
-      노화 가속화 모델은 세포 수준에서 생리학적 수준까지의 생리학적 노화와 유사합니다. d-갈락토오스 처리는 미토콘드리아 기능 장애, 활성 산소종(ROS)
-      생성 증가 및 노화 관련 유전자의 상향 조절을 유도합니다. …'
+    ko_literal: Error 500 (Server Error)!!1500.That’s an error.There was an error.
+      Please try again later.That’s all we know.
+    ko_researcher: '[초록 전체] 핵심 용어: **코디세핀**(cordycepin). Error 500 (Server Error)!!1500.That’s
+      an error.There was an error. Please try again later.That’s all we know.'
+    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. Error 500 (Server Error)!!1500.That’s an
+      error.There was an error. Please try again later.That’s all we know.
 ---
 
 ## 한국어 요약

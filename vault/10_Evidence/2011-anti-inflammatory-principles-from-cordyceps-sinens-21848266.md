@@ -1,6 +1,6 @@
 ---
 record_id: ce04595e-8e13-4008-986e-8d16a95877f0
-title: Anti-inflammatory Principles from <i>Cordyceps sinensis</i>
+title: Anti-inflammatory Principles from Cordyceps sinensis
 authors:
 - Mei-Lin Yang
 - Ping‐Chung Kuo
@@ -37,7 +37,7 @@ tags:
 - market/research_only
 ---
 
-# Anti-inflammatory Principles from <i>Cordyceps sinensis</i>
+# Anti-inflammatory Principles from Cordyceps sinensis
 
 ## Summary fields
 - **Year:** 2011

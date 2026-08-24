@@ -1,9 +1,10 @@
 ---
 title: 'Anti-inflammatory effects of cordycepin: A review.'
-title_ko: '코디세핀의 항염증 효과: 리뷰.'
+title_ko: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please
+  try again later.That’s all we know.
 slug: anti-inflammatory-effects-of-cordycepin-a-review-2020-33090621
 record_id: 4ff4f381-2c9f-4ec8-a49e-6060a55139e3
-date: '2026-08-17'
+date: '2026-08-24'
 year: 2020
 authors:
 - Lu Tan
@@ -41,7 +42,7 @@ tags:
 - cordycepin
 - evidence
 - 제왕충초
-generated: '2026-08-17'
+generated: '2026-08-24'
 visuals: []
 api_meta:
   keywords:
@@ -84,9 +85,10 @@ api_meta:
     europepmc: true
     openalex: true
     crossref: true
-  fetched_at: '2026-08-17'
+  fetched_at: '2026-08-24'
 translations:
-  title_ko: '코디세핀의 항염증 효과: 리뷰.'
+  title_ko: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please
+    try again later.That’s all we know.
   glossary:
   - en: cordycepin
     ko: 코디세핀
@@ -185,29 +187,14 @@ translations:
       focusing on expanding the medicinal use of cordycepin. Taken together, cordycepin
       and its analogs show great potential as the next new class of anti-inflammatory
       agents.
-    ko_literal: 코디세핀은 Cordyceps militaris에서 추출물된 주요 생체 활성 성분입니다. 최근 몇 년 동안 코디세핀은 다양한
-      약리학적 활성으로 인해 점점 더 많은 주목을 받고 있습니다. 본 연구에서는 코디세핀의 항염증 효과 및 관련 활성에 관한 최근 연구를 검토합니다.
-      검토 결과에 따르면 코디세핀은 급성 폐 손상(ALI), 천식, 류마티스 관절염, 파킨슨병(PD), 간염, 죽상경화증 및 아토피성 피부염을
-      포함한 많은 질병의 염증성 손상에 대해 보호 효과를 발휘하는 것으로 나타났습니다. 코디세핀은 NF-κB, RIP2/Caspase-1, Akt/GSK-3β/p70S6K,
-      TGF-β/Smads 및 Nrf2/HO-1 신호 전달 경로를 조절합니다. 코디세핀 파생물에 초점을 맞춘 여러 연구를 검토한 결과 코디세핀의
-      대사 속도를 낮추고 생체 이용률을 높이는 것으로 나타났습니다. 또한 코디세핀은 면역력을 강화하고, 바이러스 RNA의 확산을 억제하며, 사이토카인
-      폭풍을 억제함으로써 코로나19 및 기타 바이러스 감염을 치료할 가능성을 시사했습니다. 수집 및 검토된 정보를 통해 이 기사는 코디세핀의
-      임상 적용을 위한 이론적 기초를 제공하고 코디세핀의 의학적 사용 확대에 초점을 맞춘 향후 연구의 경로를 논의합니다. 종합하면, 코디세핀과
-      그 유사체는 차세대 항염증제로서 큰 잠재력을 보여줍니다.
+    ko_literal: Error 500 (Server Error)!!1500.That’s an error.There was an error.
+      Please try again later.That’s all we know.
     ko_researcher: '[초록 전체] 핵심 용어: **코디세핀**(cordycepin) · **Cordyceps militaris**(cordyceps
-      militaris) · **Cordyceps**(cordyceps) · **추출물**(extract). 코디세핀은 Cordyceps militaris에서
-      추출물된 주요 생체 활성 성분입니다. 최근 몇 년 동안 코디세핀은 다양한 약리학적 활성으로 인해 점점 더 많은 주목을 받고 있습니다. 본
-      연구에서는 코디세핀의 항염증 효과 및 관련 활성에 관한 최근 연구를 검토합니다. 검토 결과에 따르면 코디세핀은 급성 폐 손상(ALI),
-      천식, 류마티스 관절염, 파킨슨병(PD), 간염, 죽상경화증 및 아토피성 피부염을 포함한 많은 질병의 염증성 손상에 대해 보호 효과를 발휘하는
-      것으로 나타났습니다. 코디세핀은 NF-κB, RIP2/Caspase-1, Akt/GSK-3β/p70S6K, TGF-β/Smads 및 Nrf2/HO-1
-      신호 전달 경로를 조절합니다. 코디세핀 파생물에 초점을 맞춘 여러 연구를 검토한 결과 코디세핀의 대사 속도를 낮추고 생체 이용률을 높이는
-      것으로 나타났습니다. 또한 코디세핀은 면역력을 강화하고, 바이러스 RNA의 확산을 억제하며, 사이토카인 폭풍을 억제함으로써 코로나19 및
-      기타 바이러스 감염을 치료할 가능성을 시사했습니다. 수집 및 검토된 정보를 통해 이 기사는 코디세핀의 임상 적용을 위한 이론적 기초를 제공하고
-      코디세핀의 의학적 사용 확대에 초점을 맞춘 향후 연구의 경로를 논의합니다. 종합하면, 코디세핀과 그 유사체는 차세대 항염증제로서 큰 잠재력을
-      보여줍니다.'
-    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. 코디세핀은 Cordyceps militaris에서 추출물된 주요 생체 활성
-      성분입니다. 최근 몇 년 동안 코디세핀은 다양한 약리학적 활성으로 인해 점점 더 많은 주목을 받고 있습니다. 본 연구에서는 코디세핀의 항염증
-      효과 및 관련 활성에 관한 최근 연구를 검토합니다. …
+      militaris) · **Cordyceps**(cordyceps) · **추출물**(extract). Error 500 (Server
+      Error)!!1500.That’s an error.There was an error. Please try again later.That’s
+      all we know.'
+    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. Error 500 (Server Error)!!1500.That’s an
+      error.There was an error. Please try again later.That’s all we know.
 ---
 
 ## 한국어 요약

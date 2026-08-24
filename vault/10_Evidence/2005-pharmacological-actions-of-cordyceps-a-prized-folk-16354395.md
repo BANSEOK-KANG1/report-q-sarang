@@ -1,6 +1,6 @@
 ---
 record_id: ead935e4-e729-41af-aa44-5daef3f37b45
-title: Pharmacological actions of <i>Cordyceps</i>, a prized folk medicine
+title: Pharmacological actions of Cordyceps, a prized folk medicine
 authors:
 - T.B. Ng
 - H X Wang
@@ -37,7 +37,7 @@ tags:
 - market/research_only
 ---
 
-# Pharmacological actions of <i>Cordyceps</i>, a prized folk medicine
+# Pharmacological actions of Cordyceps, a prized folk medicine
 
 ## Summary fields
 - **Year:** 2005

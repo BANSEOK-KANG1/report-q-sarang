@@ -1,6 +1,6 @@
 ---
 record_id: 08feebc8-186d-4819-b6f7-ff0ec4aee1a1
-title: The Chemical Constituents and Pharmacological Actions of<i>Cordyceps sinensis</i>
+title: The Chemical Constituents and Pharmacological Actions ofCordyceps sinensis
 authors:
 - Yi Liu
 - Jihui Wang
@@ -40,7 +40,7 @@ tags:
 - market/research_only
 ---
 
-# The Chemical Constituents and Pharmacological Actions of<i>Cordyceps sinensis</i>
+# The Chemical Constituents and Pharmacological Actions ofCordyceps sinensis
 
 ## Summary fields
 - **Year:** 2015

@@ -4,7 +4,7 @@ title: 'Cordycepin for Health and Wellbeing: A Potent Bioactive Metabolite of an
 title_ko: '코디세핀 건강과 웰빙을 위한: 곤충병원성 Cordyceps 약용 곰팡이의 강력한 생체 활성 대사산물 및 그 기능식품 및 치료 잠재력.'
 slug: cordycepin-for-health-and-wellbeing-a-potent-bio-2020-32545666
 record_id: 02ce56e8-cb49-49a8-ad58-bda82a3f5432
-date: '2026-08-17'
+date: '2026-08-24'
 year: 2020
 authors:
 - Syed Amir Ashraf
@@ -40,7 +40,7 @@ tags:
 - cordycepin
 - evidence
 - 제왕충초
-generated: '2026-08-17'
+generated: '2026-08-24'
 visuals:
 - type: figure
   src: /research-figures/cordycepin-for-health-and-wellbeing-a-potent-bio-2020-32545666/molecules-25-02735-g005.gif
@@ -112,7 +112,7 @@ api_meta:
     europepmc: true
     openalex: true
     crossref: true
-  fetched_at: '2026-08-17'
+  fetched_at: '2026-08-24'
 translations:
   title_ko: '코디세핀 건강과 웰빙을 위한: 곤충병원성 Cordyceps 약용 곰팡이의 강력한 생체 활성 대사산물 및 그 기능식품 및 치료
     잠재력.'
@@ -218,31 +218,13 @@ translations:
       scientists, nutritionists, pharmaceutical and food industries to improve the
       use of bioactive molecule cordycepin for nutraceutical purposes with commercialization
       to aid and promote healthy lifestyle, wellness and wellbeing.
-    ko_literal: Cordyceps은 히말라야 고원의 고지대에서 흔히 발견되는 희귀한 자연 발생 곤충병원성 곰팡이이며, 전통 중국 의학에서
-      잘 알려진 약용 버섯입니다. Cordyceps에는 다양한 생리활성 성분이 포함되어 있으며, 그 중 코디세핀은 최고의 치료 및 기능성 식품
-      잠재력으로 인해 가장 중요한 것으로 간주됩니다. 더욱이 코디세핀과 아데노신의 구조적 유사성은 리보스 부분의 3' 위치가 부족하고 하이드록실
-      그룹만 다른 점을 제외하고 중요한 생리활성 성분이 됩니다. 코디세핀은 항당뇨병제, 항고지혈증제, 항진균제, 항염증제, 면역조절제, 항산화제,
-      항노화제, 항암제, 항바이러스제, 간 보호제, 성기능 저하제, 심혈관 질환, 항말라리아제, 항골다공증제, 항관절염제, 화장품 등과 같은
-      다양한 기능성 식품 및 치료 잠재력으로 알려져 있어 건강 상태를 유지하는데 도움을 주는 가장 가치 있는 약용 버섯입니다. 건강. 이 검토에서는
-      약리학적 작용 및 가능한 메커니즘과 함께 코디세핀의 기능식품적 잠재력의 가능한 광범위한 범위를 모두 가져오려는 노력이 이루어졌습니다. 또한
-      예상되는 글로벌 가치와 함께 시장에서 주로 사용할 수 있는 코디세핀 기반 기능성 식품의 세부 사항도 요약합니다. 또한, 이 검토는 건강한
-      생활 방식, 웰빙 및 복지를 지원하고 촉진하기 위한 상업화를 통해 기능 식품 목적으로 생체 활성 분자 코디세핀의 사용을 개선하기 위해 식품
-      과학자, 영양사, 제약 및 식품 산업의 관심을 끌 것입니다.
+    ko_literal: Error 500 (Server Error)!!1500.That’s an error.There was an error.
+      Please try again later.That’s all we know.
     ko_researcher: '[초록 전체] 핵심 용어: **코디세핀**(cordycepin) · **Cordyceps**(cordyceps)
-      · **아데노신**(adenosine). Cordyceps은 히말라야 고원의 고지대에서 흔히 발견되는 희귀한 자연 발생 곤충병원성 곰팡이이며,
-      전통 중국 의학에서 잘 알려진 약용 버섯입니다. Cordyceps에는 다양한 생리활성 성분이 포함되어 있으며, 그 중 코디세핀은 최고의
-      치료 및 기능성 식품 잠재력으로 인해 가장 중요한 것으로 간주됩니다. 더욱이 코디세핀과 아데노신의 구조적 유사성은 리보스 부분의 3''
-      위치가 부족하고 하이드록실 그룹만 다른 점을 제외하고 중요한 생리활성 성분이 됩니다. 코디세핀은 항당뇨병제, 항고지혈증제, 항진균제, 항염증제,
-      면역조절제, 항산화제, 항노화제, 항암제, 항바이러스제, 간 보호제, 성기능 저하제, 심혈관 질환, 항말라리아제, 항골다공증제, 항관절염제,
-      화장품 등과 같은 다양한 기능성 식품 및 치료 잠재력으로 알려져 있어 건강 상태를 유지하는데 도움을 주는 가장 가치 있는 약용 버섯입니다.
-      건강. 이 검토에서는 약리학적 작용 및 가능한 메커니즘과 함께 코디세핀의 기능식품적 잠재력의 가능한 광범위한 범위를 모두 가져오려는 노력이
-      이루어졌습니다. 또한 예상되는 글로벌 가치와 함께 시장에서 주로 사용할 수 있는 코디세핀 기반 기능성 식품의 세부 사항도 요약합니다. 또한,
-      이 검토는 건강한 생활 방식, 웰빙 및 복지를 지원하고 촉진하기 위한 상업화를 통해 기능 식품 목적으로 생체 활성 분자 코디세핀의 사용을
-      개선하기 위해 식품 과학자, 영양사, 제약 및 식품 산업의 관심을 끌 것입니다.'
-    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. Cordyceps은 히말라야 고원의 고지대에서 흔히 발견되는 희귀한 자연
-      발생 곤충병원성 곰팡이이며, 전통 중국 의학에서 잘 알려진 약용 버섯입니다. Cordyceps에는 다양한 생리활성 성분이 포함되어 있으며,
-      그 중 코디세핀은 최고의 치료 및 기능성 식품 잠재력으로 인해 가장 중요한 것으로 간주됩니다. 더욱이 코디세핀과 아데노신의 구조적 유사성은
-      리보스 부분의 3' 위치가 부족하고 하이드록실 그룹만 다른 점을 제외하고 중요한 생리활성 성분이 됩니다. …
+      · **아데노신**(adenosine). Error 500 (Server Error)!!1500.That’s an error.There
+      was an error. Please try again later.That’s all we know.'
+    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. Error 500 (Server Error)!!1500.That’s an
+      error.There was an error. Please try again later.That’s all we know.
 ---
 
 ## 한국어 요약

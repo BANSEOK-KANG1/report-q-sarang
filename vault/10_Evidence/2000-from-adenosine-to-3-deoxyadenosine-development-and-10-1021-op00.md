@@ -1,6 +1,6 @@
 ---
 record_id: c3ef15a0-d89c-4553-8dcb-09b13cf5d9ef
-title: From Adenosine to 3‘-Deoxyadenosine:  Development and Scale Up
+title: 'From Adenosine to 3‘-Deoxyadenosine: Development and Scale Up'
 authors:
 - Sayed Aman
 - Dane Anderson
@@ -38,7 +38,7 @@ tags:
 - market/research_only
 ---
 
-# From Adenosine to 3‘-Deoxyadenosine:  Development and Scale Up
+# From Adenosine to 3‘-Deoxyadenosine: Development and Scale Up
 
 ## Summary fields
 - **Year:** 2000

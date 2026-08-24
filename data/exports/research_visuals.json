@@ -97,7 +97,7 @@
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-08-17"
+    "fetched_at": "2026-08-24"
   },
   "anti-inflammatory-effects-of-cordycepin-a-review-2020-33090621": {
     "slug": "anti-inflammatory-effects-of-cordycepin-a-review-2020-33090621",
@@ -163,7 +163,7 @@
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-08-17"
+    "fetched_at": "2026-08-24"
   },
   "cordycepin-for-health-and-wellbeing-a-potent-bio-2020-32545666": {
     "slug": "cordycepin-for-health-and-wellbeing-a-potent-bio-2020-32545666",
@@ -268,7 +268,7 @@
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-08-17"
+    "fetched_at": "2026-08-24"
   },
   "cordyceps-polysaccharides-a-review-of-their-immu-2024-39519748": {
     "slug": "cordyceps-polysaccharides-a-review-of-their-immu-2024-39519748",
@@ -362,7 +362,7 @@
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-08-17"
+    "fetched_at": "2026-08-24"
   },
   "a-systematic-review-of-the-biological-effects-of-2021-34641429": {
     "slug": "a-systematic-review-of-the-biological-effects-of-2021-34641429",
@@ -476,7 +476,122 @@
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-08-17"
+    "fetched_at": "2026-08-24"
+  },
+  "current-evidence-of-ergogenic-and-post-exercise--2026-41829950": {
+    "slug": "current-evidence-of-ergogenic-and-post-exercise--2026-41829950",
+    "record_id": "a8693206-38b9-47be-9b3a-4ba9ac7826df",
+    "doi": "10.3390/nu18050781",
+    "pmid": "41829950",
+    "pmcid": "PMC12986667",
+    "figures": [
+      {
+        "type": "figure",
+        "src": "/research-figures/current-evidence-of-ergogenic-and-post-exercise--2026-41829950/nutrients-18-00781-g002.gif",
+        "caption": "원문 Figure (nutrients-18-00781-g002) — Europe PMC OA",
+        "source": "europepmc",
+        "filename": "nutrients-18-00781-g002.gif"
+      },
+      {
+        "type": "figure",
+        "src": "/research-figures/current-evidence-of-ergogenic-and-post-exercise--2026-41829950/nutrients-18-00781-g001.jpg",
+        "caption": "원문 Figure (nutrients-18-00781-g001) — Europe PMC OA",
+        "source": "europepmc",
+        "filename": "nutrients-18-00781-g001.jpg"
+      },
+      {
+        "type": "figure",
+        "src": "/research-figures/current-evidence-of-ergogenic-and-post-exercise--2026-41829950/nutrients-18-00781-g005.jpg",
+        "caption": "원문 Figure (nutrients-18-00781-g005) — Europe PMC OA",
+        "source": "europepmc",
+        "filename": "nutrients-18-00781-g005.jpg"
+      },
+      {
+        "type": "figure",
+        "src": "/research-figures/current-evidence-of-ergogenic-and-post-exercise--2026-41829950/nutrients-18-00781-g006.jpg",
+        "caption": "원문 Figure (nutrients-18-00781-g006) — Europe PMC OA",
+        "source": "europepmc",
+        "filename": "nutrients-18-00781-g006.jpg"
+      }
+    ],
+    "keywords": [
+      "Cordyceps militaris",
+      "Performance",
+      "Exercise capacity",
+      "cordycepin",
+      "Ergothioneine",
+      "Ergogenic",
+      "Post-exercise Recovery"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "Cordyceps",
+      "Exercise",
+      "Dietary Supplements",
+      "Adolescent",
+      "Adult",
+      "Female",
+      "Male",
+      "Athletic Performance",
+      "Young Adult",
+      "Performance-Enhancing Substances",
+      "Post-Exercise Recovery",
+      "Post-Exercise Recovery Techniques"
+    ],
+    "concepts": [
+      {
+        "name": "Medicine",
+        "score": 0.691,
+        "level": 0
+      },
+      {
+        "name": "Narrative review",
+        "score": 0.575,
+        "level": 2
+      },
+      {
+        "name": "Cordyceps militaris",
+        "score": 0.554,
+        "level": 3
+      },
+      {
+        "name": "Randomized controlled trial",
+        "score": 0.513,
+        "level": 2
+      },
+      {
+        "name": "Physiology",
+        "score": 0.433,
+        "level": 1
+      },
+      {
+        "name": "Creatine",
+        "score": 0.393,
+        "level": 2
+      },
+      {
+        "name": "Nutritional Supplementation",
+        "score": 0.361,
+        "level": 2
+      },
+      {
+        "name": "Human studies",
+        "score": 0.339,
+        "level": 2
+      }
+    ],
+    "cited_by_count": 1,
+    "reference_count": 143,
+    "publisher": "MDPI AG",
+    "journal": "",
+    "oa_status": "gold",
+    "oa_url": "https://www.mdpi.com/2072-6643/18/5/781/pdf?version=1772250394",
+    "apis": {
+      "europepmc": true,
+      "openalex": true,
+      "crossref": true
+    },
+    "fetched_at": "2026-08-24"
   },
   "an-immunomodulatory-mushroom-cordyceps-militaris-2026-41432716": {
     "slug": "an-immunomodulatory-mushroom-cordyceps-militaris-2026-41432716",
@@ -555,7 +670,7 @@
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-08-17"
+    "fetched_at": "2026-08-24"
   },
   "immunomodulation-and-protective-effects-of-cordy-2024-39590481": {
     "slug": "immunomodulation-and-protective-effects-of-cordy-2024-39590481",
@@ -655,93 +770,7 @@
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-08-17"
-  },
-  "current-evidence-of-ergogenic-and-post-exercise--2026-41829950": {
-    "slug": "current-evidence-of-ergogenic-and-post-exercise--2026-41829950",
-    "record_id": "a8693206-38b9-47be-9b3a-4ba9ac7826df",
-    "doi": "10.3390/nu18050781",
-    "pmid": "41829950",
-    "pmcid": "",
-    "figures": [],
-    "keywords": [
-      "Cordyceps militaris",
-      "Performance",
-      "Exercise capacity",
-      "cordycepin",
-      "Ergothioneine",
-      "Ergogenic",
-      "Post-exercise Recovery"
-    ],
-    "mesh_terms": [
-      "Humans",
-      "Cordyceps",
-      "Exercise",
-      "Dietary Supplements",
-      "Adolescent",
-      "Adult",
-      "Female",
-      "Male",
-      "Athletic Performance",
-      "Young Adult",
-      "Performance-Enhancing Substances",
-      "Post-Exercise Recovery",
-      "Post-Exercise Recovery Techniques"
-    ],
-    "concepts": [
-      {
-        "name": "Medicine",
-        "score": 0.691,
-        "level": 0
-      },
-      {
-        "name": "Narrative review",
-        "score": 0.575,
-        "level": 2
-      },
-      {
-        "name": "Cordyceps militaris",
-        "score": 0.554,
-        "level": 3
-      },
-      {
-        "name": "Randomized controlled trial",
-        "score": 0.513,
-        "level": 2
-      },
-      {
-        "name": "Physiology",
-        "score": 0.433,
-        "level": 1
-      },
-      {
-        "name": "Creatine",
-        "score": 0.393,
-        "level": 2
-      },
-      {
-        "name": "Nutritional Supplementation",
-        "score": 0.361,
-        "level": 2
-      },
-      {
-        "name": "Human studies",
-        "score": 0.339,
-        "level": 2
-      }
-    ],
-    "cited_by_count": 1,
-    "reference_count": 143,
-    "publisher": "MDPI AG",
-    "journal": "",
-    "oa_status": "gold",
-    "oa_url": "https://www.mdpi.com/2072-6643/18/5/781/pdf?version=1772250394",
-    "apis": {
-      "europepmc": true,
-      "openalex": true,
-      "crossref": true
-    },
-    "fetched_at": "2026-08-17"
+    "fetched_at": "2026-08-24"
   },
   "cordycepin-exhibits-anti-fatigue-effect-via-acti-2022-36399798": {
     "slug": "cordycepin-exhibits-anti-fatigue-effect-via-acti-2022-36399798",
@@ -810,7 +839,7 @@
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-08-17"
+    "fetched_at": "2026-08-24"
   },
   "beneficial-effect-of-cordyceps-militaris-on-exer-2020-33312018": {
     "slug": "beneficial-effect-of-cordyceps-militaris-on-exer-2020-33312018",
@@ -892,18 +921,18 @@
         "level": 1
       }
     ],
-    "cited_by_count": 16,
+    "cited_by_count": 17,
     "reference_count": 24,
     "publisher": "Informa UK Limited",
     "journal": "Mycobiology",
     "oa_status": "gold",
-    "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/12298093.2020.1831135?needAccess=true",
+    "oa_url": "https://doi.org/10.1080/12298093.2020.1831135",
     "apis": {
       "europepmc": true,
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-08-17"
+    "fetched_at": "2026-08-24"
   },
   "cordycepin-attenuated-cyclophosphamide-ctx-induc-2025-40695148": {
     "slug": "cordycepin-attenuated-cyclophosphamide-ctx-induc-2025-40695148",
@@ -989,7 +1018,125 @@
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-08-17"
+    "fetched_at": "2026-08-24"
+  },
+  "evaluation-of-anti-fatigue-property-of-the-extru-2017-28588427": {
+    "slug": "evaluation-of-anti-fatigue-property-of-the-extru-2017-28588427",
+    "record_id": "fe8d3246-5f7f-469a-8971-433378775e2b",
+    "doi": "10.1186/s12970-017-0171-1",
+    "pmid": "28588427",
+    "pmcid": "PMC5457539",
+    "figures": [
+      {
+        "type": "figure",
+        "src": "/research-figures/evaluation-of-anti-fatigue-property-of-the-extru-2017-28588427/12970_2017_171_Fig4_HTML.jpg",
+        "caption": "원문 Figure (12970_2017_171_Fig4_HTML) — Europe PMC OA",
+        "source": "europepmc",
+        "filename": "12970_2017_171_Fig4_HTML.jpg"
+      },
+      {
+        "type": "figure",
+        "src": "/research-figures/evaluation-of-anti-fatigue-property-of-the-extru-2017-28588427/12970_2017_171_Fig4_HTML.gif",
+        "caption": "원문 Figure (12970_2017_171_Fig4_HTML) — Europe PMC OA",
+        "source": "europepmc",
+        "filename": "12970_2017_171_Fig4_HTML.gif"
+      },
+      {
+        "type": "figure",
+        "src": "/research-figures/evaluation-of-anti-fatigue-property-of-the-extru-2017-28588427/12970_2017_171_Fig2_HTML.gif",
+        "caption": "원문 Figure (12970_2017_171_Fig2_HTML) — Europe PMC OA",
+        "source": "europepmc",
+        "filename": "12970_2017_171_Fig2_HTML.gif"
+      },
+      {
+        "type": "figure",
+        "src": "/research-figures/evaluation-of-anti-fatigue-property-of-the-extru-2017-28588427/12970_2017_171_Fig3_HTML.jpg",
+        "caption": "원문 Figure (12970_2017_171_Fig3_HTML) — Europe PMC OA",
+        "source": "europepmc",
+        "filename": "12970_2017_171_Fig3_HTML.jpg"
+      }
+    ],
+    "keywords": [
+      "Cordyceps militaris",
+      "anti-fatigue",
+      "Cereal Grains",
+      "Extruded Product"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "Mice, Inbred C57BL",
+      "Mice",
+      "Cordyceps",
+      "Body Weight",
+      "Fatigue",
+      "Malondialdehyde",
+      "Lactic Acid",
+      "Glycogen",
+      "L-Lactate Dehydrogenase",
+      "Catalase",
+      "Glutathione Peroxidase",
+      "Superoxide Dismutase",
+      "Creatine Kinase",
+      "Blood Urea Nitrogen",
+      "Swimming",
+      "Dietary Supplements",
+      "Male",
+      "Edible Grain"
+    ],
+    "concepts": [
+      {
+        "name": "Cordyceps militaris",
+        "score": 0.844,
+        "level": 3
+      },
+      {
+        "name": "Medicine",
+        "score": 0.661,
+        "level": 0
+      },
+      {
+        "name": "Malondialdehyde",
+        "score": 0.66,
+        "level": 3
+      },
+      {
+        "name": "Glutathione peroxidase",
+        "score": 0.528,
+        "level": 4
+      },
+      {
+        "name": "Catalase",
+        "score": 0.51,
+        "level": 3
+      },
+      {
+        "name": "Superoxide dismutase",
+        "score": 0.503,
+        "level": 3
+      },
+      {
+        "name": "Lactic acid",
+        "score": 0.48,
+        "level": 3
+      },
+      {
+        "name": "Lactate dehydrogenase",
+        "score": 0.447,
+        "level": 3
+      }
+    ],
+    "cited_by_count": 77,
+    "reference_count": 58,
+    "publisher": "Informa UK Limited",
+    "journal": "Journal of the International Society of Sports Nutrition",
+    "oa_status": "gold",
+    "oa_url": "https://jissn.biomedcentral.com/track/pdf/10.1186/s12970-017-0171-1",
+    "apis": {
+      "europepmc": true,
+      "openalex": true,
+      "crossref": true
+    },
+    "fetched_at": "2026-08-24"
   },
   "inhibitory-effects-of-cordycepin-3-deoxyadenosin-2007-18051324": {
     "slug": "inhibitory-effects-of-cordycepin-3-deoxyadenosin-2007-18051324",
@@ -1020,7 +1167,7 @@
       "openalex": false,
       "crossref": false
     },
-    "fetched_at": "2026-08-17"
+    "fetched_at": "2026-08-24"
   },
   "cordycepin-combined-with-antioxidant-effects-imp-2025-40059099": {
     "slug": "cordycepin-combined-with-antioxidant-effects-imp-2025-40059099",
@@ -1130,7 +1277,7 @@
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-08-17"
+    "fetched_at": "2026-08-24"
   },
   "cordyceps-militaris-reduces-oxidative-stress-and-2022-36009221": {
     "slug": "cordyceps-militaris-reduces-oxidative-stress-and-2022-36009221",
@@ -1229,7 +1376,7 @@
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-08-17"
+    "fetched_at": "2026-08-24"
   },
   "protective-effects-of-cordycepin-against-d-galac-2022-35352454": {
     "slug": "protective-effects-of-cordycepin-against-d-galac-2022-35352454",
@@ -1295,7 +1442,7 @@
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-08-17"
+    "fetched_at": "2026-08-24"
   },
   "cordycepin-protects-renal-ischemia-reperfusion-i-2020-31951250": {
     "slug": "cordycepin-protects-renal-ischemia-reperfusion-i-2020-31951250",
@@ -1377,7 +1524,7 @@
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-08-17"
+    "fetched_at": "2026-08-24"
   },
   "the-protective-effect-of-cordycepin-on-d-galacto-2017-28522898": {
     "slug": "the-protective-effect-of-cordycepin-on-d-galacto-2017-28522898",
@@ -1483,95 +1630,6 @@
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-08-17"
-  },
-  "protective-effect-of-cordycepin-enriched-cordyce-2013-23876821": {
-    "slug": "protective-effect-of-cordycepin-enriched-cordyce-2013-23876821",
-    "record_id": "165246c0-84ad-456c-a282-a7f05bf29c01",
-    "doi": "10.1016/j.fct.2013.07.033",
-    "pmid": "23876821",
-    "pmcid": "",
-    "figures": [],
-    "keywords": [
-      "Cordyceps militaris",
-      "Hepatotoxicity",
-      "Silymarin",
-      "Cordycepin-enriched Cordyceps Militaris",
-      "Paecilomyces Japonica"
-    ],
-    "mesh_terms": [
-      "Liver",
-      "Hepatocytes",
-      "Animals",
-      "Rats",
-      "Rats, Sprague-Dawley",
-      "Cordyceps",
-      "Liver Diseases, Alcoholic",
-      "Ethanol",
-      "Acetaldehyde",
-      "Silymarin",
-      "Alkaline Phosphatase",
-      "L-Lactate Dehydrogenase",
-      "gamma-Glutamyltransferase",
-      "Alanine Transaminase",
-      "Aspartate Aminotransferases",
-      "Deoxyadenosines",
-      "Alcohol Drinking",
-      "Male"
-    ],
-    "concepts": [
-      {
-        "name": "Cordyceps militaris",
-        "score": 0.952,
-        "level": 3
-      },
-      {
-        "name": "Cordycepin",
-        "score": 0.941,
-        "level": 2
-      },
-      {
-        "name": "Acetaldehyde",
-        "score": 0.779,
-        "level": 3
-      },
-      {
-        "name": "Hepatoprotection",
-        "score": 0.682,
-        "level": 4
-      },
-      {
-        "name": "Aldehyde dehydrogenase",
-        "score": 0.67,
-        "level": 3
-      },
-      {
-        "name": "Lactate dehydrogenase",
-        "score": 0.664,
-        "level": 3
-      },
-      {
-        "name": "Alcohol",
-        "score": 0.611,
-        "level": 2
-      },
-      {
-        "name": "Alcohol dehydrogenase",
-        "score": 0.585,
-        "level": 3
-      }
-    ],
-    "cited_by_count": 50,
-    "reference_count": 38,
-    "publisher": "Elsevier BV",
-    "journal": "Food and chemical toxicology : an international journal published for the British Industrial Biological Research Association",
-    "oa_status": "closed",
-    "oa_url": "https://pubmed.ncbi.nlm.nih.gov/23876821/",
-    "apis": {
-      "europepmc": true,
-      "openalex": true,
-      "crossref": true
-    },
-    "fetched_at": "2026-08-17"
+    "fetched_at": "2026-08-24"
   }
 }

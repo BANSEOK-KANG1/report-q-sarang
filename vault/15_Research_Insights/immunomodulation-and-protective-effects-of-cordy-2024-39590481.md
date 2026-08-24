@@ -5,7 +5,7 @@ title_ko: Galleria mellonella 유충의 Candida albicans 감염에 대한 Cordyc
   면역조절 및 보호 효과.
 slug: immunomodulation-and-protective-effects-of-cordy-2024-39590481
 record_id: 21182ed3-076f-4f80-870d-cf0f0082acf2
-date: '2026-08-17'
+date: '2026-08-24'
 year: 2024
 authors:
 - Sadaf Ashraf
@@ -44,7 +44,7 @@ tags:
 - cordycepin
 - evidence
 - 제왕충초
-generated: '2026-08-17'
+generated: '2026-08-24'
 visuals:
 - type: figure
   src: /research-figures/immunomodulation-and-protective-effects-of-cordy-2024-39590481/insects-15-00882-g001.gif
@@ -110,7 +110,7 @@ api_meta:
     europepmc: true
     openalex: true
     crossref: true
-  fetched_at: '2026-08-17'
+  fetched_at: '2026-08-24'
 translations:
   title_ko: Galleria mellonella 유충의 Candida albicans 감염에 대한 Cordyceps militaris 추출물의
     면역조절 및 보호 효과.
@@ -222,33 +222,13 @@ translations:
       treatments. This is supported by the finding that polyadenylation factors are
       required for inflammation in macrophages and by the fact that the polyadenylation
       inhibitor cordycepin attenuates pain and pathology in models of OA.
-    ko_literal: 임상적으로 골관절염(OA) 통증은 윤활막 염증과 유의미한 연관이 있습니다. 염증을 유발하는 메커니즘을 확인하면 널리 퍼진
-      통증 상태를 완화하기 위한 새로운 목표를 밝힐 수 있습니다. 여기에서는 OA 윤활막 샘플에서 폴리아데닐화의 역할을 조사했으며, 염증을 억제하고
-      통증과 구조적 OA 진행을 감소시키는 폴리아데닐화 억제제 코디세핀(3' deoxy아데노신)의 잠재력을 연구했습니다. 염증 정도가 높거나
-      낮은 OA 환자와 비관절염 사후 대조군의 관절 조직을 폴리아데닐화 인자 CPSF4 및 염증 표지자에 대해 분석했습니다. 통증 행동 및 관절
-      병리학에 대한 코디세핀의 효과는 OA 모델(쥐의 요오드초산나트륨의 관절내 주사 및 생쥐의 내측 반월판의 수술적 불안정화)에서 연구되었습니다.
-      인간 단핵구 유래 대식세포와 마우스 대식세포 세포주를 사용하여 염증 전사 인자 NFĸB 및 폴리아데닐화 인자(WDR33 및 CPSF4)의
-      핵 위치에 대한 코디세핀의 효과를 확인했습니다. CPSF4 및 NFκB 발현은 고등급 염증이 있는 OA 환자의 윤활막에서 증가했습니다.
-      코디세핀 두 OA 모델 모두에서 통증 행동, 윤활막 염증 및 관절 병리가 감소했습니다. 대식세포의 자극은 NFĸB 및 폴리아데닐화 인자의
-      핵 국소화를 유도했으며, 효과는 코디세핀에 의해 억제되었습니다. 폴리아데닐화 인자의 분해는 또한 NFĸB의 핵 위치화를 방지했습니다. OA
-      활막에서 폴리아데닐화 인자의 발현 증가는 진통제 치료의 새로운 목표를 나타냅니다. 이는 폴리아데닐화 인자가 대식세포의 염증에 필요하다는
-      사실과 폴리아데닐화 억제제 코디세핀이 OA 모델에서 통증과 병리학을 약화시킨다는 사실에 의해 뒷받침됩니다.
-    ko_researcher: '[초록 전체] 핵심 용어: **코디세핀**(cordycepin) · **아데노신**(adenosine). 임상적으로
-      골관절염(OA) 통증은 윤활막 염증과 유의미한 연관이 있습니다. 염증을 유발하는 메커니즘을 확인하면 널리 퍼진 통증 상태를 완화하기 위한
-      새로운 목표를 밝힐 수 있습니다. 여기에서는 OA 윤활막 샘플에서 폴리아데닐화의 역할을 조사했으며, 염증을 억제하고 통증과 구조적 OA
-      진행을 감소시키는 폴리아데닐화 억제제 코디세핀(3'' deoxy아데노신)의 잠재력을 연구했습니다. 염증 정도가 높거나 낮은 OA 환자와
-      비관절염 사후 대조군의 관절 조직을 폴리아데닐화 인자 CPSF4 및 염증 표지자에 대해 분석했습니다. 통증 행동 및 관절 병리학에 대한
-      코디세핀의 효과는 OA 모델(쥐의 요오드초산나트륨의 관절내 주사 및 생쥐의 내측 반월판의 수술적 불안정화)에서 연구되었습니다. 인간 단핵구
-      유래 대식세포와 마우스 대식세포 세포주를 사용하여 염증 전사 인자 NFĸB 및 폴리아데닐화 인자(WDR33 및 CPSF4)의 핵 위치에
-      대한 코디세핀의 효과를 확인했습니다. CPSF4 및 NFκB 발현은 고등급 염증이 있는 OA 환자의 윤활막에서 증가했습니다. 코디세핀 두
-      OA 모델 모두에서 통증 행동, 윤활막 염증 및 관절 병리가 감소했습니다. 대식세포의 자극은 NFĸB 및 폴리아데닐화 인자의 핵 국소화를
-      유도했으며, 효과는 코디세핀에 의해 억제되었습니다. 폴리아데닐화 인자의 분해는 또한 NFĸB의 핵 위치화를 방지했습니다. OA 활막에서
-      폴리아데닐화 인자의 발현 증가는 진통제 치료의 새로운 목표를 나타냅니다. 이는 폴리아데닐화 인자가 대식세포의 염증에 필요하다는 사실과 폴리아데닐화
-      억제제 코디세핀이 OA 모델에서 통증과 병리학을 약화시킨다는 사실에 의해 뒷받침됩니다.'
-    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. 임상적으로 골관절염(OA) 통증은 윤활막 염증과 유의미한 연관이 있습니다.
-      염증을 유발하는 메커니즘을 확인하면 널리 퍼진 통증 상태를 완화하기 위한 새로운 목표를 밝힐 수 있습니다. 여기에서는 OA 윤활막 샘플에서
-      폴리아데닐화의 역할을 조사했으며, 염증을 억제하고 통증과 구조적 OA 진행을 감소시키는 폴리아데닐화 억제제 코디세핀(3' deoxy아데노신)의
-      잠재력을 연구했습니다. …
+    ko_literal: Error 500 (Server Error)!!1500.That’s an error.There was an error.
+      Please try again later.That’s all we know.
+    ko_researcher: '[초록 전체] 핵심 용어: **코디세핀**(cordycepin) · **아데노신**(adenosine). Error
+      500 (Server Error)!!1500.That’s an error.There was an error. Please try again
+      later.That’s all we know.'
+    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. Error 500 (Server Error)!!1500.That’s an
+      error.There was an error. Please try again later.That’s all we know.
 ---
 
 ## 한국어 요약

@@ -36,7 +36,6 @@ jurisdiction_caveats:
 - disease_language_in_source
 - research_only
 source_apis:
-- openalex
 - pubmed
 full_text_available: false
 tags:
