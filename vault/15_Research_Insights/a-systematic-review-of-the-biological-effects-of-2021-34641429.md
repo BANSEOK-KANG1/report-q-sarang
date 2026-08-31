@@ -1,9 +1,10 @@
 ---
 title: A Systematic Review of the Biological Effects of Cordycepin
-title_ko: 코디세핀의 생물학적 효과에 대한 체계적 문헌고찰
+title_ko: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please
+  try again later.That’s all we know.
 slug: a-systematic-review-of-the-biological-effects-of-2021-34641429
 record_id: 7c27cabe-6c22-424f-bec5-50e01e8bb486
-date: '2026-08-24'
+date: '2026-08-31'
 year: 2021
 authors:
 - Masar Radhi
@@ -41,7 +42,7 @@ tags:
 - cordycepin
 - evidence
 - 제왕충초
-generated: '2026-08-24'
+generated: '2026-08-31'
 visuals:
 - type: figure
   src: /research-figures/a-systematic-review-of-the-biological-effects-of-2021-34641429/molecules-26-05886-g006.jpg
@@ -120,9 +121,10 @@ api_meta:
     europepmc: true
     openalex: true
     crossref: true
-  fetched_at: '2026-08-24'
+  fetched_at: '2026-08-31'
 translations:
-  title_ko: 코디세핀의 생물학적 효과에 대한 체계적 문헌고찰
+  title_ko: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please
+    try again later.That’s all we know.
   glossary:
   - en: cordycepin
     ko: 코디세핀
@@ -206,33 +208,13 @@ translations:
       We conclude that cordycepin has excellent potential as a lead for drug development,
       especially for age-related diseases. In addition, we discuss the remaining issues
       around the mechanism of action, toxicity and biodistribution of cordycepin.
-    ko_literal: 우리는 코디세핀이 세포 생존 및 증식, 염증, 신호 전달 및 동물 모델에 미치는 영향에 관한 문헌의 체계적 문헌고찰을
-      수행했습니다. 코디세핀에 대한 총 1204개의 출판물이 2021년 2월 1일 마감일까지 발견되었습니다. 제외 기준을 적용한 후에는 791개의
-      논문이 남았습니다. 이를 읽고 선택한 주제에 대한 데이터를 추출물로 작성했습니다. 우리는 코디세핀이 세포 생존 및 증식에 미치는 영향에
-      관한 192개의 논문을 발견했으며 중앙 억제 농도(IC50)를 135μM로 계산했습니다. 코디세핀 세포 이동(26편)과 세포 염증(53편)을
-      지속적으로 억제했습니다. 신호 전달에 관한 76개 논문의 평가에서는 PI3K/mTOR/AKT 및 ERK 신호 전달과 AMPK 활성화가 지속적으로
-      감소하는 것으로 나타났습니다. 대조적으로, p38 및 Jun 키나제에 대한 코디세핀의 효과는 세포 주기 정지(53개 논문)에 대한 효과와
-      마찬가지로 가변적이어서 이것이 세포 특이적 반응임을 암시합니다. 150개 동물 연구를 조사한 결과, 정제된 코디세핀은 종양 성장 감소(37개
-      논문), 통증 및 염증 억제(9개 논문), 뇌 기능 보호(11개 논문), 호흡기 및 심장 상태 개선(8 및 19개 논문), 대사 장애 개선(8개
-      논문) 등 많은 잠재적인 치료 효과가 있는 것으로 나타났습니다. 거의 모든 데이터는 코디세핀이 AMPK 활성화, PI3K/mTOR/AKT
-      억제 및 염증 반응 억제를 통해 치료 효과를 중재하는 것과 일치합니다. 우리는 코디세핀이 특히 노인성 질환에 대한 약물 개발의 선두주자로서
-      뛰어난 잠재력을 가지고 있다고 결론을 내렸습니다. 또한 코디세핀의 작용 메커니즘, 독성 및 생체 분포와 관련된 나머지 문제에 대해서도 논의합니다.
+    ko_literal: Error 500 (Server Error)!!1500.That’s an error.There was an error.
+      Please try again later.That’s all we know.
     ko_researcher: '[초록 전체] 핵심 용어: **코디세핀**(cordycepin) · **체계적 문헌고찰**(systematic
-      review) · **추출물**(extract). 우리는 코디세핀이 세포 생존 및 증식, 염증, 신호 전달 및 동물 모델에 미치는 영향에
-      관한 문헌의 체계적 문헌고찰을 수행했습니다. 코디세핀에 대한 총 1204개의 출판물이 2021년 2월 1일 마감일까지 발견되었습니다. 제외
-      기준을 적용한 후에는 791개의 논문이 남았습니다. 이를 읽고 선택한 주제에 대한 데이터를 추출물로 작성했습니다. 우리는 코디세핀이 세포
-      생존 및 증식에 미치는 영향에 관한 192개의 논문을 발견했으며 중앙 억제 농도(IC50)를 135μM로 계산했습니다. 코디세핀 세포 이동(26편)과
-      세포 염증(53편)을 지속적으로 억제했습니다. 신호 전달에 관한 76개 논문의 평가에서는 PI3K/mTOR/AKT 및 ERK 신호 전달과
-      AMPK 활성화가 지속적으로 감소하는 것으로 나타났습니다. 대조적으로, p38 및 Jun 키나제에 대한 코디세핀의 효과는 세포 주기 정지(53개
-      논문)에 대한 효과와 마찬가지로 가변적이어서 이것이 세포 특이적 반응임을 암시합니다. 150개 동물 연구를 조사한 결과, 정제된 코디세핀은
-      종양 성장 감소(37개 논문), 통증 및 염증 억제(9개 논문), 뇌 기능 보호(11개 논문), 호흡기 및 심장 상태 개선(8 및 19개
-      논문), 대사 장애 개선(8개 논문) 등 많은 잠재적인 치료 효과가 있는 것으로 나타났습니다. 거의 모든 데이터는 코디세핀이 AMPK 활성화,
-      PI3K/mTOR/AKT 억제 및 염증 반응 억제를 통해 치료 효과를 중재하는 것과 일치합니다. 우리는 코디세핀이 특히 노인성 질환에 대한
-      약물 개발의 선두주자로서 뛰어난 잠재력을 가지고 있다고 결론을 내렸습니다. 또한 코디세핀의 작용 메커니즘, 독성 및 생체 분포와 관련된
-      나머지 문제에 대해서도 논의합니다.'
-    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. 우리는 코디세핀이 세포 생존 및 증식, 염증, 신호 전달 및 동물 모델에
-      미치는 영향에 관한 문헌의 체계적 문헌고찰을 수행했습니다. 코디세핀에 대한 총 1204개의 출판물이 2021년 2월 1일 마감일까지 발견되었습니다.
-      제외 기준을 적용한 후에는 791개의 논문이 남았습니다. …
+      review) · **추출물**(extract). Error 500 (Server Error)!!1500.That’s an error.There
+      was an error. Please try again later.That’s all we know.'
+    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. Error 500 (Server Error)!!1500.That’s an
+      error.There was an error. Please try again later.That’s all we know.
 ---
 
 ## 한국어 요약

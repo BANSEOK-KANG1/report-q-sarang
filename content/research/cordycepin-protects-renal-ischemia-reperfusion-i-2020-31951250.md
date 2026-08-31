@@ -1,10 +1,11 @@
 ---
 title: Cordycepin protects renal ischemia/reperfusion injury through regulating inflammation,
   apoptosis, and oxidative stress.
-title_ko: 코디세핀은 염증, 세포사멸 및 산화 스트레스를 조절하여 신장 허혈/재관류 손상을 보호합니다.
+title_ko: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please
+  try again later.That’s all we know.
 slug: cordycepin-protects-renal-ischemia-reperfusion-i-2020-31951250
 record_id: ba2f492f-187c-474a-8ca6-4015c51ba449
-date: '2026-08-24'
+date: '2026-08-31'
 year: 2020
 authors:
 - Feng Han
@@ -44,7 +45,7 @@ tags:
 - cordycepin
 - evidence
 - 제왕충초
-generated: '2026-08-24'
+generated: '2026-08-31'
 visuals: []
 api_meta:
   keywords:
@@ -90,7 +91,7 @@ api_meta:
   - name: Ischemia
     score: 0.51
     level: 2
-  cited_by_count: 50
+  cited_by_count: 51
   reference_count: 36
   publisher: China Science Publishing & Media Ltd.
   journal: Acta biochimica et biophysica Sinica
@@ -100,9 +101,10 @@ api_meta:
     europepmc: true
     openalex: true
     crossref: true
-  fetched_at: '2026-08-24'
+  fetched_at: '2026-08-31'
 translations:
-  title_ko: 코디세핀은 염증, 세포사멸 및 산화 스트레스를 조절하여 신장 허혈/재관류 손상을 보호합니다.
+  title_ko: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please
+    try again later.That’s all we know.
   glossary:
   - en: cordycepin
     ko: 코디세핀
@@ -130,34 +132,20 @@ translations:
       apoptosis, and oxidative stress. These data provide new insights for investigating
       the natural product with the nephroprotective effect against I/R, which should
       be developed as a new therapeutic agent for the treatment of I/R in the future.
-    ko_literal: 코디세핀(3'-deoxy아데노신)은 자연 발생 아데노신 유사체이며 Cordyceps 곰팡이 속의 종인 Cordyceps
-      sinensis에서 분리된 생리 활성 성분 중 하나입니다. 그것은 전통적으로 인간의 안녕을 위해 귀중한 중국 민간 요법이었습니다. 그러나
-      신장 허혈/재관류 손상(I/R)에 대한 코디세핀의 작용은 아직 알려져 있지 않습니다. 본 연구에서는 쥐에게 I/R을 실시하고 코디세핀을
-      수술 전 7일 연속 위내 투여하여 신장 I/R 손상에 대한 코디세핀의 효과와 메커니즘을 조사했습니다. 실험 동물의 신장 및 말초 혈액 샘플에
-      대한 테스트 결과, 코디세핀은 혈청 혈액 요소 질소 및 크레아티닌 수치를 크게 감소시키고 세포 손상을 현저하게 약화시키는 것으로 나타났습니다.
-      기계론적 연구에 따르면 코디세핀은 염증, 세포사멸 및 산화 스트레스를 유의미하게 조절하는 것으로 나타났습니다. 이러한 데이터는 향후 I/R
-      치료를 위한 새로운 치료제로 개발되어야 하는 I/R에 대한 신장 보호 효과가 있는 천연물을 조사하기 위한 새로운 통찰력을 제공합니다.
+    ko_literal: Error 500 (Server Error)!!1500.That’s an error.There was an error.
+      Please try again later.That’s all we know.
     ko_researcher: '[초록 전체] 핵심 용어: **코디세핀**(cordycepin) · **Cordyceps**(cordyceps)
-      · **아데노신**(adenosine). 코디세핀(3''-deoxy아데노신)은 자연 발생 아데노신 유사체이며 Cordyceps 곰팡이 속의
-      종인 Cordyceps sinensis에서 분리된 생리 활성 성분 중 하나입니다. 그것은 전통적으로 인간의 안녕을 위해 귀중한 중국 민간
-      요법이었습니다. 그러나 신장 허혈/재관류 손상(I/R)에 대한 코디세핀의 작용은 아직 알려져 있지 않습니다. 본 연구에서는 쥐에게 I/R을
-      실시하고 코디세핀을 수술 전 7일 연속 위내 투여하여 신장 I/R 손상에 대한 코디세핀의 효과와 메커니즘을 조사했습니다. 실험 동물의 신장
-      및 말초 혈액 샘플에 대한 테스트 결과, 코디세핀은 혈청 혈액 요소 질소 및 크레아티닌 수치를 크게 감소시키고 세포 손상을 현저하게 약화시키는
-      것으로 나타났습니다. 기계론적 연구에 따르면 코디세핀은 염증, 세포사멸 및 산화 스트레스를 유의미하게 조절하는 것으로 나타났습니다. 이러한
-      데이터는 향후 I/R 치료를 위한 새로운 치료제로 개발되어야 하는 I/R에 대한 신장 보호 효과가 있는 천연물을 조사하기 위한 새로운 통찰력을
-      제공합니다.'
-    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. 코디세핀(3'-deoxy아데노신)은 자연 발생 아데노신 유사체이며 Cordyceps
-      곰팡이 속의 종인 Cordyceps sinensis에서 분리된 생리 활성 성분 중 하나입니다. 그것은 전통적으로 인간의 안녕을 위해 귀중한
-      중국 민간 요법이었습니다. 그러나 신장 허혈/재관류 손상(I/R)에 대한 코디세핀의 작용은 아직 알려져 있지 않습니다. …
+      · **아데노신**(adenosine). Error 500 (Server Error)!!1500.That’s an error.There
+      was an error. Please try again later.That’s all we know.'
+    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. Error 500 (Server Error)!!1500.That’s an
+      error.There was an error. Please try again later.That’s all we know.
   easy_read:
     headline: 2020년에 나온 아직 실험실·동물 단계 논문입니다. 핵심 주제는 「염증 반응과 관련된 연구 주제」입니다.
-    what_is_this: 이 글은 「염증 반응과 관련된 연구 주제」에 대한 학술 정리입니다. 코디세핀(3'-deoxy아데노신)은 자연 발생
-      아데노신 유사체이며 Cordyceps 곰팡이 속의 종인 Cordyceps sinensis에서 분리된 생리 활성 성분 중 하나입니다. 그것은
-      전통적으로 인간의 안녕을 위해 귀중한 중국 민간 요법이었습니다.
+    what_is_this: 이 글은 「염증 반응과 관련된 연구 주제」에 대한 학술 정리입니다. Error 500 (Server Error)!!1500.That’s
+      an error.There was an error. Please try again later.That’s all we know.
     what_they_did: 논문·데이터를 모아 분석·정리했습니다.
-    what_they_found: 코디세핀(3'-deoxy아데노신)은 자연 발생 아데노신 유사체이며 Cordyceps 곰팡이 속의 종인 Cordyceps
-      sinensis에서 분리된 생리 활성 성분 중 하나입니다. 그것은 전통적으로 인간의 안녕을 위해 귀중한 중국 민간 요법이었습니다. 그러나
-      신장 허혈/재관류 손상(I/R)에 대한 코디세핀의 작용은 아직 알려져 있지 않습니다.
+    what_they_found: Error 500 (Server Error)!!1500.That’s an error.There was an error.
+      Please try again later.That’s all we know.
     good_to_know:
     - 이 글은 **술·담금주가 몸에 좋다**는 이야기가 아닙니다.
     - 연구실·논문에서 말하는 **생리활성·기능성 주제**를 할머니·할아버지도 읽기 쉽게 풀어 쓴 것입니다.
@@ -168,10 +156,8 @@ translations:
     sections:
     - id: summary
       label: 한줄 요약
-      text: 코디세핀(3'-deoxy아데노신)은 자연 발생 아데노신 유사체이며 Cordyceps 곰팡이 속의 종인 Cordyceps sinensis에서
-        분리된 생리 활성 성분 중 하나입니다. 그것은 전통적으로 인간의 안녕을 위해 귀중한 중국 민간 요법이었습니다. 그러나 신장 허혈/재관류
-        손상(I/R)에 대한 코디세핀의 작용은 아직 알려져 있지 않습니다. 본 연구에서는 쥐에게 I/R을 실시하고 코디세핀을 수술 전 7일
-        연속 위내 투여하여 신장 I/R 손상에 대한 코디세핀의 효과와 메커니즘을 조사했습니다.
+      text: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please
+        try again later.That’s all we know.
   full:
     en: Cordycepin (3'-deoxyadenosine) is a naturally occurring adenosine analog and
       one of the bioactive constituents isolated from Cordyceps sinensis, species

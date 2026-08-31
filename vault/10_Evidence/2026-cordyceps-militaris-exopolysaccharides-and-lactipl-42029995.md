@@ -16,13 +16,14 @@ doi: 10.1007/s12602-026-11023-9
 pmid: '42029995'
 url: https://europepmc.org/article/MED/42029995
 track: militaris
-compound: cordyceps_extract
+compound: unclear
 species: Cordyceps_militaris
 study_type: animal
 evidence_strength: C_animal
 relevance_to_product: partial
 claim_category: immune
 risk_flags:
+- missing_abstract
 - preclinical_only
 maps_to_market: research_only
 citation_status: candidate
@@ -48,9 +49,9 @@ tags:
 - **Study type:** animal
 - **Evidence strength:** C_animal
 - **Species:** Cordyceps_militaris
-- **Compound:** cordyceps_extract
+- **Compound:** unclear
 - **Claim category:** immune
-- **Risk flags:** preclinical_only
+- **Risk flags:** missing_abstract, preclinical_only
 - **Maps to market:** research_only
 - **Citation status:** candidate
 - **DOI:** 10.1007/s12602-026-11023-9
@@ -58,7 +59,7 @@ tags:
 - **URL:** https://europepmc.org/article/MED/42029995
 
 ## Abstract
-A novel acidic exopolysaccharide (AEPS) extracted from Cordyceps militaris fermentation broth has potent immunomodulatory activity, but its mechanism with probiotics in immune and gut microbiota regulation remains unclear. This study investigated the prebiotic activity and gastrointestinal digestion resistance of AEPS on Lactiplantibacillus plantarum H8, as well as the immunomodulatory effects of the AEPS-H8 combination on cyclophosphamide (CTX)-induced immunosuppressed mice. Results showed AEPS promoted H8 growth in a dose-dependent manner, protected its activity after in vitro simulated digestion, and enhanced its intestinal release. Supplementation with AEPS, H8, or AEPS+H8 alleviated CTX-induced mice’s weight loss and improved immune organ indices, with the combination showing superior synergy. It also promoted splenic T/B lymphocyte proliferation, elevated cytokines (IL-2, IL-4, IFN-γ) and increased immunoglobulins (IgA, IgM, IgG). 16 S rRNA sequencing revealed that AEPS+H8 increased bacterial groups including Muribaculaceae and norank_o_Clostridia_UCG-014, as well as short-chain fatty acids (SCFAs) content, while reducing bacterial groups including Lachnospiraceae, Oscillospiraceae, and Ruminococcaceae. Western blot showed AEPS+H8 promoted the phosphorylation and expression of ERK, JNK and p38, as well as p65, p-IkB-α, Akt, p-Akt, and upstream molecule MyD88. In summary, AEPS+H8 synergistically improves immune parameters, regulates gut microbiota, and mediates MAPK/NF-κB/PI3K-Akt signaling pathways to restore immune responses in CTX-damaged mice, providing evidence for its potential application in functional foods.
+_No abstract_
 
 ## Relevance notes
 _n/a_

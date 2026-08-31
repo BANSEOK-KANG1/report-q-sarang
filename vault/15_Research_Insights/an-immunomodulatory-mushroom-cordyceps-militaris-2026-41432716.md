@@ -5,7 +5,7 @@ title_ko: Error 500 (Server Error)!!1500.That’s an error.There was an error. P
   try again later.That’s all we know.
 slug: an-immunomodulatory-mushroom-cordyceps-militaris-2026-41432716
 record_id: 7abff759-52d0-4b88-930c-e1e1c41bd557
-date: '2026-08-24'
+date: '2026-08-31'
 year: 2026
 authors:
 - Yang EJ
@@ -42,7 +42,7 @@ tags:
 - cordycepin
 - evidence
 - 제왕충초
-generated: '2026-08-24'
+generated: '2026-08-31'
 visuals: []
 api_meta:
   keywords:
@@ -85,7 +85,7 @@ api_meta:
   - name: Ex vivo
     score: 0.436
     level: 3
-  cited_by_count: 5
+  cited_by_count: 6
   reference_count: 190
   publisher: Wiley
   journal: ''
@@ -95,7 +95,7 @@ api_meta:
     europepmc: true
     openalex: true
     crossref: true
-  fetched_at: '2026-08-24'
+  fetched_at: '2026-08-31'
 translations:
   title_ko: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please
     try again later.That’s all we know.

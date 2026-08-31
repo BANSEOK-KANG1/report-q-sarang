@@ -4,7 +4,7 @@ title: Cordyceps militaris Reduces Oxidative Stress and Regulates Immune T Cells
 title_ko: Cordyceps militaris 산화 스트레스를 줄이고 면역 T 세포를 조절하여 전이성 흑색종 침입을 억제합니다.
 slug: cordyceps-militaris-reduces-oxidative-stress-and-2022-36009221
 record_id: 8de659c8-0087-4f66-9450-9cb0827c4f72
-date: '2026-08-24'
+date: '2026-08-31'
 year: 2022
 authors:
 - Yuan-Hong Lan
@@ -41,7 +41,7 @@ tags:
 - cordycepin
 - evidence
 - 제왕충초
-generated: '2026-08-24'
+generated: '2026-08-31'
 visuals:
 - type: figure
   src: /research-figures/cordyceps-militaris-reduces-oxidative-stress-and-2022-36009221/antioxidants-11-01502-g005.jpg
@@ -106,7 +106,7 @@ api_meta:
     europepmc: true
     openalex: true
     crossref: true
-  fetched_at: '2026-08-24'
+  fetched_at: '2026-08-31'
 translations:
   title_ko: Cordyceps militaris 산화 스트레스를 줄이고 면역 T 세포를 조절하여 전이성 흑색종 침입을 억제합니다.
   glossary:
@@ -135,20 +135,38 @@ translations:
       immunogenicity. This study showed that CM exhibits various biological capabilities,
       including antioxidation, anti-tumor, tumor invasion suppression, and T cytotoxic
       cell activity promotion.
-    ko_literal: Error 500 (Server Error)!!1500.That’s an error.There was an error.
-      Please try again later.That’s all we know.
+    ko_literal: 본 연구에서는 Cordyceps militaris(Linn.) Link(CM)의 물 추출물을 기능성 물질로 사용하여 B16F10
+      및 폐전이성 흑색종(LMM) 세포에 대한 억제 메커니즘을 조사하였다. 환원력, 킬레이트화 능력 및 2,2-diphenyl-2-picrylhydrazyl
+      (DPPH) 분석을 항산화 능력에 적용했으며 적절한 농도의 CM에서 긍정적인 결과를 얻었습니다. 흑색종 증식 억제에서 CM의 능력을 조사하고
+      이전 결과를 입증하기 위해 (3-(4,5-디메틸티아졸-2-일)-2,5-디페닐테트라졸륨 브로마이드, MTT, 테트라졸) 분석, 세포 이동
+      및 침입 평가를 통해 세 가지 세포 실험을 수행했습니다. 배양 배지에 CM을 첨가하면 CD8+ T 세포의 수가 크게 증가하여 면역원성이
+      향상되었습니다. 이 연구는 CM이 항산화, 항종양, 종양 침입 억제 및 T 세포 독성 세포 활동 촉진을 포함한 다양한 생물학적 능력을 나타냄을
+      보여주었습니다.
     ko_researcher: '[초록 전체] 핵심 용어: **Cordyceps militaris**(cordyceps militaris) ·
-      **Cordyceps**(cordyceps) · **추출물**(extract). Error 500 (Server Error)!!1500.That’s
-      an error.There was an error. Please try again later.That’s all we know.'
-    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. Error 500 (Server Error)!!1500.That’s an
-      error.There was an error. Please try again later.That’s all we know.
+      **Cordyceps**(cordyceps) · **추출물**(extract). 본 연구에서는 Cordyceps militaris(Linn.)
+      Link(CM)의 물 추출물을 기능성 물질로 사용하여 B16F10 및 폐전이성 흑색종(LMM) 세포에 대한 억제 메커니즘을 조사하였다.
+      환원력, 킬레이트화 능력 및 2,2-diphenyl-2-picrylhydrazyl (DPPH) 분석을 항산화 능력에 적용했으며 적절한 농도의
+      CM에서 긍정적인 결과를 얻었습니다. 흑색종 증식 억제에서 CM의 능력을 조사하고 이전 결과를 입증하기 위해 (3-(4,5-디메틸티아졸-2-일)-2,5-디페닐테트라졸륨
+      브로마이드, MTT, 테트라졸) 분석, 세포 이동 및 침입 평가를 통해 세 가지 세포 실험을 수행했습니다. 배양 배지에 CM을 첨가하면
+      CD8+ T 세포의 수가 크게 증가하여 면역원성이 향상되었습니다. 이 연구는 CM이 항산화, 항종양, 종양 침입 억제 및 T 세포 독성
+      세포 활동 촉진을 포함한 다양한 생물학적 능력을 나타냄을 보여주었습니다.'
+    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. 본 연구에서는 Cordyceps militaris(Linn.) Link(CM)의
+      물 추출물을 기능성 물질로 사용하여 B16F10 및 폐전이성 흑색종(LMM) 세포에 대한 억제 메커니즘을 조사하였다. 환원력, 킬레이트화
+      능력 및 2,2-diphenyl-2-picrylhydrazyl (DPPH) 분석을 항산화 능력에 적용했으며 적절한 농도의 CM에서 긍정적인
+      결과를 얻었습니다. 흑색종 증식 억제에서 CM의 능력을 조사하고 이전 결과를 입증하기 위해 (3-(4,5-디메틸티아졸-2-일)-2,5-디페닐테트라졸륨
+      브로마이드, MTT, 테트라졸) 분석, 세포 이동 및 침입 평가를 통해 세 가지 세포 실험을 수행했습니다. …
   easy_read:
     headline: 2022년에 나온 아직 실험실·동물 단계 논문입니다. 핵심 주제는 「몸의 방어 반응(면역)과 관련된 연구 주제」입니다.
-    what_is_this: 이 글은 「몸의 방어 반응(면역)과 관련된 연구 주제」에 대한 학술 정리입니다. Error 500 (Server Error)!!1500.That’s
-      an error.There was an error. Please try again later.That’s all we know.
+    what_is_this: 이 글은 「몸의 방어 반응(면역)과 관련된 연구 주제」에 대한 학술 정리입니다. 본 연구에서는 Cordyceps militaris(Linn.)
+      Link(CM)의 물 물이나 술 등으로 뽑아낸 성분을 기능성 물질로 사용하여 B16F10 및 폐전이성 흑색종(LMM) 세포에 대한 억제
+      메커니즘을 조사하였다. 환원력, 킬레이트화 능력 및 2,2-diphenyl-2-picrylhydrazyl (DPPH) 분석을 항산화 능력에
+      적용했으며 적절한 농도의 CM에서 긍정적인 결과를 얻었습니다.
     what_they_did: 논문·데이터를 모아 분석·정리했습니다.
-    what_they_found: Error 500 (Server Error)!!1500.That’s an error.There was an error.
-      Please try again later.That’s all we know.
+    what_they_found: 본 연구에서는 Cordyceps militaris(Linn.) Link(CM)의 물 물이나 술 등으로 뽑아낸
+      성분을 기능성 물질로 사용하여 B16F10 및 폐전이성 흑색종(LMM) 세포에 대한 억제 메커니즘을 조사하였다. 환원력, 킬레이트화 능력
+      및 2,2-diphenyl-2-picrylhydrazyl (DPPH) 분석을 항산화 능력에 적용했으며 적절한 농도의 CM에서 긍정적인 결과를
+      얻었습니다. 흑색종 증식 억제에서 CM의 능력을 조사하고 이전 결과를 입증하기 위해 (3-(4,5-디메틸티아졸-2-일)-2,5-디페닐테트라졸륨
+      브로마이드, MTT, 테트라졸) 분석, 세포 이동 및 침입 평가를 통해 세 가지 세포 실험을 수행했습니다.
     good_to_know:
     - 이 글은 **술·담금주가 몸에 좋다**는 이야기가 아닙니다.
     - 연구실·논문에서 말하는 **생리활성·기능성 주제**를 할머니·할아버지도 읽기 쉽게 풀어 쓴 것입니다.
@@ -159,8 +177,9 @@ translations:
     sections:
     - id: summary
       label: 한줄 요약
-      text: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please
-        try again later.That’s all we know.
+      text: 본 연구에서는 Cordyceps militaris(Linn.) Link(CM)의 물 물이나 술 등으로 뽑아낸 성분을 기능성 물질로
+        사용하여 B16F10 및 폐전이성 흑색종(LMM) 세포에 대한 억제 메커니즘을 조사하였다. 환원력, 킬레이트화 능력 및 2,2-diphenyl-2-picrylhydrazyl
+        (DPPH) 분석을 항산화 능력에 적용했으며 적절한 농도의 CM에서 긍정적인 결과를 얻었습니다.
   full:
     en: In this study, the water extract of Cordyceps militaris (Linn.) Link (CM)
       was used as a functional material to investigate the inhibitory mechanisms on

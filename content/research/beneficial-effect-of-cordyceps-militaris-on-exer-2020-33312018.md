@@ -4,7 +4,7 @@ title: Beneficial Effect of Cordyceps militaris on Exercise Performance via Prom
 title_ko: 세포 에너지 생산 촉진을 통한 운동 성능에 대한 Cordyceps militaris의 유익한 효과.
 slug: beneficial-effect-of-cordyceps-militaris-on-exer-2020-33312018
 record_id: 907f6292-4ff0-4de8-9a1a-e1ce6b7d5dd3
-date: '2026-08-24'
+date: '2026-08-31'
 year: 2020
 authors:
 - Eunhyun Choi
@@ -36,7 +36,7 @@ tags:
 - cordycepin
 - evidence
 - 제왕충초
-generated: '2026-08-24'
+generated: '2026-08-31'
 visuals:
 - type: figure
   src: /research-figures/beneficial-effect-of-cordyceps-militaris-on-exer-2020-33312018/TMYB_A_1831135_F0001_B.gif
@@ -97,7 +97,7 @@ api_meta:
     europepmc: true
     openalex: true
     crossref: true
-  fetched_at: '2026-08-24'
+  fetched_at: '2026-08-31'
 translations:
   title_ko: 세포 에너지 생산 촉진을 통한 운동 성능에 대한 Cordyceps militaris의 유익한 효과.
   glossary:
@@ -127,20 +127,30 @@ translations:
       biomarkers. Therefore, C. militaris has the possibility of improving exercise
       performance, which could be associated with the increase in ATP production rather
       than the decrease in muscle fatigue during exercise.
-    ko_literal: Error 500 (Server Error)!!1500.That’s an error.There was an error.
-      Please try again later.That’s all we know.
+    ko_literal: Cordyceps militaris은 암, 염증성 질환, 세균이나 바이러스 감염 등 다양한 약리작용이 보고되고 있습니다.
+      그러나 C. militaris가 운동수행에 미치는 영향은 아직까지 밝혀지지 않았다. 본 연구에서는 C. militaris가 운동 수행에
+      미치는 유익한 효과를 조사했습니다. 운동수행능력을 평가하기 위해 C. militaris 에틸아세테이트추출물(CMEE)을 조제하고 투여 후
+      매주 악력 테스트를 실시하였다. 또한 생화학적 분석을 위해 실험이 끝날 때 혈액 샘플을 수집했습니다. CMEE 투여에 따라 악력이 약간
+      증가하였으며, 이 결과는 홍삼 투여군과 유사하였다. 생화학적 분석 결과, CMEE는 ATP 생성 경로 관련 바이오마커에 영향을 미쳤으나,
+      근육 피로 관련 바이오마커에는 거의 영향을 미치지 않는 것으로 나타났다. 따라서 C. militaris는 운동 수행 능력을 향상시킬 가능성이
+      있으며, 이는 운동 중 근육 피로 감소보다는 ATP 생성 증가와 관련이 있을 수 있습니다.
     ko_researcher: '[초록 전체] 핵심 용어: **Cordyceps militaris**(cordyceps militaris) ·
-      **Cordyceps**(cordyceps) · **추출물**(extract). Error 500 (Server Error)!!1500.That’s
-      an error.There was an error. Please try again later.That’s all we know.'
-    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. Error 500 (Server Error)!!1500.That’s an
-      error.There was an error. Please try again later.That’s all we know.
+      **Cordyceps**(cordyceps) · **추출물**(extract). Cordyceps militaris은 암, 염증성 질환,
+      세균이나 바이러스 감염 등 다양한 약리작용이 보고되고 있습니다. 그러나 C. militaris가 운동수행에 미치는 영향은 아직까지 밝혀지지
+      않았다. 본 연구에서는 C. militaris가 운동 수행에 미치는 유익한 효과를 조사했습니다. 운동수행능력을 평가하기 위해 C. militaris
+      에틸아세테이트추출물(CMEE)을 조제하고 투여 후 매주 악력 테스트를 실시하였다. 또한 생화학적 분석을 위해 실험이 끝날 때 혈액 샘플을
+      수집했습니다. CMEE 투여에 따라 악력이 약간 증가하였으며, 이 결과는 홍삼 투여군과 유사하였다. 생화학적 분석 결과, CMEE는 ATP
+      생성 경로 관련 바이오마커에 영향을 미쳤으나, 근육 피로 관련 바이오마커에는 거의 영향을 미치지 않는 것으로 나타났다. 따라서 C. militaris는
+      운동 수행 능력을 향상시킬 가능성이 있으며, 이는 운동 중 근육 피로 감소보다는 ATP 생성 증가와 관련이 있을 수 있습니다.'
+    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. Cordyceps militaris은 암, 염증성 질환, 세균이나 바이러스
+      감염 등 다양한 약리작용이 보고되고 있습니다. 그러나 C. militaris가 운동수행에 미치는 영향은 아직까지 밝혀지지 않았다. …
   easy_read:
     headline: 2020년에 나온 아직 실험실·동물 단계 논문입니다. 핵심 주제는 「운동·체력과 관련된 연구 주제」입니다.
-    what_is_this: 이 글은 「운동·체력과 관련된 연구 주제」에 대한 학술 정리입니다. Error 500 (Server Error)!!1500.That’s
-      an error.There was an error. Please try again later.That’s all we know.
+    what_is_this: 이 글은 「운동·체력과 관련된 연구 주제」에 대한 학술 정리입니다. Cordyceps militaris은 암, 염증성
+      질환, 세균이나 바이러스 감염 등 다양한 약리작용이 보고되고 있습니다. 그러나 C.
     what_they_did: 논문·데이터를 모아 분석·정리했습니다.
-    what_they_found: Error 500 (Server Error)!!1500.That’s an error.There was an error.
-      Please try again later.That’s all we know.
+    what_they_found: Cordyceps militaris은 암, 염증성 질환, 세균이나 바이러스 감염 등 다양한 약리작용이 보고되고
+      있습니다. 그러나 C. militaris가 운동수행에 미치는 영향은 아직까지 밝혀지지 않았다.
     good_to_know:
     - 이 글은 **술·담금주가 몸에 좋다**는 이야기가 아닙니다.
     - 연구실·논문에서 말하는 **생리활성·기능성 주제**를 할머니·할아버지도 읽기 쉽게 풀어 쓴 것입니다.
@@ -151,8 +161,8 @@ translations:
     sections:
     - id: summary
       label: 한줄 요약
-      text: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please
-        try again later.That’s all we know.
+      text: Cordyceps militaris은 암, 염증성 질환, 세균이나 바이러스 감염 등 다양한 약리작용이 보고되고 있습니다. 그러나
+        C. militaris가 운동수행에 미치는 영향은 아직까지 밝혀지지 않았다. 본 연구에서는 C.
   full:
     en: Cordyceps militaris has been reported to the diverse pharmaceutical effects
       including cancer, inflammatory diseases, and bacteria or virus infection. However,
@@ -168,13 +178,23 @@ translations:
       biomarkers. Therefore, C. militaris has the possibility of improving exercise
       performance, which could be associated with the increase in ATP production rather
       than the decrease in muscle fatigue during exercise.
-    ko_literal: Error 500 (Server Error)!!1500.That’s an error.There was an error.
-      Please try again later.That’s all we know.
+    ko_literal: Cordyceps militaris은 암, 염증성 질환, 세균이나 바이러스 감염 등 다양한 약리작용이 보고되고 있습니다.
+      그러나 C. militaris가 운동수행에 미치는 영향은 아직까지 밝혀지지 않았다. 본 연구에서는 C. militaris가 운동 수행에
+      미치는 유익한 효과를 조사했습니다. 운동수행능력을 평가하기 위해 C. militaris 에틸아세테이트추출물(CMEE)을 조제하고 투여 후
+      매주 악력 테스트를 실시하였다. 또한 생화학적 분석을 위해 실험이 끝날 때 혈액 샘플을 수집했습니다. CMEE 투여에 따라 악력이 약간
+      증가하였으며, 이 결과는 홍삼 투여군과 유사하였다. 생화학적 분석 결과, CMEE는 ATP 생성 경로 관련 바이오마커에 영향을 미쳤으나,
+      근육 피로 관련 바이오마커에는 거의 영향을 미치지 않는 것으로 나타났다. 따라서 C. militaris는 운동 수행 능력을 향상시킬 가능성이
+      있으며, 이는 운동 중 근육 피로 감소보다는 ATP 생성 증가와 관련이 있을 수 있습니다.
     ko_researcher: '[초록 전체] 핵심 용어: **Cordyceps militaris**(cordyceps militaris) ·
-      **Cordyceps**(cordyceps) · **추출물**(extract). Error 500 (Server Error)!!1500.That’s
-      an error.There was an error. Please try again later.That’s all we know.'
-    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. Error 500 (Server Error)!!1500.That’s an
-      error.There was an error. Please try again later.That’s all we know.
+      **Cordyceps**(cordyceps) · **추출물**(extract). Cordyceps militaris은 암, 염증성 질환,
+      세균이나 바이러스 감염 등 다양한 약리작용이 보고되고 있습니다. 그러나 C. militaris가 운동수행에 미치는 영향은 아직까지 밝혀지지
+      않았다. 본 연구에서는 C. militaris가 운동 수행에 미치는 유익한 효과를 조사했습니다. 운동수행능력을 평가하기 위해 C. militaris
+      에틸아세테이트추출물(CMEE)을 조제하고 투여 후 매주 악력 테스트를 실시하였다. 또한 생화학적 분석을 위해 실험이 끝날 때 혈액 샘플을
+      수집했습니다. CMEE 투여에 따라 악력이 약간 증가하였으며, 이 결과는 홍삼 투여군과 유사하였다. 생화학적 분석 결과, CMEE는 ATP
+      생성 경로 관련 바이오마커에 영향을 미쳤으나, 근육 피로 관련 바이오마커에는 거의 영향을 미치지 않는 것으로 나타났다. 따라서 C. militaris는
+      운동 수행 능력을 향상시킬 가능성이 있으며, 이는 운동 중 근육 피로 감소보다는 ATP 생성 증가와 관련이 있을 수 있습니다.'
+    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. Cordyceps militaris은 암, 염증성 질환, 세균이나 바이러스
+      감염 등 다양한 약리작용이 보고되고 있습니다. 그러나 C. militaris가 운동수행에 미치는 영향은 아직까지 밝혀지지 않았다. …
 ---
 
 ## 한국어 요약

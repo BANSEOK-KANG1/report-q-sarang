@@ -1,7 +1,7 @@
 ---
 title: FDA·식약처 이름을 붙이기 전에 — 코디세핀 이야기에서 자주 생기는 오해
 slug: fda-mfds-context
-date: '2026-08-24'
+date: '2026-08-31'
 brand: 큐사랑
 product: 제왕충초 담금주
 category: education
@@ -20,7 +20,7 @@ tags:
 - cordycepin
 - 제왕충초
 - 큐사랑
-generated: '2026-08-24'
+generated: '2026-08-31'
 ---
 
 # FDA·식약처 이름을 붙이기 전에 — 코디세핀 이야기에서 자주 생기는 오해

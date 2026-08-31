@@ -1,11 +1,11 @@
 ---
 title: Immunomodulation and Protective Effects of Cordyceps militaris Extract Against
   Candida albicans Infection in Galleria mellonella Larvae.
-title_ko: Galleria mellonella 유충의 Candida albicans 감염에 대한 Cordyceps militaris 추출물의
-  면역조절 및 보호 효과.
+title_ko: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please
+  try again later.That’s all we know.
 slug: immunomodulation-and-protective-effects-of-cordy-2024-39590481
 record_id: 21182ed3-076f-4f80-870d-cf0f0082acf2
-date: '2026-08-24'
+date: '2026-08-31'
 year: 2024
 authors:
 - Sadaf Ashraf
@@ -44,7 +44,7 @@ tags:
 - cordycepin
 - evidence
 - 제왕충초
-generated: '2026-08-24'
+generated: '2026-08-31'
 visuals:
 - type: figure
   src: /research-figures/immunomodulation-and-protective-effects-of-cordy-2024-39590481/insects-15-00882-g001.gif
@@ -110,10 +110,10 @@ api_meta:
     europepmc: true
     openalex: true
     crossref: true
-  fetched_at: '2026-08-24'
+  fetched_at: '2026-08-31'
 translations:
-  title_ko: Galleria mellonella 유충의 Candida albicans 감염에 대한 Cordyceps militaris 추출물의
-    면역조절 및 보호 효과.
+  title_ko: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please
+    try again later.That’s all we know.
   glossary:
   - en: cordycepin
     ko: 코디세핀
@@ -124,6 +124,56 @@ translations:
   sections:
   - id: summary
     label_ko: 초록 전체
+    en: Clinically, osteoarthritis (OA) pain is significantly associated with synovial
+      inflammation. Identification of the mechanisms driving inflammation could reveal
+      new targets to relieve this prevalent pain state. Herein, a role of polyadenylation
+      in OA synovial samples was investigated, and the potential of the polyadenylation
+      inhibitor cordycepin (3' deoxyadenosine) to inhibit inflammation as well as
+      to reduce pain and structural OA progression were studied. Joint tissues from
+      people with OA with high or low grade inflammation and non-arthritic post-mortem
+      controls were analysed for the polyadenylation factor CPSF4 and inflammatory
+      markers. Effects of cordycepin on pain behavior and joint pathology were studied
+      in models of OA (intra-articular injection of monosodium iodoacetate in rats
+      and surgical destabilisation of the medial meniscus in mice). Human monocyte-derived
+      macrophages and a mouse macrophage cell line were used to determine effects
+      of cordycepin on nuclear localisation of the inflammatory transcription factor
+      NFĸB and polyadenylation factors (WDR33 and CPSF4). CPSF4 and NFκB expression
+      were increased in synovia from OA patients with high grade inflammation. Cordycepin
+      reduced pain behaviour, synovial inflammation and joint pathology in both OA
+      models. Stimulation of macrophages induced nuclear localisation of NFĸB and
+      polyadenylation factors, effects inhibited by cordycepin. Knockdown of polyadenylation
+      factors also prevented nuclear localisation of NFĸB. The increased expression
+      of polyadenylation factors in OA synovia indicates a new target for analgesia
+      treatments. This is supported by the finding that polyadenylation factors are
+      required for inflammation in macrophages and by the fact that the polyadenylation
+      inhibitor cordycepin attenuates pain and pathology in models of OA.
+    ko_literal: Error 500 (Server Error)!!1500.That’s an error.There was an error.
+      Please try again later.That’s all we know.
+    ko_researcher: '[초록 전체] 핵심 용어: **코디세핀**(cordycepin) · **아데노신**(adenosine). Error
+      500 (Server Error)!!1500.That’s an error.There was an error. Please try again
+      later.That’s all we know.'
+    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. Error 500 (Server Error)!!1500.That’s an
+      error.There was an error. Please try again later.That’s all we know.
+  easy_read:
+    headline: 2024년에 나온 아직 실험실·동물 단계 논문입니다. 핵심 주제는 「몸의 방어 반응(면역)과 관련된 연구 주제」입니다.
+    what_is_this: 이 글은 「몸의 방어 반응(면역)과 관련된 연구 주제」에 대한 학술 정리입니다. Error 500 (Server Error)!!1500.That’s
+      an error.There was an error. Please try again later.That’s all we know.
+    what_they_did: 논문·데이터를 모아 분석·정리했습니다.
+    what_they_found: Error 500 (Server Error)!!1500.That’s an error.There was an error.
+      Please try again later.That’s all we know.
+    good_to_know:
+    - 이 글은 **술·담금주가 몸에 좋다**는 이야기가 아닙니다.
+    - 연구실·논문에서 말하는 **생리활성·기능성 주제**를 할머니·할아버지도 읽기 쉽게 풀어 쓴 것입니다.
+    - '**제품 효능·효과를 보장하거나 광고하지 않습니다.**'
+    - 아직 **사람에게 직접 먹여 본 실험**이 아닐 수 있습니다. 실험실·동물 단계 이야기입니다.
+    - 원문에는 **병·치료** 관련 표현이 있을 수 있으나, 여기서는 **연구 주제**만 쉽게 옮겼습니다.
+    - 궁금하시면 아래 **원문·번역 참고**를 펼쳐 보시면 됩니다.
+    sections:
+    - id: summary
+      label: 한줄 요약
+      text: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please
+        try again later.That’s all we know.
+  full:
     en: Clinically, osteoarthritis (OA) pain is significantly associated with synovial
       inflammation. Identification of the mechanisms driving inflammation could reveal
       new targets to relieve this prevalent pain state. Herein, a role of polyadenylation
@@ -174,61 +224,6 @@ translations:
       염증을 유발하는 메커니즘을 확인하면 널리 퍼진 통증 상태를 완화하기 위한 새로운 목표를 밝힐 수 있습니다. 여기에서는 OA 윤활막 샘플에서
       폴리아데닐화의 역할을 조사했으며, 염증을 억제하고 통증과 구조적 OA 진행을 감소시키는 폴리아데닐화 억제제 코디세핀(3' deoxy아데노신)의
       잠재력을 연구했습니다. …
-  easy_read:
-    headline: 2024년에 나온 아직 실험실·동물 단계 논문입니다. 핵심 주제는 「몸의 방어 반응(면역)과 관련된 연구 주제」입니다.
-    what_is_this: 이 글은 「몸의 방어 반응(면역)과 관련된 연구 주제」에 대한 학술 정리입니다. 임상적으로 골관절염(OA) 통증은
-      윤활막 염증과 우연이 아닐 가능성이 있는 연관이 있습니다. 염증을 유발하는 메커니즘을 확인하면 널리 퍼진 통증 상태를 완화하기 위한 새로운
-      목표를 밝힐 수 있습니다.
-    what_they_did: 논문·데이터를 모아 분석·정리했습니다.
-    what_they_found: 임상적으로 골관절염(OA) 통증은 윤활막 염증과 우연이 아닐 가능성이 있는 연관이 있습니다. 염증을 유발하는
-      메커니즘을 확인하면 널리 퍼진 통증 상태를 완화하기 위한 새로운 목표를 밝힐 수 있습니다. 여기에서는 OA 윤활막 샘플에서 폴리아데닐화의
-      역할을 조사했으며, 염증을 억제하고 통증과 구조적 OA 진행을 감소시키는 폴리아데닐화 억제제 코디세핀(3' deoxy아데노신)의 잠재력을
-      연구했습니다.
-    good_to_know:
-    - 이 글은 **술·담금주가 몸에 좋다**는 이야기가 아닙니다.
-    - 연구실·논문에서 말하는 **생리활성·기능성 주제**를 할머니·할아버지도 읽기 쉽게 풀어 쓴 것입니다.
-    - '**제품 효능·효과를 보장하거나 광고하지 않습니다.**'
-    - 아직 **사람에게 직접 먹여 본 실험**이 아닐 수 있습니다. 실험실·동물 단계 이야기입니다.
-    - 원문에는 **병·치료** 관련 표현이 있을 수 있으나, 여기서는 **연구 주제**만 쉽게 옮겼습니다.
-    - 궁금하시면 아래 **원문·번역 참고**를 펼쳐 보시면 됩니다.
-    sections:
-    - id: summary
-      label: 한줄 요약
-      text: 임상적으로 골관절염(OA) 통증은 윤활막 염증과 우연이 아닐 가능성이 있는 연관이 있습니다. 염증을 유발하는 메커니즘을 확인하면
-        널리 퍼진 통증 상태를 완화하기 위한 새로운 목표를 밝힐 수 있습니다. 여기에서는 OA 윤활막 샘플에서 폴리아데닐화의 역할을 조사했으며,
-        염증을 억제하고 통증과 구조적 OA 진행을 감소시키는 폴리아데닐화 억제제 코디세핀(3' deoxy아데노신)의 잠재력을 연구했습니다.
-        염증 정도가 높거나 낮은 OA 환자와 비관절염 사후 대조군의 관절 조직을 폴리아데닐화 인자 CPSF4 및 염증 표지자에 대해 분석했습니다.
-  full:
-    en: Clinically, osteoarthritis (OA) pain is significantly associated with synovial
-      inflammation. Identification of the mechanisms driving inflammation could reveal
-      new targets to relieve this prevalent pain state. Herein, a role of polyadenylation
-      in OA synovial samples was investigated, and the potential of the polyadenylation
-      inhibitor cordycepin (3' deoxyadenosine) to inhibit inflammation as well as
-      to reduce pain and structural OA progression were studied. Joint tissues from
-      people with OA with high or low grade inflammation and non-arthritic post-mortem
-      controls were analysed for the polyadenylation factor CPSF4 and inflammatory
-      markers. Effects of cordycepin on pain behavior and joint pathology were studied
-      in models of OA (intra-articular injection of monosodium iodoacetate in rats
-      and surgical destabilisation of the medial meniscus in mice). Human monocyte-derived
-      macrophages and a mouse macrophage cell line were used to determine effects
-      of cordycepin on nuclear localisation of the inflammatory transcription factor
-      NFĸB and polyadenylation factors (WDR33 and CPSF4). CPSF4 and NFκB expression
-      were increased in synovia from OA patients with high grade inflammation. Cordycepin
-      reduced pain behaviour, synovial inflammation and joint pathology in both OA
-      models. Stimulation of macrophages induced nuclear localisation of NFĸB and
-      polyadenylation factors, effects inhibited by cordycepin. Knockdown of polyadenylation
-      factors also prevented nuclear localisation of NFĸB. The increased expression
-      of polyadenylation factors in OA synovia indicates a new target for analgesia
-      treatments. This is supported by the finding that polyadenylation factors are
-      required for inflammation in macrophages and by the fact that the polyadenylation
-      inhibitor cordycepin attenuates pain and pathology in models of OA.
-    ko_literal: Error 500 (Server Error)!!1500.That’s an error.There was an error.
-      Please try again later.That’s all we know.
-    ko_researcher: '[초록 전체] 핵심 용어: **코디세핀**(cordycepin) · **아데노신**(adenosine). Error
-      500 (Server Error)!!1500.That’s an error.There was an error. Please try again
-      later.That’s all we know.'
-    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. Error 500 (Server Error)!!1500.That’s an
-      error.There was an error. Please try again later.That’s all we know.
 ---
 
 ## 한국어 요약

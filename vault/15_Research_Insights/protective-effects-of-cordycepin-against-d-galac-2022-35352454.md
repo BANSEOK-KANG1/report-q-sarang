@@ -5,7 +5,7 @@ title_ko: Error 500 (Server Error)!!1500.That’s an error.There was an error. P
   try again later.That’s all we know.
 slug: protective-effects-of-cordycepin-against-d-galac-2022-35352454
 record_id: b027ebe0-f029-43e1-a76e-95005adab410
-date: '2026-08-24'
+date: '2026-08-31'
 year: 2022
 authors:
 - Yuanxi Feng
@@ -36,7 +36,7 @@ tags:
 - cordycepin
 - evidence
 - 제왕충초
-generated: '2026-08-24'
+generated: '2026-08-31'
 visuals: []
 api_meta:
   keywords:
@@ -82,7 +82,7 @@ api_meta:
     europepmc: true
     openalex: true
     crossref: true
-  fetched_at: '2026-08-24'
+  fetched_at: '2026-08-31'
 translations:
   title_ko: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please
     try again later.That’s all we know.

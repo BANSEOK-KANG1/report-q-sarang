@@ -16,7 +16,7 @@ journal: ''
 doi: 10.1016/j.ijbiomac.2026.152987
 pmid: '42276496'
 url: https://europepmc.org/article/MED/42276496
-track: compound
+track: militaris
 compound: cordycepin
 species: Cordyceps_militaris
 study_type: unclear

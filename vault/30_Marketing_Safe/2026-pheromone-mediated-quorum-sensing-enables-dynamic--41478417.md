@@ -13,7 +13,7 @@ journal: ''
 doi: 10.1016/j.biortech.2025.133915
 pmid: '41478417'
 url: https://europepmc.org/article/MED/41478417
-track: compound
+track: militaris
 compound: cordycepin
 species: Cordyceps_militaris
 study_type: animal
@@ -24,7 +24,7 @@ risk_flags:
 - preclinical_only
 maps_to_market: KR_liquor_context
 citation_status: approved
-priority_review: true
+priority_review: false
 jurisdiction_caveats:
 - KR_liquor_no_disease_claims
 - not_HFF_product
