@@ -1,10 +1,9 @@
 ---
 title: A Systematic Review of the Biological Effects of Cordycepin
-title_ko: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please
-  try again later.That’s all we know.
+title_ko: A 체계적 문헌고찰 of the Biological Effects of 코디세핀
 slug: a-systematic-review-of-the-biological-effects-of-2021-34641429
 record_id: 7c27cabe-6c22-424f-bec5-50e01e8bb486
-date: '2026-08-31'
+date: '2026-09-14'
 year: 2021
 authors:
 - Masar Radhi
@@ -42,7 +41,7 @@ tags:
 - cordycepin
 - evidence
 - 제왕충초
-generated: '2026-08-31'
+generated: '2026-09-14'
 visuals:
 - type: figure
   src: /research-figures/a-systematic-review-of-the-biological-effects-of-2021-34641429/molecules-26-05886-g006.jpg
@@ -111,7 +110,7 @@ api_meta:
   - name: MAPK/ERK pathway
     score: 0.514
     level: 3
-  cited_by_count: 93
+  cited_by_count: 94
   reference_count: 355
   publisher: MDPI AG
   journal: Molecules
@@ -121,10 +120,9 @@ api_meta:
     europepmc: true
     openalex: true
     crossref: true
-  fetched_at: '2026-08-31'
+  fetched_at: '2026-09-14'
 translations:
-  title_ko: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please
-    try again later.That’s all we know.
+  title_ko: A 체계적 문헌고찰 of the Biological Effects of 코디세핀
   glossary:
   - en: cordycepin
     ko: 코디세핀
@@ -160,20 +158,67 @@ translations:
       We conclude that cordycepin has excellent potential as a lead for drug development,
       especially for age-related diseases. In addition, we discuss the remaining issues
       around the mechanism of action, toxicity and biodistribution of cordycepin.
-    ko_literal: Error 500 (Server Error)!!1500.That’s an error.There was an error.
-      Please try again later.That’s all we know.
+    ko_literal: We conducted a 체계적 문헌고찰 of the literature on the effects of 코디세핀 on
+      cell survival and proliferation, inflammation, signal transduction and animal
+      models. A total of 1204 publications on 코디세핀 were found by the cut-off date
+      of 1 February 2021. After application of the exclusion criteria, 791 papers
+      remained. These were read and data on the chosen subjects were 추출물ed. We found
+      192 papers on the effects of 코디세핀 on cell survival and proliferation and calculated
+      a median inhibitory concentration (IC50) of 135 µM. 코디세핀 consistently repressed
+      cell migration (26 papers) and cellular inflammation (53 papers). Evaluation
+      of 76 papers on signal transduction indicated consistently reduced PI3K/mTOR/AKT
+      and ERK signalling and activation of AMPK. In contrast, the effects of 코디세핀
+      on the p38 and Jun kinases were variable, as were the effects on cell cycle
+      arrest (53 papers), suggesting these are cell-specific responses. The examination
+      of 150 animal studies indicated that purified 코디세핀 has many potential therapeutic
+      effects, including the reduction of tumour growth (37 papers), repression of
+      pain and inflammation (9 papers), protecting brain function (11 papers), improvement
+      of respiratory and cardiac conditions (8 and 19 papers) and amelioration of
+      metabolic disorders (8 papers). Nearly all these data are consistent with 코디세핀
+      mediating its therapeutic effects through activating AMPK, inhibiting PI3K/mTOR/AKT
+      and repressing the inflammatory response. We conclude that 코디세핀 has excellent
+      potential as a lead for drug development, especially for age-related diseases.
+      In addition, we discuss the remaining issues around the mechanism of action,
+      toxicity and biodistribution of 코디세핀.
     ko_researcher: '[초록 전체] 핵심 용어: **코디세핀**(cordycepin) · **체계적 문헌고찰**(systematic
-      review) · **추출물**(extract). Error 500 (Server Error)!!1500.That’s an error.There
-      was an error. Please try again later.That’s all we know.'
-    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. Error 500 (Server Error)!!1500.That’s an
-      error.There was an error. Please try again later.That’s all we know.
+      review) · **추출물**(extract). We conducted a 체계적 문헌고찰 of the literature on the
+      effects of 코디세핀 on cell survival and proliferation, inflammation, signal transduction
+      and animal models. A total of 1204 publications on 코디세핀 were found by the cut-off
+      date of 1 February 2021. After application of the exclusion criteria, 791 papers
+      remained. These were read and data on the chosen subjects were 추출물ed. We found
+      192 papers on the effects of 코디세핀 on cell survival and proliferation and calculated
+      a median inhibitory concentration (IC50) of 135 µM. 코디세핀 consistently repressed
+      cell migration (26 papers) and cellular inflammation (53 papers). Evaluation
+      of 76 papers on signal transduction indicated consistently reduced PI3K/mTOR/AKT
+      and ERK signalling and activation of AMPK. In contrast, the effects of 코디세핀
+      on the p38 and Jun kinases were variable, as were the effects on cell cycle
+      arrest (53 papers), suggesting these are cell-specific responses. The examination
+      of 150 animal studies indicated that purified 코디세핀 has many potential therapeutic
+      effects, including the reduction of tumour growth (37 papers), repression of
+      pain and inflammation (9 papers), protecting brain function (11 papers), improvement
+      of respiratory and cardiac conditions (8 and 19 papers) and amelioration of
+      metabolic disorders (8 papers). Nearly all these data are consistent with 코디세핀
+      mediating its therapeutic effects through activating AMPK, inhibiting PI3K/mTOR/AKT
+      and repressing the inflammatory response. We conclude that 코디세핀 has excellent
+      potential as a lead for drug development, especially for age-related diseases.
+      In addition, we discuss the remaining issues around the mechanism of action,
+      toxicity and biodistribution of 코디세핀.'
+    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. We conducted a 체계적 문헌고찰 of the literature
+      on the effects of 코디세핀 on cell survival and proliferation, inflammation, signal
+      transduction and animal models. A total of 1204 publications on 코디세핀 were found
+      by the cut-off date of 1 February 2021. After application of the exclusion criteria,
+      791 papers remained. …
   easy_read:
     headline: 2021년에 나온 여러 논문을 모아 정리한 글입니다. 핵심 주제는 「성분·버섯이 몸에서 어떤 반응을 보이는지」입니다.
-    what_is_this: 이 글은 「성분·버섯이 몸에서 어떤 반응을 보이는지」에 대한 학술 정리입니다. Error 500 (Server Error)!!1500.That’s
-      an error.There was an error. Please try again later.That’s all we know.
+    what_is_this: 이 글은 「성분·버섯이 몸에서 어떤 반응을 보이는지」에 대한 학술 정리입니다. We conducted a 논문 여러
+      편을 골라 정리한 글 of the literature on the effects of 코디세핀 on cell survival and proliferation,
+      inflammation, signal transduction and animal models.
     what_they_did: 여러 편의 논문을 찾아 읽고, 공통점과 차이를 표로 정리했습니다.
-    what_they_found: Error 500 (Server Error)!!1500.That’s an error.There was an error.
-      Please try again later.That’s all we know.
+    what_they_found: We conducted a 논문 여러 편을 골라 정리한 글 of the literature on the effects
+      of 코디세핀 on cell survival and proliferation, inflammation, signal transduction
+      and animal models. A total of 1204 publications on 코디세핀 were found by the cut-off
+      date of 1 February 2021. After application of the exclusion criteria, 791 papers
+      remained.
     good_to_know:
     - 이 글은 **술·담금주가 몸에 좋다**는 이야기가 아닙니다.
     - 연구실·논문에서 말하는 **생리활성·기능성 주제**를 할머니·할아버지도 읽기 쉽게 풀어 쓴 것입니다.
@@ -183,8 +228,11 @@ translations:
     sections:
     - id: summary
       label: 한줄 요약
-      text: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please
-        try again later.That’s all we know.
+      text: We conducted a 논문 여러 편을 골라 정리한 글 of the literature on the effects of 코디세핀
+        on cell survival and proliferation, inflammation, signal transduction and
+        animal models. A total of 1204 publications on 코디세핀 were found by the cut-off
+        date of 1 February 2021. After application of the exclusion criteria, 791
+        papers remained.
   full:
     en: We conducted a systematic review of the literature on the effects of cordycepin
       on cell survival and proliferation, inflammation, signal transduction and animal
@@ -208,13 +256,56 @@ translations:
       We conclude that cordycepin has excellent potential as a lead for drug development,
       especially for age-related diseases. In addition, we discuss the remaining issues
       around the mechanism of action, toxicity and biodistribution of cordycepin.
-    ko_literal: Error 500 (Server Error)!!1500.That’s an error.There was an error.
-      Please try again later.That’s all we know.
+    ko_literal: We conducted a 체계적 문헌고찰 of the literature on the effects of 코디세핀 on
+      cell survival and proliferation, inflammation, signal transduction and animal
+      models. A total of 1204 publications on 코디세핀 were found by the cut-off date
+      of 1 February 2021. After application of the exclusion criteria, 791 papers
+      remained. These were read and data on the chosen subjects were 추출물ed. We found
+      192 papers on the effects of 코디세핀 on cell survival and proliferation and calculated
+      a median inhibitory concentration (IC50) of 135 µM. 코디세핀 consistently repressed
+      cell migration (26 papers) and cellular inflammation (53 papers). Evaluation
+      of 76 papers on signal transduction indicated consistently reduced PI3K/mTOR/AKT
+      and ERK signalling and activation of AMPK. In contrast, the effects of 코디세핀
+      on the p38 and Jun kinases were variable, as were the effects on cell cycle
+      arrest (53 papers), suggesting these are cell-specific responses. The examination
+      of 150 animal studies indicated that purified 코디세핀 has many potential therapeutic
+      effects, including the reduction of tumour growth (37 papers), repression of
+      pain and inflammation (9 papers), protecting brain function (11 papers), improvement
+      of respiratory and cardiac conditions (8 and 19 papers) and amelioration of
+      metabolic disorders (8 papers). Nearly all these data are consistent with 코디세핀
+      mediating its therapeutic effects through activating AMPK, inhibiting PI3K/mTOR/AKT
+      and repressing the inflammatory response. We conclude that 코디세핀 has excellent
+      potential as a lead for drug development, especially for age-related diseases.
+      In addition, we discuss the remaining issues around the mechanism of action,
+      toxicity and biodistribution of 코디세핀.
     ko_researcher: '[초록 전체] 핵심 용어: **코디세핀**(cordycepin) · **체계적 문헌고찰**(systematic
-      review) · **추출물**(extract). Error 500 (Server Error)!!1500.That’s an error.There
-      was an error. Please try again later.That’s all we know.'
-    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. Error 500 (Server Error)!!1500.That’s an
-      error.There was an error. Please try again later.That’s all we know.
+      review) · **추출물**(extract). We conducted a 체계적 문헌고찰 of the literature on the
+      effects of 코디세핀 on cell survival and proliferation, inflammation, signal transduction
+      and animal models. A total of 1204 publications on 코디세핀 were found by the cut-off
+      date of 1 February 2021. After application of the exclusion criteria, 791 papers
+      remained. These were read and data on the chosen subjects were 추출물ed. We found
+      192 papers on the effects of 코디세핀 on cell survival and proliferation and calculated
+      a median inhibitory concentration (IC50) of 135 µM. 코디세핀 consistently repressed
+      cell migration (26 papers) and cellular inflammation (53 papers). Evaluation
+      of 76 papers on signal transduction indicated consistently reduced PI3K/mTOR/AKT
+      and ERK signalling and activation of AMPK. In contrast, the effects of 코디세핀
+      on the p38 and Jun kinases were variable, as were the effects on cell cycle
+      arrest (53 papers), suggesting these are cell-specific responses. The examination
+      of 150 animal studies indicated that purified 코디세핀 has many potential therapeutic
+      effects, including the reduction of tumour growth (37 papers), repression of
+      pain and inflammation (9 papers), protecting brain function (11 papers), improvement
+      of respiratory and cardiac conditions (8 and 19 papers) and amelioration of
+      metabolic disorders (8 papers). Nearly all these data are consistent with 코디세핀
+      mediating its therapeutic effects through activating AMPK, inhibiting PI3K/mTOR/AKT
+      and repressing the inflammatory response. We conclude that 코디세핀 has excellent
+      potential as a lead for drug development, especially for age-related diseases.
+      In addition, we discuss the remaining issues around the mechanism of action,
+      toxicity and biodistribution of 코디세핀.'
+    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. We conducted a 체계적 문헌고찰 of the literature
+      on the effects of 코디세핀 on cell survival and proliferation, inflammation, signal
+      transduction and animal models. A total of 1204 publications on 코디세핀 were found
+      by the cut-off date of 1 February 2021. After application of the exclusion criteria,
+      791 papers remained. …
 ---
 
 ## 한국어 요약

@@ -4,14 +4,14 @@ title: Lipid-lowering effect of cordycepin (3'-deoxyadenosine) from Cordyceps mi
   on hyperlipidemic hamsters and rats.
 authors:
 - Jian Gao
-- Ze-Qin Lian
+- Zeqin Lian
 - Ping Zhu
-- Hai-Bo Zhu
+- Haibo Zhu
 year: 2011
-journal: Yao xue xue bao = Acta pharmaceutica Sinica
+journal: PubMed
 doi: ''
 pmid: '21882527'
-url: https://pubmed.ncbi.nlm.nih.gov/21882527/
+url: https://pubmed.ncbi.nlm.nih.gov/21882527
 track: compound
 compound: cordycepin
 species: Cordyceps_militaris
@@ -32,7 +32,6 @@ jurisdiction_caveats:
 - research_only
 source_apis:
 - openalex
-- pubmed
 full_text_available: false
 tags:
 - evidence
@@ -55,7 +54,7 @@ tags:
 - **Citation status:** needs_legal_review
 - **DOI:** —
 - **PMID:** 21882527
-- **URL:** https://pubmed.ncbi.nlm.nih.gov/21882527/
+- **URL:** https://pubmed.ncbi.nlm.nih.gov/21882527
 
 ## Abstract
 3'-Deoxyadenosine, so-called cordycepin, is a bioactive component of the fungus Cordyceps militaris. It has been known to exhibit multiple-biological effects including: modulation of immune response, inhibition of tumor growth, hypotensive and vasorelaxation activities, and promoting secretion of adrenal hormone. To investigate its lipid-lowering effect, hyperlipidemic hamsters and rats fed by high-fat diet were both administered orally with cordycepin extracted from Cordyceps militaris for four weeks. The levels of lipids in hamsters and rats were measured enzymatically before and after the administration of cordycepin (12.5, 25 and 50 mg x kg(-1)). The results suggested that levels of serum total cholesterol (TC), triglyceride (TG), low density lipoprotein cholesterol (LDL-C) and very low density lipoprotein cholesterol (VLDL-C) increased markedly in the two animal models by feeding high-fat diet. Meanwhile, cordycepin reduced levels of serum TC, TG, LDL-C, VLDL-C as well as LDL-C/HDL-C (high density lipoprotein cholesterol) and TC/HDL-C ratios. In concert with these effects, an increase in lipoprotein lipase (LPL) and hepatic lipase (HL) activity afforded by cordycepin was considered to contribute to the regulation on lipid profiles. Furthermore, no toxicity of cordycepin was observed by intragastric administration at the maximal tolerant dose in ICR mice for 14 days. The exact lipid-lowering effect of cordycepin needs further investigation.

@@ -10,7 +10,7 @@ journal: Frontiers in microbiology
 doi: 10.16488/j.cnki.1005-9873.2007.02.015
 pmid: '38903790'
 url: https://pubmed.ncbi.nlm.nih.gov/38903790/
-track: compound
+track: militaris
 compound: cordycepin
 species: Cordyceps_militaris
 study_type: animal
@@ -21,7 +21,7 @@ risk_flags:
 - preclinical_only
 maps_to_market: KR_liquor_context
 citation_status: approved
-priority_review: true
+priority_review: false
 jurisdiction_caveats:
 - KR_liquor_no_disease_claims
 - not_HFF_product

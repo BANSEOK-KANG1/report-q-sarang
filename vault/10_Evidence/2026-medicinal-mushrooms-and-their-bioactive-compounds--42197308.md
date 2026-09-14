@@ -1,16 +1,16 @@
 ---
-record_id: 7fa40577-f5a1-49d6-a184-4d8014d356bb
+record_id: e9653d56-d81a-4f2e-9aae-c20ed96c82b6
 title: 'Medicinal Mushrooms and Their Bioactive Compounds: From Traditional Use to
   Therapeutic Potential.'
 authors:
-- Anna Sadowska
-- Daria Włosek-Pawełas
-- Halina Car
+- Sadowska A
+- Włosek-Pawełas D
+- Car H.
 year: 2026
-journal: Molecules (Basel, Switzerland)
-doi: 10.3390/ijms25010466
+journal: ''
+doi: 10.3390/molecules31101749
 pmid: '42197308'
-url: https://pubmed.ncbi.nlm.nih.gov/42197308/
+url: https://europepmc.org/article/MED/42197308
 track: comparator_sinensis
 compound: cordyceps_extract
 species: Cordyceps_sinensis
@@ -30,8 +30,8 @@ jurisdiction_caveats:
 - disease_language_in_source
 - research_only
 source_apis:
-- pubmed
-full_text_available: false
+- europepmc
+full_text_available: true
 tags:
 - evidence
 - status/needs_legal_review
@@ -51,12 +51,12 @@ tags:
 - **Risk flags:** disease_language, preclinical_only
 - **Maps to market:** research_only
 - **Citation status:** needs_legal_review
-- **DOI:** 10.3390/ijms25010466
+- **DOI:** 10.3390/molecules31101749
 - **PMID:** 42197308
-- **URL:** https://pubmed.ncbi.nlm.nih.gov/42197308/
+- **URL:** https://europepmc.org/article/MED/42197308
 
 ## Abstract
-Medicinal mushrooms have become an important component of modern dietary supplementation and functional nutrition due to their diverse biological activities and long-standing use in traditional medicine. Among the most widely studied and utilized species are Ganoderma lucidum, Lentinula edodes, Grifola frondosa, Cordyceps militaris, Cordyceps sinensis, Trametes versicolor, and Inonotus obliquus. Their therapeutic potential is associated with a wide range of biologically active constituents, including polysaccharides, triterpenoids, phenolic compounds, and other secondary metabolites. Experimental and clinical studies indicate that extracts derived from these species may support immune function, modulate inflammatory responses, and exhibit antioxidant, antimicrobial, and anticancer properties. In addition to extensive in vitro and in vivo investigations, a growing number of clinical studies have evaluated the safety and potential therapeutic benefits of medicinal mushroom preparations in humans. In recent years, increasing attention has been directed toward their incorporation into nutraceutical formulations and functional foods aimed at supporting health and preventing chronic diseases. Advances in cultivation technologies and extraction methods have also contributed to improved availability and standardization of mushroom-derived products. This review provides a comprehensive overview of selected medicinal mushroom species commonly used in dietary supplements, focusing on their bioactive constituents, reported biological activities, and potential applications in contemporary medicine.
+Medicinal mushrooms have become an important component of modern dietary supplementation and functional nutrition due to their diverse biological activities and long-standing use in traditional medicine. Among the most widely studied and utilized species are <i>Ganoderma lucidum</i>, <i>Lentinula edodes</i>, <i>Grifola frondosa</i>, <i>Cordyceps militaris</i>, <i>Cordyceps sinensis</i>, <i>Trametes versicolor</i>, and <i>Inonotus obliquus</i>. Their therapeutic potential is associated with a wide range of biologically active constituents, including polysaccharides, triterpenoids, phenolic compounds, and other secondary metabolites. Experimental and clinical studies indicate that extracts derived from these species may support immune function, modulate inflammatory responses, and exhibit antioxidant, antimicrobial, and anticancer properties. In addition to extensive in vitro and in vivo investigations, a growing number of clinical studies have evaluated the safety and potential therapeutic benefits of medicinal mushroom preparations in humans. In recent years, increasing attention has been directed toward their incorporation into nutraceutical formulations and functional foods aimed at supporting health and preventing chronic diseases. Advances in cultivation technologies and extraction methods have also contributed to improved availability and standardization of mushroom-derived products. This review provides a comprehensive overview of selected medicinal mushroom species commonly used in dietary supplements, focusing on their bioactive constituents, reported biological activities, and potential applications in contemporary medicine.
 
 ## Relevance notes
 Comparator species / Cs-4 — do not equate to C. militaris cordycepin product

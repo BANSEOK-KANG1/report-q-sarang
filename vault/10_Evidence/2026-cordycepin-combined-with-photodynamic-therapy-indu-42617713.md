@@ -1,15 +1,15 @@
 ---
 record_id: db7e96e1-f912-4ccd-8455-606eadc2860b
-title: Cordycepin Combined with Photodynamic Therapy Induces Pyroptosis in Breast
-  Cancer Cells via the ROS/NLRP3/Caspase-1/GSDMD Signaling Pathway.
+title: Cordycepin combined with photodynamic therapy induces pyroptosis in breast
+  cancer cells via the ROS/NLRP3/caspase-1/GSDMD signaling pathway.
 authors:
-- Ming Z
-- Lin Z
-- Ying W
-- Ying C
-- Meijian Y
-- Fei G
-- Chao W.
+- Zhang M
+- Zou L
+- Wang Y
+- Chen Y
+- Yang M
+- Gao F
+- Wang C.
 year: 2026
 journal: ''
 doi: 10.1016/j.pdpdt.2026.105614
@@ -43,7 +43,7 @@ tags:
 - market/research_only
 ---
 
-# Cordycepin Combined with Photodynamic Therapy Induces Pyroptosis in Breast Cancer Cells via the ROS/NLRP3/Caspase-1/GSDMD Signaling Pathway.
+# Cordycepin combined with photodynamic therapy induces pyroptosis in breast cancer cells via the ROS/NLRP3/caspase-1/GSDMD signaling pathway.
 
 ## Summary fields
 - **Year:** 2026

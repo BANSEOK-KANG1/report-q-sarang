@@ -1,17 +1,17 @@
 ---
-record_id: 060e2a86-a5da-44d0-9451-67a1136c6f83
+record_id: ad7461ca-21ca-4515-9ee3-84a7a7588560
 title: A Systematic Review of the Mysterious Caterpillar Fungus Ophiocordyceps sinensis
-  in Dong-ChongXiaCao ( Dōng Chóng Xià Cǎo) and Related Bioactive Ingredients.
+  in DongChongXiaCao (冬蟲夏草 Dōng Chóng Xià Cǎo) and Related Bioactive Ingredients
 authors:
-- Hui-Chen Lo
+- Hui‐Chen Lo
 - Chienyan Hsieh
 - Fang-Yi Lin
-- Tai-Hao Hsu
+- Tai‐Hao Hsu
 year: 2013
-journal: Journal of traditional and complementary medicine
-doi: 10.4103/2225-4110.106538
+journal: Journal of Traditional and Complementary Medicine
+doi: 10.1016/s2225-4110(16)30164-x
 pmid: '24716152'
-url: https://pubmed.ncbi.nlm.nih.gov/24716152/
+url: https://doi.org/10.1016/s2225-4110(16)30164-x
 track: comparator_sinensis
 compound: cordycepin
 species: Cordyceps_sinensis
@@ -30,7 +30,7 @@ jurisdiction_caveats:
 - disease_language_in_source
 - research_only
 source_apis:
-- pubmed
+- openalex
 full_text_available: false
 tags:
 - evidence
@@ -39,7 +39,7 @@ tags:
 - market/research_only
 ---
 
-# A Systematic Review of the Mysterious Caterpillar Fungus Ophiocordyceps sinensis in Dong-ChongXiaCao ( Dōng Chóng Xià Cǎo) and Related Bioactive Ingredients.
+# A Systematic Review of the Mysterious Caterpillar Fungus Ophiocordyceps sinensis in DongChongXiaCao (冬蟲夏草 Dōng Chóng Xià Cǎo) and Related Bioactive Ingredients
 
 ## Summary fields
 - **Year:** 2013
@@ -51,9 +51,9 @@ tags:
 - **Risk flags:** disease_language
 - **Maps to market:** research_only
 - **Citation status:** needs_legal_review
-- **DOI:** 10.4103/2225-4110.106538
+- **DOI:** 10.1016/s2225-4110(16)30164-x
 - **PMID:** 24716152
-- **URL:** https://pubmed.ncbi.nlm.nih.gov/24716152/
+- **URL:** https://doi.org/10.1016/s2225-4110(16)30164-x
 
 ## Abstract
 The caterpillar fungus Ophiocordyceps sinensis (syn.Cordyceps sinensis), which was originally used in traditional Tibetan and Chinese medicine, is called either "yartsa gunbu" or "DongChongXiaCao ( Dōng Chóng Xià Cǎo)" ("winter worm-summer grass"), respectively. The extremely high price of DongChongXiaCao, approximately USD $20,000 to 40,000 per kg, has led to it being regarded as "soft gold" in China. The multi-fungi hypothesis has been proposed for DongChongXiaCao; however, Hirsutella sinensis is the anamorph of O. sinensis. In Chinese, the meaning of "DongChongXiaCao" is different for O. sinensis, Cordyceps spp., and Cordyceps sp. Over 30 bioactivities, such as immunomodulatory, antitumor, anti-inflammatory, and antioxidant activities, have been reported for wild DongChongXiaCao and for the mycelia and culture supernatants of O. sinensis. These bioactivities derive from over 20 bioactive ingredients, mainly extracellular polysaccharides, intracellular polysaccharides, cordycepin, adenosine, mannitol, and sterols. Other bioactive components have been found as well, including two peptides (cordymin and myriocin), melanin, lovastatin, γ-aminobutyric acid, and cordysinins. Recently, the bioactivities of O. sinensis were described, and they include antiarteriosclerosis, antidepression, and antiosteoporosis activities, photoprotection, prevention and treatment of bowel injury, promotion of endurance capacity, and learning-memory improvement. H. sinensis has the ability to accelerate leukocyte recovery, stimulate lymphocyte proliferation, antidiabetes, and improve kidney injury. Starting January 1(st), 2013, regulation will dictate that one fungus can only have one name, which will end the system of using separate names for anamorphs. The anamorph name "H. sinensis" has changed by the International Code of Nomenclature for algae, fungi, and plants to O. sinensis.

@@ -1,11 +1,11 @@
 ---
 title: Cordycepin exhibits anti-fatigue effect via activating TIGAR/SIRT1/PGC-1α signaling
   pathway.
-title_ko: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please
-  try again later.That’s all we know.
+title_ko: 코디세핀 exhibits anti-fatigue effect via activating TIGAR/SIRT1/PGC-1α signaling
+  pathway.
 slug: cordycepin-exhibits-anti-fatigue-effect-via-acti-2022-36399798
 record_id: f282ee55-5ce7-4e68-bf47-7bc166b660f9
-date: '2026-08-31'
+date: '2026-09-14'
 year: 2022
 authors:
 - Xiaoming Chai
@@ -41,7 +41,7 @@ tags:
 - cordycepin
 - evidence
 - 제왕충초
-generated: '2026-08-31'
+generated: '2026-09-14'
 visuals: []
 api_meta:
   keywords:
@@ -88,10 +88,10 @@ api_meta:
     europepmc: true
     openalex: true
     crossref: true
-  fetched_at: '2026-08-31'
+  fetched_at: '2026-09-14'
 translations:
-  title_ko: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please
-    try again later.That’s all we know.
+  title_ko: 코디세핀 exhibits anti-fatigue effect via activating TIGAR/SIRT1/PGC-1α signaling
+    pathway.
   glossary:
   - en: cordycepin
     ko: 코디세핀
@@ -129,20 +129,73 @@ translations:
       together, the present study demonstrated that cordycepin possessed an anti-fatigue
       effect via activating TIGAR/SIRT1/PGC-1α signaling pathway. Our study indicated
       that cordycepin may be a potentially efficient candidate for fatigue.
-    ko_literal: Error 500 (Server Error)!!1500.That’s an error.There was an error.
-      Please try again later.That’s all we know.
+    ko_literal: Fatigue, a most commonly sub-health condition, may cause people more
+      susceptible to many diseases. 코디세핀, a principal active ingredient from Cordyceps(cordyceps)
+      militaris(cordyceps militaris), exerts various pharmacological activities including
+      anti-diabetes, anti-inflammatory, immunomodulatory and antioxidant effects.
+      However, the anti-fatigue effect of 코디세핀 and specific mechanism remained unclear.
+      This study aimed to investigate the beneficial effect of 코디세핀 on physical fatigue
+      and elucidate the potential mechanism. 20 mg/kg, 40 mg/kg of 코디세핀 and 500 mg/kg
+      taurine were respectively treated to mice for 28 days before weight-loaded swimming
+      test. The results revealed that 코디세핀 significantly prolonged the weight-loaded
+      swimming time of mice. Meanwhile, 코디세핀 decreased the levels of lactic acid,
+      blood uric nitrogen, and malondialdehyde, and increased the contents of superoxide
+      dismutase, glutathione, nicotinamide adenine dinucleotide phosphate, hepatic
+      glycogen, muscle glycogen and ATP. The metabolomic study by GC-MS showed that
+      eight biomarkers were found in livers, including L-lactic acid, L-asparagine,
+      3-phosphoglyceric acid, inosine, D-galactose, L-tyrosine, glyceric acid and
+      L-threonine. There were seven biomarkers in gastrocnemius, including D-ribose-5-phosphate,
+      acetic acid, propionic acid, butyric acid, palmitic acid, oxaloacetic acid and
+      citric acid. The results of metabolomics indicated that 코디세핀 might relieve fatigue
+      by regulating energy metabolism and pentose phosphate pathway. Furthermore,
+      we found 코디세핀 significantly enhanced the protein levels of TIGAR, SIRT1, PGC-1α,
+      NRF1 and TFAM in gastrocnemius of weight-loaded swimming mice. Taken together,
+      the present study demonstrated that 코디세핀 possessed an anti-fatigue effect via
+      activating TIGAR/SIRT1/PGC-1α signaling pathway. Our study indicated that 코디세핀
+      may be a potentially efficient candidate for fatigue.
     ko_researcher: '[초록 전체] 핵심 용어: **코디세핀**(cordycepin) · **Cordyceps militaris**(cordyceps
-      militaris) · **Cordyceps**(cordyceps). Error 500 (Server Error)!!1500.That’s
-      an error.There was an error. Please try again later.That’s all we know.'
-    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. Error 500 (Server Error)!!1500.That’s an
-      error.There was an error. Please try again later.That’s all we know.
+      militaris) · **Cordyceps**(cordyceps). Fatigue, a most commonly sub-health condition,
+      may cause people more susceptible to many diseases. 코디세핀, a principal active
+      ingredient from Cordyceps(cordyceps) militaris(cordyceps militaris), exerts
+      various pharmacological activities including anti-diabetes, anti-inflammatory,
+      immunomodulatory and antioxidant effects. However, the anti-fatigue effect of
+      코디세핀 and specific mechanism remained unclear. This study aimed to investigate
+      the beneficial effect of 코디세핀 on physical fatigue and elucidate the potential
+      mechanism. 20 mg/kg, 40 mg/kg of 코디세핀 and 500 mg/kg taurine were respectively
+      treated to mice for 28 days before weight-loaded swimming test. The results
+      revealed that 코디세핀 significantly prolonged the weight-loaded swimming time of
+      mice. Meanwhile, 코디세핀 decreased the levels of lactic acid, blood uric nitrogen,
+      and malondialdehyde, and increased the contents of superoxide dismutase, glutathione,
+      nicotinamide adenine dinucleotide phosphate, hepatic glycogen, muscle glycogen
+      and ATP. The metabolomic study by GC-MS showed that eight biomarkers were found
+      in livers, including L-lactic acid, L-asparagine, 3-phosphoglyceric acid, inosine,
+      D-galactose, L-tyrosine, glyceric acid and L-threonine. There were seven biomarkers
+      in gastrocnemius, including D-ribose-5-phosphate, acetic acid, propionic acid,
+      butyric acid, palmitic acid, oxaloacetic acid and citric acid. The results of
+      metabolomics indicated that 코디세핀 might relieve fatigue by regulating energy
+      metabolism and pentose phosphate pathway. Furthermore, we found 코디세핀 significantly
+      enhanced the protein levels of TIGAR, SIRT1, PGC-1α, NRF1 and TFAM in gastrocnemius
+      of weight-loaded swimming mice. Taken together, the present study demonstrated
+      that 코디세핀 possessed an anti-fatigue effect via activating TIGAR/SIRT1/PGC-1α
+      signaling pathway. Our study indicated that 코디세핀 may be a potentially efficient
+      candidate for fatigue.'
+    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. Fatigue, a most commonly sub-health condition,
+      may cause people more susceptible to many diseases. 코디세핀, a principal active
+      ingredient from Cordyceps(cordyceps) militaris(cordyceps militaris), exerts
+      various pharmacological activities including anti-diabetes, anti-inflammatory,
+      immunomodulatory and antioxidant effects. However, the anti-fatigue effect of
+      코디세핀 and specific mechanism remained unclear. …
   easy_read:
     headline: 2022년에 나온 아직 실험실·동물 단계 논문입니다. 핵심 주제는 「피곤함·기운과 관련된 연구 주제」입니다.
-    what_is_this: 이 글은 「피곤함·기운과 관련된 연구 주제」에 대한 학술 정리입니다. Error 500 (Server Error)!!1500.That’s
-      an error.There was an error. Please try again later.That’s all we know.
+    what_is_this: 이 글은 「피곤함·기운과 관련된 연구 주제」에 대한 학술 정리입니다. Fatigue, a most commonly
+      sub-health condition, may cause people more susceptible to many diseases.
     what_they_did: 논문·데이터를 모아 분석·정리했습니다.
-    what_they_found: Error 500 (Server Error)!!1500.That’s an error.There was an error.
-      Please try again later.That’s all we know.
+    what_they_found: Fatigue, a most commonly sub-health condition, may cause people
+      more susceptible to many diseases. 코디세핀, a principal active ingredient from
+      Cordyceps(cordyceps) militaris(cordyceps militaris), exerts various pharmacological
+      activities including anti-diabetes, anti-inflammatory, immunomodulatory and
+      antioxidant effects. However, the anti-fatigue effect of 코디세핀 and specific mechanism
+      remained unclear.
     good_to_know:
     - 이 글은 **술·담금주가 몸에 좋다**는 이야기가 아닙니다.
     - 연구실·논문에서 말하는 **생리활성·기능성 주제**를 할머니·할아버지도 읽기 쉽게 풀어 쓴 것입니다.
@@ -153,8 +206,11 @@ translations:
     sections:
     - id: summary
       label: 한줄 요약
-      text: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please
-        try again later.That’s all we know.
+      text: Fatigue, a most commonly sub-health condition, may cause people more susceptible
+        to many diseases. 코디세핀, a principal active ingredient from Cordyceps(cordyceps)
+        militaris(cordyceps militaris), exerts various pharmacological activities
+        including anti-diabetes, anti-inflammatory, immunomodulatory and antioxidant
+        effects.
   full:
     en: Fatigue, a most commonly sub-health condition, may cause people more susceptible
       to many diseases. Cordycepin, a principal active ingredient from Cordyceps militaris,
@@ -180,37 +236,62 @@ translations:
       together, the present study demonstrated that cordycepin possessed an anti-fatigue
       effect via activating TIGAR/SIRT1/PGC-1α signaling pathway. Our study indicated
       that cordycepin may be a potentially efficient candidate for fatigue.
-    ko_literal: 가장 흔히 나타나는 하위 건강 상태인 피로는 사람들이 많은 질병에 더 취약하게 만들 수 있습니다. Cordyceps militaris의
-      주요 유효성분인 코디세핀은 항당뇨, 항염증, 면역조절, 항산화 효과 등 다양한 약리활성을 발휘합니다. 그러나 코디세핀의 항피로 효과와 구체적인
-      메커니즘은 여전히 ​​불분명했습니다. 본 연구는 코디세핀이 육체적 피로에 미치는 유익한 효과를 조사하고 잠재적인 메커니즘을 밝히는 것을
-      목표로 했습니다. 20 mg/kg, 40 mg/kg의 코디세핀 및 500 mg/kg의 타우린을 각각 28일 동안 마우스에 투여한 후 체중
-      부하 수영 테스트를 실시했습니다. 결과는 코디세핀이 쥐의 체중 부하 수영 시간을 상당히 연장시키는 것으로 나타났습니다. 한편, 코디세핀은
-      젖산, 혈중 요산, 말론디알데히드 수치를 감소시켰고, 슈퍼옥사이드 디스뮤타제, 글루타티온, 니코틴아미드 아데닌 디뉴클레오티드 인산, 간
-      글리코겐, 근육 글리코겐 및 ATP의 함량을 증가시켰습니다. GC-MS에 의한 대사체 연구에서는 L-젖산, L-아스파라긴, 3-포스포글리세린산,
-      이노신, D-갈락토스, L-티로신, 글리세르산 및 L-트레오닌을 포함한 8가지 바이오마커가 간에서 발견된 것으로 나타났습니다. 비복근에는
-      D-리보스-5-인산염, 아세트산, 프로피온산, 부티르산, 팔미트산, 옥살로아세트산 및 구연산을 포함한 7가지 바이오마커가 있었습니다. 대사체학
-      결과는 코디세핀이 에너지 대사와 오탄당 인산 경로를 조절하여 피로를 완화할 수 있음을 나타냅니다. 또한, 우리는 코디세핀이 체중이 실린
-      수영 쥐의 비복근에서 TIGAR, SIRT1, PGC-1α, NRF1 및 TFAM의 단백질 수준을 크게 향상시키는 것을 발견했습니다. 종합하면,
-      본 연구는 코디세핀이 TIGAR/SIRT1/PGC-1α 신호 전달 경로를 활성화하여 항피로 효과를 가지고 있음을 보여주었습니다. 우리의
-      연구에 따르면 코디세핀은 피로에 대한 잠재적으로 효율적인 후보일 수 있습니다.
+    ko_literal: Fatigue, a most commonly sub-health condition, may cause people more
+      susceptible to many diseases. 코디세핀, a principal active ingredient from Cordyceps(cordyceps)
+      militaris(cordyceps militaris), exerts various pharmacological activities including
+      anti-diabetes, anti-inflammatory, immunomodulatory and antioxidant effects.
+      However, the anti-fatigue effect of 코디세핀 and specific mechanism remained unclear.
+      This study aimed to investigate the beneficial effect of 코디세핀 on physical fatigue
+      and elucidate the potential mechanism. 20 mg/kg, 40 mg/kg of 코디세핀 and 500 mg/kg
+      taurine were respectively treated to mice for 28 days before weight-loaded swimming
+      test. The results revealed that 코디세핀 significantly prolonged the weight-loaded
+      swimming time of mice. Meanwhile, 코디세핀 decreased the levels of lactic acid,
+      blood uric nitrogen, and malondialdehyde, and increased the contents of superoxide
+      dismutase, glutathione, nicotinamide adenine dinucleotide phosphate, hepatic
+      glycogen, muscle glycogen and ATP. The metabolomic study by GC-MS showed that
+      eight biomarkers were found in livers, including L-lactic acid, L-asparagine,
+      3-phosphoglyceric acid, inosine, D-galactose, L-tyrosine, glyceric acid and
+      L-threonine. There were seven biomarkers in gastrocnemius, including D-ribose-5-phosphate,
+      acetic acid, propionic acid, butyric acid, palmitic acid, oxaloacetic acid and
+      citric acid. The results of metabolomics indicated that 코디세핀 might relieve fatigue
+      by regulating energy metabolism and pentose phosphate pathway. Furthermore,
+      we found 코디세핀 significantly enhanced the protein levels of TIGAR, SIRT1, PGC-1α,
+      NRF1 and TFAM in gastrocnemius of weight-loaded swimming mice. Taken together,
+      the present study demonstrated that 코디세핀 possessed an anti-fatigue effect via
+      activating TIGAR/SIRT1/PGC-1α signaling pathway. Our study indicated that 코디세핀
+      may be a potentially efficient candidate for fatigue.
     ko_researcher: '[초록 전체] 핵심 용어: **코디세핀**(cordycepin) · **Cordyceps militaris**(cordyceps
-      militaris) · **Cordyceps**(cordyceps). 가장 흔히 나타나는 하위 건강 상태인 피로는 사람들이 많은 질병에
-      더 취약하게 만들 수 있습니다. Cordyceps militaris의 주요 유효성분인 코디세핀은 항당뇨, 항염증, 면역조절, 항산화 효과
-      등 다양한 약리활성을 발휘합니다. 그러나 코디세핀의 항피로 효과와 구체적인 메커니즘은 여전히 ​​불분명했습니다. 본 연구는 코디세핀이 육체적
-      피로에 미치는 유익한 효과를 조사하고 잠재적인 메커니즘을 밝히는 것을 목표로 했습니다. 20 mg/kg, 40 mg/kg의 코디세핀 및
-      500 mg/kg의 타우린을 각각 28일 동안 마우스에 투여한 후 체중 부하 수영 테스트를 실시했습니다. 결과는 코디세핀이 쥐의 체중 부하
-      수영 시간을 상당히 연장시키는 것으로 나타났습니다. 한편, 코디세핀은 젖산, 혈중 요산, 말론디알데히드 수치를 감소시켰고, 슈퍼옥사이드
-      디스뮤타제, 글루타티온, 니코틴아미드 아데닌 디뉴클레오티드 인산, 간 글리코겐, 근육 글리코겐 및 ATP의 함량을 증가시켰습니다. GC-MS에
-      의한 대사체 연구에서는 L-젖산, L-아스파라긴, 3-포스포글리세린산, 이노신, D-갈락토스, L-티로신, 글리세르산 및 L-트레오닌을
-      포함한 8가지 바이오마커가 간에서 발견된 것으로 나타났습니다. 비복근에는 D-리보스-5-인산염, 아세트산, 프로피온산, 부티르산, 팔미트산,
-      옥살로아세트산 및 구연산을 포함한 7가지 바이오마커가 있었습니다. 대사체학 결과는 코디세핀이 에너지 대사와 오탄당 인산 경로를 조절하여
-      피로를 완화할 수 있음을 나타냅니다. 또한, 우리는 코디세핀이 체중이 실린 수영 쥐의 비복근에서 TIGAR, SIRT1, PGC-1α,
-      NRF1 및 TFAM의 단백질 수준을 크게 향상시키는 것을 발견했습니다. 종합하면, 본 연구는 코디세핀이 TIGAR/SIRT1/PGC-1α
-      신호 전달 경로를 활성화하여 항피로 효과를 가지고 있음을 보여주었습니다. 우리의 연구에 따르면 코디세핀은 피로에 대한 잠재적으로 효율적인
-      후보일 수 있습니다.'
-    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. 가장 흔히 나타나는 하위 건강 상태인 피로는 사람들이 많은 질병에 더 취약하게
-      만들 수 있습니다. Cordyceps militaris의 주요 유효성분인 코디세핀은 항당뇨, 항염증, 면역조절, 항산화 효과 등 다양한
-      약리활성을 발휘합니다. 그러나 코디세핀의 항피로 효과와 구체적인 메커니즘은 여전히 ​​불분명했습니다. …
+      militaris) · **Cordyceps**(cordyceps). Fatigue, a most commonly sub-health condition,
+      may cause people more susceptible to many diseases. 코디세핀, a principal active
+      ingredient from Cordyceps(cordyceps) militaris(cordyceps militaris), exerts
+      various pharmacological activities including anti-diabetes, anti-inflammatory,
+      immunomodulatory and antioxidant effects. However, the anti-fatigue effect of
+      코디세핀 and specific mechanism remained unclear. This study aimed to investigate
+      the beneficial effect of 코디세핀 on physical fatigue and elucidate the potential
+      mechanism. 20 mg/kg, 40 mg/kg of 코디세핀 and 500 mg/kg taurine were respectively
+      treated to mice for 28 days before weight-loaded swimming test. The results
+      revealed that 코디세핀 significantly prolonged the weight-loaded swimming time of
+      mice. Meanwhile, 코디세핀 decreased the levels of lactic acid, blood uric nitrogen,
+      and malondialdehyde, and increased the contents of superoxide dismutase, glutathione,
+      nicotinamide adenine dinucleotide phosphate, hepatic glycogen, muscle glycogen
+      and ATP. The metabolomic study by GC-MS showed that eight biomarkers were found
+      in livers, including L-lactic acid, L-asparagine, 3-phosphoglyceric acid, inosine,
+      D-galactose, L-tyrosine, glyceric acid and L-threonine. There were seven biomarkers
+      in gastrocnemius, including D-ribose-5-phosphate, acetic acid, propionic acid,
+      butyric acid, palmitic acid, oxaloacetic acid and citric acid. The results of
+      metabolomics indicated that 코디세핀 might relieve fatigue by regulating energy
+      metabolism and pentose phosphate pathway. Furthermore, we found 코디세핀 significantly
+      enhanced the protein levels of TIGAR, SIRT1, PGC-1α, NRF1 and TFAM in gastrocnemius
+      of weight-loaded swimming mice. Taken together, the present study demonstrated
+      that 코디세핀 possessed an anti-fatigue effect via activating TIGAR/SIRT1/PGC-1α
+      signaling pathway. Our study indicated that 코디세핀 may be a potentially efficient
+      candidate for fatigue.'
+    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. Fatigue, a most commonly sub-health condition,
+      may cause people more susceptible to many diseases. 코디세핀, a principal active
+      ingredient from Cordyceps(cordyceps) militaris(cordyceps militaris), exerts
+      various pharmacological activities including anti-diabetes, anti-inflammatory,
+      immunomodulatory and antioxidant effects. However, the anti-fatigue effect of
+      코디세핀 and specific mechanism remained unclear. …
 ---
 
 ## 한국어 요약

@@ -1,24 +1,24 @@
 ---
 record_id: 0befa959-8081-4fd6-a3df-0dc61bd418de
-title: Cordycepin ameliorates cardiac hypertrophy via activating the AMPKα pathway.
+title: Cordycepin ameliorates cardiac hypertrophy via activating the AMPKα pathway
 authors:
-- Hui-Bo Wang
-- Ming-Xia Duan
+- Hui‐Bo Wang
+- Mingxia Duan
 - Man Xu
-- Si-Hui Huang
+- Si‐Hui Huang
 - Jun Yang
 - Jian Yang
-- Li-Bo Liu
-- Rong Huang
-- Chun-Xia Wan
-- Zhen-Guo Ma
-- Qing-Qing Wu
-- Qi-Zhu Tang
+- Libo Liu
+- R. Stephanie Huang
+- Chun‐Xia Wan
+- Zhen‐Guo Ma
+- Qingqing Wu
+- Qizhu Tang
 year: 2019
-journal: Journal of cellular and molecular medicine
+journal: Journal of Cellular and Molecular Medicine
 doi: 10.1111/jcmm.14485
 pmid: '31225721'
-url: https://pubmed.ncbi.nlm.nih.gov/31225721/
+url: https://doi.org/10.1111/jcmm.14485
 track: compound
 compound: cordycepin
 species: Cordyceps_militaris
@@ -39,7 +39,6 @@ jurisdiction_caveats:
 - research_only
 source_apis:
 - openalex
-- pubmed
 full_text_available: false
 tags:
 - evidence
@@ -48,7 +47,7 @@ tags:
 - market/research_only
 ---
 
-# Cordycepin ameliorates cardiac hypertrophy via activating the AMPKα pathway.
+# Cordycepin ameliorates cardiac hypertrophy via activating the AMPKα pathway
 
 ## Summary fields
 - **Year:** 2019
@@ -62,7 +61,7 @@ tags:
 - **Citation status:** needs_legal_review
 - **DOI:** 10.1111/jcmm.14485
 - **PMID:** 31225721
-- **URL:** https://pubmed.ncbi.nlm.nih.gov/31225721/
+- **URL:** https://doi.org/10.1111/jcmm.14485
 
 ## Abstract
 Abstract Increase of myocardial oxidative stress is closely related to the occurrence and development of cardiac hypertrophy. Cordycepin, also known as 3'‐deoxyadenosine, is a natural bioactive substance extracted from Cordyceps militaris (which is widely cultivated for commercial use in functional foods and medicine). Since cordycepin suppresses oxidative stress both in vitro and in vivo, we hypothesized that cordycepin would inhibit cardiac hypertrophy by blocking oxidative stress‐dependent related signalling. In our study, a mouse model of cardiac hypertrophy was induced by aortic banding (AB) surgery. Mice were intraperitoneally injected with cordycepin (20 mg/kg/d) or the same volume of vehicle 3 days after‐surgery for 4 weeks. Our data demonstrated that cordycepin prevented cardiac hypertrophy induced by AB, as assessed by haemodynamic parameters analysis and echocardiographic, histological and molecular analyses. Oxidative stress was estimated by detecting superoxide generation, superoxide dismutase (SOD) activity and malondialdehyde levels, and by detecting the protein levels of gp91phox and SOD. Mechanistically, we found that cordycepin activated activated protein kinase α (AMPKα) signalling and attenuated oxidative stress both in vivo in cordycepin‐treated mice and in vitro in cordycepin treated cardiomyocytes. Taken together, the results suggest that cordycepin protects against post‐AB cardiac hypertrophy through activation of the AMPKα pathway, which subsequently attenuates oxidative stress.

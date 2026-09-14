@@ -1,24 +1,24 @@
 ---
 record_id: f4530493-7adf-4298-acea-1658aca0a590
 title: Cordycepin inhibits UVB-induced matrix metalloproteinase expression by suppressing
-  the NF-kappaB pathway in human dermal fibroblasts.
+  the NF--κB pathway in human dermal fibroblasts
 authors:
-- Young Rae Lee
-- Eun Mi Noh
-- Eun Yong Jeong
-- Seok Kweon Yun
+- Young-Rae Lee
+- Eun-Mi Noh
+- Eun-Yong Jeong
+- Seok‐Kweon Yun
 - Young Ju Jeong
-- Jong Hyeon Kim
-- Kang Beom Kwon
-- Byeong Soo Kim
-- Sung Ho Lee
-- Chang Sik Park
-- Jong Suk Kim
+- Jong-Hyeon Kim
+- Kang‐Beom Kwon
+- Byeong-Soo Kim
+- Sung-Ho Lee
+- Chang-Sik Park
+- Jong‐Suk Kim
 year: 2009
-journal: Experimental & molecular medicine
+journal: Experimental & Molecular Medicine
 doi: 10.3858/emm.2009.41.8.060
 pmid: '19381070'
-url: https://pubmed.ncbi.nlm.nih.gov/19381070/
+url: https://doi.org/10.3858/emm.2009.41.8.060
 track: compound
 compound: cordycepin
 species: unclear
@@ -38,7 +38,6 @@ jurisdiction_caveats:
 - research_only
 source_apis:
 - openalex
-- pubmed
 full_text_available: false
 tags:
 - evidence
@@ -47,7 +46,7 @@ tags:
 - market/research_only
 ---
 
-# Cordycepin inhibits UVB-induced matrix metalloproteinase expression by suppressing the NF-kappaB pathway in human dermal fibroblasts.
+# Cordycepin inhibits UVB-induced matrix metalloproteinase expression by suppressing the NF--κB pathway in human dermal fibroblasts
 
 ## Summary fields
 - **Year:** 2009
@@ -61,7 +60,7 @@ tags:
 - **Citation status:** needs_legal_review
 - **DOI:** 10.3858/emm.2009.41.8.060
 - **PMID:** 19381070
-- **URL:** https://pubmed.ncbi.nlm.nih.gov/19381070/
+- **URL:** https://doi.org/10.3858/emm.2009.41.8.060
 
 ## Abstract
 Cordycepin (3-deoxyadenosine) has been shown to exhibit many pharmacological activities, including anti-cancer, anti-inflammatory, and anti-infection activities. However, the anti-skin photoaging effects of cordycepin have not yet been reported. In the present study, we investigated the inhibitory effects of cordycepin on matrix metalloproteinase-1 (MMP-1) and -3 expressions of the human dermal fibroblast cells. Western blot analysis and real-time PCR revealed cordycepin inhibited UVB-induced MMP-1 and -3 expressions in a dose-dependent manner. UVB strongly activated NF-kappaB activity, which was determined by IkappaBalpha degradation, nuclear localization of p50 and p65 subunit, and NF-kappaB binding activity. However, UVB-induced NF-kappaB activation and MMP expression were completely blocked by cordycepin pretreatment. These findings suggest that cordycepin could prevent UVB-induced MMPs expressions through inhibition of NF-kappaB activation. In conclusion, cordycepin might be used as a potential agent for the prevention and treatment of skin photoaging.

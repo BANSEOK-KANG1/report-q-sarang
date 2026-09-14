@@ -1,10 +1,9 @@
 ---
 title: 'Anti-inflammatory effects of cordycepin: A review.'
-title_ko: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please
-  try again later.That’s all we know.
+title_ko: 'Anti-inflammatory effects of 코디세핀: A review.'
 slug: anti-inflammatory-effects-of-cordycepin-a-review-2020-33090621
 record_id: 4ff4f381-2c9f-4ec8-a49e-6060a55139e3
-date: '2026-08-31'
+date: '2026-09-14'
 year: 2020
 authors:
 - Lu Tan
@@ -42,7 +41,7 @@ tags:
 - cordycepin
 - evidence
 - 제왕충초
-generated: '2026-08-31'
+generated: '2026-09-14'
 visuals: []
 api_meta:
   keywords:
@@ -75,7 +74,7 @@ api_meta:
   - name: Immunology
     score: 0.363
     level: 1
-  cited_by_count: 119
+  cited_by_count: 120
   reference_count: 114
   publisher: Wiley
   journal: 'Phytotherapy research : PTR'
@@ -85,10 +84,9 @@ api_meta:
     europepmc: true
     openalex: true
     crossref: true
-  fetched_at: '2026-08-31'
+  fetched_at: '2026-09-14'
 translations:
-  title_ko: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please
-    try again later.That’s all we know.
+  title_ko: 'Anti-inflammatory effects of 코디세핀: A review.'
   glossary:
   - en: cordycepin
     ko: 코디세핀
@@ -123,21 +121,60 @@ translations:
       focusing on expanding the medicinal use of cordycepin. Taken together, cordycepin
       and its analogs show great potential as the next new class of anti-inflammatory
       agents.
-    ko_literal: Error 500 (Server Error)!!1500.That’s an error.There was an error.
-      Please try again later.That’s all we know.
+    ko_literal: 코디세핀 is the major bioactive component 추출물ed from Cordyceps(cordyceps)
+      militaris(cordyceps militaris). In recent years, 코디세핀 has received increasing
+      attention owing to its multiple pharmacological activities. This study reviews
+      recent researches on the anti-inflammatory effects and the related activities
+      of 코디세핀. The results from our review indicate that 코디세핀 exerts protective effects
+      against inflammatory injury for many diseases including acute lung injury (ALI),
+      asthma, rheumatoid arthritis, Parkinson's disease (PD), hepatitis, atherosclerosis,
+      and atopic dermatitis. 코디세핀 regulates the NF-κB, RIP2/Caspase-1, Akt/GSK-3β/p70S6K,
+      TGF-β/Smads, and Nrf2/HO-1 signaling pathways among others. Several studies
+      focusing on 코디세핀 derivatives were reviewed and found to down metabolic velocity
+      of 코디세핀 and increase its bioavailability. Moreover, 코디세핀 enhanced immunity,
+      inhibited the proliferation of viral RNA, and suppressed cytokine storms, thereby
+      suggesting its potential to treat COVID-19 and other viral infections. From
+      the collected and reviewed information, this article provides the theoretical
+      basis for the clinical applications of 코디세핀 and discusses the path for future
+      studies focusing on expanding the medicinal use of 코디세핀. Taken together, 코디세핀
+      and its analogs show great potential as the next new class of anti-inflammatory
+      agents.
     ko_researcher: '[초록 전체] 핵심 용어: **코디세핀**(cordycepin) · **Cordyceps militaris**(cordyceps
-      militaris) · **Cordyceps**(cordyceps) · **추출물**(extract). Error 500 (Server
-      Error)!!1500.That’s an error.There was an error. Please try again later.That’s
-      all we know.'
-    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. Error 500 (Server Error)!!1500.That’s an
-      error.There was an error. Please try again later.That’s all we know.
+      militaris) · **Cordyceps**(cordyceps) · **추출물**(extract). 코디세핀 is the major
+      bioactive component 추출물ed from Cordyceps(cordyceps) militaris(cordyceps militaris).
+      In recent years, 코디세핀 has received increasing attention owing to its multiple
+      pharmacological activities. This study reviews recent researches on the anti-inflammatory
+      effects and the related activities of 코디세핀. The results from our review indicate
+      that 코디세핀 exerts protective effects against inflammatory injury for many diseases
+      including acute lung injury (ALI), asthma, rheumatoid arthritis, Parkinson''s
+      disease (PD), hepatitis, atherosclerosis, and atopic dermatitis. 코디세핀 regulates
+      the NF-κB, RIP2/Caspase-1, Akt/GSK-3β/p70S6K, TGF-β/Smads, and Nrf2/HO-1 signaling
+      pathways among others. Several studies focusing on 코디세핀 derivatives were reviewed
+      and found to down metabolic velocity of 코디세핀 and increase its bioavailability.
+      Moreover, 코디세핀 enhanced immunity, inhibited the proliferation of viral RNA,
+      and suppressed cytokine storms, thereby suggesting its potential to treat COVID-19
+      and other viral infections. From the collected and reviewed information, this
+      article provides the theoretical basis for the clinical applications of 코디세핀
+      and discusses the path for future studies focusing on expanding the medicinal
+      use of 코디세핀. Taken together, 코디세핀 and its analogs show great potential as the
+      next new class of anti-inflammatory agents.'
+    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. 코디세핀 is the major bioactive component 추출물ed
+      from Cordyceps(cordyceps) militaris(cordyceps militaris). In recent years, 코디세핀
+      has received increasing attention owing to its multiple pharmacological activities.
+      This study reviews recent researches on the anti-inflammatory effects and the
+      related activities of 코디세핀. …
   easy_read:
     headline: 2020년에 나온 여러 연구를 읽고 정리한 글입니다. 핵심 주제는 「염증 반응과 관련된 연구 주제」입니다.
-    what_is_this: 이 글은 「염증 반응과 관련된 연구 주제」에 대한 학술 정리입니다. Error 500 (Server Error)!!1500.That’s
-      an error.There was an error. Please try again later.That’s all we know.
+    what_is_this: 이 글은 「염증 반응과 관련된 연구 주제」에 대한 학술 정리입니다. 코디세핀 is the major bioactive
+      component 물이나 술 등으로 뽑아낸 성분ed from Cordyceps(cordyceps) militaris(cordyceps militaris).
+      In recent years, 코디세핀 has received increasing attention owing to its multiple
+      pharmacological activities.
     what_they_did: 여러 편의 논문을 찾아 읽고, 공통점과 차이를 표로 정리했습니다.
-    what_they_found: Error 500 (Server Error)!!1500.That’s an error.There was an error.
-      Please try again later.That’s all we know.
+    what_they_found: 코디세핀 is the major bioactive component 물이나 술 등으로 뽑아낸 성분ed from
+      Cordyceps(cordyceps) militaris(cordyceps militaris). In recent years, 코디세핀 has
+      received increasing attention owing to its multiple pharmacological activities.
+      This study reviews recent researches on the anti-inflammatory effects and the
+      related activities of 코디세핀.
     good_to_know:
     - 이 글은 **술·담금주가 몸에 좋다**는 이야기가 아닙니다.
     - 연구실·논문에서 말하는 **생리활성·기능성 주제**를 할머니·할아버지도 읽기 쉽게 풀어 쓴 것입니다.
@@ -147,8 +184,9 @@ translations:
     sections:
     - id: summary
       label: 한줄 요약
-      text: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please
-        try again later.That’s all we know.
+      text: 코디세핀 is the major bioactive component 물이나 술 등으로 뽑아낸 성분ed from Cordyceps(cordyceps)
+        militaris(cordyceps militaris). In recent years, 코디세핀 has received increasing
+        attention owing to its multiple pharmacological activities.
   full:
     en: Cordycepin is the major bioactive component extracted from Cordyceps militaris.
       In recent years, cordycepin has received increasing attention owing to its multiple
@@ -168,14 +206,48 @@ translations:
       focusing on expanding the medicinal use of cordycepin. Taken together, cordycepin
       and its analogs show great potential as the next new class of anti-inflammatory
       agents.
-    ko_literal: Error 500 (Server Error)!!1500.That’s an error.There was an error.
-      Please try again later.That’s all we know.
+    ko_literal: 코디세핀 is the major bioactive component 추출물ed from Cordyceps(cordyceps)
+      militaris(cordyceps militaris). In recent years, 코디세핀 has received increasing
+      attention owing to its multiple pharmacological activities. This study reviews
+      recent researches on the anti-inflammatory effects and the related activities
+      of 코디세핀. The results from our review indicate that 코디세핀 exerts protective effects
+      against inflammatory injury for many diseases including acute lung injury (ALI),
+      asthma, rheumatoid arthritis, Parkinson's disease (PD), hepatitis, atherosclerosis,
+      and atopic dermatitis. 코디세핀 regulates the NF-κB, RIP2/Caspase-1, Akt/GSK-3β/p70S6K,
+      TGF-β/Smads, and Nrf2/HO-1 signaling pathways among others. Several studies
+      focusing on 코디세핀 derivatives were reviewed and found to down metabolic velocity
+      of 코디세핀 and increase its bioavailability. Moreover, 코디세핀 enhanced immunity,
+      inhibited the proliferation of viral RNA, and suppressed cytokine storms, thereby
+      suggesting its potential to treat COVID-19 and other viral infections. From
+      the collected and reviewed information, this article provides the theoretical
+      basis for the clinical applications of 코디세핀 and discusses the path for future
+      studies focusing on expanding the medicinal use of 코디세핀. Taken together, 코디세핀
+      and its analogs show great potential as the next new class of anti-inflammatory
+      agents.
     ko_researcher: '[초록 전체] 핵심 용어: **코디세핀**(cordycepin) · **Cordyceps militaris**(cordyceps
-      militaris) · **Cordyceps**(cordyceps) · **추출물**(extract). Error 500 (Server
-      Error)!!1500.That’s an error.There was an error. Please try again later.That’s
-      all we know.'
-    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. Error 500 (Server Error)!!1500.That’s an
-      error.There was an error. Please try again later.That’s all we know.
+      militaris) · **Cordyceps**(cordyceps) · **추출물**(extract). 코디세핀 is the major
+      bioactive component 추출물ed from Cordyceps(cordyceps) militaris(cordyceps militaris).
+      In recent years, 코디세핀 has received increasing attention owing to its multiple
+      pharmacological activities. This study reviews recent researches on the anti-inflammatory
+      effects and the related activities of 코디세핀. The results from our review indicate
+      that 코디세핀 exerts protective effects against inflammatory injury for many diseases
+      including acute lung injury (ALI), asthma, rheumatoid arthritis, Parkinson''s
+      disease (PD), hepatitis, atherosclerosis, and atopic dermatitis. 코디세핀 regulates
+      the NF-κB, RIP2/Caspase-1, Akt/GSK-3β/p70S6K, TGF-β/Smads, and Nrf2/HO-1 signaling
+      pathways among others. Several studies focusing on 코디세핀 derivatives were reviewed
+      and found to down metabolic velocity of 코디세핀 and increase its bioavailability.
+      Moreover, 코디세핀 enhanced immunity, inhibited the proliferation of viral RNA,
+      and suppressed cytokine storms, thereby suggesting its potential to treat COVID-19
+      and other viral infections. From the collected and reviewed information, this
+      article provides the theoretical basis for the clinical applications of 코디세핀
+      and discusses the path for future studies focusing on expanding the medicinal
+      use of 코디세핀. Taken together, 코디세핀 and its analogs show great potential as the
+      next new class of anti-inflammatory agents.'
+    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. 코디세핀 is the major bioactive component 추출물ed
+      from Cordyceps(cordyceps) militaris(cordyceps militaris). In recent years, 코디세핀
+      has received increasing attention owing to its multiple pharmacological activities.
+      This study reviews recent researches on the anti-inflammatory effects and the
+      related activities of 코디세핀. …
 ---
 
 ## 한국어 요약

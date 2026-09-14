@@ -3,15 +3,15 @@ record_id: 648a561a-eeca-4757-8b35-14994cfcf9b8
 title: Effects of cordyceps sinensis on natural killer activity and colony formation
   of B16 melanoma.
 authors:
-- R H Xu
-- X E Peng
+- Ren-Bao Xu
+- Xiao-Qi Peng
 - G Z Chen
 - G L Chen
 year: 1992
-journal: Chinese medical journal
+journal: PubMed
 doi: ''
 pmid: '1597083'
-url: https://pubmed.ncbi.nlm.nih.gov/1597083/
+url: https://pubmed.ncbi.nlm.nih.gov/1597083
 track: comparator_sinensis
 compound: cordyceps_extract
 species: Cordyceps_sinensis
@@ -32,7 +32,6 @@ jurisdiction_caveats:
 - research_only
 source_apis:
 - openalex
-- pubmed
 full_text_available: false
 tags:
 - evidence
@@ -55,7 +54,7 @@ tags:
 - **Citation status:** needs_legal_review
 - **DOI:** —
 - **PMID:** 1597083
-- **URL:** https://pubmed.ncbi.nlm.nih.gov/1597083/
+- **URL:** https://pubmed.ncbi.nlm.nih.gov/1597083
 
 ## Abstract
 This paper reports the study on the effects of the ethanol extract of Cordyceps sinensis (CS-II), a potent herbal tonic, on murine and human in vitro natural killer cell (NK) activities and on murine in vivo NK activity (by 125I clearance assay), and on colony formation of B16 melanoma in mouse lungs. The results revealed that: 1. the in vivo and in vitro NK activities of mouse were both significantly augmented by intraperitoneal (ip) injection of CS-II. Besides, the inhibition of mouse NK activity by cyclophosphamide (Cy) was prevented following the administration of CS-II; 2. the in vitro NK activity of human peripheral blood mononuclear cells (PBMs) was elevated by preincubation of PBMs with CS-II; and 3. the colony formation of B16 melanoma in mouse lungs was reduced significantly by ip pretreatment of the mice with CS-II. This study indicates that CS-II may be used as an immunopotentiating agent in treating cancer and immunodeficient patients.

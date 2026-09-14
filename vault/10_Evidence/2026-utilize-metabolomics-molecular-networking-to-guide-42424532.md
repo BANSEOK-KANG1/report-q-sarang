@@ -1,7 +1,7 @@
 ---
 record_id: 21000817-71b5-4ff5-b027-407eb42b79ea
 title: Utilize Metabolomics Molecular Networking to Guide the Discovery of Chemical
-  Entities from &lt;i&gt;Cordyceps militaris&lt;/i&gt; Against Blue Light Hazards.
+  Entities from Cordyceps militaris Against Blue Light Hazards.
 authors:
 - Wu HC
 - Gu A
@@ -33,7 +33,7 @@ jurisdiction_caveats:
 - research_only
 source_apis:
 - europepmc
-full_text_available: false
+full_text_available: true
 tags:
 - evidence
 - status/candidate
@@ -41,7 +41,7 @@ tags:
 - market/research_only
 ---
 
-# Utilize Metabolomics Molecular Networking to Guide the Discovery of Chemical Entities from &lt;i&gt;Cordyceps militaris&lt;/i&gt; Against Blue Light Hazards.
+# Utilize Metabolomics Molecular Networking to Guide the Discovery of Chemical Entities from Cordyceps militaris Against Blue Light Hazards.
 
 ## Summary fields
 - **Year:** 2026
@@ -58,7 +58,7 @@ tags:
 - **URL:** https://europepmc.org/article/MED/42424532
 
 ## Abstract
-Increasing exposure to blue light has raised concern about retinal injury, particularly in retinal pigment epithelial (RPE) cells. <i>N</i>-retinylidene-<i>N</i>-retinylethanolamine (A2E), a photosensitive fluorophore associated with age-related macular degeneration, is an important mediator of this process. In this study, feature-based molecular networking guided the identification of cordylutenes A-J (<b>1</b>-<b>10</b>), a new molecular family of blue light-protective fungal pigments from <i>Cordyceps militaris</i>. These metabolites possess a previously unreported symmetric all-<i>E</i> C20 polyene dicarbonyl skeleton with carotenoid-like UV absorption. They were characterized at the molecular-family level by shared UV features and diagnostic, internally consistent MS<sup>2</sup> fragmentation patterns. Cordylutenes A (<b>1</b>) and B (<b>2</b>) were isolated as representative members for structural characterization. In an A2E-mediated blue-light injury model in ARPE-19 cells, the cordylutene complex (CCL, 1 μg/mL) and cordylutene A (<b>1</b>, 0.1 μg/mL) improved cell viability to 84.78 ± 4.02% and 92.14 ± 1.88%, respectively, and reduced intracellular oxidative stress to 63.67 ± 3.33% and 43.89 ± 9.59%, respectively. These findings identify cordylutenes as a new family of fungal pigments with protective effects in an A2E-mediated photo-oxidative retinal cell injury model.
+Increasing exposure to blue light has raised concern about retinal injury, particularly in retinal pigment epithelial (RPE) cells. N-retinylidene-N-retinylethanolamine (A2E), a photosensitive fluorophore associated with age-related macular degeneration, is an important mediator of this process. In this study, feature-based molecular networking guided the identification of cordylutenes A-J (1-10), a new molecular family of blue light-protective fungal pigments from Cordyceps militaris. These metabolites possess a previously unreported symmetric all-E C20 polyene dicarbonyl skeleton with carotenoid-like UV absorption. They were characterized at the molecular-family level by shared UV features and diagnostic, internally consistent MS2 fragmentation patterns. Cordylutenes A (1) and B (2) were isolated as representative members for structural characterization. In an A2E-mediated blue-light injury model in ARPE-19 cells, the cordylutene complex (CCL, 1 μg/mL) and cordylutene A (1, 0.1 μg/mL) improved cell viability to 84.78 ± 4.02% and 92.14 ± 1.88%, respectively, and reduced intracellular oxidative stress to 63.67 ± 3.33% and 43.89 ± 9.59%, respectively. These findings identify cordylutenes as a new family of fungal pigments with protective effects in an A2E-mediated photo-oxidative retinal cell injury model.
 
 ## Relevance notes
 _n/a_

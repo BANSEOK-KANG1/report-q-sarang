@@ -1,6 +1,6 @@
 # Marketing Evidence Brief — 제왕충초 × 코디세핀
 
-_Generated: 2026-08-31_
+_Generated: 2026-09-14_
 
 > 제왕충초 담금주는 **주류**입니다. 아래 내용은 효능 광고 승인이 아닙니다.
 > 소비자 카피는 법무 검토 후 `citation_status=approved` + `KR_liquor_context`만 사용하세요.
@@ -79,39 +79,21 @@ _Generated: 2026-08-31_
 - Allowed: Cordycepin is a compound studied in Cordyceps militaris / Cordyceps spp.; academic literature reports related research. (Not a disease-treatment claim; not for liquor efficacy advertising.)
 - Prohibited: Do not claim treatment/prevention/cure of disease; do not claim immune boost, fatigue recovery, anticancer effect, FDA/MFDS efficacy approval for liquor.
 
-### 2024 — Enhancement of Cordycepin Production through Liquid Static Fermentation of Caterpillar Medicinal Mushroom Cordyceps militaris (Ascomycetes).
-- Strength: `C_animal` | Type: `animal`
-- DOI: 10.1615/intjmedmushrooms.2024055323 | PMID: 39241164
-- Allowed: Cordycepin is a compound studied in Cordyceps militaris / Cordyceps spp.; academic literature reports related research. (Not a disease-treatment claim; not for liquor efficacy advertising.)
-- Prohibited: Do not claim treatment/prevention/cure of disease; do not claim immune boost, fatigue recovery, anticancer effect, FDA/MFDS efficacy approval for liquor.
-
-### 2024 — Evidence for Regulation of Cordycepin Biosynthesis by Transcription Factors Krüppel-Like Factor 4 and Retinoid X Receptor Alpha in Caterpillar Medicinal Mushroom Cordyceps militaris (Ascomycetes).
-- Strength: `C_animal` | Type: `animal`
-- DOI: 10.1615/intjmedmushrooms.2024054952 | PMID: 39171629
-- Allowed: Cordycepin is a compound studied in Cordyceps militaris / Cordyceps spp.; academic literature reports related research. (Not a disease-treatment claim; not for liquor efficacy advertising.)
-- Prohibited: Do not claim treatment/prevention/cure of disease; do not claim immune boost, fatigue recovery, anticancer effect, FDA/MFDS efficacy approval for liquor.
-
-### 2023 — High-level production of cordycepin by the xylose-utilising Cordyceps militaris strain 147 in an optimised medium.
-- Strength: `C_animal` | Type: `animal`
-- DOI: 10.1016/j.biortech.2023.129742 | PMID: 37734485
-- Allowed: Cordycepin is a compound studied in Cordyceps militaris / Cordyceps spp.; academic literature reports related research. (Not a disease-treatment claim; not for liquor efficacy advertising.)
-- Prohibited: Do not claim treatment/prevention/cure of disease; do not claim immune boost, fatigue recovery, anticancer effect, FDA/MFDS efficacy approval for liquor.
-
 ### 2023 — Increased Cordycepin Production in Yarrowia lipolytica Using Combinatorial Metabolic Engineering Strategies.
 - Strength: `C_animal` | Type: `animal`
 - DOI: 10.1021/acssynbio.2c00570 | PMID: 36791366
 - Allowed: Cordycepin is a compound studied in Cordyceps militaris / Cordyceps spp.; academic literature reports related research. (Not a disease-treatment claim; not for liquor efficacy advertising.)
 - Prohibited: Do not claim treatment/prevention/cure of disease; do not claim immune boost, fatigue recovery, anticancer effect, FDA/MFDS efficacy approval for liquor.
 
-### 2022 — Research Progress on Cordycepin Synthesis and Methods for Enhancement of Cordycepin Production in Cordyceps militaris
+### 2022 — Construction of Cordycepin High-Production Strain and Optimization of Culture Conditions.
 - Strength: `C_animal` | Type: `animal`
-- DOI: 10.3390/bioengineering9020069 | PMID: 35200422
+- DOI: 10.1021/bp049765r | PMID: 36459233
 - Allowed: Cordycepin is a compound studied in Cordyceps militaris / Cordyceps spp.; academic literature reports related research. (Not a disease-treatment claim; not for liquor efficacy advertising.)
 - Prohibited: Do not claim treatment/prevention/cure of disease; do not claim immune boost, fatigue recovery, anticancer effect, FDA/MFDS efficacy approval for liquor.
 
-### 2004 — Hyperproduction of Cordycepin by Two-Stage Dissolved Oxygen Control in Submerged Cultivation of Medicinal Mushroom Cordyceps militaris in Bioreactors
+### 2022 — Research Progress on Cordycepin Synthesis and Methods for Enhancement of Cordycepin Production in Cordyceps militaris
 - Strength: `C_animal` | Type: `animal`
-- DOI: 10.1021/bp049765r | PMID: 15458324
+- DOI: 10.3390/bioengineering9020069 | PMID: 35200422
 - Allowed: Cordycepin is a compound studied in Cordyceps militaris / Cordyceps spp.; academic literature reports related research. (Not a disease-treatment claim; not for liquor efficacy advertising.)
 - Prohibited: Do not claim treatment/prevention/cure of disease; do not claim immune boost, fatigue recovery, anticancer effect, FDA/MFDS efficacy approval for liquor.
 
@@ -124,6 +106,11 @@ _Generated: 2026-08-31_
   - flags: disease_language, preclinical_only
   - link: https://europepmc.org/article/MED/42554624
 
+- **2026** [rct/A_human_RCT] Acute Cordyceps militaris supplementation and elevated resting oxygen uptake with faster reaction times: A randomized crossover trial.
+  - rct study touching exercise_performance endpoints (auto-tagged; verify before use).
+  - flags: none
+  - link: https://europepmc.org/article/MED/42455764
+
 - **2026** [animal/C_animal] An Acetyl-CoA-Gated Metabolic Checkpoint Links Precursor Supply to Cordycepin Biosynthesis in &lt;i&gt;Cordyceps militaris&lt;/i&gt;.
   - animal study touching metabolic endpoints (auto-tagged; verify before use).
   - flags: preclinical_only
@@ -133,11 +120,6 @@ _Generated: 2026-08-31_
   - animal study touching antioxidant endpoints (auto-tagged; verify before use).
   - flags: disease_language, preclinical_only
   - link: https://europepmc.org/article/MED/41828477
-
-- **2026** [animal/C_animal] Cordycepin Ameliorates Dextran Sulfate Sodium-Induced Ulcerative Colitis in Mice by Inhibiting IL-6/IL-6R-Mediated p38 MAPK and NF-κB Activation Through Adenosine A&lt;sub&gt;2A&lt;/sub&gt; Receptor Stimulation.
-  - animal study touching anti_inflammatory endpoints (auto-tagged; verify before use).
-  - flags: disease_language, preclinical_only
-  - link: https://europepmc.org/article/MED/41908945
 
 - **2026** [animal/C_animal] Cordycepin alleviates aluminium chloride-induced neurodevelopmental toxicity in zebrafish embryos by modulating inflammation and Wnt signaling.
   - animal study touching cognitive endpoints (auto-tagged; verify before use).
@@ -169,6 +151,11 @@ _Generated: 2026-08-31_
   - flags: preclinical_only
   - link: https://europepmc.org/article/MED/41942214
 
+- **2026** [review_narrative/F_review_only] Correction: Cordyceps spp.: a review on its immune-stimulatory and other biological potentials.
+  - review_narrative study touching immune endpoints (auto-tagged; verify before use).
+  - flags: none
+  - link: https://europepmc.org/article/MED/42699468
+
 - **2026** [review_narrative/F_review_only] Current Evidence of Ergogenic and Post-Exercise Recovery Effects of Dietary Supplementation with &lt;i&gt;Cordyceps militaris&lt;/i&gt; in Humans-A Narrative Review.
   - review_narrative study touching exercise_performance endpoints (auto-tagged; verify before use).
   - flags: none
@@ -189,17 +176,12 @@ _Generated: 2026-08-31_
   - flags: disease_language, preclinical_only
   - link: https://europepmc.org/article/MED/42184123
 
-- **2026** [animal/C_animal] Efficient production of cordycepin in engineered Saccharomyces cerevisiae.
-  - animal study touching immune endpoints (auto-tagged; verify before use).
-  - flags: disease_language, preclinical_only
-  - link: https://europepmc.org/article/MED/41946402
-
 ## Stats snapshot
 
-- Total normalized records: **801**
-- research_only: **784**
-- needs_legal_review: **493**
-- approved liquor-context: **17**
+- Total normalized records: **833**
+- research_only: **819**
+- needs_legal_review: **511**
+- approved liquor-context: **14**
 
 ## See also
 

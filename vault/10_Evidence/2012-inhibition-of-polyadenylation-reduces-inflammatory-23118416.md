@@ -1,22 +1,22 @@
 ---
 record_id: 5b10391d-d856-4b55-b9fb-8286dbdcbe63
-title: Inhibition of polyadenylation reduces inflammatory gene induction.
+title: Inhibition of polyadenylation reduces inflammatory gene induction
 authors:
 - Alexander Kondrashov
-- Hedda A Meijer
+- Hedda A. Meijer
 - Adeline Barthet-Barateig
-- Hannah N Parker
+- Hannah N. Parker
 - Asma Khurshid
 - Sarah Tessier
 - Marie Sicard
-- Alan J Knox
+- Alan J. Knox
 - Linhua Pang
-- Cornelia H De Moor
+- Cornelia H. de Moor
 year: 2012
-journal: RNA (New York, N.Y.)
+journal: RNA
 doi: 10.1261/rna.032391.112
 pmid: '23118416'
-url: https://pubmed.ncbi.nlm.nih.gov/23118416/
+url: https://doi.org/10.1261/rna.032391.112
 track: compound
 compound: cordycepin
 species: unclear
@@ -37,7 +37,6 @@ jurisdiction_caveats:
 - research_only
 source_apis:
 - openalex
-- pubmed
 full_text_available: false
 tags:
 - evidence
@@ -46,7 +45,7 @@ tags:
 - market/research_only
 ---
 
-# Inhibition of polyadenylation reduces inflammatory gene induction.
+# Inhibition of polyadenylation reduces inflammatory gene induction
 
 ## Summary fields
 - **Year:** 2012
@@ -60,7 +59,7 @@ tags:
 - **Citation status:** needs_legal_review
 - **DOI:** 10.1261/rna.032391.112
 - **PMID:** 23118416
-- **URL:** https://pubmed.ncbi.nlm.nih.gov/23118416/
+- **URL:** https://doi.org/10.1261/rna.032391.112
 
 ## Abstract
 Cordycepin (3' deoxyadenosine) has long been used in the study of in vitro assembled polyadenylation complexes, because it terminates the poly(A) tail and arrests the cleavage complex. It is derived from caterpillar fungi, which are highly prized in Chinese traditional medicine. Here we show that cordycepin specifically inhibits the induction of inflammatory mRNAs by cytokines in human airway smooth muscle cells without affecting the expression of control mRNAs. Cordycepin treatment results in shorter poly(A) tails, and a reduction in the efficiency of mRNA cleavage and transcription termination is observed, indicating that the effects of cordycepin on 3' processing in cells are similar to those described in in vitro reactions. For the CCL2 and CXCL1 mRNAs, the effects of cordycepin are post-transcriptional, with the mRNA disappearing during or immediately after nuclear export. In contrast, although the recruitment of RNA polymerase II to the IL8 promoter is also unaffected, the levels of nascent transcript are reduced, indicating a defect in transcription elongation. We show that a reporter construct with 3' sequences from a histone gene is unaffected by cordycepin, while CXCL1 sequences confer cordycepin sensitivity to the reporter, demonstrating that polyadenylation is indeed required for the effect of cordycepin on gene expression. In addition, treatment with another polyadenyation inhibitor and knockdown of poly(A) polymerase α also specifically reduced the induction of inflammatory mRNAs. These data demonstrate that there are differences in the 3' processing of inflammatory and housekeeping genes and identify polyadenylation as a novel target for anti-inflammatory drugs.

@@ -1,17 +1,17 @@
 ---
 record_id: 4e9c202f-e505-4615-8fc1-1632d6c7d16c
-title: Cordycepin Stimulated Steroidogenesis in MA-10 Mouse Leydig Tumor Cells through
-  the Protein Kinase C Pathway
+title: Cordycepin stimulated steroidogenesis in MA-10 mouse Leydig tumor cells through
+  the protein kinase C Pathway.
 authors:
 - Hsiang-Yin Pao
 - Bo-Syong Pan
 - Sew-Fen Leu
-- Bu‐Miin Huang
+- Bu-Miin Huang
 year: 2012
-journal: Journal of Agricultural and Food Chemistry
+journal: Journal of agricultural and food chemistry
 doi: 10.1021/jf205091b
 pmid: '22512531'
-url: https://doi.org/10.1021/jf205091b
+url: https://pubmed.ncbi.nlm.nih.gov/22512531/
 track: compound
 compound: cordycepin
 species: Cordyceps_sinensis
@@ -33,6 +33,7 @@ jurisdiction_caveats:
 - research_only
 source_apis:
 - openalex
+- pubmed
 full_text_available: false
 tags:
 - evidence
@@ -41,7 +42,7 @@ tags:
 - market/research_only
 ---
 
-# Cordycepin Stimulated Steroidogenesis in MA-10 Mouse Leydig Tumor Cells through the Protein Kinase C Pathway
+# Cordycepin stimulated steroidogenesis in MA-10 mouse Leydig tumor cells through the protein kinase C Pathway.
 
 ## Summary fields
 - **Year:** 2012
@@ -55,7 +56,7 @@ tags:
 - **Citation status:** needs_legal_review
 - **DOI:** 10.1021/jf205091b
 - **PMID:** 22512531
-- **URL:** https://doi.org/10.1021/jf205091b
+- **URL:** https://pubmed.ncbi.nlm.nih.gov/22512531/
 
 ## Abstract
 Cordycepin (3'-deoxyadenosine) is an adenosine analogue isolated from Cordyceps sinensis , which is a Chinese herbal medicine known to have many benefits, including adjustment of the physical condition, an anticancer effect, and enhancement of sexual performance. It was previously demonstrated that cordycepin could simultaneously activate steroidogenesis and apoptosis in MA-10 mouse Leydig tumor cells. However, the mechanism remains elusive. Thus, aim of the present study was to investigate the steroidogenic and apoptotic mechanism of cordycepin in MA-10 cells. MA-10 cells were treated with cordycepin at various dosages and time courses plus different protein kinase inhibitors. Steroid production, protein expression, and cell viability were then determined. Results illustrated that cordycepin stimulated MA-10 cell steroidogenesis in dose- and time-dependent relationships. However, cordycepin could not induce steroidogenic acute regulatory (StAR) protein expression. However, cordycepin did activate the phospholipase C/protein kinase C (PLC/PKC), but not PKA and PI3K, pathway to induce MA-10 cell steroidogenesis. Moreover, cordycepin could stimulate the phosphorylation of PKC, extracellular signal-regulated kinase 1/2 (ERK1/2), and c-Jun N-terminal kinase (c-JNK), but not p38, in MA-10 cells. In addition, cordycepin could activate the PKC pathway to induce MA-10 cell death, and this death effect was not caused by cordycepin-stimulated progesterone from MA-10 cells. In conclusion, cordycepin stimulated intracellular PLC/PKC and MAPK signal transduction pathways to induce steroidogenesis and cell death in MA-10 mouse Leydig tumor cells.

@@ -1,22 +1,22 @@
 ---
 record_id: fb8e1a3b-9e1f-4a26-ad0d-900691b4e724
-title: Chemical Composition and Nutritional and Medicinal Value of Fruit Bodies and
-  Submerged Cultured Mycelia of Culinary-Medicinal Higher Basidiomycetes Mushrooms
+title: Chemical composition and nutritional and medicinal value of fruit bodies and
+  submerged cultured mycelia of culinary-medicinal higher Basidiomycetes mushrooms.
 authors:
-- N. Cohen
+- Nachshol Cohen
 - Jacob Cohen
-- Mikheil D. Asatiani
-- V. K. Varshney
+- Mikheil D Asatiani
+- Vinay K Varshney
 - Hui-Tzu Yu
 - Yi-Chi Yang
 - Yu-Hsuan Li
-- Jeng‐Leun Mau
-- Solomon P. Wasser
+- Jeng-Leun Mau
+- Solomon P Wasser
 year: 2014
 journal: International journal of medicinal mushrooms
 doi: 10.1615/intjmedmushr.v16.i3.80
 pmid: '24941169'
-url: https://doi.org/10.1615/intjmedmushr.v16.i3.80
+url: https://pubmed.ncbi.nlm.nih.gov/24941169/
 track: comparator_sinensis
 compound: cordycepin
 species: Cordyceps_sinensis
@@ -37,6 +37,7 @@ jurisdiction_caveats:
 - research_only
 source_apis:
 - openalex
+- pubmed
 full_text_available: false
 tags:
 - evidence
@@ -45,7 +46,7 @@ tags:
 - market/research_only
 ---
 
-# Chemical Composition and Nutritional and Medicinal Value of Fruit Bodies and Submerged Cultured Mycelia of Culinary-Medicinal Higher Basidiomycetes Mushrooms
+# Chemical composition and nutritional and medicinal value of fruit bodies and submerged cultured mycelia of culinary-medicinal higher Basidiomycetes mushrooms.
 
 ## Summary fields
 - **Year:** 2014
@@ -59,7 +60,7 @@ tags:
 - **Citation status:** needs_legal_review
 - **DOI:** 10.1615/intjmedmushr.v16.i3.80
 - **PMID:** 24941169
-- **URL:** https://doi.org/10.1615/intjmedmushr.v16.i3.80
+- **URL:** https://pubmed.ncbi.nlm.nih.gov/24941169/
 
 ## Abstract
 This research gives the results of a proximate analysis (moisture, ash, crude protein, fat, total carbohydrates, and total energy); a bioactive compounds analysis (γ-aminobutyric acid [GABA], ergothioneine, lovastatin, and cordycepin); fatty acid and amino acid analysis; and an analysis of macro- and microelement content of fruit bodies and mycelia of 15 higher Basidiomycetes medicinal mushroom strains belonging to 12 species. The results obtained demonstrate that almost all investigated mushrooms were found to be good sources of proteins and carbohydrates, with content varying in the ranges of 8.6-42.5% and 42.9-83.6%, respectively. Different species exhibited distinct free amino acid profiles. The total amino acid content was highest in Ophiocordyceps sinensis (MB) (23.84 mg/g) and Cordyceps militaris (FB) (23.69 mg/g). The quantification of the identified fatty acids indicated that, in general, palmitic acid, oleic acid, stearic acid, and linoleic acid were the major fatty acids. The micro- and macroelement compositions were studied, and the highest results were (as milligrams per kilogram) 224-7307 for calcium, 1668-38564 for potassium, 1091-11676 for phosphorus, and 5-97 for zinc. Bioactive components were lovastatin, GABA, and ergothioneine, which are commonly found in most mushrooms. C. militaris (FB), Pleurotus ostreatus (FB), and Coprinus comatus (FB) were most abundant and contained a high amount of GABA (756.30 μg/g, 1304.99 μg/g, 1092.45 μg/g, respectively) and ergothioneine (409.88 μg/g, 2443.53 μg/g, 764.35 μg/g, respectively). The highest lovastatin content was observed in Hericium erinaceus (FB) (14.38 μg/g) and Ganoderma lucidum (FB) (11.54 μg/g). In contrast to C. militaris (FB), cordycepin was not detected in O. sinensis (MB). The fruit body biomass of C. militaris cordycepin content reached 1.743 mg/g dry weight. The nutritional values of the mushroom species studied here could potentially be used in well-balanced diets and as sources of bioactive compounds.

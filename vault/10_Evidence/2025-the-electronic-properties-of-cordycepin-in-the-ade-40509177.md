@@ -1,14 +1,14 @@
 ---
-record_id: e714580b-91dd-4f6c-ad07-2fbcedd2a90c
+record_id: 09e8af3f-e5b7-4568-8b1a-357392e3bc9f
 title: 'The Electronic Properties of Cordycepin in the Adenine Nucleoside Landscape:
   A Theoretical Approach.'
 authors:
-- Boleslaw T Karwowski
+- Karwowski BT.
 year: 2025
-journal: Molecules (Basel, Switzerland)
-doi: 10.1021/jacs.0c09293
+journal: ''
+doi: 10.3390/molecules30112289
 pmid: '40509177'
-url: https://pubmed.ncbi.nlm.nih.gov/40509177/
+url: https://europepmc.org/article/MED/40509177
 track: compound
 compound: cordycepin
 species: unclear
@@ -28,8 +28,8 @@ jurisdiction_caveats:
 - disease_language_in_source
 - research_only
 source_apis:
-- pubmed
-full_text_available: false
+- europepmc
+full_text_available: true
 tags:
 - evidence
 - status/needs_legal_review
@@ -49,12 +49,12 @@ tags:
 - **Risk flags:** disease_language, preclinical_only
 - **Maps to market:** research_only
 - **Citation status:** needs_legal_review
-- **DOI:** 10.1021/jacs.0c09293
+- **DOI:** 10.3390/molecules30112289
 - **PMID:** 40509177
-- **URL:** https://pubmed.ncbi.nlm.nih.gov/40509177/
+- **URL:** https://europepmc.org/article/MED/40509177
 
 ## Abstract
-The anticancer activity of 3'-deoxyadenosine (Cordycepin, or dCor) is known to be linked to the inhibition of the MAPK/ERK signalling and Hedgehog pathways, as well as the termination of primer elongation by primase in DNA lagging-strand synthesis. In this study, the electronic properties of dCor, 7,8-dihydro-8-oxo-3'-deoxyadenosine (OXOdCor), and 8-hydroxy-3'deoxyadenosie (HOdCor), together with their spin densities, charge distributions, and global reactive descriptors, have been taken into consideration at the M06-2x/6-31++G** level of theory in the aqueous phase. It was found that dCor predominantly adopts a 3'-endo,anti conformation, while OXOdCor and HOdCor adopt a 2'-endo,syn conformation. Also, the keto form of oxidised dCor was found to be energetically preferred to its enolic form. The adiabatic ionisation potentials (AIPs) were noted as follows (in eV): 6.29 for dCor, 6.21 for OXOdCor, and 6.17 for HOdCor. The lowest adiabatic electron affinity among all the discussed adenine nucleosides analogues was assigned for OXOdCor at 1.12 eV. A thorough analysis of the spin density distribution of the adiabatic radical cation reveals that it has a higher accumulation at N6 > C5 > C8 > 3 of dCor, C5 > N6 > N7 > O8 of OXOdCor, and N6 > C5 > C8 > C2 of HOdCor. The results suggest that Cordycepin is more easily converted to OXOdCor and HOdCor than canonical adenine nucleosides. Much like typical drugs, after its administration and release, Cordycepin is exposed to various physiological factors and can be exposed to ionisation radiation during combined therapy. These factors can influence the therapeutic potential of Cordycepin. Therefore, further studies on its stability are of utmost importance.
+The anticancer activity of 3'-deoxyadenosine (Cordycepin, or dCor) is known to be linked to the inhibition of the MAPK/ERK signalling and Hedgehog pathways, as well as the termination of primer elongation by primase in DNA lagging-strand synthesis. In this study, the electronic properties of dCor, 7,8-dihydro-8-oxo-3'-deoxyadenosine (<sup>OXO</sup>dCor), and 8-hydroxy-3'deoxyadenosie (<sup>HO</sup>dCor), together with their spin densities, charge distributions, and global reactive descriptors, have been taken into consideration at the M06-2x/6-31++G** level of theory in the aqueous phase. It was found that dCor predominantly adopts a <i>3'-endo,anti</i> conformation, while <sup>OXO</sup>dCor and <sup>HO</sup>dCor adopt a <i>2'-endo,syn</i> conformation. Also, the keto form of oxidised dCor was found to be energetically preferred to its enolic form. The adiabatic ionisation potentials (AIPs) were noted as follows (in eV): 6.29 for dCor, 6.21 for <sup>OXO</sup>dCor, and 6.17 for <sup>HO</sup>dCor. The lowest adiabatic electron affinity among all the discussed adenine nucleosides analogues was assigned for <sup>OXO</sup>dCor at 1.12 eV. A thorough analysis of the spin density distribution of the adiabatic radical cation reveals that it has a higher accumulation at N6 > C5 > C8 > 3 of dCor, C5 > N6 > N7 > O8 of <sup>OXO</sup>dCor, and N6 > C5 > C8 > C2 of <sup>HO</sup>dCor. The results suggest that Cordycepin is more easily converted to <sup>OXO</sup>dCor and <sup>HO</sup>dCor than canonical adenine nucleosides. Much like typical drugs, after its administration and release, Cordycepin is exposed to various physiological factors and can be exposed to ionisation radiation during combined therapy. These factors can influence the therapeutic potential of Cordycepin. Therefore, further studies on its stability are of utmost importance.
 
 ## Relevance notes
 Cordycepin-focused; verify species/form vs product

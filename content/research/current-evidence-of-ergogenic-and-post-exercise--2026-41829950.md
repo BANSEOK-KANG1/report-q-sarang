@@ -1,11 +1,12 @@
 ---
 title: Current Evidence of Ergogenic and Post-Exercise Recovery Effects of Dietary
   Supplementation with Cordyceps militaris in Humans-A Narrative Review.
-title_ko: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please
-  try again later.That’s all we know.
+title_ko: Current Evidence of Ergogenic and Post-Exercise Recovery Effects of Dietary
+  Supplementation with Cordyceps(cordyceps) militaris(cordyceps militaris) in Humans-A
+  Narrative Review.
 slug: current-evidence-of-ergogenic-and-post-exercise--2026-41829950
 record_id: a8693206-38b9-47be-9b3a-4ba9ac7826df
-date: '2026-08-31'
+date: '2026-09-14'
 year: 2026
 authors:
 - Jędrejko M
@@ -38,7 +39,7 @@ tags:
 - cordycepin
 - evidence
 - 제왕충초
-generated: '2026-08-31'
+generated: '2026-09-14'
 visuals:
 - type: figure
   src: /research-figures/current-evidence-of-ergogenic-and-post-exercise--2026-41829950/nutrients-18-00781-g002.gif
@@ -108,7 +109,7 @@ api_meta:
   - name: Human studies
     score: 0.339
     level: 2
-  cited_by_count: 1
+  cited_by_count: 2
   reference_count: 143
   publisher: MDPI AG
   journal: ''
@@ -118,10 +119,11 @@ api_meta:
     europepmc: true
     openalex: true
     crossref: true
-  fetched_at: '2026-08-31'
+  fetched_at: '2026-09-14'
 translations:
-  title_ko: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please
-    try again later.That’s all we know.
+  title_ko: Current Evidence of Ergogenic and Post-Exercise Recovery Effects of Dietary
+    Supplementation with Cordyceps(cordyceps) militaris(cordyceps militaris) in Humans-A
+    Narrative Review.
   glossary:
   - en: cordyceps militaris
     ko: Cordyceps militaris
@@ -162,20 +164,83 @@ translations:
       supplements. Well-designed randomized controlled trials using chemically characterized
       preparations and homogeneous athletic populations are required to clarify the
       efficacy and practical relevance of C. militaris in sports nutrition.
-    ko_literal: Error 500 (Server Error)!!1500.That’s an error.There was an error.
-      Please try again later.That’s all we know.
+    ko_literal: Cordyceps(cordyceps) militaris(cordyceps militaris) is an entomopathogenic
+      fungus traditionally used in Asian ethnomedicine and increasingly investigated
+      for its potential health-promoting properties, including immunomodulatory and
+      anti-inflammatory activities. In recent years, it has gained attention as a
+      dietary supplement with possible applications in sports nutrition. This narrative
+      review summarizes and critically evaluates the current human evidence regarding
+      the ergogenic and post-exercise recovery effects of C. militaris supplementation
+      in healthy individuals. A structured database search was conducted using predefined
+      eligibility criteria, and the methodological quality of included studies was
+      appraised through domain-based risk-of-bias assessment. Five intervention studies
+      published between 2017 and 2024, comprising 321 participants aged 16-35 years,
+      were identified. Supplementation protocols ranged from 1 to 16 weeks, with daily
+      doses of 1-12 g administered either as isolated fungal material or as a part
+      of multi-ingredient formulations. Assessed outcomes included indices of aerobic
+      performance and exercise capacity, such as maximal or peak oxygen uptake (VO
+      2 max/VO 2 peak), time to exhaustion, power output, running performance, and
+      maintenance of peripheral oxygen saturation during high-intensity exercise.
+      Several studies also evaluated biochemical markers related to muscle damage
+      and inflammatory responses, including creatine kinase, blood urea nitrogen,
+      and white blood cell counts. Although some studies reported improvements in
+      selected performance and recovery parameters, the findings were inconsistent.
+      The certainty of the evidence is limited by small sample sizes, heterogeneity
+      of participants and exercise protocols, insufficient reporting of randomization,
+      lack of trial registration in most studies, absence of standardized preparations
+      with quantified bioactive constituents, and the use of multi-ingredient supplements.
+      Well-designed 무작위 배정 controlled trials using chemically characterized preparations
+      and homogeneous athletic populations are required to clarify the efficacy and
+      practical relevance of C. militaris in sports nutrition.
     ko_researcher: '[초록 전체] 핵심 용어: **Cordyceps militaris**(cordyceps militaris) ·
-      **Cordyceps**(cordyceps) · **무작위 배정**(randomized). Error 500 (Server Error)!!1500.That’s
-      an error.There was an error. Please try again later.That’s all we know.'
-    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. Error 500 (Server Error)!!1500.That’s an
-      error.There was an error. Please try again later.That’s all we know.
+      **Cordyceps**(cordyceps) · **무작위 배정**(randomized). Cordyceps(cordyceps) militaris(cordyceps
+      militaris) is an entomopathogenic fungus traditionally used in Asian ethnomedicine
+      and increasingly investigated for its potential health-promoting properties,
+      including immunomodulatory and anti-inflammatory activities. In recent years,
+      it has gained attention as a dietary supplement with possible applications in
+      sports nutrition. This narrative review summarizes and critically evaluates
+      the current human evidence regarding the ergogenic and post-exercise recovery
+      effects of C. militaris supplementation in healthy individuals. A structured
+      database search was conducted using predefined eligibility criteria, and the
+      methodological quality of included studies was appraised through domain-based
+      risk-of-bias assessment. Five intervention studies published between 2017 and
+      2024, comprising 321 participants aged 16-35 years, were identified. Supplementation
+      protocols ranged from 1 to 16 weeks, with daily doses of 1-12 g administered
+      either as isolated fungal material or as a part of multi-ingredient formulations.
+      Assessed outcomes included indices of aerobic performance and exercise capacity,
+      such as maximal or peak oxygen uptake (VO 2 max/VO 2 peak), time to exhaustion,
+      power output, running performance, and maintenance of peripheral oxygen saturation
+      during high-intensity exercise. Several studies also evaluated biochemical markers
+      related to muscle damage and inflammatory responses, including creatine kinase,
+      blood urea nitrogen, and white blood cell counts. Although some studies reported
+      improvements in selected performance and recovery parameters, the findings were
+      inconsistent. The certainty of the evidence is limited by small sample sizes,
+      heterogeneity of participants and exercise protocols, insufficient reporting
+      of randomization, lack of trial registration in most studies, absence of standardized
+      preparations with quantified bioactive constituents, and the use of multi-ingredient
+      supplements. Well-designed 무작위 배정 controlled trials using chemically characterized
+      preparations and homogeneous athletic populations are required to clarify the
+      efficacy and practical relevance of C. militaris in sports nutrition.'
+    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. Cordyceps(cordyceps) militaris(cordyceps
+      militaris) is an entomopathogenic fungus traditionally used in Asian ethnomedicine
+      and increasingly investigated for its potential health-promoting properties,
+      including immunomodulatory and anti-inflammatory activities. In recent years,
+      it has gained attention as a dietary supplement with possible applications in
+      sports nutrition. This narrative review summarizes and critically evaluates
+      the current human evidence regarding the ergogenic and post-exercise recovery
+      effects of C. …
   easy_read:
     headline: 2026년에 나온 여러 연구를 읽고 정리한 글입니다. 핵심 주제는 「운동·체력과 관련된 연구 주제」입니다.
-    what_is_this: 이 글은 「운동·체력과 관련된 연구 주제」에 대한 학술 정리입니다. Error 500 (Server Error)!!1500.That’s
-      an error.There was an error. Please try again later.That’s all we know.
+    what_is_this: 이 글은 「운동·체력과 관련된 연구 주제」에 대한 학술 정리입니다. Cordyceps(cordyceps) militaris(cordyceps
+      militaris) is an entomopathogenic fungus traditionally used in Asian ethnomedicine
+      and increasingly investigated for its potential health-promoting properties,
+      including immunomodulatory and anti-in…
     what_they_did: 여러 편의 논문을 찾아 읽고, 공통점과 차이를 표로 정리했습니다.
-    what_they_found: Error 500 (Server Error)!!1500.That’s an error.There was an error.
-      Please try again later.That’s all we know.
+    what_they_found: Cordyceps(cordyceps) militaris(cordyceps militaris) is an entomopathogenic
+      fungus traditionally used in Asian ethnomedicine and increasingly investigated
+      for its potential health-promoting properties, including immunomodulatory and
+      anti-inflammatory activities. In recent years, it has gained attention as a
+      dietary supplement with possible applications in sports nutrition.
     good_to_know:
     - 이 글은 **술·담금주가 몸에 좋다**는 이야기가 아닙니다.
     - 연구실·논문에서 말하는 **생리활성·기능성 주제**를 할머니·할아버지도 읽기 쉽게 풀어 쓴 것입니다.
@@ -184,8 +249,10 @@ translations:
     sections:
     - id: summary
       label: 한줄 요약
-      text: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please
-        try again later.That’s all we know.
+      text: Cordyceps(cordyceps) militaris(cordyceps militaris) is an entomopathogenic
+        fungus traditionally used in Asian ethnomedicine and increasingly investigated
+        for its potential health-promoting properties, including immunomodulatory
+        and anti-inflammatory activities.
   full:
     en: Cordyceps militaris is an entomopathogenic fungus traditionally used in Asian
       ethnomedicine and increasingly investigated for its potential health-promoting
@@ -214,13 +281,71 @@ translations:
       supplements. Well-designed randomized controlled trials using chemically characterized
       preparations and homogeneous athletic populations are required to clarify the
       efficacy and practical relevance of C. militaris in sports nutrition.
-    ko_literal: Error 500 (Server Error)!!1500.That’s an error.There was an error.
-      Please try again later.That’s all we know.
+    ko_literal: Cordyceps(cordyceps) militaris(cordyceps militaris) is an entomopathogenic
+      fungus traditionally used in Asian ethnomedicine and increasingly investigated
+      for its potential health-promoting properties, including immunomodulatory and
+      anti-inflammatory activities. In recent years, it has gained attention as a
+      dietary supplement with possible applications in sports nutrition. This narrative
+      review summarizes and critically evaluates the current human evidence regarding
+      the ergogenic and post-exercise recovery effects of C. militaris supplementation
+      in healthy individuals. A structured database search was conducted using predefined
+      eligibility criteria, and the methodological quality of included studies was
+      appraised through domain-based risk-of-bias assessment. Five intervention studies
+      published between 2017 and 2024, comprising 321 participants aged 16-35 years,
+      were identified. Supplementation protocols ranged from 1 to 16 weeks, with daily
+      doses of 1-12 g administered either as isolated fungal material or as a part
+      of multi-ingredient formulations. Assessed outcomes included indices of aerobic
+      performance and exercise capacity, such as maximal or peak oxygen uptake (VO
+      2 max/VO 2 peak), time to exhaustion, power output, running performance, and
+      maintenance of peripheral oxygen saturation during high-intensity exercise.
+      Several studies also evaluated biochemical markers related to muscle damage
+      and inflammatory responses, including creatine kinase, blood urea nitrogen,
+      and white blood cell counts. Although some studies reported improvements in
+      selected performance and recovery parameters, the findings were inconsistent.
+      The certainty of the evidence is limited by small sample sizes, heterogeneity
+      of participants and exercise protocols, insufficient reporting of randomization,
+      lack of trial registration in most studies, absence of standardized preparations
+      with quantified bioactive constituents, and the use of multi-ingredient supplements.
+      Well-designed 무작위 배정 controlled trials using chemically characterized preparations
+      and homogeneous athletic populations are required to clarify the efficacy and
+      practical relevance of C. militaris in sports nutrition.
     ko_researcher: '[초록 전체] 핵심 용어: **Cordyceps militaris**(cordyceps militaris) ·
-      **Cordyceps**(cordyceps) · **무작위 배정**(randomized). Error 500 (Server Error)!!1500.That’s
-      an error.There was an error. Please try again later.That’s all we know.'
-    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. Error 500 (Server Error)!!1500.That’s an
-      error.There was an error. Please try again later.That’s all we know.
+      **Cordyceps**(cordyceps) · **무작위 배정**(randomized). Cordyceps(cordyceps) militaris(cordyceps
+      militaris) is an entomopathogenic fungus traditionally used in Asian ethnomedicine
+      and increasingly investigated for its potential health-promoting properties,
+      including immunomodulatory and anti-inflammatory activities. In recent years,
+      it has gained attention as a dietary supplement with possible applications in
+      sports nutrition. This narrative review summarizes and critically evaluates
+      the current human evidence regarding the ergogenic and post-exercise recovery
+      effects of C. militaris supplementation in healthy individuals. A structured
+      database search was conducted using predefined eligibility criteria, and the
+      methodological quality of included studies was appraised through domain-based
+      risk-of-bias assessment. Five intervention studies published between 2017 and
+      2024, comprising 321 participants aged 16-35 years, were identified. Supplementation
+      protocols ranged from 1 to 16 weeks, with daily doses of 1-12 g administered
+      either as isolated fungal material or as a part of multi-ingredient formulations.
+      Assessed outcomes included indices of aerobic performance and exercise capacity,
+      such as maximal or peak oxygen uptake (VO 2 max/VO 2 peak), time to exhaustion,
+      power output, running performance, and maintenance of peripheral oxygen saturation
+      during high-intensity exercise. Several studies also evaluated biochemical markers
+      related to muscle damage and inflammatory responses, including creatine kinase,
+      blood urea nitrogen, and white blood cell counts. Although some studies reported
+      improvements in selected performance and recovery parameters, the findings were
+      inconsistent. The certainty of the evidence is limited by small sample sizes,
+      heterogeneity of participants and exercise protocols, insufficient reporting
+      of randomization, lack of trial registration in most studies, absence of standardized
+      preparations with quantified bioactive constituents, and the use of multi-ingredient
+      supplements. Well-designed 무작위 배정 controlled trials using chemically characterized
+      preparations and homogeneous athletic populations are required to clarify the
+      efficacy and practical relevance of C. militaris in sports nutrition.'
+    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. Cordyceps(cordyceps) militaris(cordyceps
+      militaris) is an entomopathogenic fungus traditionally used in Asian ethnomedicine
+      and increasingly investigated for its potential health-promoting properties,
+      including immunomodulatory and anti-inflammatory activities. In recent years,
+      it has gained attention as a dietary supplement with possible applications in
+      sports nutrition. This narrative review summarizes and critically evaluates
+      the current human evidence regarding the ergogenic and post-exercise recovery
+      effects of C. …
 ---
 
 ## 한국어 요약

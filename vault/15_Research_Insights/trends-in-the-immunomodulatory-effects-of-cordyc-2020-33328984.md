@@ -1,11 +1,11 @@
 ---
 title: 'Trends in the Immunomodulatory Effects of Cordyceps militaris: Total Extracts,
   Polysaccharides and Cordycepin'
-title_ko: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please
-  try again later.That’s all we know.
+title_ko: 'Trends in the Immunomodulatory Effects of Cordyceps(cordyceps) militaris(cordyceps
+  militaris): Total 추출물s, 다당류s and 코디세핀'
 slug: trends-in-the-immunomodulatory-effects-of-cordyc-2020-33328984
 record_id: f6247e36-9e13-4308-8859-bc440e0c1d75
-date: '2026-08-31'
+date: '2026-09-14'
 year: 2020
 authors:
 - Chun‐Ting Lee
@@ -46,28 +46,28 @@ tags:
 - cordycepin
 - evidence
 - 제왕충초
-generated: '2026-08-31'
+generated: '2026-09-14'
 visuals:
 - type: figure
-  src: /research-figures/trends-in-the-immunomodulatory-effects-of-cordyc-2020-33328984/fphar-11-575704-g004.gif
-  caption: 원문 Figure (fphar-11-575704-g004) — Europe PMC OA
+  src: /research-figures/trends-in-the-immunomodulatory-effects-of-cordyc-2020-33328984/fphar-11-575704-g001.jpg
+  caption: 원문 Figure (fphar-11-575704-g001) — Europe PMC OA
   source: europepmc
-  filename: fphar-11-575704-g004.gif
+  filename: fphar-11-575704-g001.jpg
+- type: figure
+  src: /research-figures/trends-in-the-immunomodulatory-effects-of-cordyc-2020-33328984/fphar-11-575704-g003.jpg
+  caption: 원문 Figure (fphar-11-575704-g003) — Europe PMC OA
+  source: europepmc
+  filename: fphar-11-575704-g003.jpg
+- type: figure
+  src: /research-figures/trends-in-the-immunomodulatory-effects-of-cordyc-2020-33328984/fphar-11-575704-g002.jpg
+  caption: 원문 Figure (fphar-11-575704-g002) — Europe PMC OA
+  source: europepmc
+  filename: fphar-11-575704-g002.jpg
 - type: figure
   src: /research-figures/trends-in-the-immunomodulatory-effects-of-cordyc-2020-33328984/fphar-11-575704-g004.jpg
   caption: 원문 Figure (fphar-11-575704-g004) — Europe PMC OA
   source: europepmc
   filename: fphar-11-575704-g004.jpg
-- type: figure
-  src: /research-figures/trends-in-the-immunomodulatory-effects-of-cordyc-2020-33328984/fphar-11-575704-g002.gif
-  caption: 원문 Figure (fphar-11-575704-g002) — Europe PMC OA
-  source: europepmc
-  filename: fphar-11-575704-g002.gif
-- type: figure
-  src: /research-figures/trends-in-the-immunomodulatory-effects-of-cordyc-2020-33328984/fphar-11-575704-g003.gif
-  caption: 원문 Figure (fphar-11-575704-g003) — Europe PMC OA
-  source: europepmc
-  filename: fphar-11-575704-g003.gif
 api_meta:
   keywords:
   - Polysaccharides
@@ -102,7 +102,7 @@ api_meta:
   - name: Medicinal fungi
     score: 0.426
     level: 3
-  cited_by_count: 102
+  cited_by_count: 103
   reference_count: 100
   publisher: Frontiers Media SA
   journal: Frontiers in Pharmacology
@@ -112,10 +112,10 @@ api_meta:
     europepmc: true
     openalex: true
     crossref: true
-  fetched_at: '2026-08-31'
+  fetched_at: '2026-09-14'
 translations:
-  title_ko: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please
-    try again later.That’s all we know.
+  title_ko: 'Trends in the Immunomodulatory Effects of Cordyceps(cordyceps) militaris(cordyceps
+    militaris): Total 추출물s, 다당류s and 코디세핀'
   glossary:
   - en: cordycepin
     ko: 코디세핀
@@ -149,21 +149,51 @@ translations:
       This review can provide the readers a comprehensive understanding on the immunomodulatory
       effects of the precious folk medicine and guidance on its use for both health
       people and those with an immunodeficiency.
-    ko_literal: Error 500 (Server Error)!!1500.That’s an error.There was an error.
-      Please try again later.That’s all we know.
+    ko_literal: Cordyceps(cordyceps) militaris(cordyceps militaris) (C. militaris)
+      is a fungus with a long history of widespread use in folk medicine, and its
+      biological and medicinal functions are well studied. A crucial pharmacological
+      effect of C. militaris is immunomodulation. In this review, we catalog the immunomodulatory
+      effects of different 추출물s of C. militaris, namely total 추출물s, 다당류s and 코디세핀.
+      Total 추출물s obtained using water or 50% ethyl alcohol and 다당류s from C. militaris
+      were discovered to tend to promote type 1 immunity, whereas total 추출물s obtained
+      using 70–80% ethyl alcohol and 코디세핀 from C. militaris were more likely to promote
+      type 2 immunity. This article is the first to classify the immunomodulatory
+      effects of different 추출물s of C. militaris. In addition, we discovered a relationship
+      between different segments or 추출물s and differing types of immunity. This review
+      can provide the readers a comprehensive understanding on the immunomodulatory
+      effects of the precious folk medicine and guidance on its use for both health
+      people and those with an immunodeficiency.
     ko_researcher: '[초록 전체] 핵심 용어: **코디세핀**(cordycepin) · **Cordyceps militaris**(cordyceps
-      militaris) · **Cordyceps**(cordyceps) · **다당류**(polysaccharide). Error 500 (Server
-      Error)!!1500.That’s an error.There was an error. Please try again later.That’s
-      all we know.'
-    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. Error 500 (Server Error)!!1500.That’s an
-      error.There was an error. Please try again later.That’s all we know.
+      militaris) · **Cordyceps**(cordyceps) · **다당류**(polysaccharide). Cordyceps(cordyceps)
+      militaris(cordyceps militaris) (C. militaris) is a fungus with a long history
+      of widespread use in folk medicine, and its biological and medicinal functions
+      are well studied. A crucial pharmacological effect of C. militaris is immunomodulation.
+      In this review, we catalog the immunomodulatory effects of different 추출물s of
+      C. militaris, namely total 추출물s, 다당류s and 코디세핀. Total 추출물s obtained using water
+      or 50% ethyl alcohol and 다당류s from C. militaris were discovered to tend to promote
+      type 1 immunity, whereas total 추출물s obtained using 70–80% ethyl alcohol and
+      코디세핀 from C. militaris were more likely to promote type 2 immunity. This article
+      is the first to classify the immunomodulatory effects of different 추출물s of C.
+      militaris. In addition, we discovered a relationship between different segments
+      or 추출물s and differing types of immunity. This review can provide the readers
+      a comprehensive understanding on the immunomodulatory effects of the precious
+      folk medicine and guidance on its use for both health people and those with
+      an immunodeficiency.'
+    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. Cordyceps(cordyceps) militaris(cordyceps
+      militaris) (C. militaris) is a fungus with a long history of widespread use
+      in folk medicine, and its biological and medicinal functions are well studied.
+      A crucial pharmacological effect of C. …
   easy_read:
     headline: 2020년에 나온 여러 연구를 읽고 정리한 글입니다. 핵심 주제는 「몸의 방어 반응(면역)과 관련된 연구 주제」입니다.
-    what_is_this: 이 글은 「몸의 방어 반응(면역)과 관련된 연구 주제」에 대한 학술 정리입니다. Error 500 (Server Error)!!1500.That’s
-      an error.There was an error. Please try again later.That’s all we know.
+    what_is_this: 이 글은 「몸의 방어 반응(면역)과 관련된 연구 주제」에 대한 학술 정리입니다. Cordyceps(cordyceps)
+      militaris(cordyceps militaris) (C. militaris) is a fungus with a long history
+      of widespread use in folk medicine, and its biological and medicinal functions
+      are well studied.
     what_they_did: 여러 편의 논문을 찾아 읽고, 공통점과 차이를 표로 정리했습니다.
-    what_they_found: Error 500 (Server Error)!!1500.That’s an error.There was an error.
-      Please try again later.That’s all we know.
+    what_they_found: Cordyceps(cordyceps) militaris(cordyceps militaris) (C. militaris)
+      is a fungus with a long history of widespread use in folk medicine, and its
+      biological and medicinal functions are well studied. A crucial pharmacological
+      effect of C.
     good_to_know:
     - 이 글은 **술·담금주가 몸에 좋다**는 이야기가 아닙니다.
     - 연구실·논문에서 말하는 **생리활성·기능성 주제**를 할머니·할아버지도 읽기 쉽게 풀어 쓴 것입니다.
@@ -172,8 +202,10 @@ translations:
     sections:
     - id: summary
       label: 한줄 요약
-      text: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please
-        try again later.That’s all we know.
+      text: Cordyceps(cordyceps) militaris(cordyceps militaris) (C. militaris) is
+        a fungus with a long history of widespread use in folk medicine, and its biological
+        and medicinal functions are well studied. A crucial pharmacological effect
+        of C. militaris is immunomodulation.
   full:
     en: Cordyceps militaris (C. militaris) is a fungus with a long history of widespread
       use in folk medicine, and its biological and medicinal functions are well studied.
@@ -189,14 +221,40 @@ translations:
       This review can provide the readers a comprehensive understanding on the immunomodulatory
       effects of the precious folk medicine and guidance on its use for both health
       people and those with an immunodeficiency.
-    ko_literal: Error 500 (Server Error)!!1500.That’s an error.There was an error.
-      Please try again later.That’s all we know.
+    ko_literal: Cordyceps(cordyceps) militaris(cordyceps militaris) (C. militaris)
+      is a fungus with a long history of widespread use in folk medicine, and its
+      biological and medicinal functions are well studied. A crucial pharmacological
+      effect of C. militaris is immunomodulation. In this review, we catalog the immunomodulatory
+      effects of different 추출물s of C. militaris, namely total 추출물s, 다당류s and 코디세핀.
+      Total 추출물s obtained using water or 50% ethyl alcohol and 다당류s from C. militaris
+      were discovered to tend to promote type 1 immunity, whereas total 추출물s obtained
+      using 70–80% ethyl alcohol and 코디세핀 from C. militaris were more likely to promote
+      type 2 immunity. This article is the first to classify the immunomodulatory
+      effects of different 추출물s of C. militaris. In addition, we discovered a relationship
+      between different segments or 추출물s and differing types of immunity. This review
+      can provide the readers a comprehensive understanding on the immunomodulatory
+      effects of the precious folk medicine and guidance on its use for both health
+      people and those with an immunodeficiency.
     ko_researcher: '[초록 전체] 핵심 용어: **코디세핀**(cordycepin) · **Cordyceps militaris**(cordyceps
-      militaris) · **Cordyceps**(cordyceps) · **다당류**(polysaccharide). Error 500 (Server
-      Error)!!1500.That’s an error.There was an error. Please try again later.That’s
-      all we know.'
-    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. Error 500 (Server Error)!!1500.That’s an
-      error.There was an error. Please try again later.That’s all we know.
+      militaris) · **Cordyceps**(cordyceps) · **다당류**(polysaccharide). Cordyceps(cordyceps)
+      militaris(cordyceps militaris) (C. militaris) is a fungus with a long history
+      of widespread use in folk medicine, and its biological and medicinal functions
+      are well studied. A crucial pharmacological effect of C. militaris is immunomodulation.
+      In this review, we catalog the immunomodulatory effects of different 추출물s of
+      C. militaris, namely total 추출물s, 다당류s and 코디세핀. Total 추출물s obtained using water
+      or 50% ethyl alcohol and 다당류s from C. militaris were discovered to tend to promote
+      type 1 immunity, whereas total 추출물s obtained using 70–80% ethyl alcohol and
+      코디세핀 from C. militaris were more likely to promote type 2 immunity. This article
+      is the first to classify the immunomodulatory effects of different 추출물s of C.
+      militaris. In addition, we discovered a relationship between different segments
+      or 추출물s and differing types of immunity. This review can provide the readers
+      a comprehensive understanding on the immunomodulatory effects of the precious
+      folk medicine and guidance on its use for both health people and those with
+      an immunodeficiency.'
+    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. Cordyceps(cordyceps) militaris(cordyceps
+      militaris) (C. militaris) is a fungus with a long history of widespread use
+      in folk medicine, and its biological and medicinal functions are well studied.
+      A crucial pharmacological effect of C. …
 ---
 
 ## 한국어 요약

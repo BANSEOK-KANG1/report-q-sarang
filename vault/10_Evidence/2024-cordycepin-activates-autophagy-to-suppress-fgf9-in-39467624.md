@@ -13,17 +13,16 @@ journal: Cancer genomics & proteomics
 doi: 10.1016/j.febslet.2006.04.008
 pmid: '39467624'
 url: https://pubmed.ncbi.nlm.nih.gov/39467624/
-track: compound
+track: comparator_sinensis
 compound: cordycepin
 species: Cordyceps_sinensis
 study_type: animal
 evidence_strength: C_animal
-relevance_to_product: partial
+relevance_to_product: extrapolated
 claim_category: other
 risk_flags:
 - disease_language
 - preclinical_only
-- species_mismatch
 maps_to_market: research_only
 citation_status: needs_legal_review
 priority_review: false
@@ -51,7 +50,7 @@ tags:
 - **Species:** Cordyceps_sinensis
 - **Compound:** cordycepin
 - **Claim category:** other
-- **Risk flags:** disease_language, preclinical_only, species_mismatch
+- **Risk flags:** disease_language, preclinical_only
 - **Maps to market:** research_only
 - **Citation status:** needs_legal_review
 - **DOI:** 10.1016/j.febslet.2006.04.008
@@ -65,7 +64,7 @@ RESULTS: Our findings reveal that cordycepin restricts cell viability and colony
 CONCLUSION: Our study demonstrates that cordycepin activates autophagy to induce cell death in TM3 cells under FGF9 treatment conditions.
 
 ## Relevance notes
-Cordycepin-focused; verify species/form vs product
+Comparator species / Cs-4 — do not equate to C. militaris cordycepin product
 
 ## Compliance
 - Product context: Q-Sarang 제왕충초 **liquor** (not HFF).

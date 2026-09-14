@@ -1,22 +1,22 @@
 ---
 record_id: d3a9e519-b611-4f81-b48c-efa0a0285d27
-title: Cordycepin suppresses integrin/FAK signaling and epithelial-mesenchymal transition
-  in hepatocellular carcinoma.
+title: Cordycepin Suppresses Integrin/FAK Signaling and Epithelial-Mesenchymal Transition
+  in Hepatocellular Carcinoma
 authors:
 - Wen-Ling Yao
-- Bor-Sheng Ko
+- Bor‐Sheng Ko
 - Tzu-An Liu
 - Shu-Man Liang
 - Chia-Chia Liu
 - Yi-Jhu Lu
-- Shean-Shong Tzean
-- Tang-Long Shen
-- Jun-Yang Liou
+- S. S. Tzean
+- Tang‐Long Shen
+- Jun‐Yang Liou
 year: 2014
-journal: Anti-cancer agents in medicinal chemistry
+journal: Anti-Cancer Agents in Medicinal Chemistry
 doi: 10.2174/18715206113139990305
 pmid: '23855336'
-url: https://pubmed.ncbi.nlm.nih.gov/23855336/
+url: https://doi.org/10.2174/18715206113139990305
 track: compound
 compound: cordycepin
 species: unclear
@@ -37,7 +37,6 @@ jurisdiction_caveats:
 - research_only
 source_apis:
 - openalex
-- pubmed
 full_text_available: false
 tags:
 - evidence
@@ -46,7 +45,7 @@ tags:
 - market/research_only
 ---
 
-# Cordycepin suppresses integrin/FAK signaling and epithelial-mesenchymal transition in hepatocellular carcinoma.
+# Cordycepin Suppresses Integrin/FAK Signaling and Epithelial-Mesenchymal Transition in Hepatocellular Carcinoma
 
 ## Summary fields
 - **Year:** 2014
@@ -60,7 +59,7 @@ tags:
 - **Citation status:** needs_legal_review
 - **DOI:** 10.2174/18715206113139990305
 - **PMID:** 23855336
-- **URL:** https://pubmed.ncbi.nlm.nih.gov/23855336/
+- **URL:** https://doi.org/10.2174/18715206113139990305
 
 ## Abstract
 Cordycepin, also known as 3-deoxyadenosine, is an analogue of adenosine extracted from the traditional Chinese medicine "Dong Chong Xia Cao". Cordycepin is an active small molecular weight compound and is implicated in modulating multiple physiological functions including immune activation, anti-aging and anti-tumor effects. Several studies have indicated that cordycepin suppresses tumor progression. However, the signaling pathways involved in cordycepin regulating cancer cell motility, invasiveness and epithelial-mesenchymal transition (EMT) remain unclear. In this study, we found that cordycepin inhibits hepatocellular carcinoma (HCC) cell proliferation and migration/invasion. Treatment of cordycepin results in the increasing expression of epithelial marker, Ecadherin while no significant effect was found on N-cadherin α-catenin and β-catenin. Furthermore, although the expression of focal adhesion kinase (FAK) was slightly reduced, the level of phosphorylated FAK was significantly reduced by the treatment of cordycepin. In addition, cordycepin significantly suppresses the expression of integrin α3, integrin α6 and integrin β1 which are crucial interacting partners of FAK in regulating the focal adhesion complex. These results suggest cordycepin may contribute to EMT, antimigration/ invasion and growth inhibitory effects of HCC by suppressing E-cadherin and integrin/FAK signaling. Thus, cordycepin is a potential therapeutic or supplementary agent for preventing HCC tumor progression.

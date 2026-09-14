@@ -15,7 +15,7 @@ journal: Genes
 doi: 10.13346/j.mycosystema.130298
 pmid: '38790255'
 url: https://pubmed.ncbi.nlm.nih.gov/38790255/
-track: militaris
+track: compound
 compound: cordycepin
 species: Cordyceps_militaris
 study_type: unclear

@@ -35,7 +35,7 @@ jurisdiction_caveats:
 - not_HFF_product
 source_apis:
 - europepmc
-full_text_available: false
+full_text_available: true
 tags:
 - evidence
 - status/approved

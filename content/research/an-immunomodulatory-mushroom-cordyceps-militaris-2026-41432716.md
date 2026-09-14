@@ -1,11 +1,12 @@
 ---
 title: 'An Immunomodulatory Mushroom, Cordyceps militaris, and Its Constituents: A
   Review of In Vitro/In Vivo Studies and Clinical Trials.'
-title_ko: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please
-  try again later.That’s all we know.
+title_ko: 'An Immunomodulatory Mushroom, Cordyceps(cordyceps) militaris(cordyceps
+  militaris), and Its Constituents: A Review of 시험관(시험관(in vitro)(in vitro))/생체(생체(in
+  vivo)(in vivo)) Studies and Clinical Trials.'
 slug: an-immunomodulatory-mushroom-cordyceps-militaris-2026-41432716
 record_id: 7abff759-52d0-4b88-930c-e1e1c41bd557
-date: '2026-08-31'
+date: '2026-09-14'
 year: 2026
 authors:
 - Yang EJ
@@ -42,7 +43,7 @@ tags:
 - cordycepin
 - evidence
 - 제왕충초
-generated: '2026-08-31'
+generated: '2026-09-14'
 visuals: []
 api_meta:
   keywords:
@@ -95,10 +96,11 @@ api_meta:
     europepmc: true
     openalex: true
     crossref: true
-  fetched_at: '2026-08-31'
+  fetched_at: '2026-09-14'
 translations:
-  title_ko: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please
-    try again later.That’s all we know.
+  title_ko: 'An Immunomodulatory Mushroom, Cordyceps(cordyceps) militaris(cordyceps
+    militaris), and Its Constituents: A Review of 시험관(시험관(in vitro)(in vitro))/생체(생체(in
+    vivo)(in vivo)) Studies and Clinical Trials.'
   glossary:
   - en: cordycepin
     ko: 코디세핀
@@ -159,21 +161,83 @@ translations:
       In vitro, in vivo, and clinical trial results indicate that CM is safe for administration
       and shows promise for developing functional foods having various efficacies
       such as immunomodulation, anti-tumor, and neuroprotection.
-    ko_literal: Error 500 (Server Error)!!1500.That’s an error.There was an error.
-      Please try again later.That’s all we know.
+    ko_literal: Cordyceps(cordyceps), known as "winter-worm summer-grass", has been
+      used as a medicinal mushroom to boost energy levels and immune activity. Among
+      Cordyceps types, Cordyceps militaris(cordyceps militaris) (CM) is the most commercially
+      useful owing to its ease of artificial 재배·배양 for mass production. In contrast,
+      other types, such as OphioCordyceps sinensis, are expensive and difficult to
+      collect. Therefore, numerous studies have explored the therapeutic potential
+      and active constituents of CM. The therapeutic use of CM is based on its various
+      pharmacological activities, including immunomodulatory, anti-tumor, antioxidant,
+      anti-diabetic, anti-obesity, and neuroprotective activities, of which the immunomodulatory
+      effects have been the most studied. CM contains active constituents such as
+      nucleosides (코디세핀 and 아데노신), 다당류s, peptides, proteins, sterols, glycolipids,
+      and carotenoids. Recent studies show that CM 추출물, 코디세핀, and 다당류s exert immunomodulatory
+      effects in response to the immune environments. They enhance innate and cell-mediated
+      adaptive immunity not only under normal conditions but also in immunosuppressed
+      states induced by cyclophosphamide, interleukin-4, tumor culture supernatant,
+      methotrexate, cancer cell-line-xenografts, influenza virus, and severe acute
+      respiratory syndrome coronavirus 2. Meanwhile, they suppress an overactivated
+      immune system stimulated by factors such as angiotensin II ± vascular endothelial
+      growth factors, concanavalin A, 2,4-dinitrophenyl (DNP)-serum albumin ± DNP-specific
+      immunoglobulin E, lipo다당류 (LPS), lipoteichoic acid, phytohemagglutinin, phorbol
+      myristate acetate plus calcium ionophore A23187, calcium chloride, cecal ligation
+      and puncture ± LPS, dextran sodium sulfate, monosodium iodoacetate, ovalbumin,
+      myelin oligodendrocyte glycoprotein 25-35, monosodium urate, and Western diet
+      by ameliorating innate and humoral adaptive immune responses. This study reviewed
+      recent and notable literature evaluating the immunomodulatory potentials of
+      CM 추출물, 코디세핀, and 다당류s. 시험관(시험관(in vitro)(in vitro)), 생체(생체(in vivo)(in vivo)),
+      and clinical trial results indicate that CM is safe for administration and shows
+      promise for developing functional foods having various efficacies such as immunomodulation,
+      anti-tumor, and neuroprotection.
     ko_researcher: '[초록 전체] 핵심 용어: **코디세핀**(cordycepin) · **Cordyceps militaris**(cordyceps
-      militaris) · **Cordyceps**(cordyceps) · **시험관(in vitro)**(in vitro). Error 500
-      (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s
-      all we know.'
-    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. Error 500 (Server Error)!!1500.That’s an
-      error.There was an error. Please try again later.That’s all we know.
+      militaris) · **Cordyceps**(cordyceps) · **시험관(in vitro)**(in vitro). Cordyceps(cordyceps),
+      known as "winter-worm summer-grass", has been used as a medicinal mushroom to
+      boost energy levels and immune activity. Among Cordyceps types, Cordyceps militaris(cordyceps
+      militaris) (CM) is the most commercially useful owing to its ease of artificial
+      재배·배양 for mass production. In contrast, other types, such as OphioCordyceps
+      sinensis, are expensive and difficult to collect. Therefore, numerous studies
+      have explored the therapeutic potential and active constituents of CM. The therapeutic
+      use of CM is based on its various pharmacological activities, including immunomodulatory,
+      anti-tumor, antioxidant, anti-diabetic, anti-obesity, and neuroprotective activities,
+      of which the immunomodulatory effects have been the most studied. CM contains
+      active constituents such as nucleosides (코디세핀 and 아데노신), 다당류s, peptides, proteins,
+      sterols, glycolipids, and carotenoids. Recent studies show that CM 추출물, 코디세핀,
+      and 다당류s exert immunomodulatory effects in response to the immune environments.
+      They enhance innate and cell-mediated adaptive immunity not only under normal
+      conditions but also in immunosuppressed states induced by cyclophosphamide,
+      interleukin-4, tumor culture supernatant, methotrexate, cancer cell-line-xenografts,
+      influenza virus, and severe acute respiratory syndrome coronavirus 2. Meanwhile,
+      they suppress an overactivated immune system stimulated by factors such as angiotensin
+      II ± vascular endothelial growth factors, concanavalin A, 2,4-dinitrophenyl
+      (DNP)-serum albumin ± DNP-specific immunoglobulin E, lipo다당류 (LPS), lipoteichoic
+      acid, phytohemagglutinin, phorbol myristate acetate plus calcium ionophore A23187,
+      calcium chloride, cecal ligation and puncture ± LPS, dextran sodium sulfate,
+      monosodium iodoacetate, ovalbumin, myelin oligodendrocyte glycoprotein 25-35,
+      monosodium urate, and Western diet by ameliorating innate and humoral adaptive
+      immune responses. This study reviewed recent and notable literature evaluating
+      the immunomodulatory potentials of CM 추출물, 코디세핀, and 다당류s. 시험관(시험관(in vitro)(in
+      vitro)), 생체(생체(in vivo)(in vivo)), and clinical trial results indicate that
+      CM is safe for administration and shows promise for developing functional foods
+      having various efficacies such as immunomodulation, anti-tumor, and neuroprotection.'
+    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. Cordyceps(cordyceps), known as "winter-worm
+      summer-grass", has been used as a medicinal mushroom to boost energy levels
+      and immune activity. Among Cordyceps types, Cordyceps militaris(cordyceps militaris)
+      (CM) is the most commercially useful owing to its ease of artificial 재배·배양 for
+      mass production. In contrast, other types, such as OphioCordyceps sinensis,
+      are expensive and difficult to collect. …
   easy_read:
     headline: 2026년에 나온 아직 실험실·동물 단계 논문입니다. 핵심 주제는 「몸의 방어 반응(면역)과 관련된 연구 주제」입니다.
-    what_is_this: 이 글은 「몸의 방어 반응(면역)과 관련된 연구 주제」에 대한 학술 정리입니다. Error 500 (Server Error)!!1500.That’s
-      an error.There was an error. Please try again later.That’s all we know.
+    what_is_this: 이 글은 「몸의 방어 반응(면역)과 관련된 연구 주제」에 대한 학술 정리입니다. Cordyceps(cordyceps),
+      known as "winter-worm summer-grass", has been used as a medicinal mushroom to
+      boost energy levels and immune activity.
     what_they_did: 논문·데이터를 모아 분석·정리했습니다.
-    what_they_found: Error 500 (Server Error)!!1500.That’s an error.There was an error.
-      Please try again later.That’s all we know.
+    what_they_found: Cordyceps(cordyceps), known as "winter-worm summer-grass", has
+      been used as a medicinal mushroom to boost energy levels and immune activity.
+      Among Cordyceps types, Cordyceps militaris(cordyceps militaris) (CM) is the
+      most commercially useful owing to its ease of artificial 재배·배양 for mass production.
+      In contrast, other types, such as OphioCordyceps sinensis, are expensive and
+      difficult to collect.
     good_to_know:
     - 이 글은 **술·담금주가 몸에 좋다**는 이야기가 아닙니다.
     - 연구실·논문에서 말하는 **생리활성·기능성 주제**를 할머니·할아버지도 읽기 쉽게 풀어 쓴 것입니다.
@@ -184,8 +248,10 @@ translations:
     sections:
     - id: summary
       label: 한줄 요약
-      text: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please
-        try again later.That’s all we know.
+      text: Cordyceps(cordyceps), known as "winter-worm summer-grass", has been used
+        as a medicinal mushroom to boost energy levels and immune activity. Among
+        Cordyceps types, Cordyceps militaris(cordyceps militaris) (CM) is the most
+        commercially useful owing to its ease of artificial 재배·배양 for mass production.
   full:
     en: Cordyceps, known as "winter-worm summer-grass", has been used as a medicinal
       mushroom to boost energy levels and immune activity. Among cordyceps types,
@@ -216,14 +282,71 @@ translations:
       In vitro, in vivo, and clinical trial results indicate that CM is safe for administration
       and shows promise for developing functional foods having various efficacies
       such as immunomodulation, anti-tumor, and neuroprotection.
-    ko_literal: Error 500 (Server Error)!!1500.That’s an error.There was an error.
-      Please try again later.That’s all we know.
+    ko_literal: Cordyceps(cordyceps), known as "winter-worm summer-grass", has been
+      used as a medicinal mushroom to boost energy levels and immune activity. Among
+      Cordyceps types, Cordyceps militaris(cordyceps militaris) (CM) is the most commercially
+      useful owing to its ease of artificial 재배·배양 for mass production. In contrast,
+      other types, such as OphioCordyceps sinensis, are expensive and difficult to
+      collect. Therefore, numerous studies have explored the therapeutic potential
+      and active constituents of CM. The therapeutic use of CM is based on its various
+      pharmacological activities, including immunomodulatory, anti-tumor, antioxidant,
+      anti-diabetic, anti-obesity, and neuroprotective activities, of which the immunomodulatory
+      effects have been the most studied. CM contains active constituents such as
+      nucleosides (코디세핀 and 아데노신), 다당류s, peptides, proteins, sterols, glycolipids,
+      and carotenoids. Recent studies show that CM 추출물, 코디세핀, and 다당류s exert immunomodulatory
+      effects in response to the immune environments. They enhance innate and cell-mediated
+      adaptive immunity not only under normal conditions but also in immunosuppressed
+      states induced by cyclophosphamide, interleukin-4, tumor culture supernatant,
+      methotrexate, cancer cell-line-xenografts, influenza virus, and severe acute
+      respiratory syndrome coronavirus 2. Meanwhile, they suppress an overactivated
+      immune system stimulated by factors such as angiotensin II ± vascular endothelial
+      growth factors, concanavalin A, 2,4-dinitrophenyl (DNP)-serum albumin ± DNP-specific
+      immunoglobulin E, lipo다당류 (LPS), lipoteichoic acid, phytohemagglutinin, phorbol
+      myristate acetate plus calcium ionophore A23187, calcium chloride, cecal ligation
+      and puncture ± LPS, dextran sodium sulfate, monosodium iodoacetate, ovalbumin,
+      myelin oligodendrocyte glycoprotein 25-35, monosodium urate, and Western diet
+      by ameliorating innate and humoral adaptive immune responses. This study reviewed
+      recent and notable literature evaluating the immunomodulatory potentials of
+      CM 추출물, 코디세핀, and 다당류s. 시험관(시험관(in vitro)(in vitro)), 생체(생체(in vivo)(in vivo)),
+      and clinical trial results indicate that CM is safe for administration and shows
+      promise for developing functional foods having various efficacies such as immunomodulation,
+      anti-tumor, and neuroprotection.
     ko_researcher: '[초록 전체] 핵심 용어: **코디세핀**(cordycepin) · **Cordyceps militaris**(cordyceps
-      militaris) · **Cordyceps**(cordyceps) · **시험관(in vitro)**(in vitro). Error 500
-      (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s
-      all we know.'
-    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. Error 500 (Server Error)!!1500.That’s an
-      error.There was an error. Please try again later.That’s all we know.
+      militaris) · **Cordyceps**(cordyceps) · **시험관(in vitro)**(in vitro). Cordyceps(cordyceps),
+      known as "winter-worm summer-grass", has been used as a medicinal mushroom to
+      boost energy levels and immune activity. Among Cordyceps types, Cordyceps militaris(cordyceps
+      militaris) (CM) is the most commercially useful owing to its ease of artificial
+      재배·배양 for mass production. In contrast, other types, such as OphioCordyceps
+      sinensis, are expensive and difficult to collect. Therefore, numerous studies
+      have explored the therapeutic potential and active constituents of CM. The therapeutic
+      use of CM is based on its various pharmacological activities, including immunomodulatory,
+      anti-tumor, antioxidant, anti-diabetic, anti-obesity, and neuroprotective activities,
+      of which the immunomodulatory effects have been the most studied. CM contains
+      active constituents such as nucleosides (코디세핀 and 아데노신), 다당류s, peptides, proteins,
+      sterols, glycolipids, and carotenoids. Recent studies show that CM 추출물, 코디세핀,
+      and 다당류s exert immunomodulatory effects in response to the immune environments.
+      They enhance innate and cell-mediated adaptive immunity not only under normal
+      conditions but also in immunosuppressed states induced by cyclophosphamide,
+      interleukin-4, tumor culture supernatant, methotrexate, cancer cell-line-xenografts,
+      influenza virus, and severe acute respiratory syndrome coronavirus 2. Meanwhile,
+      they suppress an overactivated immune system stimulated by factors such as angiotensin
+      II ± vascular endothelial growth factors, concanavalin A, 2,4-dinitrophenyl
+      (DNP)-serum albumin ± DNP-specific immunoglobulin E, lipo다당류 (LPS), lipoteichoic
+      acid, phytohemagglutinin, phorbol myristate acetate plus calcium ionophore A23187,
+      calcium chloride, cecal ligation and puncture ± LPS, dextran sodium sulfate,
+      monosodium iodoacetate, ovalbumin, myelin oligodendrocyte glycoprotein 25-35,
+      monosodium urate, and Western diet by ameliorating innate and humoral adaptive
+      immune responses. This study reviewed recent and notable literature evaluating
+      the immunomodulatory potentials of CM 추출물, 코디세핀, and 다당류s. 시험관(시험관(in vitro)(in
+      vitro)), 생체(생체(in vivo)(in vivo)), and clinical trial results indicate that
+      CM is safe for administration and shows promise for developing functional foods
+      having various efficacies such as immunomodulation, anti-tumor, and neuroprotection.'
+    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. Cordyceps(cordyceps), known as "winter-worm
+      summer-grass", has been used as a medicinal mushroom to boost energy levels
+      and immune activity. Among Cordyceps types, Cordyceps militaris(cordyceps militaris)
+      (CM) is the most commercially useful owing to its ease of artificial 재배·배양 for
+      mass production. In contrast, other types, such as OphioCordyceps sinensis,
+      are expensive and difficult to collect. …
 ---
 
 ## 한국어 요약

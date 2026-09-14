@@ -15,16 +15,15 @@ journal: Molecules (Basel, Switzerland)
 doi: 10.1186/s11671-015-0851-1
 pmid: '34443541'
 url: https://pubmed.ncbi.nlm.nih.gov/34443541/
-track: compound
+track: comparator_sinensis
 compound: cordycepin
 species: Cordyceps_sinensis
 study_type: review_narrative
 evidence_strength: F_review_only
-relevance_to_product: partial
+relevance_to_product: extrapolated
 claim_category: immune
 risk_flags:
 - disease_language
-- species_mismatch
 maps_to_market: research_only
 citation_status: needs_legal_review
 priority_review: false
@@ -52,7 +51,7 @@ tags:
 - **Species:** Cordyceps_sinensis
 - **Compound:** cordycepin
 - **Claim category:** immune
-- **Risk flags:** disease_language, species_mismatch
+- **Risk flags:** disease_language
 - **Maps to market:** research_only
 - **Citation status:** needs_legal_review
 - **DOI:** 10.1186/s11671-015-0851-1
@@ -63,7 +62,7 @@ tags:
 Cordycepin is an adenosine derivative isolated from Cordyceps sinensis, which has been used as an herbal complementary and alternative medicine with various biological activities. The general anti-cancer mechanisms of cordycepin are regulated by the adenosine A3 receptor, epidermal growth factor receptor (EGFR), mitogen-activated protein kinases (MAPKs), and glycogen synthase kinase (GSK)-3β, leading to cell cycle arrest or apoptosis. Notably, cordycepin also induces autophagy to trigger cell death, inhibits tumor metastasis, and modulates the immune system. Since the dysregulation of autophagy is associated with cancers and neuron, immune, and kidney diseases, cordycepin is considered an alternative treatment because of the involvement of cordycepin in autophagic signaling. However, the profound mechanism of autophagy induction by cordycepin has never been reviewed in detail. Therefore, in this article, we reviewed the anti-cancer and health-promoting effects of cordycepin in the neurons, kidneys, and the immune system through diverse mechanisms, including autophagy induction. We also suggest that formulation changes for cordycepin could enhance its bioactivity and bioavailability and lower its toxicity for future applications. A comprehensive understanding of the autophagy mechanism would provide novel mechanistic insight into the anti-cancer and health-promoting effects of cordycepin.
 
 ## Relevance notes
-Cordycepin-focused; verify species/form vs product
+Comparator species / Cs-4 — do not equate to C. militaris cordycepin product
 
 ## Compliance
 - Product context: Q-Sarang 제왕충초 **liquor** (not HFF).

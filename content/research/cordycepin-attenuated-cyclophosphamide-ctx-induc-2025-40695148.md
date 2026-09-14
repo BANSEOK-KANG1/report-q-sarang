@@ -1,10 +1,11 @@
 ---
 title: Cordycepin attenuated cyclophosphamide (CTX)-induced immunosuppression in mice
   via EGFR/Nrf2 antioxidant signaling pathway.
-title_ko: 코디세핀 EGFR/Nrf2 항산화 신호 전달 경로를 통해 생쥐에서 CTX(cyclophosphamide) 유발 면역 억제를 약화시켰습니다.
+title_ko: 코디세핀 attenuated cyclophosphamide (CTX)-induced immunosuppression in mice
+  via EGFR/Nrf2 antioxidant signaling pathway.
 slug: cordycepin-attenuated-cyclophosphamide-ctx-induc-2025-40695148
 record_id: b4110bf1-f89c-4ea5-b70f-b793e1b15004
-date: '2026-08-31'
+date: '2026-09-14'
 year: 2025
 authors:
 - Mengling Zhong
@@ -44,7 +45,7 @@ tags:
 - cordycepin
 - evidence
 - 제왕충초
-generated: '2026-08-31'
+generated: '2026-09-14'
 visuals: []
 api_meta:
   keywords:
@@ -104,9 +105,10 @@ api_meta:
     europepmc: true
     openalex: true
     crossref: true
-  fetched_at: '2026-08-31'
+  fetched_at: '2026-09-14'
 translations:
-  title_ko: 코디세핀 EGFR/Nrf2 항산화 신호 전달 경로를 통해 생쥐에서 CTX(cyclophosphamide) 유발 면역 억제를 약화시켰습니다.
+  title_ko: 코디세핀 attenuated cyclophosphamide (CTX)-induced immunosuppression in mice
+    via EGFR/Nrf2 antioxidant signaling pathway.
   glossary:
   - en: cordycepin
     ko: 코디세핀
@@ -139,44 +141,70 @@ translations:
       immunosuppression of mice by reversing metabolic dysfunction and activating
       Nrf2 pathway through regulating EGFR, indicating its potential as a therapeutic
       agent for immunosuppression.
-    ko_literal: 숙주를 병원체 침입에 더욱 취약하게 만드는 면역억제는 악성 종양 및 염증성 질환의 위험을 증가시킵니다. 코디세핀은 항염증,
-      항산화, 항종양 효과 등 다양한 약리활성을 가지고 있습니다. 그러나 코디세핀의 면역 조절 메커니즘은 여전히 ​​잘 알려져 있지 않습니다.
-      이 연구는 코디세핀의 면역조절 효과를 탐구하고 그 기본 메커니즘을 밝히는 것을 목표로 했습니다. 우리 연구에서 코디세핀은 시클로포스파미드(CTX)
-      유발 면역억제 쥐의 체중, 장기 지수를 회복하고 비장 손상을 개선했습니다. 코디세핀은 ConA와 LPS에 의해 자극된 T 및 B 림프구의
-      증식을 향상시켰습니다. 코디세핀은 백혈구(WBC), 림프구(LYM), 호중구(NEU) 및 호산구(EOS)의 수치를 정상화하고 면역글로불린(면역글로불린
-      A(IgA), IgM, IgG) 수치를 증가시켰습니다. 코디세핀은 또한 전염증성 사이토카인 IL-2 및 IFN-γ의 생성을 증가시켰으나
-      억제성 사이토카인 IL-10의 수준을 감소시켰습니다. 또한 코디세핀은 말론디알데히드(MDA)의 혈청 수준을 감소시키고, 글루타티온(GSH)의
-      함량을 강화했으며, SOD(과산화물 디스뮤타제) 및 CAT(카탈라제)의 효소 활성을 증가시켰습니다. 더욱이, 비장과 혈청의 대사체 분석에서는
-      코디세핀이 CTX에 의해 유발된 대사 장애, 특히 피루브산 대사 경로를 조절하는 것에 대응하는 것으로 나타났습니다. 네트워크 약리학 접근법은
-      코디세핀이 EGFR을 표적으로 삼아 대사 및 면역 경로를 조절한다는 것을 시사했습니다. 또한 코디세핀은 면역억제 마우스의 비장에서 인산화된
-      EGFR의 단백질 수준을 감소시키고 Nrf2, NQO1 및 HO-1의 단백질 발현을 상향조절했습니다. 결론적으로, 이 연구는 코디세핀이
-      대사 장애를 역전시키고 EGFR 조절을 통해 Nrf2 경로를 활성화함으로써 마우스의 CTX 유발 면역억제를 개선한다는 것을 입증했으며,
-      이는 면역억제 치료제로서의 잠재력을 나타냅니다.
-    ko_researcher: '[초록 전체] 핵심 용어: **코디세핀**(cordycepin). 숙주를 병원체 침입에 더욱 취약하게 만드는 면역억제는
-      악성 종양 및 염증성 질환의 위험을 증가시킵니다. 코디세핀은 항염증, 항산화, 항종양 효과 등 다양한 약리활성을 가지고 있습니다. 그러나
-      코디세핀의 면역 조절 메커니즘은 여전히 ​​잘 알려져 있지 않습니다. 이 연구는 코디세핀의 면역조절 효과를 탐구하고 그 기본 메커니즘을
-      밝히는 것을 목표로 했습니다. 우리 연구에서 코디세핀은 시클로포스파미드(CTX) 유발 면역억제 쥐의 체중, 장기 지수를 회복하고 비장 손상을
-      개선했습니다. 코디세핀은 ConA와 LPS에 의해 자극된 T 및 B 림프구의 증식을 향상시켰습니다. 코디세핀은 백혈구(WBC), 림프구(LYM),
-      호중구(NEU) 및 호산구(EOS)의 수치를 정상화하고 면역글로불린(면역글로불린 A(IgA), IgM, IgG) 수치를 증가시켰습니다.
-      코디세핀은 또한 전염증성 사이토카인 IL-2 및 IFN-γ의 생성을 증가시켰으나 억제성 사이토카인 IL-10의 수준을 감소시켰습니다. 또한
-      코디세핀은 말론디알데히드(MDA)의 혈청 수준을 감소시키고, 글루타티온(GSH)의 함량을 강화했으며, SOD(과산화물 디스뮤타제) 및 CAT(카탈라제)의
-      효소 활성을 증가시켰습니다. 더욱이, 비장과 혈청의 대사체 분석에서는 코디세핀이 CTX에 의해 유발된 대사 장애, 특히 피루브산 대사 경로를
-      조절하는 것에 대응하는 것으로 나타났습니다. 네트워크 약리학 접근법은 코디세핀이 EGFR을 표적으로 삼아 대사 및 면역 경로를 조절한다는
-      것을 시사했습니다. 또한 코디세핀은 면역억제 마우스의 비장에서 인산화된 EGFR의 단백질 수준을 감소시키고 Nrf2, NQO1 및 HO-1의
-      단백질 발현을 상향조절했습니다. 결론적으로, 이 연구는 코디세핀이 대사 장애를 역전시키고 EGFR 조절을 통해 Nrf2 경로를 활성화함으로써
-      마우스의 CTX 유발 면역억제를 개선한다는 것을 입증했으며, 이는 면역억제 치료제로서의 잠재력을 나타냅니다.'
-    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. 숙주를 병원체 침입에 더욱 취약하게 만드는 면역억제는 악성 종양 및 염증성
-      질환의 위험을 증가시킵니다. 코디세핀은 항염증, 항산화, 항종양 효과 등 다양한 약리활성을 가지고 있습니다. 그러나 코디세핀의 면역 조절
-      메커니즘은 여전히 ​​잘 알려져 있지 않습니다. …
+    ko_literal: Immunosuppression causing the host more vulnerable to pathogen invasion,
+      increases the risk of malignant tumors and inflammatory diseases. 코디세핀 possesses
+      diverse pharmacological activities, including anti-inflammatory, antioxidant,
+      and antitumor effects. However, the immunomodulatory mechanisms of 코디세핀 remain
+      poorly understood. This study aimed to explore the immunoregulatory effect of
+      코디세핀 and elucidate its underlying mechanisms. In our study, 코디세핀 restored body
+      weight, organ indices and ameliorated splenic damage in cyclophosphamide (CTX)-induced
+      immunosuppressed mice. 코디세핀 enhanced the proliferation of T and B lymphocytes
+      stimulated by ConA and LPS. 코디세핀 normalized the counts of white blood cells
+      (WBC), lymphocytes (LYM), neutrophils (NEU) and eosinophils (EOS), and increased
+      the levels of immunoglobulins (immunoglobulin A (IgA), IgM, IgG). 코디세핀 also
+      increased the production of pro-inflammatory cytokines IL-2 and IFN-γ, but decreased
+      the level of inhibitory cytokines IL-10. Additionally, 코디세핀 reduced serum level
+      of malondialdehyde (MDA), enhanced content of glutathione (GSH) and the enzymatic
+      activities of superoxide dismutase (SOD) and catalase (CAT). Moreover, metabolomic
+      analysis of spleen and serum revealed that 코디세핀 counteracted the metabolic disturbance
+      induced by CTX, particularly regulating pyruvate metabolism pathway. Network
+      pharmacology approaches suggested that 코디세핀 modulated metabolic and immune pathways
+      by targeting EGFR. Furthermore, 코디세핀 reduced the protein level of phosphorylated
+      EGFR and upregulated the protein expression of Nrf2, NQO1 and HO-1 in the spleens
+      of immunosuppression mice. In conclusion, this study demonstrated that 코디세핀
+      ameliorated CTX-induced immunosuppression of mice by reversing metabolic dysfunction
+      and activating Nrf2 pathway through regulating EGFR, indicating its potential
+      as a therapeutic agent for immunosuppression.
+    ko_researcher: '[초록 전체] 핵심 용어: **코디세핀**(cordycepin). Immunosuppression causing
+      the host more vulnerable to pathogen invasion, increases the risk of malignant
+      tumors and inflammatory diseases. 코디세핀 possesses diverse pharmacological activities,
+      including anti-inflammatory, antioxidant, and antitumor effects. However, the
+      immunomodulatory mechanisms of 코디세핀 remain poorly understood. This study aimed
+      to explore the immunoregulatory effect of 코디세핀 and elucidate its underlying
+      mechanisms. In our study, 코디세핀 restored body weight, organ indices and ameliorated
+      splenic damage in cyclophosphamide (CTX)-induced immunosuppressed mice. 코디세핀
+      enhanced the proliferation of T and B lymphocytes stimulated by ConA and LPS.
+      코디세핀 normalized the counts of white blood cells (WBC), lymphocytes (LYM), neutrophils
+      (NEU) and eosinophils (EOS), and increased the levels of immunoglobulins (immunoglobulin
+      A (IgA), IgM, IgG). 코디세핀 also increased the production of pro-inflammatory cytokines
+      IL-2 and IFN-γ, but decreased the level of inhibitory cytokines IL-10. Additionally,
+      코디세핀 reduced serum level of malondialdehyde (MDA), enhanced content of glutathione
+      (GSH) and the enzymatic activities of superoxide dismutase (SOD) and catalase
+      (CAT). Moreover, metabolomic analysis of spleen and serum revealed that 코디세핀
+      counteracted the metabolic disturbance induced by CTX, particularly regulating
+      pyruvate metabolism pathway. Network pharmacology approaches suggested that
+      코디세핀 modulated metabolic and immune pathways by targeting EGFR. Furthermore,
+      코디세핀 reduced the protein level of phosphorylated EGFR and upregulated the protein
+      expression of Nrf2, NQO1 and HO-1 in the spleens of immunosuppression mice.
+      In conclusion, this study demonstrated that 코디세핀 ameliorated CTX-induced immunosuppression
+      of mice by reversing metabolic dysfunction and activating Nrf2 pathway through
+      regulating EGFR, indicating its potential as a therapeutic agent for immunosuppression.'
+    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. Immunosuppression causing the host more vulnerable
+      to pathogen invasion, increases the risk of malignant tumors and inflammatory
+      diseases. 코디세핀 possesses diverse pharmacological activities, including anti-inflammatory,
+      antioxidant, and antitumor effects. However, the immunomodulatory mechanisms
+      of 코디세핀 remain poorly understood. …
   easy_read:
     headline: 2025년에 나온 아직 실험실·동물 단계 논문입니다. 핵심 주제는 「산화 스트레스·항산화와 관련된 연구 주제」입니다.
-    what_is_this: 이 글은 「산화 스트레스·항산화와 관련된 연구 주제」에 대한 학술 정리입니다. 숙주를 병원체 침입에 더욱 취약하게
-      만드는 면역억제는 악성 종양 및 염증성 질환의 위험을 증가시킵니다. 코디세핀은 항염증, 항산화, 항종양 효과 등 다양한 약리활성을 가지고
-      있습니다.
+    what_is_this: 이 글은 「산화 스트레스·항산화와 관련된 연구 주제」에 대한 학술 정리입니다. Immunosuppression causing
+      the host more vulnerable to pathogen invasion, increases the risk of malignant
+      tumors and inflammatory diseases.
     what_they_did: 논문·데이터를 모아 분석·정리했습니다.
-    what_they_found: 숙주를 병원체 침입에 더욱 취약하게 만드는 면역억제는 악성 종양 및 염증성 질환의 위험을 증가시킵니다. 코디세핀은
-      항염증, 항산화, 항종양 효과 등 다양한 약리활성을 가지고 있습니다. 그러나 코디세핀의 면역 조절 메커니즘은 여전히 ​​잘 알려져 있지
-      않습니다.
+    what_they_found: Immunosuppression causing the host more vulnerable to pathogen
+      invasion, increases the risk of malignant tumors and inflammatory diseases.
+      코디세핀 possesses diverse pharmacological activities, including anti-inflammatory,
+      antioxidant, and antitumor effects. However, the immunomodulatory mechanisms
+      of 코디세핀 remain poorly understood.
     good_to_know:
     - 이 글은 **술·담금주가 몸에 좋다**는 이야기가 아닙니다.
     - 연구실·논문에서 말하는 **생리활성·기능성 주제**를 할머니·할아버지도 읽기 쉽게 풀어 쓴 것입니다.
@@ -187,9 +215,10 @@ translations:
     sections:
     - id: summary
       label: 한줄 요약
-      text: 숙주를 병원체 침입에 더욱 취약하게 만드는 면역억제는 악성 종양 및 염증성 질환의 위험을 증가시킵니다. 코디세핀은 항염증, 항산화,
-        항종양 효과 등 다양한 약리활성을 가지고 있습니다. 그러나 코디세핀의 면역 조절 메커니즘은 여전히 ​​잘 알려져 있지 않습니다. 이
-        연구는 코디세핀의 면역조절 효과를 탐구하고 그 기본 메커니즘을 밝히는 것을 목표로 했습니다.
+      text: Immunosuppression causing the host more vulnerable to pathogen invasion,
+        increases the risk of malignant tumors and inflammatory diseases. 코디세핀 possesses
+        diverse pharmacological activities, including anti-inflammatory, antioxidant,
+        and antitumor effects.
   full:
     en: Immunosuppression causing the host more vulnerable to pathogen invasion, increases
       the risk of malignant tumors and inflammatory diseases. Cordycepin possesses
@@ -216,35 +245,59 @@ translations:
       immunosuppression of mice by reversing metabolic dysfunction and activating
       Nrf2 pathway through regulating EGFR, indicating its potential as a therapeutic
       agent for immunosuppression.
-    ko_literal: 숙주를 병원체 침입에 더욱 취약하게 만드는 면역억제는 악성 종양 및 염증성 질환의 위험을 증가시킵니다. 코디세핀은 항염증,
-      항산화, 항종양 효과 등 다양한 약리활성을 가지고 있습니다. 그러나 코디세핀의 면역 조절 메커니즘은 여전히 ​​잘 알려져 있지 않습니다.
-      이 연구는 코디세핀의 면역조절 효과를 탐구하고 그 기본 메커니즘을 밝히는 것을 목표로 했습니다. 우리 연구에서 코디세핀은 시클로포스파미드(CTX)
-      유발 면역억제 쥐의 체중, 장기 지수를 회복하고 비장 손상을 개선했습니다. 코디세핀은 ConA와 LPS에 의해 자극된 T 및 B 림프구의
-      증식을 향상시켰습니다. 코디세핀은 백혈구(WBC), 림프구(LYM), 호중구(NEU) 및 호산구(EOS)의 수치를 정상화하고 면역글로불린(면역글로불린
-      A(IgA), IgM, IgG) 수치를 증가시켰습니다. 코디세핀은 또한 전염증성 사이토카인 IL-2 및 IFN-γ의 생성을 증가시켰으나
-      억제성 사이토카인 IL-10의 수준을 감소시켰습니다. 또한 코디세핀은 말론디알데히드(MDA)의 혈청 수준을 감소시키고, 글루타티온(GSH)의
-      함량을 강화했으며, SOD(과산화물 디스뮤타제) 및 CAT(카탈라제)의 효소 활성을 증가시켰습니다. 더욱이, 비장과 혈청의 대사체 분석에서는
-      코디세핀이 CTX에 의해 유발된 대사 장애, 특히 피루브산 대사 경로를 조절하는 것에 대응하는 것으로 나타났습니다. 네트워크 약리학 접근법은
-      코디세핀이 EGFR을 표적으로 삼아 대사 및 면역 경로를 조절한다는 것을 시사했습니다. 또한 코디세핀은 면역억제 마우스의 비장에서 인산화된
-      EGFR의 단백질 수준을 감소시키고 Nrf2, NQO1 및 HO-1의 단백질 발현을 상향조절했습니다. 결론적으로, 이 연구는 코디세핀이
-      대사 장애를 역전시키고 EGFR 조절을 통해 Nrf2 경로를 활성화함으로써 마우스의 CTX 유발 면역억제를 개선한다는 것을 입증했으며,
-      이는 면역억제 치료제로서의 잠재력을 나타냅니다.
-    ko_researcher: '[초록 전체] 핵심 용어: **코디세핀**(cordycepin). 숙주를 병원체 침입에 더욱 취약하게 만드는 면역억제는
-      악성 종양 및 염증성 질환의 위험을 증가시킵니다. 코디세핀은 항염증, 항산화, 항종양 효과 등 다양한 약리활성을 가지고 있습니다. 그러나
-      코디세핀의 면역 조절 메커니즘은 여전히 ​​잘 알려져 있지 않습니다. 이 연구는 코디세핀의 면역조절 효과를 탐구하고 그 기본 메커니즘을
-      밝히는 것을 목표로 했습니다. 우리 연구에서 코디세핀은 시클로포스파미드(CTX) 유발 면역억제 쥐의 체중, 장기 지수를 회복하고 비장 손상을
-      개선했습니다. 코디세핀은 ConA와 LPS에 의해 자극된 T 및 B 림프구의 증식을 향상시켰습니다. 코디세핀은 백혈구(WBC), 림프구(LYM),
-      호중구(NEU) 및 호산구(EOS)의 수치를 정상화하고 면역글로불린(면역글로불린 A(IgA), IgM, IgG) 수치를 증가시켰습니다.
-      코디세핀은 또한 전염증성 사이토카인 IL-2 및 IFN-γ의 생성을 증가시켰으나 억제성 사이토카인 IL-10의 수준을 감소시켰습니다. 또한
-      코디세핀은 말론디알데히드(MDA)의 혈청 수준을 감소시키고, 글루타티온(GSH)의 함량을 강화했으며, SOD(과산화물 디스뮤타제) 및 CAT(카탈라제)의
-      효소 활성을 증가시켰습니다. 더욱이, 비장과 혈청의 대사체 분석에서는 코디세핀이 CTX에 의해 유발된 대사 장애, 특히 피루브산 대사 경로를
-      조절하는 것에 대응하는 것으로 나타났습니다. 네트워크 약리학 접근법은 코디세핀이 EGFR을 표적으로 삼아 대사 및 면역 경로를 조절한다는
-      것을 시사했습니다. 또한 코디세핀은 면역억제 마우스의 비장에서 인산화된 EGFR의 단백질 수준을 감소시키고 Nrf2, NQO1 및 HO-1의
-      단백질 발현을 상향조절했습니다. 결론적으로, 이 연구는 코디세핀이 대사 장애를 역전시키고 EGFR 조절을 통해 Nrf2 경로를 활성화함으로써
-      마우스의 CTX 유발 면역억제를 개선한다는 것을 입증했으며, 이는 면역억제 치료제로서의 잠재력을 나타냅니다.'
-    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. 숙주를 병원체 침입에 더욱 취약하게 만드는 면역억제는 악성 종양 및 염증성
-      질환의 위험을 증가시킵니다. 코디세핀은 항염증, 항산화, 항종양 효과 등 다양한 약리활성을 가지고 있습니다. 그러나 코디세핀의 면역 조절
-      메커니즘은 여전히 ​​잘 알려져 있지 않습니다. …
+    ko_literal: Immunosuppression causing the host more vulnerable to pathogen invasion,
+      increases the risk of malignant tumors and inflammatory diseases. 코디세핀 possesses
+      diverse pharmacological activities, including anti-inflammatory, antioxidant,
+      and antitumor effects. However, the immunomodulatory mechanisms of 코디세핀 remain
+      poorly understood. This study aimed to explore the immunoregulatory effect of
+      코디세핀 and elucidate its underlying mechanisms. In our study, 코디세핀 restored body
+      weight, organ indices and ameliorated splenic damage in cyclophosphamide (CTX)-induced
+      immunosuppressed mice. 코디세핀 enhanced the proliferation of T and B lymphocytes
+      stimulated by ConA and LPS. 코디세핀 normalized the counts of white blood cells
+      (WBC), lymphocytes (LYM), neutrophils (NEU) and eosinophils (EOS), and increased
+      the levels of immunoglobulins (immunoglobulin A (IgA), IgM, IgG). 코디세핀 also
+      increased the production of pro-inflammatory cytokines IL-2 and IFN-γ, but decreased
+      the level of inhibitory cytokines IL-10. Additionally, 코디세핀 reduced serum level
+      of malondialdehyde (MDA), enhanced content of glutathione (GSH) and the enzymatic
+      activities of superoxide dismutase (SOD) and catalase (CAT). Moreover, metabolomic
+      analysis of spleen and serum revealed that 코디세핀 counteracted the metabolic disturbance
+      induced by CTX, particularly regulating pyruvate metabolism pathway. Network
+      pharmacology approaches suggested that 코디세핀 modulated metabolic and immune pathways
+      by targeting EGFR. Furthermore, 코디세핀 reduced the protein level of phosphorylated
+      EGFR and upregulated the protein expression of Nrf2, NQO1 and HO-1 in the spleens
+      of immunosuppression mice. In conclusion, this study demonstrated that 코디세핀
+      ameliorated CTX-induced immunosuppression of mice by reversing metabolic dysfunction
+      and activating Nrf2 pathway through regulating EGFR, indicating its potential
+      as a therapeutic agent for immunosuppression.
+    ko_researcher: '[초록 전체] 핵심 용어: **코디세핀**(cordycepin). Immunosuppression causing
+      the host more vulnerable to pathogen invasion, increases the risk of malignant
+      tumors and inflammatory diseases. 코디세핀 possesses diverse pharmacological activities,
+      including anti-inflammatory, antioxidant, and antitumor effects. However, the
+      immunomodulatory mechanisms of 코디세핀 remain poorly understood. This study aimed
+      to explore the immunoregulatory effect of 코디세핀 and elucidate its underlying
+      mechanisms. In our study, 코디세핀 restored body weight, organ indices and ameliorated
+      splenic damage in cyclophosphamide (CTX)-induced immunosuppressed mice. 코디세핀
+      enhanced the proliferation of T and B lymphocytes stimulated by ConA and LPS.
+      코디세핀 normalized the counts of white blood cells (WBC), lymphocytes (LYM), neutrophils
+      (NEU) and eosinophils (EOS), and increased the levels of immunoglobulins (immunoglobulin
+      A (IgA), IgM, IgG). 코디세핀 also increased the production of pro-inflammatory cytokines
+      IL-2 and IFN-γ, but decreased the level of inhibitory cytokines IL-10. Additionally,
+      코디세핀 reduced serum level of malondialdehyde (MDA), enhanced content of glutathione
+      (GSH) and the enzymatic activities of superoxide dismutase (SOD) and catalase
+      (CAT). Moreover, metabolomic analysis of spleen and serum revealed that 코디세핀
+      counteracted the metabolic disturbance induced by CTX, particularly regulating
+      pyruvate metabolism pathway. Network pharmacology approaches suggested that
+      코디세핀 modulated metabolic and immune pathways by targeting EGFR. Furthermore,
+      코디세핀 reduced the protein level of phosphorylated EGFR and upregulated the protein
+      expression of Nrf2, NQO1 and HO-1 in the spleens of immunosuppression mice.
+      In conclusion, this study demonstrated that 코디세핀 ameliorated CTX-induced immunosuppression
+      of mice by reversing metabolic dysfunction and activating Nrf2 pathway through
+      regulating EGFR, indicating its potential as a therapeutic agent for immunosuppression.'
+    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. Immunosuppression causing the host more vulnerable
+      to pathogen invasion, increases the risk of malignant tumors and inflammatory
+      diseases. 코디세핀 possesses diverse pharmacological activities, including anti-inflammatory,
+      antioxidant, and antitumor effects. However, the immunomodulatory mechanisms
+      of 코디세핀 remain poorly understood. …
 ---
 
 ## 한국어 요약

@@ -17,17 +17,16 @@ journal: Pharmacology research & perspectives
 doi: 10.4103/ejpi.ejpi-d-24-00018
 pmid: '40202221'
 url: https://pubmed.ncbi.nlm.nih.gov/40202221/
-track: compound
+track: comparator_sinensis
 compound: cordycepin
 species: Cordyceps_sinensis
 study_type: animal
 evidence_strength: C_animal
-relevance_to_product: partial
+relevance_to_product: extrapolated
 claim_category: cognitive
 risk_flags:
 - disease_language
 - preclinical_only
-- species_mismatch
 maps_to_market: research_only
 citation_status: needs_legal_review
 priority_review: false
@@ -55,7 +54,7 @@ tags:
 - **Species:** Cordyceps_sinensis
 - **Compound:** cordycepin
 - **Claim category:** cognitive
-- **Risk flags:** disease_language, preclinical_only, species_mismatch
+- **Risk flags:** disease_language, preclinical_only
 - **Maps to market:** research_only
 - **Citation status:** needs_legal_review
 - **DOI:** 10.4103/ejpi.ejpi-d-24-00018
@@ -66,7 +65,7 @@ tags:
 Huntington's disease (HD) is a challenging neurodegenerative disorder linked to Huntingtin (HTT) gene mutation, lacking an effective cure despite numerous therapeutic attempts. Cordyceps sinensis, recognized for its health benefits, particularly its constituent cordycepin, exhibits neuroprotective effects in various neurodegenerative diseases. However, the neuroprotective potential of cordycepin in HD remains insufficiently explored. In this study, in vitro experiments using HD cell models demonstrate that cordycepin treatment enhances cell survival, slightly diminishes mutant HTT aggregates, and improves neuronal formation. In vivo investigations on R6/2 HD transgenic mice reveal a modest increase in body weight and a slight amelioration in pathological aggregates following cordycepin administration, although behavioral changes are not significant. While the underlying mechanisms remain unexplored, the findings suggest cordycepin's promise as a supplementary therapeutic for HD, providing neuroprotective effects and reducing mutant protein aggregates.
 
 ## Relevance notes
-Cordycepin-focused; verify species/form vs product
+Comparator species / Cs-4 — do not equate to C. militaris cordycepin product
 
 ## Compliance
 - Product context: Q-Sarang 제왕충초 **liquor** (not HFF).

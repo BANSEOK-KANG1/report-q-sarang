@@ -1,23 +1,23 @@
 ---
-record_id: 27f210f4-8f9a-46f0-af26-d1f8ee6f7b92
-title: 'Cordyceps: a traditional Chinese medicine and another fungal therapeutic biofactory?'
+record_id: e396e643-05ff-45e8-8f8b-bcc39ee83537
+title: Cordyceps – A traditional Chinese medicine and another fungal therapeutic biofactory?
 authors:
-- R Russell M Paterson
+- R. R. M. Paterson
 year: 2008
 journal: Phytochemistry
-doi: 10.1016/j.fitote.2007.09.001
+doi: 10.1016/j.phytochem.2008.01.027
 pmid: '18343466'
-url: https://pubmed.ncbi.nlm.nih.gov/18343466/
-track: comparator_sinensis
-compound: cordycepin
-species: Cordyceps_sinensis
-study_type: animal
-evidence_strength: C_animal
-relevance_to_product: extrapolated
+url: https://doi.org/10.1016/j.phytochem.2008.01.027
+track: militaris
+compound: unclear
+species: Cordyceps_militaris
+study_type: unclear
+evidence_strength: F_review_only
+relevance_to_product: partial
 claim_category: other
 risk_flags:
 - disease_language
-- preclinical_only
+- missing_abstract
 maps_to_market: research_only
 citation_status: needs_legal_review
 priority_review: false
@@ -27,36 +27,36 @@ jurisdiction_caveats:
 - disease_language_in_source
 - research_only
 source_apis:
-- pubmed
+- openalex
 full_text_available: false
 tags:
 - evidence
 - status/needs_legal_review
-- study/animal
+- study/unclear
 - market/research_only
 ---
 
-# Cordyceps: a traditional Chinese medicine and another fungal therapeutic biofactory?
+# Cordyceps – A traditional Chinese medicine and another fungal therapeutic biofactory?
 
 ## Summary fields
 - **Year:** 2008
-- **Study type:** animal
-- **Evidence strength:** C_animal
-- **Species:** Cordyceps_sinensis
-- **Compound:** cordycepin
+- **Study type:** unclear
+- **Evidence strength:** F_review_only
+- **Species:** Cordyceps_militaris
+- **Compound:** unclear
 - **Claim category:** other
-- **Risk flags:** disease_language, preclinical_only
+- **Risk flags:** disease_language, missing_abstract
 - **Maps to market:** research_only
 - **Citation status:** needs_legal_review
-- **DOI:** 10.1016/j.fitote.2007.09.001
+- **DOI:** 10.1016/j.phytochem.2008.01.027
 - **PMID:** 18343466
-- **URL:** https://pubmed.ncbi.nlm.nih.gov/18343466/
+- **URL:** https://doi.org/10.1016/j.phytochem.2008.01.027
 
 ## Abstract
-Traditional Chinese medicines (TCM) are growing in popularity. However, are they effective? Cordyceps is not studied as systematically for bioactivity as another TCM, Ganoderma. Cordyceps is fascinating per se, especially because of the pathogenic lifestyle on Lepidopteron insects. The combination of the fungus and dead insect has been used as a TCM for centuries. However, the natural fungus has been harvested to the extent that it is an endangered species. The effectiveness has been attributed to the Chinese philosophical concept of Yin and Yang and can this be compatible with scientific philosophy? A vast literature exists, some of which is scientific, although others are popular myth, and even hype. Cordyceps sinensis is the most explored species followed by Cordyceps militaris. However, taxonomic concepts were confused until a recent revision, with undefined material being used that cannot be verified. Holomorphism is relevant and contamination might account for some of the activity. The role of the insect has been ignored. Some of the analytical methodologies are poor. Data on the "old" compound cordycepin are still being published: ergosterol and related compounds are reported despite being universal to fungi. There is too much work on crude extracts rather than pure compounds with water and methanol solvents being over-represented in this respect (although methanol is an effective solvent). Excessive speculation exists as to the curative properties. However, there are some excellent pharmacological data and relating to apoptosis. For example, some preparations are active against cancers or diabetes which should be fully investigated. Polysaccharides and secondary metabolites are of particular interest. The use of genuine anamorphic forms in bioreactors is encouraged.
+_No abstract_
 
 ## Relevance notes
-Comparator species / Cs-4 — do not equate to C. militaris cordycepin product
+_n/a_
 
 ## Compliance
 - Product context: Q-Sarang 제왕충초 **liquor** (not HFF).

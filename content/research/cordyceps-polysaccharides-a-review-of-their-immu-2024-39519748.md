@@ -1,9 +1,9 @@
 ---
 title: 'Cordyceps Polysaccharides: A Review of Their Immunomodulatory Effects.'
-title_ko: 'Cordyceps 다당류s: 면역조절 효과에 대한 검토.'
+title_ko: 'Cordyceps(cordyceps) 다당류s: A Review of Their Immunomodulatory Effects.'
 slug: cordyceps-polysaccharides-a-review-of-their-immu-2024-39519748
 record_id: 71f03648-2c59-4fef-902e-96a3f705584d
-date: '2026-08-31'
+date: '2026-09-14'
 year: 2024
 authors:
 - Liping Chen
@@ -44,7 +44,7 @@ tags:
 - cordycepin
 - evidence
 - 제왕충초
-generated: '2026-08-31'
+generated: '2026-09-14'
 visuals:
 - type: figure
   src: /research-figures/cordyceps-polysaccharides-a-review-of-their-immu-2024-39519748/molecules-29-05107-g001.gif
@@ -107,9 +107,9 @@ api_meta:
     europepmc: true
     openalex: true
     crossref: true
-  fetched_at: '2026-08-31'
+  fetched_at: '2026-09-14'
 translations:
-  title_ko: 'Cordyceps 다당류s: 면역조절 효과에 대한 검토.'
+  title_ko: 'Cordyceps(cordyceps) 다당류s: A Review of Their Immunomodulatory Effects.'
   glossary:
   - en: cordycepin
     ko: 코디세핀
@@ -152,43 +152,70 @@ translations:
       substances, and mitigating immune evasion prompted by tumors. In conclusion,
       Cordyceps polysaccharides exhibit significant immunomodulatory activity and
       merit further investigation.
-    ko_literal: Cordyceps은 주로 곤충과 절지동물을 감염시키는 기생 곰팡이인 자낭균으로 구성됩니다. 최근 Cordyceps은 당뇨병,
-      급성 간 손상, 대장염 등 다양한 질병의 치료 및 완화에 적용할 수 있는 다양한 약리 활성을 나타내는 것으로 나타났습니다. 코디세핀, 아데노신,
-      스테롤 및 다당류s를 포함하여 Cordyceps sinensis에서 많은 활성 성분이 확인되었습니다. 다당류은 Cordyceps의 주요
-      활성 구성 요소를 구성하며 면역 조절 효과를 나타냅니다. Cordyceps, 다당류 및 면역 조절이라는 키워드로 Web of Science
-      데이터베이스를 검색했습니다. 2004년부터 2024년까지 관련 연구를 수집했다. 영향력과 작업량이 적은 기사를 삭제했습니다. Cordyceps
-      다당류s의 면역 조절 효과에 관한 연구 발전에 대한 검토는 귀중한 참고 정보를 제공할 목적으로 수행되었습니다. 연구에 따르면 면역 조절
-      활성을 나타내는 다당류은 주로 Cordyceps sinensis 및 Cordyceps militaris에서 유래하는 것으로 나타났습니다.
-      면역학적 실험 결과는 Cordyceps 다당류s가 대식세포, 림프구 및 수지상 세포의 활동을 증가시키면서 사이토카인 및 케모카인과 같은
-      면역 활성 물질의 발현을 촉진할 수 있음을 보여줍니다. 또한, 동물 실험을 통해 Cordyceps 다당류s의 면역 조절 효과가 입증되었습니다.
-      이러한 효과에는 약물이나 방사선에 의한 면역 억제 개선, 면역 기관 지표 강화, 면역 반응 물질의 발현 증가, 종양으로 인한 면역 회피
-      완화 등이 포함됩니다. 결론적으로, Cordyceps 다당류은 상당한 면역 조절 활성을 나타내며 추가 조사가 필요합니다.
+    ko_literal: Cordyceps(cordyceps) primarily consists of ascomycetes, a parasitic
+      fungus that infects insects and arthropods. Recently, Cordyceps has been shown
+      to manifest a diverse range of pharmacological activities, rendering it applicable
+      for the treatment and mitigation of various diseases, such as diabetes, acute
+      liver injury, and colitis. Many active constituents have been identified from
+      Cordyceps sinensis, including 코디세핀, 아데노신, sterols, and 다당류s. 다당류s constitute
+      a primary active component of Cordyceps, exhibiting immunomodulatory effects.
+      We searched the Web of Science database with the keywords of Cordyceps, 다당류,
+      and immune modulation; collected related studies from 2004 to 2024; and eliminated
+      articles with low influence and workload. A review of the research advancements
+      regarding the immunomodulatory effects of Cordyceps 다당류s was conducted with
+      the aim of furnishing valuable reference information. Research indicates that
+      다당류s exhibiting immunomodulatory activity are predominantly sourced from Cordyceps
+      sinensis and Cordyceps militaris(cordyceps militaris). Immunological experimental
+      results demonstrate that Cordyceps 다당류s can augment the activities of macrophages,
+      lymphocytes, and dendritic cells while fostering the expression of immune-active
+      substances such as cytokines and chemokines. Furthermore, animal experiments
+      have substantiated the immunomodulatory effects of Cordyceps 다당류s. These effects
+      encompass ameliorating immune suppression induced by drugs or radiation, enhancing
+      immune organ indices, elevating the expression of immunoreactive substances,
+      and mitigating immune evasion prompted by tumors. In conclusion, Cordyceps 다당류s
+      exhibit significant immunomodulatory activity and merit further investigation.
     ko_researcher: '[초록 전체] 핵심 용어: **코디세핀**(cordycepin) · **Cordyceps militaris**(cordyceps
-      militaris) · **Cordyceps**(cordyceps) · **다당류**(polysaccharide). Cordyceps은
-      주로 곤충과 절지동물을 감염시키는 기생 곰팡이인 자낭균으로 구성됩니다. 최근 Cordyceps은 당뇨병, 급성 간 손상, 대장염 등 다양한
-      질병의 치료 및 완화에 적용할 수 있는 다양한 약리 활성을 나타내는 것으로 나타났습니다. 코디세핀, 아데노신, 스테롤 및 다당류s를 포함하여
-      Cordyceps sinensis에서 많은 활성 성분이 확인되었습니다. 다당류은 Cordyceps의 주요 활성 구성 요소를 구성하며 면역
-      조절 효과를 나타냅니다. Cordyceps, 다당류 및 면역 조절이라는 키워드로 Web of Science 데이터베이스를 검색했습니다.
-      2004년부터 2024년까지 관련 연구를 수집했다. 영향력과 작업량이 적은 기사를 삭제했습니다. Cordyceps 다당류s의 면역 조절
-      효과에 관한 연구 발전에 대한 검토는 귀중한 참고 정보를 제공할 목적으로 수행되었습니다. 연구에 따르면 면역 조절 활성을 나타내는 다당류은
-      주로 Cordyceps sinensis 및 Cordyceps militaris에서 유래하는 것으로 나타났습니다. 면역학적 실험 결과는 Cordyceps
-      다당류s가 대식세포, 림프구 및 수지상 세포의 활동을 증가시키면서 사이토카인 및 케모카인과 같은 면역 활성 물질의 발현을 촉진할 수 있음을
-      보여줍니다. 또한, 동물 실험을 통해 Cordyceps 다당류s의 면역 조절 효과가 입증되었습니다. 이러한 효과에는 약물이나 방사선에 의한
-      면역 억제 개선, 면역 기관 지표 강화, 면역 반응 물질의 발현 증가, 종양으로 인한 면역 회피 완화 등이 포함됩니다. 결론적으로, Cordyceps
-      다당류은 상당한 면역 조절 활성을 나타내며 추가 조사가 필요합니다.'
-    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. Cordyceps은 주로 곤충과 절지동물을 감염시키는 기생 곰팡이인 자낭균으로
-      구성됩니다. 최근 Cordyceps은 당뇨병, 급성 간 손상, 대장염 등 다양한 질병의 치료 및 완화에 적용할 수 있는 다양한 약리 활성을
-      나타내는 것으로 나타났습니다. 코디세핀, 아데노신, 스테롤 및 다당류s를 포함하여 Cordyceps sinensis에서 많은 활성 성분이
-      확인되었습니다. …
+      militaris) · **Cordyceps**(cordyceps) · **다당류**(polysaccharide). Cordyceps(cordyceps)
+      primarily consists of ascomycetes, a parasitic fungus that infects insects and
+      arthropods. Recently, Cordyceps has been shown to manifest a diverse range of
+      pharmacological activities, rendering it applicable for the treatment and mitigation
+      of various diseases, such as diabetes, acute liver injury, and colitis. Many
+      active constituents have been identified from Cordyceps sinensis, including
+      코디세핀, 아데노신, sterols, and 다당류s. 다당류s constitute a primary active component of
+      Cordyceps, exhibiting immunomodulatory effects. We searched the Web of Science
+      database with the keywords of Cordyceps, 다당류, and immune modulation; collected
+      related studies from 2004 to 2024; and eliminated articles with low influence
+      and workload. A review of the research advancements regarding the immunomodulatory
+      effects of Cordyceps 다당류s was conducted with the aim of furnishing valuable
+      reference information. Research indicates that 다당류s exhibiting immunomodulatory
+      activity are predominantly sourced from Cordyceps sinensis and Cordyceps militaris(cordyceps
+      militaris). Immunological experimental results demonstrate that Cordyceps 다당류s
+      can augment the activities of macrophages, lymphocytes, and dendritic cells
+      while fostering the expression of immune-active substances such as cytokines
+      and chemokines. Furthermore, animal experiments have substantiated the immunomodulatory
+      effects of Cordyceps 다당류s. These effects encompass ameliorating immune suppression
+      induced by drugs or radiation, enhancing immune organ indices, elevating the
+      expression of immunoreactive substances, and mitigating immune evasion prompted
+      by tumors. In conclusion, Cordyceps 다당류s exhibit significant immunomodulatory
+      activity and merit further investigation.'
+    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. Cordyceps(cordyceps) primarily consists of
+      ascomycetes, a parasitic fungus that infects insects and arthropods. Recently,
+      Cordyceps has been shown to manifest a diverse range of pharmacological activities,
+      rendering it applicable for the treatment and mitigation of various diseases,
+      such as diabetes, acute liver injury, and colitis. Many active constituents
+      have been identified from Cordyceps sinensis, including 코디세핀, 아데노신, sterols,
+      and 다당류s. …
   easy_read:
     headline: 2024년에 나온 여러 연구를 읽고 정리한 글입니다. 핵심 주제는 「몸의 방어 반응(면역)과 관련된 연구 주제」입니다.
-    what_is_this: 이 글은 「몸의 방어 반응(면역)과 관련된 연구 주제」에 대한 학술 정리입니다. Cordyceps은 주로 곤충과 절지동물을
-      감염시키는 기생 곰팡이인 자낭균으로 구성됩니다. 최근 Cordyceps은 당뇨병, 급성 간 손상, 대장염 등 다양한 질병의 연구에서 다루
-      및 완화에 적용할 수 있는 다양한 약리 활성을 나타내는 것으로 나타났습니다.
+    what_is_this: 이 글은 「몸의 방어 반응(면역)과 관련된 연구 주제」에 대한 학술 정리입니다. Cordyceps(cordyceps)
+      primarily consists of ascomycetes, a parasitic fungus that infects insects and
+      arthropods.
     what_they_did: 여러 편의 논문을 찾아 읽고, 공통점과 차이를 표로 정리했습니다.
-    what_they_found: Cordyceps은 주로 곤충과 절지동물을 감염시키는 기생 곰팡이인 자낭균으로 구성됩니다. 최근 Cordyceps은
-      당뇨병, 급성 간 손상, 대장염 등 다양한 질병의 연구에서 다루 및 완화에 적용할 수 있는 다양한 약리 활성을 나타내는 것으로 나타났습니다.
-      코디세핀, 아데노신, 스테롤 및 다당류s를 포함하여 Cordyceps sinensis에서 많은 활성 성분이 확인되었습니다.
+    what_they_found: Cordyceps(cordyceps) primarily consists of ascomycetes, a parasitic
+      fungus that infects insects and arthropods. Recently, Cordyceps has been shown
+      to manifest a diverse range of pharmacological activities, rendering it applicable
+      for the treatment and mitigation of various diseases, such as diabetes, acute
+      liver injury, and colitis.
     good_to_know:
     - 이 글은 **술·담금주가 몸에 좋다**는 이야기가 아닙니다.
     - 연구실·논문에서 말하는 **생리활성·기능성 주제**를 할머니·할아버지도 읽기 쉽게 풀어 쓴 것입니다.
@@ -198,10 +225,8 @@ translations:
     sections:
     - id: summary
       label: 한줄 요약
-      text: Cordyceps은 주로 곤충과 절지동물을 감염시키는 기생 곰팡이인 자낭균으로 구성됩니다. 최근 Cordyceps은 당뇨병,
-        급성 간 손상, 대장염 등 다양한 질병의 연구에서 다루 및 완화에 적용할 수 있는 다양한 약리 활성을 나타내는 것으로 나타났습니다.
-        코디세핀, 아데노신, 스테롤 및 다당류s를 포함하여 Cordyceps sinensis에서 많은 활성 성분이 확인되었습니다. 다당류은
-        Cordyceps의 주요 활성 구성 요소를 구성하며 면역 조절 효과를 나타냅니다.
+      text: Cordyceps(cordyceps) primarily consists of ascomycetes, a parasitic fungus
+        that infects insects and arthropods.
   full:
     en: Cordyceps primarily consists of ascomycetes, a parasitic fungus that infects
       insects and arthropods. Recently, Cordyceps has been shown to manifest a diverse
@@ -226,14 +251,59 @@ translations:
       substances, and mitigating immune evasion prompted by tumors. In conclusion,
       Cordyceps polysaccharides exhibit significant immunomodulatory activity and
       merit further investigation.
-    ko_literal: Error 500 (Server Error)!!1500.That’s an error.There was an error.
-      Please try again later.That’s all we know.
+    ko_literal: Cordyceps(cordyceps) primarily consists of ascomycetes, a parasitic
+      fungus that infects insects and arthropods. Recently, Cordyceps has been shown
+      to manifest a diverse range of pharmacological activities, rendering it applicable
+      for the treatment and mitigation of various diseases, such as diabetes, acute
+      liver injury, and colitis. Many active constituents have been identified from
+      Cordyceps sinensis, including 코디세핀, 아데노신, sterols, and 다당류s. 다당류s constitute
+      a primary active component of Cordyceps, exhibiting immunomodulatory effects.
+      We searched the Web of Science database with the keywords of Cordyceps, 다당류,
+      and immune modulation; collected related studies from 2004 to 2024; and eliminated
+      articles with low influence and workload. A review of the research advancements
+      regarding the immunomodulatory effects of Cordyceps 다당류s was conducted with
+      the aim of furnishing valuable reference information. Research indicates that
+      다당류s exhibiting immunomodulatory activity are predominantly sourced from Cordyceps
+      sinensis and Cordyceps militaris(cordyceps militaris). Immunological experimental
+      results demonstrate that Cordyceps 다당류s can augment the activities of macrophages,
+      lymphocytes, and dendritic cells while fostering the expression of immune-active
+      substances such as cytokines and chemokines. Furthermore, animal experiments
+      have substantiated the immunomodulatory effects of Cordyceps 다당류s. These effects
+      encompass ameliorating immune suppression induced by drugs or radiation, enhancing
+      immune organ indices, elevating the expression of immunoreactive substances,
+      and mitigating immune evasion prompted by tumors. In conclusion, Cordyceps 다당류s
+      exhibit significant immunomodulatory activity and merit further investigation.
     ko_researcher: '[초록 전체] 핵심 용어: **코디세핀**(cordycepin) · **Cordyceps militaris**(cordyceps
-      militaris) · **Cordyceps**(cordyceps) · **다당류**(polysaccharide). Error 500 (Server
-      Error)!!1500.That’s an error.There was an error. Please try again later.That’s
-      all we know.'
-    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. Error 500 (Server Error)!!1500.That’s an
-      error.There was an error. Please try again later.That’s all we know.
+      militaris) · **Cordyceps**(cordyceps) · **다당류**(polysaccharide). Cordyceps(cordyceps)
+      primarily consists of ascomycetes, a parasitic fungus that infects insects and
+      arthropods. Recently, Cordyceps has been shown to manifest a diverse range of
+      pharmacological activities, rendering it applicable for the treatment and mitigation
+      of various diseases, such as diabetes, acute liver injury, and colitis. Many
+      active constituents have been identified from Cordyceps sinensis, including
+      코디세핀, 아데노신, sterols, and 다당류s. 다당류s constitute a primary active component of
+      Cordyceps, exhibiting immunomodulatory effects. We searched the Web of Science
+      database with the keywords of Cordyceps, 다당류, and immune modulation; collected
+      related studies from 2004 to 2024; and eliminated articles with low influence
+      and workload. A review of the research advancements regarding the immunomodulatory
+      effects of Cordyceps 다당류s was conducted with the aim of furnishing valuable
+      reference information. Research indicates that 다당류s exhibiting immunomodulatory
+      activity are predominantly sourced from Cordyceps sinensis and Cordyceps militaris(cordyceps
+      militaris). Immunological experimental results demonstrate that Cordyceps 다당류s
+      can augment the activities of macrophages, lymphocytes, and dendritic cells
+      while fostering the expression of immune-active substances such as cytokines
+      and chemokines. Furthermore, animal experiments have substantiated the immunomodulatory
+      effects of Cordyceps 다당류s. These effects encompass ameliorating immune suppression
+      induced by drugs or radiation, enhancing immune organ indices, elevating the
+      expression of immunoreactive substances, and mitigating immune evasion prompted
+      by tumors. In conclusion, Cordyceps 다당류s exhibit significant immunomodulatory
+      activity and merit further investigation.'
+    ko_plain: 논문 초록의 요지를 쉽게 풀면 다음과 같습니다. Cordyceps(cordyceps) primarily consists of
+      ascomycetes, a parasitic fungus that infects insects and arthropods. Recently,
+      Cordyceps has been shown to manifest a diverse range of pharmacological activities,
+      rendering it applicable for the treatment and mitigation of various diseases,
+      such as diabetes, acute liver injury, and colitis. Many active constituents
+      have been identified from Cordyceps sinensis, including 코디세핀, 아데노신, sterols,
+      and 다당류s. …
 ---
 
 ## 한국어 요약

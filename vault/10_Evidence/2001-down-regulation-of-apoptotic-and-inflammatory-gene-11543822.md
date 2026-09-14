@@ -1,16 +1,16 @@
 ---
 record_id: 39c253cb-3d14-4ee3-9da1-33fb53284683
-title: Down-regulation of apoptotic and inflammatory genes by Cordyceps sinensis extract
-  in rat kidney following ischemia/reperfusion.
+title: Down-regulation of apoptotic and inflammatory genes by Cordyceps Sinensis extract
+  in rat kidney following ischemia/reperfusion
 authors:
-- A R Shahed
-- S I Kim
-- D A Shoskes
+- Asha Shahed
+- S.I Kim
+- Daniel A. Shoskes
 year: 2001
-journal: Transplantation proceedings
+journal: Transplantation Proceedings
 doi: 10.1016/s0041-1345(01)02282-5
 pmid: '11543822'
-url: https://pubmed.ncbi.nlm.nih.gov/11543822/
+url: https://doi.org/10.1016/s0041-1345(01)02282-5
 track: comparator_sinensis
 compound: cordyceps_extract
 species: Cordyceps_sinensis
@@ -29,7 +29,7 @@ jurisdiction_caveats:
 - not_HFF_product
 - research_only
 source_apis:
-- pubmed
+- openalex
 full_text_available: false
 tags:
 - evidence
@@ -38,7 +38,7 @@ tags:
 - market/research_only
 ---
 
-# Down-regulation of apoptotic and inflammatory genes by Cordyceps sinensis extract in rat kidney following ischemia/reperfusion.
+# Down-regulation of apoptotic and inflammatory genes by Cordyceps Sinensis extract in rat kidney following ischemia/reperfusion
 
 ## Summary fields
 - **Year:** 2001
@@ -52,7 +52,7 @@ tags:
 - **Citation status:** candidate
 - **DOI:** 10.1016/s0041-1345(01)02282-5
 - **PMID:** 11543822
-- **URL:** https://pubmed.ncbi.nlm.nih.gov/11543822/
+- **URL:** https://doi.org/10.1016/s0041-1345(01)02282-5
 
 ## Abstract
 _No abstract_

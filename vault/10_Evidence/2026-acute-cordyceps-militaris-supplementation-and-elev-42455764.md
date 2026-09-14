@@ -10,24 +10,24 @@ journal: ''
 doi: 10.1371/journal.pone.0351725
 pmid: '42455764'
 url: https://europepmc.org/article/MED/42455764
-track: militaris
-compound: cordyceps_extract
+track: compound
+compound: cordycepin
 species: Cordyceps_militaris
 study_type: rct
 evidence_strength: A_human_RCT
-relevance_to_product: partial
+relevance_to_product: direct
 claim_category: exercise_performance
 risk_flags: []
 maps_to_market: research_only
 citation_status: candidate
-priority_review: false
+priority_review: true
 jurisdiction_caveats:
 - KR_liquor_no_disease_claims
 - not_HFF_product
 - research_only
 source_apis:
 - europepmc
-full_text_available: false
+full_text_available: true
 tags:
 - evidence
 - status/candidate
@@ -42,7 +42,7 @@ tags:
 - **Study type:** rct
 - **Evidence strength:** A_human_RCT
 - **Species:** Cordyceps_militaris
-- **Compound:** cordyceps_extract
+- **Compound:** cordycepin
 - **Claim category:** exercise_performance
 - **Risk flags:** none
 - **Maps to market:** research_only
