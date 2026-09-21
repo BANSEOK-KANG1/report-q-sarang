@@ -1,6 +1,6 @@
 ---
 record_id: b38e810d-495d-4900-b914-18fab926fb7c
-title: Antitumour activity of cordycepin in mice.
+title: ANTITUMOUR ACTIVITY OF CORDYCEPIN IN MICE
 authors:
 - Noriko Yoshikawa
 - Kazuki Nakamura
@@ -9,10 +9,10 @@ authors:
 - Kazumasa Shinozuka
 - Masaru Kunitomo
 year: 2004
-journal: Clinical and experimental pharmacology & physiology
+journal: Clinical and Experimental Pharmacology and Physiology
 doi: 10.1111/j.1440-1681.2004.04108.x
 pmid: '15649290'
-url: https://pubmed.ncbi.nlm.nih.gov/15649290/
+url: https://doi.org/10.1111/j.1440-1681.2004.04108.x
 track: compound
 compound: cordycepin
 species: Cordyceps_sinensis
@@ -34,7 +34,6 @@ jurisdiction_caveats:
 - research_only
 source_apis:
 - openalex
-- pubmed
 full_text_available: false
 tags:
 - evidence
@@ -43,7 +42,7 @@ tags:
 - market/research_only
 ---
 
-# Antitumour activity of cordycepin in mice.
+# ANTITUMOUR ACTIVITY OF CORDYCEPIN IN MICE
 
 ## Summary fields
 - **Year:** 2004
@@ -57,7 +56,7 @@ tags:
 - **Citation status:** needs_legal_review
 - **DOI:** 10.1111/j.1440-1681.2004.04108.x
 - **PMID:** 15649290
-- **URL:** https://pubmed.ncbi.nlm.nih.gov/15649290/
+- **URL:** https://doi.org/10.1111/j.1440-1681.2004.04108.x
 
 ## Abstract
 1. The antitumour effect of orally administered cordycepin, a component isolated from water extracts of Cordyceps sinensis, was examined in mice inoculated with B16 melanoma (B16-BL6) cells. 2. B16-BL6 (1 x 10(6)) cells were inoculated subcutaneously into the right footpad of mice. At 2 weeks after the cell inoculation, the enlarged primary tumour lump was weighed. Cordycepin (0, 5 and 15 mg/kg per day) was administered orally to the mice for 2 weeks from the date of tumour inoculation. Cordycepin (15 mg/kg per day) significantly reduced by 36% the wet weight of the primary tumour lump compared to that of the untreated control mice, without any loss of bodyweight or systemic toxicity. 3. Cordycepin (15 mg/kg per day) administered orally for 2 weeks inhibited the tumour enlargement in the right thigh inoculated with B16-BL6 cells premixed with extracellular matrix (Matrigel). 4. These results indicate that orally administered cordycepin inhibits melanoma cell growth in mice with no adverse effects.

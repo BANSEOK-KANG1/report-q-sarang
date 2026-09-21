@@ -3,21 +3,21 @@ record_id: 88d794cc-dec3-43ba-b2d1-515139a4ffb9
 title: Cordycepin-mediated protection against bisphenol A-induced male reproductive
   toxicity via PI3K/mTOR/HIF-1α signaling.
 authors:
-- Yang W
-- Guo J
-- Shuai Z
-- Han S
-- Jing X
-- Long H
-- Li N
-- Zhao Y
-- Gong P
-- Guo Y.
+- Wenjuan Yang
+- Jiang Guo
+- Zhaorui Shuai
+- Shuai Han
+- Xuguang Jing
+- Hui Long
+- Nan Li
+- Yanni Zhao
+- Pin Gong
+- Yuxi Guo
 year: 2026
-journal: ''
+journal: Food research international (Ottawa, Ont.)
 doi: 10.1016/j.foodres.2026.118968
 pmid: '41942214'
-url: https://europepmc.org/article/MED/41942214
+url: https://pubmed.ncbi.nlm.nih.gov/41942214/
 track: compound
 compound: cordycepin
 species: Cordyceps_militaris
@@ -36,6 +36,7 @@ jurisdiction_caveats:
 - research_only
 source_apis:
 - europepmc
+- pubmed
 full_text_available: false
 tags:
 - evidence
@@ -58,7 +59,7 @@ tags:
 - **Citation status:** needs_legal_review
 - **DOI:** 10.1016/j.foodres.2026.118968
 - **PMID:** 41942214
-- **URL:** https://europepmc.org/article/MED/41942214
+- **URL:** https://pubmed.ncbi.nlm.nih.gov/41942214/
 
 ## Abstract
 Environmental endocrine disruptors, such as bisphenol A (BPA), pose significant threats to male reproductive health. Cordycepin, a bioactive nucleoside derived from Cordyceps militaris, has demonstrated antioxidant and bioregulatory effects; however, its protective role against BPA-induced reproductive toxicity remains insufficiently understood. This study investigated the protective role of cordycepin in male mice exposed to BPA through physiological, histological, metabolomic, microbiota-related, and molecular analyses. BPA exposure markedly decreased the average serum testosterone level (-59.3%), sperm count (-49.2%), and testis index (-28.1%), and increased the sperm abnormality rate (+72.4%). Cordycepin administration dose-dependently restored average testosterone level (up to +118% compared to BPA), improved sperm density and morphology, and recovered seminiferous epithelial thickness (+36.7%). At the molecular level, cordycepin attenuated BPA-induced suppression of PI3K, mTOR, and HIF-1α expression at both mRNA and protein levels. Metabolomic analysis revealed normalization of BPA-perturbed metabolites, including serine, glycine, and L-valine. Gut-microbiota analysis showed that cordycepin increased the abundance of beneficial genera Ruminococcus and Bacteroides, which positively correlated with reproductive parameters. Complementary in vitro assays confirmed that cordycepin exerted its protective effects by activating the PI3K/mTOR/HIF-1α signaling pathway. Overall, cordycepin effectively alleviated BPA-induced male reproductive toxicity by restoring endocrine balance, improving sperm quality and testicular structure, and modulating metabolic and microbial homeostasis. These findings suggest that cordycepin may be a promising candidate for mitigating reproductive damage caused by environmental toxicants.

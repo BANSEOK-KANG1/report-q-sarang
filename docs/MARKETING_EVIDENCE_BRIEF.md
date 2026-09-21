@@ -1,6 +1,6 @@
 # Marketing Evidence Brief — 제왕충초 × 코디세핀
 
-_Generated: 2026-09-14_
+_Generated: 2026-09-21_
 
 > 제왕충초 담금주는 **주류**입니다. 아래 내용은 효능 광고 승인이 아닙니다.
 > 소비자 카피는 법무 검토 후 `citation_status=approved` + `KR_liquor_context`만 사용하세요.
@@ -141,15 +141,10 @@ _Generated: 2026-09-14_
   - flags: disease_language, preclinical_only
   - link: https://europepmc.org/article/MED/42284884
 
-- **2026** [animal/C_animal] Cordycepin-Enriched Cordyceps militaris Extract ARA815 Induces Ferroptosis in Lung Cancer Cells In Vivo and In Vitro.
-  - animal study touching exercise_performance endpoints (auto-tagged; verify before use).
-  - flags: disease_language, preclinical_only
-  - link: https://europepmc.org/article/MED/42033088
-
 - **2026** [animal/C_animal] Cordycepin-mediated protection against bisphenol A-induced male reproductive toxicity via PI3K/mTOR/HIF-1α signaling.
   - animal study touching antioxidant endpoints (auto-tagged; verify before use).
   - flags: preclinical_only
-  - link: https://europepmc.org/article/MED/41942214
+  - link: https://pubmed.ncbi.nlm.nih.gov/41942214/
 
 - **2026** [review_narrative/F_review_only] Correction: Cordyceps spp.: a review on its immune-stimulatory and other biological potentials.
   - review_narrative study touching immune endpoints (auto-tagged; verify before use).
@@ -176,11 +171,16 @@ _Generated: 2026-09-14_
   - flags: disease_language, preclinical_only
   - link: https://europepmc.org/article/MED/42184123
 
+- **2026** [animal/C_animal] Efficient production of cordycepin in engineered Saccharomyces cerevisiae.
+  - animal study touching immune endpoints (auto-tagged; verify before use).
+  - flags: disease_language, preclinical_only
+  - link: https://europepmc.org/article/MED/41946402
+
 ## Stats snapshot
 
 - Total normalized records: **833**
 - research_only: **819**
-- needs_legal_review: **511**
+- needs_legal_review: **513**
 - approved liquor-context: **14**
 
 ## See also

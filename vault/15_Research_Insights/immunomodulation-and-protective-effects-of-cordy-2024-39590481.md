@@ -5,7 +5,7 @@ title_ko: Immunomodulation and Protective Effects of Cordyceps(cordyceps) milita
   militaris) 추출물 Against Candida albicans Infection in Galleria mellonella Larvae.
 slug: immunomodulation-and-protective-effects-of-cordy-2024-39590481
 record_id: 21182ed3-076f-4f80-870d-cf0f0082acf2
-date: '2026-09-14'
+date: '2026-09-21'
 year: 2024
 authors:
 - Sadaf Ashraf
@@ -44,7 +44,7 @@ tags:
 - cordycepin
 - evidence
 - 제왕충초
-generated: '2026-09-14'
+generated: '2026-09-21'
 visuals:
 - type: figure
   src: /research-figures/immunomodulation-and-protective-effects-of-cordy-2024-39590481/insects-15-00882-g001.gif
@@ -110,7 +110,7 @@ api_meta:
     europepmc: true
     openalex: true
     crossref: true
-  fetched_at: '2026-09-14'
+  fetched_at: '2026-09-21'
 translations:
   title_ko: Immunomodulation and Protective Effects of Cordyceps(cordyceps) militaris(cordyceps
     militaris) 추출물 Against Candida albicans Infection in Galleria mellonella Larvae.

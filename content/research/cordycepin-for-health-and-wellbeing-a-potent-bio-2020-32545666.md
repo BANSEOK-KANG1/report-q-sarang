@@ -5,7 +5,7 @@ title_ko: '코디세핀 for Health and Wellbeing: A Potent Bioactive 대사산�
   Medicinal Fungus Cordyceps(cordyceps) with Its Nutraceutical and Therapeutic Potential'
 slug: cordycepin-for-health-and-wellbeing-a-potent-bio-2020-32545666
 record_id: 16d8f8bb-c7bd-4c82-b908-94b418a2b7b4
-date: '2026-09-14'
+date: '2026-09-21'
 year: 2020
 authors:
 - Syed Amir Ashraf
@@ -41,7 +41,7 @@ tags:
 - cordycepin
 - evidence
 - 제왕충초
-generated: '2026-09-14'
+generated: '2026-09-21'
 visuals:
 - type: figure
   src: /research-figures/cordycepin-for-health-and-wellbeing-a-potent-bio-2020-32545666/molecules-25-02735-g005.gif
@@ -103,7 +103,7 @@ api_meta:
   - name: Biology
     score: 0.356
     level: 0
-  cited_by_count: 224
+  cited_by_count: 226
   reference_count: 146
   publisher: MDPI AG
   journal: Molecules
@@ -113,7 +113,7 @@ api_meta:
     europepmc: true
     openalex: true
     crossref: true
-  fetched_at: '2026-09-14'
+  fetched_at: '2026-09-21'
 translations:
   title_ko: '코디세핀 for Health and Wellbeing: A Potent Bioactive 대사산물 of an Entomopathogenic
     Medicinal Fungus Cordyceps(cordyceps) with Its Nutraceutical and Therapeutic Potential'

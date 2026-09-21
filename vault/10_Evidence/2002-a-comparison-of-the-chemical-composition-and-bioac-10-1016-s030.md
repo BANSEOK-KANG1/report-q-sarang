@@ -13,15 +13,16 @@ journal: Food Chemistry
 doi: 10.1016/s0308-8146(02)00158-9
 pmid: ''
 url: https://doi.org/10.1016/s0308-8146(02)00158-9
-track: comparator_sinensis
-compound: unclear
+track: compound
+compound: cordycepin
 species: Cordyceps_sinensis
 study_type: unclear
 evidence_strength: F_review_only
-relevance_to_product: extrapolated
+relevance_to_product: partial
 claim_category: other
 risk_flags:
 - missing_abstract
+- species_mismatch
 maps_to_market: research_only
 citation_status: candidate
 priority_review: false
@@ -46,9 +47,9 @@ tags:
 - **Study type:** unclear
 - **Evidence strength:** F_review_only
 - **Species:** Cordyceps_sinensis
-- **Compound:** unclear
+- **Compound:** cordycepin
 - **Claim category:** other
-- **Risk flags:** missing_abstract
+- **Risk flags:** missing_abstract, species_mismatch
 - **Maps to market:** research_only
 - **Citation status:** candidate
 - **DOI:** 10.1016/s0308-8146(02)00158-9
@@ -59,7 +60,7 @@ tags:
 _No abstract_
 
 ## Relevance notes
-Comparator species / Cs-4 — do not equate to C. militaris cordycepin product
+Cordycepin-focused; verify species/form vs product
 
 ## Compliance
 - Product context: Q-Sarang 제왕충초 **liquor** (not HFF).

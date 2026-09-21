@@ -1,22 +1,22 @@
 ---
-record_id: cccedea1-bf41-495d-a13b-3cd50542d625
+record_id: fdb19182-8495-424b-bf9d-934414890f71
 title: 'Exploring Cordycepin as a Neuroprotective Agent in Huntington''s Disease:
   In Vitro and In Vivo Insights.'
 authors:
-- Chih-Wei Tung
-- Siew Chin Chan
-- Pei-Hsun Cheng
-- Yi-Ching Chen
-- Po-Ming Wu
-- Wei-Chen Lin
-- Rong-Jane Chen
-- Bu-Miin Huang
-- Shang-Hsun Yang
+- Tung CW
+- Chan SC
+- Cheng PH
+- Chen YC
+- Wu PM
+- Lin WC
+- Chen RJ
+- Huang BM
+- Yang SH.
 year: 2025
-journal: Pharmacology research & perspectives
-doi: 10.4103/ejpi.ejpi-d-24-00018
+journal: ''
+doi: 10.1002/prp2.70091
 pmid: '40202221'
-url: https://pubmed.ncbi.nlm.nih.gov/40202221/
+url: https://europepmc.org/article/MED/40202221
 track: comparator_sinensis
 compound: cordycepin
 species: Cordyceps_sinensis
@@ -36,8 +36,8 @@ jurisdiction_caveats:
 - disease_language_in_source
 - research_only
 source_apis:
-- pubmed
-full_text_available: false
+- europepmc
+full_text_available: true
 tags:
 - evidence
 - status/needs_legal_review
@@ -57,9 +57,9 @@ tags:
 - **Risk flags:** disease_language, preclinical_only
 - **Maps to market:** research_only
 - **Citation status:** needs_legal_review
-- **DOI:** 10.4103/ejpi.ejpi-d-24-00018
+- **DOI:** 10.1002/prp2.70091
 - **PMID:** 40202221
-- **URL:** https://pubmed.ncbi.nlm.nih.gov/40202221/
+- **URL:** https://europepmc.org/article/MED/40202221
 
 ## Abstract
 Huntington's disease (HD) is a challenging neurodegenerative disorder linked to Huntingtin (HTT) gene mutation, lacking an effective cure despite numerous therapeutic attempts. Cordyceps sinensis, recognized for its health benefits, particularly its constituent cordycepin, exhibits neuroprotective effects in various neurodegenerative diseases. However, the neuroprotective potential of cordycepin in HD remains insufficiently explored. In this study, in vitro experiments using HD cell models demonstrate that cordycepin treatment enhances cell survival, slightly diminishes mutant HTT aggregates, and improves neuronal formation. In vivo investigations on R6/2 HD transgenic mice reveal a modest increase in body weight and a slight amelioration in pathological aggregates following cordycepin administration, although behavioral changes are not significant. While the underlying mechanisms remain unexplored, the findings suggest cordycepin's promise as a supplementary therapeutic for HD, providing neuroprotective effects and reducing mutant protein aggregates.

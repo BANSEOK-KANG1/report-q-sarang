@@ -97,7 +97,7 @@
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-09-14"
+    "fetched_at": "2026-09-21"
   },
   "anti-inflammatory-effects-of-cordycepin-a-review-2020-33090621": {
     "slug": "anti-inflammatory-effects-of-cordycepin-a-review-2020-33090621",
@@ -152,7 +152,7 @@
         "level": 1
       }
     ],
-    "cited_by_count": 120,
+    "cited_by_count": 121,
     "reference_count": 114,
     "publisher": "Wiley",
     "journal": "Phytotherapy research : PTR",
@@ -163,7 +163,7 @@
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-09-14"
+    "fetched_at": "2026-09-21"
   },
   "cordycepin-for-health-and-wellbeing-a-potent-bio-2020-32545666": {
     "slug": "cordycepin-for-health-and-wellbeing-a-potent-bio-2020-32545666",
@@ -257,7 +257,7 @@
         "level": 0
       }
     ],
-    "cited_by_count": 224,
+    "cited_by_count": 226,
     "reference_count": 146,
     "publisher": "MDPI AG",
     "journal": "Molecules",
@@ -268,7 +268,7 @@
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-09-14"
+    "fetched_at": "2026-09-21"
   },
   "cordyceps-polysaccharides-a-review-of-their-immu-2024-39519748": {
     "slug": "cordyceps-polysaccharides-a-review-of-their-immu-2024-39519748",
@@ -362,7 +362,7 @@
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-09-14"
+    "fetched_at": "2026-09-21"
   },
   "a-systematic-review-of-the-biological-effects-of-2021-34641429": {
     "slug": "a-systematic-review-of-the-biological-effects-of-2021-34641429",
@@ -476,7 +476,7 @@
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-09-14"
+    "fetched_at": "2026-09-21"
   },
   "current-evidence-of-ergogenic-and-post-exercise--2026-41829950": {
     "slug": "current-evidence-of-ergogenic-and-post-exercise--2026-41829950",
@@ -591,7 +591,7 @@
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-09-14"
+    "fetched_at": "2026-09-21"
   },
   "correction-cordyceps-spp-a-review-on-its-immune--2026-42699468": {
     "slug": "correction-cordyceps-spp-a-review-on-its-immune--2026-42699468",
@@ -664,7 +664,7 @@
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-09-14"
+    "fetched_at": "2026-09-21"
   },
   "an-immunomodulatory-mushroom-cordyceps-militaris-2026-41432716": {
     "slug": "an-immunomodulatory-mushroom-cordyceps-militaris-2026-41432716",
@@ -743,7 +743,7 @@
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-09-14"
+    "fetched_at": "2026-09-21"
   },
   "immunomodulation-and-protective-effects-of-cordy-2024-39590481": {
     "slug": "immunomodulation-and-protective-effects-of-cordy-2024-39590481",
@@ -843,7 +843,91 @@
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-09-14"
+    "fetched_at": "2026-09-21"
+  },
+  "cordycepin-exhibits-a-suppressive-effect-on-t-ce-2020-32105161": {
+    "slug": "cordycepin-exhibits-a-suppressive-effect-on-t-ce-2020-32105161",
+    "record_id": "8d0503e1-5ab8-46cb-87f8-047f7e1245ff",
+    "doi": "10.1080/08923973.2020.1728310",
+    "pmid": "32105161",
+    "pmcid": "",
+    "figures": [],
+    "keywords": [
+      "T cells",
+      "Inflammation",
+      "CFA",
+      "cordycepin",
+      "Tcr Signaling"
+    ],
+    "mesh_terms": [
+      "Spleen",
+      "Thymus Gland",
+      "T-Lymphocytes",
+      "Animals",
+      "Mice, Inbred Strains",
+      "Disease Models, Animal",
+      "Inflammation",
+      "Receptors, Antigen, T-Cell",
+      "Deoxyadenosines",
+      "Anti-Inflammatory Agents",
+      "Freund's Adjuvant",
+      "Lymphocyte Activation",
+      "Signal Transduction"
+    ],
+    "concepts": [
+      {
+        "name": "Cordycepin",
+        "score": 0.913,
+        "level": 2
+      },
+      {
+        "name": "Jurkat cells",
+        "score": 0.864,
+        "level": 4
+      },
+      {
+        "name": "T cell",
+        "score": 0.593,
+        "level": 3
+      },
+      {
+        "name": "T-cell receptor",
+        "score": 0.588,
+        "level": 4
+      },
+      {
+        "name": "Cell biology",
+        "score": 0.537,
+        "level": 1
+      },
+      {
+        "name": "Inflammation",
+        "score": 0.535,
+        "level": 2
+      },
+      {
+        "name": "Signal transduction",
+        "score": 0.513,
+        "level": 2
+      },
+      {
+        "name": "CD8",
+        "score": 0.444,
+        "level": 3
+      }
+    ],
+    "cited_by_count": 16,
+    "reference_count": 35,
+    "publisher": "Informa UK Limited",
+    "journal": "Immunopharmacology and immunotoxicology",
+    "oa_status": "closed",
+    "oa_url": "https://pubmed.ncbi.nlm.nih.gov/32105161/",
+    "apis": {
+      "europepmc": true,
+      "openalex": true,
+      "crossref": true
+    },
+    "fetched_at": "2026-09-21"
   },
   "effect-of-cordyceps-militaris-hot-water-extract--2019-32055207": {
     "slug": "effect-of-cordyceps-militaris-hot-water-extract--2019-32055207",
@@ -941,7 +1025,7 @@
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-09-14"
+    "fetched_at": "2026-09-21"
   },
   "immunomodulatory-and-antioxidative-activity-of-c-2016-26853825": {
     "slug": "immunomodulatory-and-antioxidative-activity-of-c-2016-26853825",
@@ -1011,7 +1095,7 @@
         "level": 0
       }
     ],
-    "cited_by_count": 108,
+    "cited_by_count": 109,
     "reference_count": 24,
     "publisher": "Elsevier BV",
     "journal": "International journal of biological macromolecules",
@@ -1022,7 +1106,7 @@
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-09-14"
+    "fetched_at": "2026-09-21"
   },
   "cordycepin-exhibits-anti-fatigue-effect-via-acti-2022-36399798": {
     "slug": "cordycepin-exhibits-anti-fatigue-effect-via-acti-2022-36399798",
@@ -1091,7 +1175,7 @@
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-09-14"
+    "fetched_at": "2026-09-21"
   },
   "beneficial-effect-of-cordyceps-militaris-on-exer-2020-33312018": {
     "slug": "beneficial-effect-of-cordyceps-militaris-on-exer-2020-33312018",
@@ -1184,7 +1268,7 @@
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-09-14"
+    "fetched_at": "2026-09-21"
   },
   "current-evidence-and-practical-considerations-fo-2026-42588175": {
     "slug": "current-evidence-and-practical-considerations-fo-2026-42588175",
@@ -1285,7 +1369,7 @@
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-09-14"
+    "fetched_at": "2026-09-21"
   },
   "skeletal-muscle-mitochondrial-methylation-neurot-2026-42682565": {
     "slug": "skeletal-muscle-mitochondrial-methylation-neurot-2026-42682565",
@@ -1386,7 +1470,7 @@
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-09-14"
+    "fetched_at": "2026-09-21"
   },
   "structure-analysis-and-antioxidant-activity-of-p-2021-33639188": {
     "slug": "structure-analysis-and-antioxidant-activity-of-p-2021-33639188",
@@ -1461,7 +1545,7 @@
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-09-14"
+    "fetched_at": "2026-09-21"
   },
   "cordycepin-attenuated-cyclophosphamide-ctx-induc-2025-40695148": {
     "slug": "cordycepin-attenuated-cyclophosphamide-ctx-induc-2025-40695148",
@@ -1547,87 +1631,6 @@
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-09-14"
-  },
-  "cordycepin-alleviated-metabolic-inflammation-in--2022-35346845": {
-    "slug": "cordycepin-alleviated-metabolic-inflammation-in--2022-35346845",
-    "record_id": "14c20bcb-f6e5-4744-ba92-6cebf1f86dfe",
-    "doi": "10.1016/j.phrs.2022.106191",
-    "pmid": "35346845",
-    "pmcid": "",
-    "figures": [],
-    "keywords": [
-      "Obesity",
-      "Intestinal flora",
-      "cordycepin",
-      "Intestinal Barrier Function",
-      "Metabolic Inflammation"
-    ],
-    "mesh_terms": [
-      "Animals",
-      "Mice, Inbred C57BL",
-      "Mice",
-      "Obesity",
-      "Inflammation",
-      "Lipopolysaccharides",
-      "Deoxyadenosines",
-      "Diet, High-Fat",
-      "Diet, Western",
-      "Gastrointestinal Microbiome"
-    ],
-    "concepts": [
-      {
-        "name": "Inflammation",
-        "score": 0.706,
-        "level": 2
-      },
-      {
-        "name": "Cordycepin",
-        "score": 0.703,
-        "level": 2
-      },
-      {
-        "name": "Barrier function",
-        "score": 0.526,
-        "level": 2
-      },
-      {
-        "name": "Gut flora",
-        "score": 0.519,
-        "level": 2
-      },
-      {
-        "name": "Akkermansia muciniphila",
-        "score": 0.501,
-        "level": 3
-      },
-      {
-        "name": "Immunology",
-        "score": 0.484,
-        "level": 1
-      },
-      {
-        "name": "Oxidative stress",
-        "score": 0.44,
-        "level": 2
-      },
-      {
-        "name": "Biology",
-        "score": 0.403,
-        "level": 0
-      }
-    ],
-    "cited_by_count": 57,
-    "reference_count": 81,
-    "publisher": "Elsevier BV",
-    "journal": "Pharmacological research",
-    "oa_status": "closed",
-    "oa_url": "https://pubmed.ncbi.nlm.nih.gov/35346845/",
-    "apis": {
-      "europepmc": true,
-      "openalex": true,
-      "crossref": true
-    },
-    "fetched_at": "2026-09-14"
+    "fetched_at": "2026-09-21"
   }
 }

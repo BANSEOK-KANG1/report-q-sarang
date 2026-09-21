@@ -5,7 +5,7 @@ title_ko: Structure analysis and antioxidant activity of 다당류-iron (III) fr
   militaris(cordyceps militaris) mycelia.
 slug: structure-analysis-and-antioxidant-activity-of-p-2021-33639188
 record_id: 06619793-e399-4c11-bd7c-f385734a447d
-date: '2026-09-14'
+date: '2026-09-21'
 year: 2021
 authors:
 - Xiaoling Zhang
@@ -43,7 +43,7 @@ tags:
 - cordycepin
 - evidence
 - 제왕충초
-generated: '2026-09-14'
+generated: '2026-09-21'
 visuals: []
 api_meta:
   keywords:
@@ -92,7 +92,7 @@ api_meta:
     europepmc: true
     openalex: true
     crossref: true
-  fetched_at: '2026-09-14'
+  fetched_at: '2026-09-21'
 translations:
   title_ko: Structure analysis and antioxidant activity of 다당류-iron (III) from Cordyceps(cordyceps)
     militaris(cordyceps militaris) mycelia.

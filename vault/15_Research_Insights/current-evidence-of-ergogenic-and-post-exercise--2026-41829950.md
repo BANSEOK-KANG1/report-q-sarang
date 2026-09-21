@@ -6,7 +6,7 @@ title_ko: Current Evidence of Ergogenic and Post-Exercise Recovery Effects of Di
   Narrative Review.
 slug: current-evidence-of-ergogenic-and-post-exercise--2026-41829950
 record_id: a8693206-38b9-47be-9b3a-4ba9ac7826df
-date: '2026-09-14'
+date: '2026-09-21'
 year: 2026
 authors:
 - Jędrejko M
@@ -39,7 +39,7 @@ tags:
 - cordycepin
 - evidence
 - 제왕충초
-generated: '2026-09-14'
+generated: '2026-09-21'
 visuals:
 - type: figure
   src: /research-figures/current-evidence-of-ergogenic-and-post-exercise--2026-41829950/nutrients-18-00781-g002.gif
@@ -119,7 +119,7 @@ api_meta:
     europepmc: true
     openalex: true
     crossref: true
-  fetched_at: '2026-09-14'
+  fetched_at: '2026-09-21'
 translations:
   title_ko: Current Evidence of Ergogenic and Post-Exercise Recovery Effects of Dietary
     Supplementation with Cordyceps(cordyceps) militaris(cordyceps militaris) in Humans-A

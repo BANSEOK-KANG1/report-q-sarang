@@ -5,7 +5,7 @@ title_ko: 코디세핀 attenuated cyclophosphamide (CTX)-induced immunosuppressi
   via EGFR/Nrf2 antioxidant signaling pathway.
 slug: cordycepin-attenuated-cyclophosphamide-ctx-induc-2025-40695148
 record_id: b4110bf1-f89c-4ea5-b70f-b793e1b15004
-date: '2026-09-14'
+date: '2026-09-21'
 year: 2025
 authors:
 - Mengling Zhong
@@ -45,7 +45,7 @@ tags:
 - cordycepin
 - evidence
 - 제왕충초
-generated: '2026-09-14'
+generated: '2026-09-21'
 visuals: []
 api_meta:
   keywords:
@@ -105,7 +105,7 @@ api_meta:
     europepmc: true
     openalex: true
     crossref: true
-  fetched_at: '2026-09-14'
+  fetched_at: '2026-09-21'
 translations:
   title_ko: 코디세핀 attenuated cyclophosphamide (CTX)-induced immunosuppression in mice
     via EGFR/Nrf2 antioxidant signaling pathway.

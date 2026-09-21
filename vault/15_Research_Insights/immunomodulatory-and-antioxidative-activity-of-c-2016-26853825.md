@@ -5,7 +5,7 @@ title_ko: Immunomodulatory and antioxidative activity of Cordyceps(cordyceps) mi
   militaris) 다당류s in mice.
 slug: immunomodulatory-and-antioxidative-activity-of-c-2016-26853825
 record_id: fee2e92b-b357-428e-aefd-2529e8c2d0a3
-date: '2026-09-14'
+date: '2026-09-21'
 year: 2016
 authors:
 - Jing-yu Liu
@@ -40,7 +40,7 @@ tags:
 - cordycepin
 - evidence
 - 제왕충초
-generated: '2026-09-14'
+generated: '2026-09-21'
 visuals: []
 api_meta:
   keywords:
@@ -87,7 +87,7 @@ api_meta:
   - name: Biology
     score: 0.314
     level: 0
-  cited_by_count: 108
+  cited_by_count: 109
   reference_count: 24
   publisher: Elsevier BV
   journal: International journal of biological macromolecules
@@ -97,7 +97,7 @@ api_meta:
     europepmc: true
     openalex: true
     crossref: true
-  fetched_at: '2026-09-14'
+  fetched_at: '2026-09-21'
 translations:
   title_ko: Immunomodulatory and antioxidative activity of Cordyceps(cordyceps) militaris(cordyceps
     militaris) 다당류s in mice.
