@@ -2,16 +2,14 @@ import Link from "next/link";
 import { HeroSection } from "@/components/HeroSection";
 import { NetworkStrip } from "@/components/NetworkStrip";
 import { PostCard } from "@/components/PostCard";
-import { ResearchCard } from "@/components/ResearchCard";
 import { VisualGuide } from "@/components/VisualGuide";
-import { getAllInsights } from "@/lib/insights";
 import { getAllPosts } from "@/lib/posts";
+
+const qLoveEvidenceUrl = "https://olove-research.kangbs2486.chatgpt.site/evidence";
 
 export default function HomePage() {
   const posts = getAllPosts();
-  const insights = getAllInsights();
   const [featuredPost, ...restPosts] = posts;
-  const [featuredInsight, ...restInsights] = insights;
 
   return (
     <div>
@@ -19,23 +17,21 @@ export default function HomePage() {
       <VisualGuide />
 
       <section className="mx-auto max-w-6xl px-5 py-16 md:py-20 border-b border-line/70">
-        <div className="flex items-end justify-between mb-10">
+        <div className="grid gap-8 md:grid-cols-[1fr_auto] md:items-end">
           <div>
-            <p className="text-xs tracking-[0.16em] text-accent uppercase mb-2">Research</p>
-            <h2 className="font-display text-3xl md:text-4xl text-gold">연구 인사이트</h2>
-            <p className="mt-2 text-sm text-ink-soft max-w-xl">
-              면역·피로·운동·항산화 등 생리활성 주제 논문을 쉽게 풀어 씀 — 제품 효능 주장 아님
+            <p className="text-xs tracking-[0.16em] text-accent uppercase mb-2">Q-LOVE Evidence Archive</p>
+            <h2 className="font-display text-3xl md:text-4xl text-gold">연구 자료는 새 근거 아카이브에서 확인하세요</h2>
+            <p className="mt-3 text-sm text-ink-soft max-w-2xl leading-7">
+              사람 연구, 동물·세포 연구, 리뷰를 먼저 구분하고 원물·추출물·성분의 차이와
+              각 논문의 한계를 함께 정리합니다. 연구 결과는 특정 판매 제품의 효능을 뜻하지 않습니다.
             </p>
           </div>
-          <Link href="/research" className="text-sm text-ink-soft hover:text-gold shrink-0">
-            전체 보기 →
-          </Link>
-        </div>
-        <div className="space-y-10">
-          {featuredInsight ? <ResearchCard insight={featuredInsight} featured /> : null}
-          {restInsights.slice(0, 3).map((item) => (
-            <ResearchCard key={item.slug} insight={item} />
-          ))}
+          <a
+            href={qLoveEvidenceUrl}
+            className="inline-flex items-center justify-center rounded-full border border-gold px-5 py-3 text-sm text-gold hover:bg-gold hover:text-paper transition-colors"
+          >
+            Q-LOVE 근거 수준 보기 →
+          </a>
         </div>
       </section>
 

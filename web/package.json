@@ -5,13 +5,13 @@
   "scripts": {
     "dev": "next dev --port 3322",
     "prebuild": "node scripts/sync-blog-content.mjs",
-    "build": "next build",
+    "build": "next build --webpack",
     "start": "next start",
     "lint": "eslint"
   },
   "dependencies": {
     "gray-matter": "^4.0.3",
-    "next": "16.2.10",
+    "next": "16.3.6",
     "react": "19.2.4",
     "react-dom": "19.2.4",
     "react-markdown": "^10.1.0",
@@ -23,7 +23,7 @@
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "eslint": "^9",
-    "eslint-config-next": "16.2.10",
+    "eslint-config-next": "16.3.6",
     "tailwindcss": "^4",
     "typescript": "^5",
     "vercel": "^56.4.1"
