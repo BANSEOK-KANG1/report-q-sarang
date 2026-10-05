@@ -1,18 +1,18 @@
 ---
-record_id: 5d0e048d-d08d-4b08-aa0a-895215c9138c
+record_id: 4313aed0-82b4-4970-9699-559e54b2b6fa
 title: 'Ethnomedicine in Himalaya: a case study from Dolpa, Humla, Jumla and Mustang
-  districts of Nepal'
+  districts of Nepal.'
 authors:
 - Ripu M Kunwar
-- Bal Nepal
+- Bal K Nepal
 - Hari B Kshhetri
 - Sanjeev K Rai
-- Rainer W. Bussmann
+- Rainer W Bussmann
 year: 2006
-journal: Journal of Ethnobiology and Ethnomedicine
-doi: 10.1186/1746-4269-2-27
+journal: Journal of ethnobiology and ethnomedicine
+doi: 10.1038/372410a0
 pmid: '16749924'
-url: https://doi.org/10.1186/1746-4269-2-27
+url: https://pubmed.ncbi.nlm.nih.gov/16749924/
 track: comparator_sinensis
 compound: cordyceps_extract
 species: Cordyceps_sinensis
@@ -29,7 +29,7 @@ jurisdiction_caveats:
 - not_HFF_product
 - research_only
 source_apis:
-- openalex
+- pubmed
 full_text_available: false
 tags:
 - evidence
@@ -38,7 +38,7 @@ tags:
 - market/research_only
 ---
 
-# Ethnomedicine in Himalaya: a case study from Dolpa, Humla, Jumla and Mustang districts of Nepal
+# Ethnomedicine in Himalaya: a case study from Dolpa, Humla, Jumla and Mustang districts of Nepal.
 
 ## Summary fields
 - **Year:** 2006
@@ -50,9 +50,9 @@ tags:
 - **Risk flags:** none
 - **Maps to market:** research_only
 - **Citation status:** candidate
-- **DOI:** 10.1186/1746-4269-2-27
+- **DOI:** 10.1038/372410a0
 - **PMID:** 16749924
-- **URL:** https://doi.org/10.1186/1746-4269-2-27
+- **URL:** https://pubmed.ncbi.nlm.nih.gov/16749924/
 
 ## Abstract
 Traditional plant use in Nepal has been documented for millennia. The importance of plants as medicine has not diminished in any way in recent times, and traditional medicines are still the most important health care source for the vast majority of the population. This paper examines the ethnobotany and traditional use of plants extracted from the vulnerable alpine zone in the Dolpa, Humla, Jumla and Mustang districts of Nepal. The results of this ethnobotanical study indicate that a very large number of plant species is used as traditional medicines. There were 107, 59, 44 and 166 species of ethnomedicinal importance in surveyed areas of Dolpa, Humla, Jumla and Mustang district respectively. Of these, 84 common species, used at least in two districts, were selected to enumerate their ethnomedicinal properties. The 84 species belonged to 75 genera and 39 families. The commonest species in this pharmacopoeia were: Allium wallichii, Cordyceps sinensis, Dactylorhiza hatagirea, and Rheum australe. A total of 21 species were most common in three districts and 59 in two districts. The genera Aconitum, Allium, Arisaema, Berberis, Corydalis, Gentiana, Hippophae, Juniperus and Rhododendron each possessed two species with ethnomedicinal use. Labiatae was the most medicinally important family with five species used, followed by Araceae, Compositae, Liliaceae, Polygonaceae, Ranunculaceae, Scrophulariaceae and Umbelliferae, each contributing four species.

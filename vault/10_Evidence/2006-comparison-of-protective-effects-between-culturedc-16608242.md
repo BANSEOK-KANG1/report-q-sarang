@@ -3,7 +3,7 @@ record_id: 7023a2be-1cb7-45e1-a618-45917d47e4b9
 title: Comparison of Protective Effects between CulturedCordyceps militarisand NaturalCordyceps
   sinensisagainst Oxidative Damage
 authors:
-- Hui Yu
+- Hui Mei Yu
 - Bor-Sen Wang
 - Shiow Chyn Huang
 - Pin‐Der Duh

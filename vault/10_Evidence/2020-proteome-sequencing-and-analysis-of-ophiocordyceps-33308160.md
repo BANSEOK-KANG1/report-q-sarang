@@ -1,7 +1,7 @@
 ---
-record_id: c208e4b7-db07-48b1-9cf5-cae8e573b0be
+record_id: 814f3d4e-e9b2-4e96-b281-0c4c55cf70a5
 title: Proteome sequencing and analysis of Ophiocordyceps sinensis at different culture
-  periods.
+  periods
 authors:
 - Bo Zhang
 - Bo Li
@@ -12,14 +12,14 @@ authors:
 - Feng Xu
 - Yi Teng
 - Shui-Jin Yuan
-- Li-Qun Jin
-- Zhi-Qiang Liu
-- Yu-Guo Zheng
+- Liqun Jin
+- Zhi‐Qiang Liu
+- Yu‐Guo Zheng
 year: 2020
-journal: BMC genomics
-doi: 10.1093/nar/gky869
+journal: BMC Genomics
+doi: 10.1186/s12864-020-07298-z
 pmid: '33308160'
-url: https://pubmed.ncbi.nlm.nih.gov/33308160/
+url: https://doi.org/10.1186/s12864-020-07298-z
 track: comparator_sinensis
 compound: cordycepin
 species: Cordyceps_sinensis
@@ -37,7 +37,7 @@ jurisdiction_caveats:
 - not_HFF_product
 - research_only
 source_apis:
-- pubmed
+- openalex
 full_text_available: false
 tags:
 - evidence
@@ -46,7 +46,7 @@ tags:
 - market/research_only
 ---
 
-# Proteome sequencing and analysis of Ophiocordyceps sinensis at different culture periods.
+# Proteome sequencing and analysis of Ophiocordyceps sinensis at different culture periods
 
 ## Summary fields
 - **Year:** 2020
@@ -58,14 +58,12 @@ tags:
 - **Risk flags:** preclinical_only
 - **Maps to market:** research_only
 - **Citation status:** candidate
-- **DOI:** 10.1093/nar/gky869
+- **DOI:** 10.1186/s12864-020-07298-z
 - **PMID:** 33308160
-- **URL:** https://pubmed.ncbi.nlm.nih.gov/33308160/
+- **URL:** https://doi.org/10.1186/s12864-020-07298-z
 
 ## Abstract
-BACKGROUND: Ophiocordyceps sinensis is an important traditional Chinese medicine for its comprehensive active ingredients, such as cordycepin, cordycepic acid, and Cordyceps polysaccharide. O. sinensis zjut, a special strain isolated from O. sinensis, has similar pharmacological functions to wild O. sinensis. Currently, O. sinensis with artificial cultivation has been widely studied, but systematic fundamental research at protein levels has not been determined.
-RESULTS: Proteomes of O. sinensis zjut at different culture periods (growth period, 3rd day; pre-stable period, 6th day; and stable period, 9th day) were relatively quantified by relative isotope markers and absolute quantitative technology. In total, 4005 proteins were obtained and further annotated with Gene Ontology, Kyoto Encyclopedia of Genes and Genomes database. Based on the result of the annotations, metabolic pathways of active ingredients, amino acids and fatty acid were constructed, and the related enzymes were exhibited. Subsequently, comparative proteomics of O. sinensis zjut identified the differentially expressed proteins (DEPs) by growth in different culture periods, to find the important proteins involved in metabolic pathways of active ingredients. 605 DEPs between 6d-VS-3d, 1188 DEPs between 9d-VS-3d, and 428 DEPs between 9d-VS-6d were obtained, respectively.
-CONCLUSION: This work provided scientific basis to study protein profile and comparison of protein expression levels of O. sinensis zjut, and it will be helpful for metabolic engineering works to active ingredients for exploration, application and improvement of this fungus.
+BACKGROUND: Ophiocordyceps sinensis is an important traditional Chinese medicine for its comprehensive active ingredients, such as cordycepin, cordycepic acid, and Cordyceps polysaccharide. O. sinensis zjut, a special strain isolated from O. sinensis, has similar pharmacological functions to wild O. sinensis. Currently, O. sinensis with artificial cultivation has been widely studied, but systematic fundamental research at protein levels has not been determined. RESULTS: Proteomes of O. sinensis zjut at different culture periods (growth period, 3rd day; pre-stable period, 6th day; and stable period, 9th day) were relatively quantified by relative isotope markers and absolute quantitative technology. In total, 4005 proteins were obtained and further annotated with Gene Ontology, Kyoto Encyclopedia of Genes and Genomes database. Based on the result of the annotations, metabolic pathways of active ingredients, amino acids and fatty acid were constructed, and the related enzymes were exhibited. Subsequently, comparative proteomics of O. sinensis zjut identified the differentially expressed proteins (DEPs) by growth in different culture periods, to find the important proteins involved in metabolic pathways of active ingredients. 605 DEPs between 6d-VS-3d, 1188 DEPs between 9d-VS-3d, and 428 DEPs between 9d-VS-6d were obtained, respectively. CONCLUSION: This work provided scientific basis to study protein profile and comparison of protein expression levels of O. sinensis zjut, and it will be helpful for metabolic engineering works to active ingredients for exploration, application and improvement of this fungus.
 
 ## Relevance notes
 Comparator species / Cs-4 — do not equate to C. militaris cordycepin product

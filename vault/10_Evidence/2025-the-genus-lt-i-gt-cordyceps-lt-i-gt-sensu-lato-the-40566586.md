@@ -10,12 +10,12 @@ journal: ''
 doi: 10.3390/life15060935
 pmid: '40566586'
 url: https://europepmc.org/article/MED/40566586
-track: compound
+track: comparator_sinensis
 compound: cordycepin
 species: unclear
 study_type: animal
 evidence_strength: C_animal
-relevance_to_product: partial
+relevance_to_product: extrapolated
 claim_category: respiratory
 risk_flags:
 - disease_language
@@ -58,7 +58,7 @@ tags:
 Air pollutants are significant environmental factors that contribute to the exacerbation of respiratory, cardiopulmonary, and skin diseases in East Asia, and their impact is based on particle size. Natural products represent a promising and sustainable strategy for reducing the adverse effects of air pollutants on health. <i>Cordyceps</i> spp. have been integral to traditional Chinese medicine. Recently, their fruiting bodies and related supplements have gained popularity. The physiological effects of <i>Cordyceps</i> species are well documented and attributed to their chemical constituents, such as cordycepin, polysaccharides, cordymin, glycoprotein, ergosterol, and other bioactive extracts. <i>Cordyceps</i> supplementation may support lung health and enhance respiratory function. Although further clinical data are necessary, many preclinical studies have found a connection between <i>Cordyceps</i> and improved lung health. In addition, preclinical and clinical studies have indicated that <i>Cordyceps</i> and its derivatives (e.g., Ningxinbao, Corbrin, and Jinshuibao capsules) protect against vascular diseases by modulating key molecular pathways. This review provides insights into the potential of <i>Cordyceps</i> for clinical application in the management of air pollutant-related respiratory and vascular diseases.
 
 ## Relevance notes
-Cordycepin-focused; verify species/form vs product
+Comparator species / Cs-4 — do not equate to C. militaris cordycepin product
 
 ## Compliance
 - Product context: Q-Sarang 제왕충초 **liquor** (not HFF).

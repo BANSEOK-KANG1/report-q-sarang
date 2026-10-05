@@ -3,8 +3,8 @@ record_id: 4e78e749-6762-4f1b-a0ee-df280109a7c9
 title: Anti-tumor and anti-metastatic roles of cordycepin, one bioactive compound
   of Cordyceps militaris
 authors:
-- Ye Jin
-- Xue Meng
+- Ye Hwa Jin
+- Xue Wei Meng
 - Zhidong Qiu
 - Yanping Su
 - Peng Yu

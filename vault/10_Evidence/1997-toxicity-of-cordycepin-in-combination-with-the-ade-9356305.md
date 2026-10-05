@@ -6,7 +6,7 @@ authors:
 - Larry E. Rodman
 - Daniel R. Farnell
 - John M. Coyne
-- Paula W. Allan
+- Paula Wedeles Allan
 - Donald L. Hill
 - Kimberly L.K. Duncan
 - Joseph E. Tomaszewski

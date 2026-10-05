@@ -5,7 +5,7 @@ title_ko: 코디세핀 exhibits anti-fatigue effect via activating TIGAR/SIRT1/P
   pathway.
 slug: cordycepin-exhibits-anti-fatigue-effect-via-acti-2022-36399798
 record_id: f282ee55-5ce7-4e68-bf47-7bc166b660f9
-date: '2026-09-21'
+date: '2026-10-05'
 year: 2022
 authors:
 - Xiaoming Chai
@@ -41,7 +41,7 @@ tags:
 - cordycepin
 - evidence
 - 제왕충초
-generated: '2026-09-21'
+generated: '2026-10-05'
 visuals: []
 api_meta:
   keywords:
@@ -78,7 +78,7 @@ api_meta:
   - name: Pharmacology
     score: 0.366
     level: 1
-  cited_by_count: 21
+  cited_by_count: 25
   reference_count: 64
   publisher: Elsevier BV
   journal: Biochemical and biophysical research communications
@@ -88,7 +88,7 @@ api_meta:
     europepmc: true
     openalex: true
     crossref: true
-  fetched_at: '2026-09-21'
+  fetched_at: '2026-10-05'
 translations:
   title_ko: 코디세핀 exhibits anti-fatigue effect via activating TIGAR/SIRT1/PGC-1α signaling
     pathway.

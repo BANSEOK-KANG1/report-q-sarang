@@ -4,11 +4,11 @@ title: Cordycepin analogs of 2',5'-oligoadenylate inhibit human immunodeficiency
   infection via inhibition of reverse transcriptase
 authors:
 - Wernér E.G. Müller
-- B. E. Weiler
+- Barbara E. Weiler
 - Ramamurthy Charubala
 - Wolfgang Pfleiderer
 - Lee Leserman
-- Robert W. Sobol
+- Robert William Sobol
 - Robert J. Suhadolnik
 - Heinz C. Schroeder
 year: 1991

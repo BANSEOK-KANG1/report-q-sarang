@@ -5,7 +5,7 @@ title_ko: 'Correction: Cordyceps(cordyceps) spp.: a review on its immune-stimula
   and other biological potentials.'
 slug: correction-cordyceps-spp-a-review-on-its-immune--2026-42699468
 record_id: 20b4472b-24aa-459a-a24c-c72bd212bf96
-date: '2026-09-21'
+date: '2026-10-05'
 year: 2026
 authors:
 - Das G
@@ -48,7 +48,7 @@ tags:
 - cordycepin
 - evidence
 - 제왕충초
-generated: '2026-09-21'
+generated: '2026-10-05'
 visuals: []
 api_meta:
   keywords:
@@ -96,7 +96,7 @@ api_meta:
     europepmc: true
     openalex: true
     crossref: true
-  fetched_at: '2026-09-21'
+  fetched_at: '2026-10-05'
 translations:
   title_ko: 'Correction: Cordyceps(cordyceps) spp.: a review on its immune-stimulatory
     and other biological potentials.'

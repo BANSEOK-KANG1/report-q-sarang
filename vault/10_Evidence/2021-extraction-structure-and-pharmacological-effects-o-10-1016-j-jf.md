@@ -7,7 +7,7 @@ authors:
 - Fan Xie
 - Jing Tan
 - Yan Yuan
-- Mei Hu
+- Mei Ying Hu
 - Yan Zheng
 - Rong Sheng
 year: 2021

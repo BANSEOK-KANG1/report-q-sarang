@@ -11,7 +11,7 @@ journal: Applied biochemistry and biotechnology
 doi: 10.1007/s12010-017-2400-0
 pmid: '28074332'
 url: https://pubmed.ncbi.nlm.nih.gov/28074332/
-track: militaris
+track: compound
 compound: cordycepin
 species: Cordyceps_militaris
 study_type: unclear

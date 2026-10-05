@@ -5,7 +5,7 @@ title: Transcriptome analysis of Paecilomyces hepiali at different growth stages
 authors:
 - Fang Pang
 - Linping Wang
-- Jin Yu
+- Jin Hui Yu
 - Lanping Guo
 - Lipu Song
 - Guiming Liu

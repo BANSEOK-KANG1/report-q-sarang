@@ -7,7 +7,7 @@ authors:
 - Hye Jin Hwang
 - Chunping Xu
 - Jae‐Mo Sung
-- Ji‐Won Choi
+- J.-W. Choi
 - Jong Won Yun
 year: 2025
 journal: Foods (Basel, Switzerland)

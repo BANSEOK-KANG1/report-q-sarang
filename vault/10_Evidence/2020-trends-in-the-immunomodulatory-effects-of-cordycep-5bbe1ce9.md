@@ -38,6 +38,7 @@ jurisdiction_caveats:
 - not_HFF_product
 - research_only
 source_apis:
+- openalex
 - pubmed
 full_text_available: false
 tags:

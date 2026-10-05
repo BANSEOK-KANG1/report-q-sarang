@@ -3,16 +3,16 @@ record_id: cce7bf4a-abd1-428a-849e-501b107fc056
 title: Study on the potential mechanism of Cordyceps militaris in chronic obstructive
   pulmonary disease via integrating metabolomics and network pharmacology.
 authors:
-- Wang P
-- Zong Y
-- Huang X
-- Zhang W
-- Di L.
+- Ping Wang
+- Yuqi Zong
+- Xiao Huang
+- Wen Zhang
+- Liuqing Di
 year: 2026
-journal: ''
+journal: The Journal of pharmacy and pharmacology
 doi: 10.1093/jpp/rgaf114
 pmid: '41237424'
-url: https://europepmc.org/article/MED/41237424
+url: https://pubmed.ncbi.nlm.nih.gov/41237424/
 track: militaris
 compound: cordycepin
 species: Cordyceps_militaris
@@ -33,6 +33,7 @@ jurisdiction_caveats:
 - research_only
 source_apis:
 - europepmc
+- pubmed
 full_text_available: false
 tags:
 - evidence
@@ -55,7 +56,7 @@ tags:
 - **Citation status:** needs_legal_review
 - **DOI:** 10.1093/jpp/rgaf114
 - **PMID:** 41237424
-- **URL:** https://europepmc.org/article/MED/41237424
+- **URL:** https://pubmed.ncbi.nlm.nih.gov/41237424/
 
 ## Abstract
 <h4>Objective</h4>This research aimed to evaluate the beneficial impact of Cordyceps militaris (CM) on chronic obstructive pulmonary disease (COPD) and methodically clarify its underlying processes.<h4>Methods</h4>The fingerprint analysis and content determination of CM were carried out by HPLC. The effect of CM on COPD was evaluated by a COPD mouse model. Potential targets were further explored by combining metabolomics with network pharmacology. The binding capacity between the active ingredients of CM and potential targets was assessed by molecular docking.<h4>Key findings</h4>A total of five nucleosides in CM were identified, including uridine, guanosine, adenosine, cordycepin, and N6-(2-hydroxyethyl) adenosine. CM significantly improved lung function and ameliorated the pathological changes in COPD. Subsequently, eight shared differentially expressed metabolites were significantly altered following CM intervention via non-targeted metabolomics analysis, with the linoleic acid metabolic pathway enriched. Next, two potential targets involving IDH1 and CYP19A1 were identified by the metabolite-reaction-enzyme-gene network. Finally, molecular docking results further corroborated strong binding affinities between the six active ingredients and the two potential targets.<h4>Conclusions</h4>This study suggested that CM could ameliorate COPD by modulating linoleic acid metabolism and influencing IDH1 and CYP19A1, which would provide a scientific basis for the treatment of COPD with CM.

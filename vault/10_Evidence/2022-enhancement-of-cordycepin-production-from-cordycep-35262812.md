@@ -12,7 +12,7 @@ journal: Biotechnology letters
 doi: 10.1038/srep19926
 pmid: '35262812'
 url: https://pubmed.ncbi.nlm.nih.gov/35262812/
-track: compound
+track: militaris
 compound: cordycepin
 species: Cordyceps_militaris
 study_type: animal

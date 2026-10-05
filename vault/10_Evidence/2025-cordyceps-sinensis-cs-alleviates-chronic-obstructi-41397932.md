@@ -1,17 +1,17 @@
 ---
-record_id: 7943cbcb-6d95-47f8-b984-ecab10878eb9
+record_id: b58873f8-6fdb-4a38-8510-bfb65b96c526
 title: Cordyceps sinensis (CS) Alleviates Chronic Obstructive Pulmonary Disease Symptoms
   (COPD) by Targeting Inflammation, Apoptosis, and Oxidative Stress Through Ingredient-Gene-Disease
   Interaction.
 authors:
-- Zirui Zang
-- Yuhan Kong
-- Qi Kong
+- Zang Z
+- Kong Y
+- Kong Q.
 year: 2025
-journal: Immunity, inflammation and disease
-doi: 10.27043/d.cnki.ggzyc.2020.000346
+journal: ''
+doi: 10.1002/iid3.70306
 pmid: '41397932'
-url: https://pubmed.ncbi.nlm.nih.gov/41397932/
+url: https://europepmc.org/article/MED/41397932
 track: comparator_sinensis
 compound: cordycepin
 species: Cordyceps_sinensis
@@ -31,8 +31,8 @@ jurisdiction_caveats:
 - disease_language_in_source
 - research_only
 source_apis:
-- pubmed
-full_text_available: false
+- europepmc
+full_text_available: true
 tags:
 - evidence
 - status/needs_legal_review
@@ -52,15 +52,12 @@ tags:
 - **Risk flags:** disease_language, preclinical_only
 - **Maps to market:** research_only
 - **Citation status:** needs_legal_review
-- **DOI:** 10.27043/d.cnki.ggzyc.2020.000346
+- **DOI:** 10.1002/iid3.70306
 - **PMID:** 41397932
-- **URL:** https://pubmed.ncbi.nlm.nih.gov/41397932/
+- **URL:** https://europepmc.org/article/MED/41397932
 
 ## Abstract
-OBJECTIVE: Cordyceps sinensis (CS) is a fungus that parasitizes the larvae and corpses of Batmadaceae insects. CS is used as a traditional Chinese medicine and has shown promising clinical efficacy in the treatment of chronic obstructive pulmonary disease (COPD). This study aimed to identify potential targets of CS in the treatment of COPD and to analyse the related biological processes and signalling pathways.
-METHODS: Through the use of network pharmacological tools, Gene Ontology (GO), and Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway analyses, as well as corroborating data from Gene Expression Omnibus (GEO) and the literature, potential targets for CS treatment of COPD were identified and analysed.
-RESULTS: These results suggest that CS alleviates COPD symptoms with key biomarkers such as interleukins (ILs), tumour necrosis factor (TNF), and reactive oxygen species (ROS). The primary active constituents of CS comprise Cordycepin, D-mannitol, Ergosterol, Cordyceps polysaccharides, and others. During the pathogenesis of COPD, CS exerts modulates effects on various proteins and signalling pathways, influencing gene expression patterns such as poly ADP-ribose polymerase 1 (PARP1), phosphodiesterase 4A (PDE4A), phosphodiesterase 4B (PDE4B), phosphodiesterase 4C (PDE4C), phosphodiesterase 4D (PDE4D), prostaglandin D2 receptor 2 (PTGDR2), heme oxygenase 1 (HMOX1), and matrix metallopeptidase 1 (MMP1).
-CONCLUSION: CS alleviates COPD symptoms by suppressing inflammation, apoptosis, and oxidative stress, suggesting novel therapeutic strategies.
+<h4>Objective</h4>Cordyceps sinensis (CS) is a fungus that parasitizes the larvae and corpses of Batmadaceae insects. CS is used as a traditional Chinese medicine and has shown promising clinical efficacy in the treatment of chronic obstructive pulmonary disease (COPD). This study aimed to identify potential targets of CS in the treatment of COPD and to analyse the related biological processes and signalling pathways.<h4>Methods</h4>Through the use of network pharmacological tools, Gene Ontology (GO), and Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway analyses, as well as corroborating data from Gene Expression Omnibus (GEO) and the literature, potential targets for CS treatment of COPD were identified and analysed.<h4>Results</h4>These results suggest that CS alleviates COPD symptoms with key biomarkers such as interleukins (ILs), tumour necrosis factor (TNF), and reactive oxygen species (ROS). The primary active constituents of CS comprise Cordycepin, D-mannitol, Ergosterol, Cordyceps polysaccharides, and others. During the pathogenesis of COPD, CS exerts modulates effects on various proteins and signalling pathways, influencing gene expression patterns such as poly ADP-ribose polymerase 1 (PARP1), phosphodiesterase 4A (PDE4A), phosphodiesterase 4B (PDE4B), phosphodiesterase 4C (PDE4C), phosphodiesterase 4D (PDE4D), prostaglandin D2 receptor 2 (PTGDR2), heme oxygenase 1 (HMOX1), and matrix metallopeptidase 1 (MMP1).<h4>Conclusion</h4>CS alleviates COPD symptoms by suppressing inflammation, apoptosis, and oxidative stress, suggesting novel therapeutic strategies.
 
 ## Relevance notes
 Comparator species / Cs-4 — do not equate to C. militaris cordycepin product

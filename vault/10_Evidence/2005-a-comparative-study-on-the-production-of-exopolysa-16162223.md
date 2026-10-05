@@ -10,16 +10,15 @@ journal: Journal of Applied Microbiology
 doi: 10.1111/j.1365-2672.2005.02682.x
 pmid: '16162223'
 url: https://doi.org/10.1111/j.1365-2672.2005.02682.x
-track: militaris
+track: comparator_sinensis
 compound: cordycepin
-species: mixed
+species: Cordyceps_sinensis
 study_type: animal
 evidence_strength: C_animal
-relevance_to_product: direct
+relevance_to_product: extrapolated
 claim_category: antioxidant
 risk_flags:
 - preclinical_only
-- species_mismatch
 maps_to_market: research_only
 citation_status: candidate
 priority_review: false
@@ -43,10 +42,10 @@ tags:
 - **Year:** 2005
 - **Study type:** animal
 - **Evidence strength:** C_animal
-- **Species:** mixed
+- **Species:** Cordyceps_sinensis
 - **Compound:** cordycepin
 - **Claim category:** antioxidant
-- **Risk flags:** preclinical_only, species_mismatch
+- **Risk flags:** preclinical_only
 - **Maps to market:** research_only
 - **Citation status:** candidate
 - **DOI:** 10.1111/j.1365-2672.2005.02682.x
@@ -57,7 +56,7 @@ tags:
 AIMS: The present study comparatively investigates the optimal culture conditions for the production of exopolysaccharides (EPS) and cordycepin during submerged mycelial culture of two entomopathogenic fungi Cordyceps militaris and Cordyceps sinensis. METHODS AND RESULTS: Fermentations were performed in flasks and in 5-l stirred-tank fermenters. In the case of C. militaris, the highest mycelial biomass (22.9 g l(-1)) and EPS production (5 g l(-1)) were achieved in a medium of 40 g l(-1) sucrose, 5 g l(-1) corn steep powder at 30 degrees C, and an initial pH 8.0. The optimum culture conditions for C. sinensis was shown to be (in g l(-1)) 20 sucrose, 25 corn steep powder, 0.78 CaCl2, 1.73 MgSO4.7H2O at 20 degrees C, and an initial pH 4.0, where the maximum mycelial biomass and EPS were 20.9 and 4.1 g l(-1) respectively. Cordycepin, another bioactive metabolite, was excreted at low levels during the early fermentation period (maximum 38.8 mg l(-1) in C. militaris; 18.2 mg l(-1) in C. sinensis). CONCLUSIONS: The two fungi showed different nutritional and environmental requirements in their submerged cultures. Overall, the concentrations of mycelial biomass, EPS and cordycepin achieved in submerged culture of C. militaris were higher than those of C. sinensis. SIGNIFICANCE AND IMPACT OF THE STUDY: C. militaris and C. sinensis are representative insect-born fungi which have been longstanding and widely used as traditional medicines in eastern Asia. Comparative studies between two fungi are currently not available and this is the first report on the optimum medium composition for submerged culture of C. sinensis.
 
 ## Relevance notes
-_n/a_
+Comparator species / Cs-4 — do not equate to C. militaris cordycepin product
 
 ## Compliance
 - Product context: Q-Sarang 제왕충초 **liquor** (not HFF).

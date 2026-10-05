@@ -3,7 +3,7 @@ record_id: 81e0d210-65f8-4336-a842-1d50e573dc15
 title: Determination of adenosine, cordycepin and ergosterol contents in cultivated
   Antrodia camphorata by HPLC method
 authors:
-- Ching‐Yi Chang
+- C.-Y. Chang
 - M.-Y. Lue
 - Tzu‐Ming Pan
 year: 2020

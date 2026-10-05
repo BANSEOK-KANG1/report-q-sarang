@@ -5,7 +5,7 @@ title_ko: Beneficial Effect of Cordyceps(cordyceps) militaris(cordyceps militari
   on Exercise Performance via Promoting Cellular Energy Production.
 slug: beneficial-effect-of-cordyceps-militaris-on-exer-2020-33312018
 record_id: 907f6292-4ff0-4de8-9a1a-e1ce6b7d5dd3
-date: '2026-09-21'
+date: '2026-10-05'
 year: 2020
 authors:
 - Eunhyun Choi
@@ -37,7 +37,7 @@ tags:
 - cordycepin
 - evidence
 - 제왕충초
-generated: '2026-09-21'
+generated: '2026-10-05'
 visuals:
 - type: figure
   src: /research-figures/beneficial-effect-of-cordyceps-militaris-on-exer-2020-33312018/TMYB_A_1831135_F0001_B.gif
@@ -98,7 +98,7 @@ api_meta:
     europepmc: true
     openalex: true
     crossref: true
-  fetched_at: '2026-09-21'
+  fetched_at: '2026-10-05'
 translations:
   title_ko: Beneficial Effect of Cordyceps(cordyceps) militaris(cordyceps militaris)
     on Exercise Performance via Promoting Cellular Energy Production.

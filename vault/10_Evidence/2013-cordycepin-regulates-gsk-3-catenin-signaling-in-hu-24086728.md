@@ -14,16 +14,17 @@ journal: PloS one
 doi: 10.1371/journal.pone.0076320
 pmid: '24086728'
 url: https://pubmed.ncbi.nlm.nih.gov/24086728/
-track: comparator_sinensis
+track: compound
 compound: cordycepin
 species: Cordyceps_sinensis
 study_type: animal
 evidence_strength: C_animal
-relevance_to_product: extrapolated
+relevance_to_product: partial
 claim_category: metabolic
 risk_flags:
 - disease_language
 - preclinical_only
+- species_mismatch
 maps_to_market: research_only
 citation_status: needs_legal_review
 priority_review: false
@@ -51,7 +52,7 @@ tags:
 - **Species:** Cordyceps_sinensis
 - **Compound:** cordycepin
 - **Claim category:** metabolic
-- **Risk flags:** disease_language, preclinical_only
+- **Risk flags:** disease_language, preclinical_only, species_mismatch
 - **Maps to market:** research_only
 - **Citation status:** needs_legal_review
 - **DOI:** 10.1371/journal.pone.0076320
@@ -64,7 +65,7 @@ METHODOLOGY AND PRINCIPAL FINDINGS: In this study, we found that cordycepin sign
 SIGNIFICANCE: Our findings show for the first time that codycepin selectively reduces β-catenin stability in leukemia but not in other solid tumor cells. This suppressive effect is mediated by regulating GSK-3β. A synergistic combination of cordycepin with other treatments should be used as a novel strategy to eradicate leukemia via elimination of LSCs.
 
 ## Relevance notes
-Comparator species / Cs-4 — do not equate to C. militaris cordycepin product
+Cordycepin-focused; verify species/form vs product
 
 ## Compliance
 - Product context: Q-Sarang 제왕충초 **liquor** (not HFF).

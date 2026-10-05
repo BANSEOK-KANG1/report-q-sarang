@@ -1,6 +1,6 @@
 # Marketing Evidence Brief — 제왕충초 × 코디세핀
 
-_Generated: 2026-09-21_
+_Generated: 2026-10-05_
 
 > 제왕충초 담금주는 **주류**입니다. 아래 내용은 효능 광고 승인이 아닙니다.
 > 소비자 카피는 법무 검토 후 `citation_status=approved` + `KR_liquor_context`만 사용하세요.
@@ -121,10 +121,15 @@ _Generated: 2026-09-21_
   - flags: disease_language, preclinical_only
   - link: https://europepmc.org/article/MED/41828477
 
+- **2026** [animal/C_animal] Cordycepin Alleviates Acute Lung Injury by Targeting TAK1 to Inhibit MAPK and NF-κB Signaling Pathways.
+  - animal study touching respiratory endpoints (auto-tagged; verify before use).
+  - flags: disease_language, preclinical_only
+  - link: https://europepmc.org/article/MED/42793111
+
 - **2026** [animal/C_animal] Cordycepin alleviates aluminium chloride-induced neurodevelopmental toxicity in zebrafish embryos by modulating inflammation and Wnt signaling.
   - animal study touching cognitive endpoints (auto-tagged; verify before use).
   - flags: disease_language, preclinical_only
-  - link: https://europepmc.org/article/MED/42314834
+  - link: https://pubmed.ncbi.nlm.nih.gov/42314834/
 
 - **2026** [observational_human/B_limited_human] Cordycepin ameliorates lipopolysaccharide-challenged C2C12 myotube shrinkage by regulating sodium channel kinetics and inhibiting the protein degradation pathway.
   - observational_human study touching energy_fatigue endpoints (auto-tagged; verify before use).
@@ -171,16 +176,11 @@ _Generated: 2026-09-21_
   - flags: disease_language, preclinical_only
   - link: https://europepmc.org/article/MED/42184123
 
-- **2026** [animal/C_animal] Efficient production of cordycepin in engineered Saccharomyces cerevisiae.
-  - animal study touching immune endpoints (auto-tagged; verify before use).
-  - flags: disease_language, preclinical_only
-  - link: https://europepmc.org/article/MED/41946402
-
 ## Stats snapshot
 
-- Total normalized records: **833**
-- research_only: **819**
-- needs_legal_review: **513**
+- Total normalized records: **815**
+- research_only: **801**
+- needs_legal_review: **488**
 - approved liquor-context: **14**
 
 ## See also

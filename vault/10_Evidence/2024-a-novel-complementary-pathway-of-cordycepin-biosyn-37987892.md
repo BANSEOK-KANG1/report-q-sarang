@@ -17,7 +17,7 @@ journal: 'International microbiology : the official journal of the Spanish Socie
 doi: 10.1089/acm.1998.4.3-289
 pmid: '37987892'
 url: https://pubmed.ncbi.nlm.nih.gov/37987892/
-track: compound
+track: militaris
 compound: cordycepin
 species: Cordyceps_militaris
 study_type: animal
@@ -28,7 +28,7 @@ risk_flags:
 - preclinical_only
 maps_to_market: research_only
 citation_status: candidate
-priority_review: true
+priority_review: false
 jurisdiction_caveats:
 - KR_liquor_no_disease_claims
 - not_HFF_product

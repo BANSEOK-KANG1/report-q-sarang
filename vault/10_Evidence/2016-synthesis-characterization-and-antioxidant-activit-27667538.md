@@ -5,7 +5,7 @@ title: Synthesis, characterization and antioxidant activity of selenium polysacc
 authors:
 - Zhen‐Yuan Zhu
 - Fei Liu
-- Hui Gao
+- Hui Yuan Gao
 - Hui-Qing Sun
 - Meng Meng
 - Yongmin Zhang

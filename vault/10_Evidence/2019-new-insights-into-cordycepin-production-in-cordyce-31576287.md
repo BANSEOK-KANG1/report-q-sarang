@@ -1,65 +1,60 @@
 ---
-record_id: d3d0346f-4360-4f5b-b499-a8264f4660cb
-title: New insights into cordycepin production in Cordyceps militaris and applications.
+record_id: fb7af63b-c33b-4b61-931d-a5667ded1fb8
+title: New insights into cordycepin production in Cordyceps militaris and applications
 authors:
-- Bai‐Xiong Chen
-- Tao Wei
-- Zhiwei Ye
-- Fan Yun
-- Lin-Zhi Kang
-- Hong‐Biao Tang
-- Liqiong Guo
-- Jun‐Fang Lin
+- Sunita Chamyuang
+- Amorn Owatworakit
+- Yoichi Honda
 year: 2019
-journal: Annals of translational medicine
-doi: 10.3389/fmicb.2018.01157
+journal: Annals of Translational Medicine
+doi: 10.21037/atm.2019.04.12
 pmid: '31576287'
-url: https://pubmed.ncbi.nlm.nih.gov/31576287/
-track: militaris
+url: https://doi.org/10.21037/atm.2019.04.12
+track: compound
 compound: cordycepin
 species: Cordyceps_militaris
-study_type: animal
-evidence_strength: C_animal
+study_type: unclear
+evidence_strength: F_review_only
 relevance_to_product: direct
-claim_category: other
+claim_category: immune
 risk_flags:
-- preclinical_only
+- disease_language
 maps_to_market: research_only
-citation_status: candidate
+citation_status: needs_legal_review
 priority_review: false
 jurisdiction_caveats:
 - KR_liquor_no_disease_claims
 - not_HFF_product
+- disease_language_in_source
 - research_only
 source_apis:
 - openalex
-- pubmed
 full_text_available: false
 tags:
 - evidence
-- status/candidate
-- study/animal
+- status/needs_legal_review
+- study/unclear
 - market/research_only
 ---
 
-# New insights into cordycepin production in Cordyceps militaris and applications.
+# New insights into cordycepin production in Cordyceps militaris and applications
 
 ## Summary fields
 - **Year:** 2019
-- **Study type:** animal
-- **Evidence strength:** C_animal
+- **Study type:** unclear
+- **Evidence strength:** F_review_only
 - **Species:** Cordyceps_militaris
 - **Compound:** cordycepin
-- **Claim category:** other
-- **Risk flags:** preclinical_only
+- **Claim category:** immune
+- **Risk flags:** disease_language
 - **Maps to market:** research_only
-- **Citation status:** candidate
-- **DOI:** 10.3389/fmicb.2018.01157
+- **Citation status:** needs_legal_review
+- **DOI:** 10.21037/atm.2019.04.12
 - **PMID:** 31576287
-- **URL:** https://pubmed.ncbi.nlm.nih.gov/31576287/
+- **URL:** https://doi.org/10.21037/atm.2019.04.12
 
 ## Abstract
-Cordyceps militaris is a well-known edible medicinal mushroom in East Asia that contains abundant and diverse bioactive compounds. Since traditional genome editing systems in C. militaris were inefficient and complicated, here, we show that the codon-optimized cas9, which was used with the newly reported promoter Pcmlsm3 and terminator Tcmura3, was expressed. Furthermore, with the help of the negative selection marker ura3, a CRISPR-Cas9 system that included the Cas9 DNA endonuclease, RNA presynthesized in vitro and a single-strand DNA template efficiently generated site-specific deletion and insertion. This is the first report of a CRISPR-Cas9 system in C. militaris, and it could accelerate the genome reconstruction of C. militaris to meet the need for rapid development in the fungi industry.
+Cordycepin, 3’-deoxyadenosine, is a nucleoside analog of adenosine, which was first isolated in 1950 from Cordyceps militaris . The compound possesses various biological activities including antitumor, anti-diabetic, immunomodulatory and anti-bacterial effects (1). Cordycepin is considered a chemical marker for fungi in the genus Cordyceps .
 
 ## Relevance notes
 _n/a_

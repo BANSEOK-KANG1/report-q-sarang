@@ -2,8 +2,8 @@
 record_id: 1f66e8a8-4d35-4d72-9925-d7df44323ea8
 title: 'Host insect species of Ophiocordyceps sinensis: a review'
 authors:
-- Yi-Jian Yao
-- Xiaoliang Wang
+- Yi‐Jian Yao
+- Xiao-Liang Wang
 year: 2011
 journal: ZooKeys
 doi: 10.3897/zookeys.127.802

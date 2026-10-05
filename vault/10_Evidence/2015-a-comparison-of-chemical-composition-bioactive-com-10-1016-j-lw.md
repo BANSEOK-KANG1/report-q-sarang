@@ -8,8 +8,8 @@ authors:
 - Shaoping Nie
 - Haihong Chen
 - Steve W. Cui
-- Aled O. Phillips
-- Glyn O. Phillips
+- Aled Owain Phillips
+- Glyn Owen Phillips
 - Yajing Li
 - Mingyong Xie
 year: 2015

@@ -11,7 +11,7 @@ authors:
 - Siwei Zhang
 - Huajun Zheng
 - Yin Huang
-- Yan Zhou
+- Yan Hong Zhou
 - Shengyue Wang
 - Guoping Zhao
 - Xingzhong Liu

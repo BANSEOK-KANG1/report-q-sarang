@@ -1,8 +1,8 @@
 ---
 record_id: b2fbe123-5be2-4185-9ab2-20b1ade6e799
-title: 'Fermentation Technology of Ganoderma lucidum and Cordyceps militaris: Advances
-  in Process Optimization, Bioactive Compound Transformation, and Functional Food
-  Development.'
+title: 'Fermentation technology of Ganoderma lucidum and Cordyceps militaris: advances
+  in process optimization, bioactive compound transformation, and functional food
+  development.'
 authors:
 - Zhu J
 - Wang Y
@@ -38,7 +38,7 @@ tags:
 - market/research_only
 ---
 
-# Fermentation Technology of Ganoderma lucidum and Cordyceps militaris: Advances in Process Optimization, Bioactive Compound Transformation, and Functional Food Development.
+# Fermentation technology of Ganoderma lucidum and Cordyceps militaris: advances in process optimization, bioactive compound transformation, and functional food development.
 
 ## Summary fields
 - **Year:** 2026
@@ -55,7 +55,7 @@ tags:
 - **URL:** https://europepmc.org/article/MED/42720424
 
 ## Abstract
-The growing global demand for functional foods has intensified interest in the biotechnological exploitation of medicinal mushrooms. Ganoderma lucidum and Cordyceps militaris are the two most widely recognised medicinal mushrooms in China, each possessing a well-characterised repertoire of bioactive compounds including polysaccharides, triterpenoids, and cordycepin. This review adopts a substrate-process-product framework to systematically evaluate how submerged fermentation, solid-state fermentation, and co-fermentation strategies influence the yield, structural diversity, and bioactivity of these compounds. Key process innovations are critically assessed, including two-stage temperature control, fed-batch operation, exogenous elicitor supplementation, and bidirectional solid-state fermentation on medicinal herb matrices. The translation of fermentation outputs into functional food formats is surveyed, and the persistent gap between in vitro bioactivity data and clinical validation is highlighted. Future progress will require multi-omics-guided strain engineering, artificial-intelligence-driven process control, and rigorous human intervention trials to substantiate functional efficacy claims.
+The growing global demand for functional foods has intensified interest in the biotechnological exploitation of medicinal mushrooms. Ganoderma lucidum and Cordyceps militaris are the two most widely recognized medicinal mushrooms in China, each possessing a well-characterized repertoire of bioactive compounds including polysaccharides, triterpenoids, and cordycepin. This review adopts a substrate-process-product framework to systematically evaluate how submerged fermentation, solid-state fermentation, and co-fermentation strategies influence the yield, structural diversity, and bioactivity of these compounds. Key process innovations are critically assessed, including two-stage temperature control, fed-batch operation, exogenous elicitor supplementation, and bidirectional solid-state fermentation on medicinal herb matrices. The translation of fermentation outputs into functional food formats is surveyed, and the persistent gap between in vitro bioactivity data and clinical validation is highlighted. Future progress will require multi-omics-guided strain engineering, artificial-intelligence-driven process control, and rigorous human intervention trials to substantiate functional efficacy claims.
 
 ## Relevance notes
 _n/a_

@@ -13,7 +13,7 @@ journal: Applied microbiology and biotechnology
 doi: 10.1039/d1gc03594k
 pmid: '37773218'
 url: https://pubmed.ncbi.nlm.nih.gov/37773218/
-track: compound
+track: militaris
 compound: cordycepin
 species: Cordyceps_militaris
 study_type: animal
@@ -24,7 +24,7 @@ risk_flags:
 - preclinical_only
 maps_to_market: research_only
 citation_status: candidate
-priority_review: true
+priority_review: false
 jurisdiction_caveats:
 - KR_liquor_no_disease_claims
 - not_HFF_product

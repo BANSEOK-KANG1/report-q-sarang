@@ -1,18 +1,18 @@
 ---
 record_id: abca1c93-8176-4890-8948-c9b8ce90e7f6
-title: Antioxidant activity of the extracts from fruiting bodies of culturedCordyceps
-  sinensis
+title: Antioxidant activity of the extracts from fruiting bodies of cultured Cordyceps
+  sinensis.
 authors:
-- Yu Yamaguchi
-- Satomi Kagota
-- Kazuki Nakamura
-- Kazumasa Shinozuka
-- Masaru Kunitomo
+- Y Yamaguchi
+- S Kagota
+- K Nakamura
+- K Shinozuka
+- M Kunitomo
 year: 2000
-journal: Phytotherapy Research
+journal: 'Phytotherapy research : PTR'
 doi: 10.1002/1099-1573(200012)14:8<647::aid-ptr670>3.0.co;2-w
 pmid: '11114006'
-url: https://doi.org/10.1002/1099-1573(200012)14:8<647::aid-ptr670>3.0.co;2-w
+url: https://pubmed.ncbi.nlm.nih.gov/11114006/
 track: comparator_sinensis
 compound: cordyceps_extract
 species: Cordyceps_sinensis
@@ -32,7 +32,7 @@ jurisdiction_caveats:
 - disease_language_in_source
 - research_only
 source_apis:
-- openalex
+- pubmed
 full_text_available: false
 tags:
 - evidence
@@ -41,7 +41,7 @@ tags:
 - market/research_only
 ---
 
-# Antioxidant activity of the extracts from fruiting bodies of culturedCordyceps sinensis
+# Antioxidant activity of the extracts from fruiting bodies of cultured Cordyceps sinensis.
 
 ## Summary fields
 - **Year:** 2000
@@ -55,7 +55,7 @@ tags:
 - **Citation status:** needs_legal_review
 - **DOI:** 10.1002/1099-1573(200012)14:8<647::aid-ptr670>3.0.co;2-w
 - **PMID:** 11114006
-- **URL:** https://doi.org/10.1002/1099-1573(200012)14:8<647::aid-ptr670>3.0.co;2-w
+- **URL:** https://pubmed.ncbi.nlm.nih.gov/11114006/
 
 ## Abstract
 Cordyceps sinensis is one of the most valued herbs in traditional Chinese medicine. We investigated the antioxidant activities of the cultured fruiting bodies of Cordyceps sinesis. The water and ethanol extracts of Cordyceps sinensis were found to possess a potent antioxidant activity. The scavenging effects of the extracts on superoxide were very weak, but the extracts moderately inhibited malondialdehyde formation via hydroxyl radical induced by SIN-1, a peroxynitrite generator. Of the extracts examined, the hot water extract (70 degrees C for 5 min) showed the greatest oxygen free radical scavenging activity. Also, when low-density lipoprotein (LDL) was incubated with macrophages in the presence of CuCl2 (1 microM), the hot water extract showed a strong inhibitory effect against lipid peroxidation in the medium and consequent accumulation of cholesteryl ester in macrophages. Their activities were comparable to that of authentic Cu/Zn SOD. These results suggest that the extracts of cultured Cordyceps sinensis possess potent antioxidant and anti-lipid peroxidation activities and inhibit accumulation of cholesteryl ester in macrophages via suppression of LDL oxidation.

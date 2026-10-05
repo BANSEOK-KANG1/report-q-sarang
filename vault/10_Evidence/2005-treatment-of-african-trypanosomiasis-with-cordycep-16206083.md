@@ -6,7 +6,7 @@ authors:
 - Martı́n E. Rottenberg
 - Willias Masocha
 - Marcela Ferella
-- Fabricio Petitto‐Assis
+- Fabricio Petitto-Assis
 - Hiro Goto
 - Krister Kristensson
 - Ronald P. McCaffrey

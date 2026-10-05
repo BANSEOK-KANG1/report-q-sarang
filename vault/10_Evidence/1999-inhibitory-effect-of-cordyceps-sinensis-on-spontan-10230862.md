@@ -1,30 +1,29 @@
 ---
 record_id: 9a3dcacc-55d5-4a98-9599-995072d3001a
-title: Inhibitory effect of Cordyceps sinensis on spontaneous liver metastasis of
-  Lewis lung carcinoma and B16 melanoma cells in syngeneic mice.
+title: Inhibitory Effect of Cordyceps sinensis on Spontaneous Liver Metastasis of
+  Lewis Lung Carcinoma and B16 Melanoma Cells in Syngeneic Mice
 authors:
-- K Nakamura
-- Y Yamaguchi
-- S Kagota
-- Y M Kwon
-- K Shinozuka
-- M Kunitomo
+- Nakamura Kazuki
+- Yamaguchi Yu
+- Satomi Kagota
+- Kwon Young Mi
+- Kazumasa Shinozuka
+- Kunitomo Masaru
 year: 1999
-journal: Japanese journal of pharmacology
+journal: The Japanese Journal of Pharmacology
 doi: 10.1254/jjp.79.335
 pmid: '10230862'
-url: https://pubmed.ncbi.nlm.nih.gov/10230862/
-track: compound
+url: https://doi.org/10.1254/jjp.79.335
+track: comparator_sinensis
 compound: cordycepin
 species: Cordyceps_sinensis
 study_type: animal
 evidence_strength: C_animal
-relevance_to_product: partial
+relevance_to_product: extrapolated
 claim_category: respiratory
 risk_flags:
 - disease_language
 - preclinical_only
-- species_mismatch
 maps_to_market: research_only
 citation_status: needs_legal_review
 priority_review: false
@@ -35,7 +34,6 @@ jurisdiction_caveats:
 - research_only
 source_apis:
 - openalex
-- pubmed
 full_text_available: false
 tags:
 - evidence
@@ -44,7 +42,7 @@ tags:
 - market/research_only
 ---
 
-# Inhibitory effect of Cordyceps sinensis on spontaneous liver metastasis of Lewis lung carcinoma and B16 melanoma cells in syngeneic mice.
+# Inhibitory Effect of Cordyceps sinensis on Spontaneous Liver Metastasis of Lewis Lung Carcinoma and B16 Melanoma Cells in Syngeneic Mice
 
 ## Summary fields
 - **Year:** 1999
@@ -53,18 +51,18 @@ tags:
 - **Species:** Cordyceps_sinensis
 - **Compound:** cordycepin
 - **Claim category:** respiratory
-- **Risk flags:** disease_language, preclinical_only, species_mismatch
+- **Risk flags:** disease_language, preclinical_only
 - **Maps to market:** research_only
 - **Citation status:** needs_legal_review
 - **DOI:** 10.1254/jjp.79.335
 - **PMID:** 10230862
-- **URL:** https://pubmed.ncbi.nlm.nih.gov/10230862/
+- **URL:** https://doi.org/10.1254/jjp.79.335
 
 ## Abstract
 We investigated the effect of the water extract of Cordyceps sinensis (WECS) on liver metastasis of Lewis lung carcinoma (LLC) and B16 melanoma (B16) cells in mice. C57BL/6 mice were given a s.c. injection of LLC and B16 cells and sacrificed 20 and 26 days after tumor inoculation, respectively. WECS was daily administered p.o. to the mice in a dose of 100 mg/kg body weight (wt.) in the experiment of LLC and in a dose of 100 or 200 mg/kg body wt. in the experiment of B16 from one week before tumor inoculation to one day before the date of sacrifice. The tumor cells increased in the thigh in LLC-inoculated mice and in the footpad in B16-inoculated mice. The relative liver wt. of the tumor-inoculated mice significantly increased as compared to that of the normal mice due to the tumor metastasis, as verified by the hematoxylin-eosin staining pathological study in the LLC experiment. The relative liver wt. of the WECS-administered mice significantly decreased relative to that of the control mice in both the LLC and B16 experiments. WECS showed a strong cytotoxicity against LLC and B16 cells, while cordycepin (3'-deoxyadenosine), an active component of WECS, was not cytotoxic against these cells. These findings suggest that WECS has an anti-metastatic activity that is probably due to components other than cordycepin.
 
 ## Relevance notes
-Cordycepin-focused; verify species/form vs product
+Comparator species / Cs-4 — do not equate to C. militaris cordycepin product
 
 ## Compliance
 - Product context: Q-Sarang 제왕충초 **liquor** (not HFF).

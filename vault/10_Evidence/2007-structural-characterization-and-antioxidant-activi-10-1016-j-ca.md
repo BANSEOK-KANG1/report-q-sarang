@@ -4,11 +4,11 @@ title: Structural characterization and antioxidant activity of a polysaccharide 
   the fruiting bodies of cultured Cordyceps militaris
 authors:
 - Rongmin Yu
-- Wei Yang
+- Wei Ping Yang
 - Liyan Song
 - Chunyan Yan
 - Zhang Zhang
-- Yu Zhao
+- Yu Ping Zhao
 year: 2007
 journal: Carbohydrate Polymers
 doi: 10.1016/j.carbpol.2007.05.005

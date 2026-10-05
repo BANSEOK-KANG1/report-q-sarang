@@ -31,6 +31,7 @@ jurisdiction_caveats:
 - research_only
 source_apis:
 - europepmc
+- openalex
 - pubmed
 full_text_available: false
 tags:

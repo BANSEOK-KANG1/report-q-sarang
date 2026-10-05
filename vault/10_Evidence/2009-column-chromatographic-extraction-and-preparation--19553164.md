@@ -4,7 +4,7 @@ title: Column chromatographic extraction and preparation of cordycepin from Cord
   militaris waster medium
 authors:
 - He Ni
-- Xin‐Hui Zhou
+- Xiao-Hong Zhou
 - Haihang Li
 - Wenfang Huang
 year: 2009

@@ -10,8 +10,8 @@ authors:
 - Man Wang
 - Yanxia Jin
 - Xianqing Lan
-- Yi Liang
-- Hui Sun
+- Yi Wen Liang
+- Hui Zhi Sun
 year: 2012
 journal: PLoS ONE
 doi: 10.1371/journal.pone.0051853

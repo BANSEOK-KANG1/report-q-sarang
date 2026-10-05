@@ -2,7 +2,7 @@
 record_id: fff365a6-3ede-494e-bc81-01b6bed754b8
 title: A brief review on the medicinal uses of Cordyceps militaris
 authors:
-- Shweta Shweta
+- Shweta .
 - Salik Abdullah
 - Komal Komal
 - Abhinandan Kumar

@@ -9,7 +9,7 @@ authors:
 - Shotaro Nakajima
 - Shuhei Takahashi
 - Hisashi Johno
-- Liya Gu
+- L Gu
 - Ryohei Katoh
 year: 2011
 journal: Cell Death and Differentiation

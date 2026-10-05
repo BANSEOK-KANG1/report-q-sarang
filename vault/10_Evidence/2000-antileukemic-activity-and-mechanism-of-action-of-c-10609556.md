@@ -3,7 +3,7 @@ record_id: 12ac0b9d-c376-4dfc-a499-c0e63b709a1a
 title: Antileukemic activity and mechanism of action of cordycepin against terminal
   deoxynucleotidyl transferase-positive (TdT+) leukemic cells
 authors:
-- Eiichi Kodama
+- Eiichi N. Kodama
 - Ronald P. McCaffrey
 - Keisuke Yusa
 - Hiroaki Mitsuya

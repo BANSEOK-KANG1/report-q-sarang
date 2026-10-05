@@ -1,6 +1,6 @@
 ---
-record_id: 08feebc8-186d-4819-b6f7-ff0ec4aee1a1
-title: The Chemical Constituents and Pharmacological Actions ofCordyceps sinensis
+record_id: 4bf30013-c8dc-49bd-b20d-9838292f0f11
+title: The Chemical Constituents and Pharmacological Actions of Cordyceps sinensis.
 authors:
 - Yi Liu
 - Jihui Wang
@@ -9,10 +9,10 @@ authors:
 - Xuelan Zhang
 - Chunchao Han
 year: 2015
-journal: Evidence-based Complementary and Alternative Medicine
-doi: 10.1155/2015/575063
+journal: 'Evidence-based complementary and alternative medicine : eCAM'
+doi: 10.1080/10286020.2012.670220
 pmid: '25960753'
-url: https://doi.org/10.1155/2015/575063
+url: https://pubmed.ncbi.nlm.nih.gov/25960753/
 track: comparator_sinensis
 compound: cordyceps_extract
 species: Cordyceps_sinensis
@@ -31,7 +31,7 @@ jurisdiction_caveats:
 - disease_language_in_source
 - research_only
 source_apis:
-- openalex
+- pubmed
 full_text_available: false
 tags:
 - evidence
@@ -40,7 +40,7 @@ tags:
 - market/research_only
 ---
 
-# The Chemical Constituents and Pharmacological Actions ofCordyceps sinensis
+# The Chemical Constituents and Pharmacological Actions of Cordyceps sinensis.
 
 ## Summary fields
 - **Year:** 2015
@@ -52,9 +52,9 @@ tags:
 - **Risk flags:** disease_language
 - **Maps to market:** research_only
 - **Citation status:** needs_legal_review
-- **DOI:** 10.1155/2015/575063
+- **DOI:** 10.1080/10286020.2012.670220
 - **PMID:** 25960753
-- **URL:** https://doi.org/10.1155/2015/575063
+- **URL:** https://pubmed.ncbi.nlm.nih.gov/25960753/
 
 ## Abstract
 Cordyceps sinensis, also called DongChongXiaCao (winter worm, summer grass) in Chinese, is becoming increasingly popular and important in the public and scientific communities. This study summarizes the chemical constituents and their corresponding pharmacological actions of Cordyceps sinensis. Many bioactive components of Cordyceps sinensis have been extracted including nucleoside, polysaccharide, sterol, protein, amino acid, and polypeptide. In addition, these constituents' corresponding pharmacological actions were also shown in the study such as anti-inflammatory, antioxidant, antitumour, antiapoptosis, and immunomodulatory actions. Therefore can use different effects of C. sinensis against different diseases and provide reference for the study of Cordyceps sinensis in the future.

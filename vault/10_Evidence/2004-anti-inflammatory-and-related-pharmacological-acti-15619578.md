@@ -3,7 +3,7 @@ record_id: c83356bd-9308-48e3-ad2a-a3308f00eb78
 title: Anti-inflammatory and related pharmacological activities of cultured mycelia
   and fruiting bodies of Cordyceps militaris
 authors:
-- Soyoung Won
+- So-Young Won
 - Eun‐Hee Park
 year: 2004
 journal: Journal of Ethnopharmacology

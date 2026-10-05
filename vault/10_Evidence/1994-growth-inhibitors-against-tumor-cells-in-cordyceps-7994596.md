@@ -14,17 +14,16 @@ journal: Cancer Investigation
 doi: 10.3109/07357909409023046
 pmid: '7994596'
 url: https://doi.org/10.3109/07357909409023046
-track: compound
+track: comparator_sinensis
 compound: cordycepin
 species: Cordyceps_sinensis
 study_type: animal
 evidence_strength: C_animal
-relevance_to_product: partial
+relevance_to_product: extrapolated
 claim_category: other
 risk_flags:
 - disease_language
 - preclinical_only
-- species_mismatch
 maps_to_market: research_only
 citation_status: needs_legal_review
 priority_review: false
@@ -52,7 +51,7 @@ tags:
 - **Species:** Cordyceps_sinensis
 - **Compound:** cordycepin
 - **Claim category:** other
-- **Risk flags:** disease_language, preclinical_only, species_mismatch
+- **Risk flags:** disease_language, preclinical_only
 - **Maps to market:** research_only
 - **Citation status:** needs_legal_review
 - **DOI:** 10.3109/07357909409023046
@@ -63,7 +62,7 @@ tags:
 Cordyceps sinensis is a parasitic fungus that has been used as a Chinese medicine for a long time. In the present study, inhibitory effects of crude methanolic extracts of C. sinensis fruiting bodies on various tumor cell lines were demonstrated. The crude methanolic extracts were fractionated into 15 fractions by silica gel column chromatography. Two of the 15 fractions (CS-36-39 and CS-48-51) significantly inhibited the growth of K562, Vero, Wish, Calu-1, and Raji tumor cell lines. The inhibitory activities were not due to the polysaccharides, which have been removed in the extracting process. The polarities of these two fractions indicated that they were different from that of cordycepin. Therefore, it is suggested that tumor cell growth inhibitors, other than cordycepin and polysaccharides, are contained in C. sinensis.
 
 ## Relevance notes
-Cordycepin-focused; verify species/form vs product
+Comparator species / Cs-4 — do not equate to C. militaris cordycepin product
 
 ## Compliance
 - Product context: Q-Sarang 제왕충초 **liquor** (not HFF).

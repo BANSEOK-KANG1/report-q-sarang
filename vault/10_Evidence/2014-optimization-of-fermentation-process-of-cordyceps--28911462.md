@@ -4,7 +4,7 @@ title: Optimization of fermentation process of Cordyceps militaris and antitumor
   of polysaccharides in vitro
 authors:
 - Shuang Yang
-- Jin Lu
+- Lu Jin
 - Xiaodong Ren
 - Jiahui Lü
 - Qingfan Meng

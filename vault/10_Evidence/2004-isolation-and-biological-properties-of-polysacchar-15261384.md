@@ -5,7 +5,7 @@ title: Isolation and biological properties of polysaccharide CPS-1 from cultured
 authors:
 - Rongmin Yu
 - Liyan Song
-- Yu Zhao
+- Yu Ping Zhao
 - Wen Bin
 - Lei Wang
 - Hui Zhang

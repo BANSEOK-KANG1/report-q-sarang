@@ -4,8 +4,8 @@ title: Isolation and chemical characterization of a glucogalactomannan of the me
   mushroom Cordyceps militaris
 authors:
 - Fhernanda Ribeiro Smiderle
-- Guilherme L. Sassaki
-- L. J. L. D. van Griensven
+- Guilherme  Lanzi Sassaki
+- Leo J. L. D. Van Griensven
 - Marcello Iacomini
 year: 2013
 journal: Carbohydrate Polymers

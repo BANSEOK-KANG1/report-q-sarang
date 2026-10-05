@@ -3,7 +3,7 @@ title: 'Anti-inflammatory effects of cordycepin: A review.'
 title_ko: 'Anti-inflammatory effects of 코디세핀: A review.'
 slug: anti-inflammatory-effects-of-cordycepin-a-review-2020-33090621
 record_id: 4ff4f381-2c9f-4ec8-a49e-6060a55139e3
-date: '2026-09-21'
+date: '2026-10-05'
 year: 2020
 authors:
 - Lu Tan
@@ -41,7 +41,7 @@ tags:
 - cordycepin
 - evidence
 - 제왕충초
-generated: '2026-09-21'
+generated: '2026-10-05'
 visuals: []
 api_meta:
   keywords:
@@ -84,7 +84,7 @@ api_meta:
     europepmc: true
     openalex: true
     crossref: true
-  fetched_at: '2026-09-21'
+  fetched_at: '2026-10-05'
 translations:
   title_ko: 'Anti-inflammatory effects of 코디세핀: A review.'
   glossary:

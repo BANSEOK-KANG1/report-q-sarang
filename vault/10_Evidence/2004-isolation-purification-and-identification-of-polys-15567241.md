@@ -7,7 +7,7 @@ authors:
 - Lei Wang
 - Hui Zhang
 - Chang‐Xin Zhou
-- Yu Zhao
+- Yu Ping Zhao
 year: 2004
 journal: Fitoterapia
 doi: 10.1016/j.fitote.2004.06.010

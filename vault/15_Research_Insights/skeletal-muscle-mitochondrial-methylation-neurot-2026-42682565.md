@@ -7,7 +7,7 @@ title_ko: 'Skeletal muscle mitochondrial-methylation-neurotransmitter crosstalk:
   performance in older adults, individuals with metabolic disorders, and healthy populations.'
 slug: skeletal-muscle-mitochondrial-methylation-neurot-2026-42682565
 record_id: c927f728-d624-4212-baf5-be5c96c24fb3
-date: '2026-09-21'
+date: '2026-10-05'
 year: 2026
 authors:
 - Xu C
@@ -39,7 +39,7 @@ tags:
 - cordycepin
 - evidence
 - 제왕충초
-generated: '2026-09-21'
+generated: '2026-10-05'
 visuals:
 - type: figure
   src: /research-figures/skeletal-muscle-mitochondrial-methylation-neurot-2026-42682565/fnut-13-1812286-g001.gif
@@ -106,7 +106,7 @@ api_meta:
     europepmc: true
     openalex: true
     crossref: true
-  fetched_at: '2026-09-21'
+  fetched_at: '2026-10-05'
 translations:
   title_ko: 'Skeletal muscle mitochondrial-methylation-neurotransmitter crosstalk:
     a novel synergistic model of betaine, tyrosine, and Cordyceps(cordyceps) for exercise

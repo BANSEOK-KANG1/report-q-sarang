@@ -11,12 +11,12 @@ journal: Biochemical Engineering Journal
 doi: 10.1016/j.bej.2006.10.019
 pmid: ''
 url: https://doi.org/10.1016/j.bej.2006.10.019
-track: compound
-compound: cordycepin
+track: militaris
+compound: unclear
 species: Cordyceps_militaris
 study_type: unclear
 evidence_strength: F_review_only
-relevance_to_product: direct
+relevance_to_product: partial
 claim_category: respiratory
 risk_flags:
 - missing_abstract
@@ -44,7 +44,7 @@ tags:
 - **Study type:** unclear
 - **Evidence strength:** F_review_only
 - **Species:** Cordyceps_militaris
-- **Compound:** cordycepin
+- **Compound:** unclear
 - **Claim category:** respiratory
 - **Risk flags:** missing_abstract
 - **Maps to market:** research_only

@@ -14,7 +14,7 @@ authors:
 - Yi-Ting Wang
 - Junsheng Wang
 - Yi‐Ping Hsiang
-- Yu‐Mei Lin
+- Yu-Mei Lin
 - Hsiao-Han Hsu
 - Chih-Hui Yang
 year: 2020
@@ -22,7 +22,7 @@ journal: Frontiers in Pharmacology
 doi: 10.3389/fphar.2020.575704
 pmid: '33328984'
 url: https://doi.org/10.3389/fphar.2020.575704
-track: compound
+track: militaris
 compound: cordycepin
 species: Cordyceps_militaris
 study_type: review_narrative
@@ -32,7 +32,7 @@ claim_category: immune
 risk_flags: []
 maps_to_market: research_only
 citation_status: needs_legal_review
-priority_review: true
+priority_review: false
 jurisdiction_caveats:
 - KR_liquor_no_disease_claims
 - not_HFF_product

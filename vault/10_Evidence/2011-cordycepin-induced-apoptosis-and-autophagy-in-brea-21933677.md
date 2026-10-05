@@ -4,7 +4,7 @@ title: Cordycepin-induced apoptosis and autophagy in breast cancer cells are ind
   of the estrogen receptor
 authors:
 - Sunga Choi
-- Mi-Hee Lim
+- Mi‐Hee Lim
 - Ki Mo Kim
 - Byeong Hwa Jeon
 - Won O. Song

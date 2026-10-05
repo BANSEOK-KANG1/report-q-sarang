@@ -1,19 +1,19 @@
 ---
-record_id: 4d3f6821-a4be-44b8-a413-155f07d095a7
+record_id: 0112501c-6d19-4aac-8524-8f0736771c11
 title: 'Immunomodulatory effects of a mycelium extract of Cordyceps (Paecilomyces
-  hepiali; CBG-CS-2): a randomized and double-blind clinical trial'
+  hepiali; CBG-CS-2): a randomized and double-blind clinical trial.'
 authors:
-- Su‐Jin Jung
-- Eunsoo Jung
-- Eun‐Kyung Choi
-- Hong‐Sig Sin
+- Su-Jin Jung
+- Eun-Soo Jung
+- Eun-Kyung Choi
+- Hong-Sig Sin
 - Ki-Chan Ha
-- Soo‐Wan Chae
+- Soo-Wan Chae
 year: 2019
-journal: BMC Complementary and Alternative Medicine
-doi: 10.1186/s12906-019-2483-y
+journal: BMC complementary and alternative medicine
+doi: 10.1016/j.ijbiomac.2013.04.007
 pmid: '30925876'
-url: https://doi.org/10.1186/s12906-019-2483-y
+url: https://pubmed.ncbi.nlm.nih.gov/30925876/
 track: comparator_sinensis
 compound: cordyceps_extract
 species: Cordyceps_sinensis
@@ -30,7 +30,7 @@ jurisdiction_caveats:
 - not_HFF_product
 - research_only
 source_apis:
-- openalex
+- pubmed
 full_text_available: false
 tags:
 - evidence
@@ -39,7 +39,7 @@ tags:
 - market/research_only
 ---
 
-# Immunomodulatory effects of a mycelium extract of Cordyceps (Paecilomyces hepiali; CBG-CS-2): a randomized and double-blind clinical trial
+# Immunomodulatory effects of a mycelium extract of Cordyceps (Paecilomyces hepiali; CBG-CS-2): a randomized and double-blind clinical trial.
 
 ## Summary fields
 - **Year:** 2019
@@ -51,12 +51,16 @@ tags:
 - **Risk flags:** none
 - **Maps to market:** research_only
 - **Citation status:** candidate
-- **DOI:** 10.1186/s12906-019-2483-y
+- **DOI:** 10.1016/j.ijbiomac.2013.04.007
 - **PMID:** 30925876
-- **URL:** https://doi.org/10.1186/s12906-019-2483-y
+- **URL:** https://pubmed.ncbi.nlm.nih.gov/30925876/
 
 ## Abstract
-BACKGROUND: Cordyceps is a traditional Chinese herb that produces various biopharmaceutical effects, including immune-enhancing effects. In this study, we prepared a Cordyceps mycelium culture extract (Paecilomyces hepiali, CBG-CS-2) to confirm its efficacy in enhancing the immune system and to evaluate its safety in healthy adults. METHODS: Healthy adults were divided into the intervention group (n = 39), who were given 1.68 g/day of CBG-CS-2 in capsules, and the control group (n = 40) for 8 weeks. The activities of natural killer (NK) cells and serum levels of monocyte-derived mediators were assessed initially for a baseline measurement and after 8 wks. RESULTS: The CBG-CS-2 group showed a significant 38.8 ± 17.6% enhancement from the baseline of NK cell cytotoxic activity relative to the placebo group after the administration of the capsules for 8 wks. (P < 0.019). CONCLUSION: The results suggest that the immune system functions well with CBG-CS-2 supplementation, perhaps with less accompanying inflammation. Thus, CBG-CS-2 is safe and effective for enhancing cell-mediated immunity in healthy adults. TRIAL REGISTRATION: This study was registered at Clinical Trials.gov ( NCT 02814617 ).
+BACKGROUND: Cordyceps is a traditional Chinese herb that produces various biopharmaceutical effects, including immune-enhancing effects. In this study, we prepared a Cordyceps mycelium culture extract (Paecilomyces hepiali, CBG-CS-2) to confirm its efficacy in enhancing the immune system and to evaluate its safety in healthy adults.
+METHODS: Healthy adults were divided into the intervention group (n = 39), who were given 1.68 g/day of CBG-CS-2 in capsules, and the control group (n = 40) for 8 weeks. The activities of natural killer (NK) cells and serum levels of monocyte-derived mediators were assessed initially for a baseline measurement and after 8 wks.
+RESULTS: The CBG-CS-2 group showed a significant 38.8 ± 17.6% enhancement from the baseline of NK cell cytotoxic activity relative to the placebo group after the administration of the capsules for 8 wks. (P < 0.019).
+CONCLUSION: The results suggest that the immune system functions well with CBG-CS-2 supplementation, perhaps with less accompanying inflammation. Thus, CBG-CS-2 is safe and effective for enhancing cell-mediated immunity in healthy adults.
+TRIAL REGISTRATION: This study was registered at Clinical Trials.gov ( NCT 02814617 ).
 
 ## Relevance notes
 Comparator species / Cs-4 — do not equate to C. militaris cordycepin product

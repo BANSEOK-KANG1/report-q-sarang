@@ -5,23 +5,24 @@ title: Comparison of the hepatoprotective activity between cultured Cordyceps mi
 authors:
 - Bor-Sen Wang
 - Chia Pu Lee
-- Zong-Tsi Chen
-- Hui Yu
+- Zong‐Tsi Chen
+- Hui Mei Yu
 - Pin‐Der Duh
 year: 2012
 journal: Journal of Functional Foods
 doi: 10.1016/j.jff.2012.02.009
 pmid: ''
 url: https://doi.org/10.1016/j.jff.2012.02.009
-track: comparator_sinensis
+track: militaris
 compound: unclear
-species: Cordyceps_sinensis
+species: mixed
 study_type: unclear
 evidence_strength: F_review_only
-relevance_to_product: extrapolated
+relevance_to_product: partial
 claim_category: other
 risk_flags:
 - missing_abstract
+- species_mismatch
 maps_to_market: research_only
 citation_status: candidate
 priority_review: false
@@ -45,10 +46,10 @@ tags:
 - **Year:** 2012
 - **Study type:** unclear
 - **Evidence strength:** F_review_only
-- **Species:** Cordyceps_sinensis
+- **Species:** mixed
 - **Compound:** unclear
 - **Claim category:** other
-- **Risk flags:** missing_abstract
+- **Risk flags:** missing_abstract, species_mismatch
 - **Maps to market:** research_only
 - **Citation status:** candidate
 - **DOI:** 10.1016/j.jff.2012.02.009
@@ -59,7 +60,7 @@ tags:
 _No abstract_
 
 ## Relevance notes
-Comparator species / Cs-4 — do not equate to C. militaris cordycepin product
+_n/a_
 
 ## Compliance
 - Product context: Q-Sarang 제왕충초 **liquor** (not HFF).

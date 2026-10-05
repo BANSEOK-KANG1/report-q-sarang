@@ -3,7 +3,7 @@ title: A Systematic Review of the Biological Effects of Cordycepin
 title_ko: A 체계적 문헌고찰 of the Biological Effects of 코디세핀
 slug: a-systematic-review-of-the-biological-effects-of-2021-34641429
 record_id: 7c27cabe-6c22-424f-bec5-50e01e8bb486
-date: '2026-09-21'
+date: '2026-10-05'
 year: 2021
 authors:
 - Masar Radhi
@@ -41,7 +41,7 @@ tags:
 - cordycepin
 - evidence
 - 제왕충초
-generated: '2026-09-21'
+generated: '2026-10-05'
 visuals:
 - type: figure
   src: /research-figures/a-systematic-review-of-the-biological-effects-of-2021-34641429/molecules-26-05886-g006.jpg
@@ -110,7 +110,7 @@ api_meta:
   - name: MAPK/ERK pathway
     score: 0.514
     level: 3
-  cited_by_count: 94
+  cited_by_count: 96
   reference_count: 355
   publisher: MDPI AG
   journal: Molecules
@@ -120,7 +120,7 @@ api_meta:
     europepmc: true
     openalex: true
     crossref: true
-  fetched_at: '2026-09-21'
+  fetched_at: '2026-10-05'
 translations:
   title_ko: A 체계적 문헌고찰 of the Biological Effects of 코디세핀
   glossary:

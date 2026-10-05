@@ -7,7 +7,7 @@ authors:
 - Eun-Mi Noh
 - Eun-Yong Jeong
 - Seok‐Kweon Yun
-- Young Ju Jeong
+- Young-Ju Jeong
 - Jong-Hyeon Kim
 - Kang‐Beom Kwon
 - Byeong-Soo Kim

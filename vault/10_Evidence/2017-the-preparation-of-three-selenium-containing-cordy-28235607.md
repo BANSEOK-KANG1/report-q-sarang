@@ -6,7 +6,7 @@ authors:
 - Fei Liu
 - Zhen‐Yuan Zhu
 - Xiaoli Sun
-- Hui Gao
+- Hui Yuan Gao
 - Yongmin Zhang
 year: 2017
 journal: International Journal of Biological Macromolecules

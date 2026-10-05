@@ -4,7 +4,7 @@ title: Optimization of Ultrasonic-Assisted Extraction of Cordycepin from Cordyce
   militaris Using Orthogonal Experimental Design
 authors:
 - Hsiu-Ju Wang
-- Pan Meng-chun
+- Meng-Chun Pan
 - Chao‐Kai Chang
 - Shu‐Wei Chang
 - Chang-Wei Hsieh

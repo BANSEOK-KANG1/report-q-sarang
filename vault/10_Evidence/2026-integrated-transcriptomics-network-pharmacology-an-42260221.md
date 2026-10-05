@@ -15,12 +15,12 @@ journal: ''
 doi: 10.1007/s12672-026-05134-6
 pmid: '42260221'
 url: https://europepmc.org/article/MED/42260221
-track: compound
+track: comparator_sinensis
 compound: cordycepin
 species: unclear
 study_type: animal
 evidence_strength: C_animal
-relevance_to_product: partial
+relevance_to_product: extrapolated
 claim_category: immune
 risk_flags:
 - disease_language
@@ -63,7 +63,7 @@ tags:
 <h4>Background</h4>Studies have shown that PANoptosis is increasingly involved in cancer and cancer treatment. The Cordycepin has also been found to be involved in the development of various cancers. However, relevant research on both in lung adenocarcinoma (LUAD) remains relatively scarce. The present study aims to identify potential prognostic genes in LUAD and elucidate their impact on the prognosis of LUAD patients, with the goal of providing novel insights into the therapeutic strategies for this disease.<h4>Methods</h4>The target genes for Cordycepin and transcriptomic datasets for LUAD were retrieved from public databases, and PANoptosis-related genes were retrieved from literature. This study employed differential expression analysis, consensus clustering analysis, weighted gene co-expression network analysis (WGCNA), and Cox regression analysis. This study identified potential biomarkers. The backpropagation neural networks (BPNNs) were constructed using these biomarkers. Furthermore, the study delved into underlying biological mechanisms through enrichment analysis. Additional analyses were performed to evaluate functional pathways, immune infiltration, and drug sensitivity in different risk individuals. Finally, clinical samples were collected and biomarker expression was validated using RT-qPCR.<h4>Results</h4>A total of 8 biomarkers including SLC2A1, SMS, CCNA2, CDC25C, RNASE1, NR3C2, CAT, and ADA were identified in this study. Among these, SLC2A1, SMS, CCNA2, CDC25C, and ADA were significantly upregulated in clinical disease samples, while RNASE1, NR3C2, and CAT were significantly downregulated. The GSEA results indicated that the biomarkers were primarily enriched in mismatch repair and proteasome. There were 10 differential immune cells (Macrophages M0, Monocytes, activated dendritic cells, etc.) between two subgroups detected by the CIBERSORT algorithm. Meanwhile, 18 differential immune cells including Activated CD4+ T cells, Memory B cells, Natural killer T cells, etc. were identified using the ssGSEA algorithm. The analysis of drug sensitivity showed significant differences in 22 drugs between the two risk groups.<h4>Conclusion</h4>Our results suggested that 8 biomarkers including SLC2A1, SMS, CCNA2, CDC25C, RNASE1, NR3C2, CAT, and ADA were associated with PANoptosis in LUAD. These findings may provide supportive evidence for the prognosis prediction and treatment of LUAD. However, the involvement of these genes in PANoptosis is currently only a hypothesis based on bioinformatics analysis and requires further experimental validation in the future.
 
 ## Relevance notes
-Cordycepin-focused; verify species/form vs product
+Comparator species / Cs-4 — do not equate to C. militaris cordycepin product
 
 ## Compliance
 - Product context: Q-Sarang 제왕충초 **liquor** (not HFF).

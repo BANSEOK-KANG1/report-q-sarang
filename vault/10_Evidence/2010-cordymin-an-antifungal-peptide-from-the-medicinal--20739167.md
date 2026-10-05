@@ -8,7 +8,7 @@ authors:
 - Stephen Cho Wing Sze
 - Kalin Yanbo Zhang
 - Qi Li
-- Xiaoxu Lü
+- Xiaoxu Lu
 year: 2010
 journal: Phytomedicine
 doi: 10.1016/j.phymed.2010.07.010

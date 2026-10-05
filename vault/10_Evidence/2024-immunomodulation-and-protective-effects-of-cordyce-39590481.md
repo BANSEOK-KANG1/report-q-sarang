@@ -9,8 +9,8 @@ authors:
 - James J. Burston
 - Raj D. Gandhi
 - Graeme J. Thorn
-- Anna M. Piccinini
-- David A. Walsh
+- Anna Maria Piccinini
+- David Andrew Walsh
 - Victoria Chapman
 - Cornelia H. de Moor
 year: 2024

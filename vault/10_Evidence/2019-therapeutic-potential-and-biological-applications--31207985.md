@@ -1,18 +1,18 @@
 ---
-record_id: 02ce56e8-cb49-49a8-ad58-bda82a3f5432
+record_id: 0e70d302-cd0e-4962-b778-5711e7d54e30
 title: Therapeutic Potential and Biological Applications of Cordycepin and Metabolic
-  Mechanisms in Cordycepin-Producing Fungi
+  Mechanisms in Cordycepin-Producing Fungi.
 authors:
 - Peng Qin
-- Xiangkai Li
+- XiangKai Li
 - Hui Yang
-- Zhiye Wang
-- Dengxue Lu
+- Zhi-Ye Wang
+- DengXue Lu
 year: 2019
-journal: Molecules
-doi: 10.3390/molecules24122231
+journal: Molecules (Basel, Switzerland)
+doi: 10.1038/nbt.4184
 pmid: '31207985'
-url: https://doi.org/10.3390/molecules24122231
+url: https://pubmed.ncbi.nlm.nih.gov/31207985/
 track: compound
 compound: cordycepin
 species: Cordyceps_militaris
@@ -31,7 +31,7 @@ jurisdiction_caveats:
 - disease_language_in_source
 - research_only
 source_apis:
-- openalex
+- pubmed
 full_text_available: false
 tags:
 - evidence
@@ -40,7 +40,7 @@ tags:
 - market/research_only
 ---
 
-# Therapeutic Potential and Biological Applications of Cordycepin and Metabolic Mechanisms in Cordycepin-Producing Fungi
+# Therapeutic Potential and Biological Applications of Cordycepin and Metabolic Mechanisms in Cordycepin-Producing Fungi.
 
 ## Summary fields
 - **Year:** 2019
@@ -52,12 +52,12 @@ tags:
 - **Risk flags:** disease_language
 - **Maps to market:** research_only
 - **Citation status:** needs_legal_review
-- **DOI:** 10.3390/molecules24122231
+- **DOI:** 10.1038/nbt.4184
 - **PMID:** 31207985
-- **URL:** https://doi.org/10.3390/molecules24122231
+- **URL:** https://pubmed.ncbi.nlm.nih.gov/31207985/
 
 ## Abstract
-Cordycepin (3′-deoxyadenosine), a cytotoxic nucleoside analogue found in Cordyceps militaris, has attracted much attention due to its therapeutic potential and biological value. Cordycepin interacts with multiple medicinal targets associated with cancer, tumor, inflammation, oxidant, polyadenylation of mRNA, etc. The investigation of the medicinal drug actions supports the discovery of novel targets and the development of new drugs to enhance the therapeutic potency and reduce toxicity. Cordycepin may be of great value owing to its medicinal potential as an external drug, such as in cosmeceutical, traumatic, antalgic and muscle strain applications. In addition, the biological application of cordycepin, for example, as a ligand, has been used to uncover molecular structures. Notably, studies that investigated the metabolic mechanisms of cordycepin-producing fungi have yielded significant information related to the biosynthesis of high levels of cordycepin. Here, we summarized the medicinal targets, biological applications, cytotoxicity, delivery carriers, stability, and pros/cons of cordycepin in clinical applications, as well as described the metabolic mechanisms of cordycepin in cordycepin-producing fungi. We posit that new approaches, including single-cell analysis, have the potential to enhance medicinal potency and unravel all facets of metabolic mechanisms of cordycepin in Cordyceps militaris.
+Cordycepin(3'-deoxyadenosine), a cytotoxic nucleoside analogue found in Cordyceps militaris, has attracted much attention due to its therapeutic potential and biological value. Cordycepin interacts with multiple medicinal targets associated with cancer, tumor, inflammation, oxidant, polyadenylation of mRNA, etc. The investigation of the medicinal drug actions supports the discovery of novel targets and the development of new drugs to enhance the therapeutic potency and reduce toxicity. Cordycepin may be of great value owing to its medicinal potential as an external drug, such as in cosmeceutical, traumatic, antalgic and muscle strain applications. In addition, the biological application of cordycepin, for example, as a ligand, has been used to uncover molecular structures. Notably, studies that investigated the metabolic mechanisms of cordycepin-producing fungi have yielded significant information related to the biosynthesis of high levels of cordycepin. Here, we summarized the medicinal targets, biological applications, cytotoxicity, delivery carriers, stability, and pros/cons of cordycepin in clinical applications, as well as described the metabolic mechanisms of cordycepin in cordycepin-producing fungi. We posit that new approaches, including single-cell analysis, have the potential to enhance medicinal potency and unravel all facets of metabolic mechanisms of cordycepin in Cordyceps militaris.
 
 ## Relevance notes
 _n/a_
@@ -69,4 +69,4 @@ _n/a_
 
 ## Allowed / prohibited claim drafts
 - **Allowed (if approved):** _empty_
-- **Prohibited phrasing:** Do not claim treatment/prevention/cure of disease; do not claim immune boost, fatigue recovery, anticancer effect, FDA/MFDS efficacy approval for liquor.
+- **Prohibited phrasing:** _empty_

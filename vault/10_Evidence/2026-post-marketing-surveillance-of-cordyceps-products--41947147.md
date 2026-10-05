@@ -11,16 +11,15 @@ journal: ''
 doi: 10.1186/s12906-026-05363-w
 pmid: '41947147'
 url: https://europepmc.org/article/MED/41947147
-track: compound
+track: comparator_sinensis
 compound: cordycepin
-species: mixed
+species: Cordyceps_sinensis
 study_type: animal
 evidence_strength: C_animal
-relevance_to_product: partial
+relevance_to_product: extrapolated
 claim_category: antioxidant
 risk_flags:
 - preclinical_only
-- species_mismatch
 maps_to_market: research_only
 citation_status: candidate
 priority_review: false
@@ -44,10 +43,10 @@ tags:
 - **Year:** 2026
 - **Study type:** animal
 - **Evidence strength:** C_animal
-- **Species:** mixed
+- **Species:** Cordyceps_sinensis
 - **Compound:** cordycepin
 - **Claim category:** antioxidant
-- **Risk flags:** preclinical_only, species_mismatch
+- **Risk flags:** preclinical_only
 - **Maps to market:** research_only
 - **Citation status:** candidate
 - **DOI:** 10.1186/s12906-026-05363-w
@@ -58,7 +57,7 @@ tags:
 BACKGROUND: The outbreak of acute kidney injury linked to Cordyceps products in Thailand prompted an assessment of their quality. The study aimed to identify the falsification of dietary supplements containing Cordyceps species and to evaluate legal compliance. METHODS: A survey and experimental studies focused on oral Cordyceps products selected through convenience sampling, sold online. Chemical and microscopic examinations were performed, and thin-layer chromatography was used to identify cordycepin and adenosine in the products. Steroid test kits were employed to detect corticosteroid adulteration. The products’ registration number and advertising approvals by the Thai FDA were verified. RESULTS: Sixty-five products were included in the study. 54.3% of the products were falsified, involving the substitution of C. sinensis with C. militaris or the absence of the labeled species and the incorrect form of Cordyceps. The prevalence of products containing cordycepin and C. militaris was 53.8%. Among the products, 11% were unregistered, and 6.2% were found to be adulterated with corticosteroids. The prevalence of products with legally compliant physical labeling was 78.5%. However, 73.8% of the products made disease claims through social media. CONCLUSIONS: The study highlights that the regulation of dietary supplements containing Cordyceps in Thailand does not fully comply with legal standards. Therefore, the public should be aware of these issues. The Thai FDA should enhance its post-market surveillance system for health products to protect better consumers, which is regularly inspect the quality of herbal products registered through the notification system and strictly regulate the proper labeling of these products, including clearly indicating the herbal species, form of active ingredient (such as extract or powder), and the amount of active ingredient in the extract (e.g., cordycepin).
 
 ## Relevance notes
-Cordycepin-focused; verify species/form vs product
+Comparator species / Cs-4 — do not equate to C. militaris cordycepin product
 
 ## Compliance
 - Product context: Q-Sarang 제왕충초 **liquor** (not HFF).

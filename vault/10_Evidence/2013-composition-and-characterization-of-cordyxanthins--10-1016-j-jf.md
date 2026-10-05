@@ -3,7 +3,7 @@ record_id: 62ad34e6-1166-4113-8c75-b886f17c6e18
 title: Composition and characterization of cordyxanthins from Cordyceps militaris
   fruit bodies
 authors:
-- Jing Dong
+- Jing Z. Dong
 - Shui H. Wang
 - Xun R. Ai
 - Lan Yao
