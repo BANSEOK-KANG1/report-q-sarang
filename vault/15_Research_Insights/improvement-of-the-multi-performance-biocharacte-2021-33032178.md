@@ -5,7 +5,7 @@ title_ko: Improvement of the multi-performance biocharacteristics of 코디세�
   hybrid nanocarriers.
 slug: improvement-of-the-multi-performance-biocharacte-2021-33032178
 record_id: 6aab881e-40f0-407a-af7a-db7ca7ff2d94
-date: '2026-10-05'
+date: '2026-10-12'
 year: 2021
 authors:
 - Warut Kengkittipat
@@ -44,7 +44,7 @@ tags:
 - cordycepin
 - evidence
 - 제왕충초
-generated: '2026-10-05'
+generated: '2026-10-12'
 visuals: []
 api_meta:
   keywords:
@@ -93,7 +93,7 @@ api_meta:
     europepmc: true
     openalex: true
     crossref: true
-  fetched_at: '2026-10-05'
+  fetched_at: '2026-10-12'
 translations:
   title_ko: Improvement of the multi-performance biocharacteristics of 코디세핀 using
     BiloNiosome-core/chitosan-shell hybrid nanocarriers.

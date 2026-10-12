@@ -5,7 +5,7 @@ title_ko: Anti-inflammatory effects of 코디세핀 via suppression of inflammat
   in BV2 microglial cells.
 slug: anti-inflammatory-effects-of-cordycepin-via-supp-2010-20937401
 record_id: 775f2c46-d4f8-4f57-9925-9985692e18f1
-date: '2026-10-05'
+date: '2026-10-12'
 year: 2010
 authors:
 - Jin-Woo Jeong
@@ -45,7 +45,7 @@ tags:
 - cordycepin
 - evidence
 - 제왕충초
-generated: '2026-10-05'
+generated: '2026-10-12'
 visuals: []
 api_meta:
   keywords: []
@@ -90,7 +90,7 @@ api_meta:
   - name: Medicine
     score: 0.304
     level: 0
-  cited_by_count: 175
+  cited_by_count: 171
   reference_count: 32
   publisher: Elsevier BV
   journal: International immunopharmacology
@@ -100,7 +100,7 @@ api_meta:
     europepmc: true
     openalex: true
     crossref: true
-  fetched_at: '2026-10-05'
+  fetched_at: '2026-10-12'
 translations:
   title_ko: Anti-inflammatory effects of 코디세핀 via suppression of inflammatory mediators
     in BV2 microglial cells.

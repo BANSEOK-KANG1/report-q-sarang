@@ -1,27 +1,28 @@
 ---
-record_id: abc0f6cf-0d13-40fe-8447-418d15351d48
-title: Non-volatile taste components of Agaricus blazei, Antrodia camphorata and Cordyceps
-  militaris mycelia
+record_id: 5bcdd8a5-fae7-4b4d-972b-456dc55a8c61
+title: A novel fibrinolytic enzyme from Cordyceps militaris, a Chinese traditional
+  medicinal mushroom
 authors:
-- Hui-Ling Chang
-- Guei-Rung Chao
-- Chin‐Chu Chen
-- Jeng‐Leun Mau
-year: 2001
-journal: Food Chemistry
-doi: 10.1016/s0308-8146(01)00127-3
+- Li Cui
+- Ming Sheng Dong
+- Xiao Hong Chen
+- Mei Jiang
+- Xin Lv
+- Guijun Yan
+year: 2007
+journal: World Journal of Microbiology and Biotechnology
+doi: 10.1007/s11274-007-9497-1
 pmid: ''
-url: https://doi.org/10.1016/s0308-8146(01)00127-3
+url: https://doi.org/10.1007/s11274-007-9497-1
 track: militaris
 compound: unclear
 species: Cordyceps_militaris
-study_type: animal
-evidence_strength: C_animal
+study_type: unclear
+evidence_strength: F_review_only
 relevance_to_product: partial
 claim_category: other
 risk_flags:
 - missing_abstract
-- preclinical_only
 maps_to_market: research_only
 citation_status: candidate
 priority_review: false
@@ -35,25 +36,25 @@ full_text_available: false
 tags:
 - evidence
 - status/candidate
-- study/animal
+- study/unclear
 - market/research_only
 ---
 
-# Non-volatile taste components of Agaricus blazei, Antrodia camphorata and Cordyceps militaris mycelia
+# A novel fibrinolytic enzyme from Cordyceps militaris, a Chinese traditional medicinal mushroom
 
 ## Summary fields
-- **Year:** 2001
-- **Study type:** animal
-- **Evidence strength:** C_animal
+- **Year:** 2007
+- **Study type:** unclear
+- **Evidence strength:** F_review_only
 - **Species:** Cordyceps_militaris
 - **Compound:** unclear
 - **Claim category:** other
-- **Risk flags:** missing_abstract, preclinical_only
+- **Risk flags:** missing_abstract
 - **Maps to market:** research_only
 - **Citation status:** candidate
-- **DOI:** 10.1016/s0308-8146(01)00127-3
+- **DOI:** 10.1007/s11274-007-9497-1
 - **PMID:** —
-- **URL:** https://doi.org/10.1016/s0308-8146(01)00127-3
+- **URL:** https://doi.org/10.1007/s11274-007-9497-1
 
 ## Abstract
 _No abstract_

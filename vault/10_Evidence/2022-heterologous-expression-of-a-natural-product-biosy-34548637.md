@@ -1,5 +1,5 @@
 ---
-record_id: b057a059-c4ba-4e47-826f-694475cc0a98
+record_id: 99e3232f-d3bd-4935-8a96-b2be2aec5a8b
 title: Heterologous expression of a natural product biosynthetic gene cluster from
   Cordyceps militaris.
 authors:
@@ -8,7 +8,7 @@ authors:
 - Li Li
 year: 2022
 journal: The Journal of antibiotics
-doi: 10.1021/ja8040042
+doi: 10.1038/s41429-021-00478-3
 pmid: '34548637'
 url: https://pubmed.ncbi.nlm.nih.gov/34548637/
 track: militaris
@@ -49,7 +49,7 @@ tags:
 - **Risk flags:** preclinical_only
 - **Maps to market:** research_only
 - **Citation status:** candidate
-- **DOI:** 10.1021/ja8040042
+- **DOI:** 10.1038/s41429-021-00478-3
 - **PMID:** 34548637
 - **URL:** https://pubmed.ncbi.nlm.nih.gov/34548637/
 

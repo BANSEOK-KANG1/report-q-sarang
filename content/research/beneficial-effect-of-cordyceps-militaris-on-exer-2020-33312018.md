@@ -5,7 +5,7 @@ title_ko: Beneficial Effect of Cordyceps(cordyceps) militaris(cordyceps militari
   on Exercise Performance via Promoting Cellular Energy Production.
 slug: beneficial-effect-of-cordyceps-militaris-on-exer-2020-33312018
 record_id: 907f6292-4ff0-4de8-9a1a-e1ce6b7d5dd3
-date: '2026-10-05'
+date: '2026-10-12'
 year: 2020
 authors:
 - Eunhyun Choi
@@ -37,28 +37,8 @@ tags:
 - cordycepin
 - evidence
 - 제왕충초
-generated: '2026-10-05'
-visuals:
-- type: figure
-  src: /research-figures/beneficial-effect-of-cordyceps-militaris-on-exer-2020-33312018/TMYB_A_1831135_F0001_B.gif
-  caption: 원문 Figure (TMYB_A_1831135_F0001_B) — Europe PMC OA
-  source: europepmc
-  filename: TMYB_A_1831135_F0001_B.gif
-- type: figure
-  src: /research-figures/beneficial-effect-of-cordyceps-militaris-on-exer-2020-33312018/TMYB_A_1831135_F0002_B.gif
-  caption: 원문 Figure (TMYB_A_1831135_F0002_B) — Europe PMC OA
-  source: europepmc
-  filename: TMYB_A_1831135_F0002_B.gif
-- type: figure
-  src: /research-figures/beneficial-effect-of-cordyceps-militaris-on-exer-2020-33312018/TMYB_A_1831135_F0003_B.gif
-  caption: 원문 Figure (TMYB_A_1831135_F0003_B) — Europe PMC OA
-  source: europepmc
-  filename: TMYB_A_1831135_F0003_B.gif
-- type: figure
-  src: /research-figures/beneficial-effect-of-cordyceps-militaris-on-exer-2020-33312018/TMYB_A_1831135_F0001_B.jpg
-  caption: 원문 Figure (TMYB_A_1831135_F0001_B) — Europe PMC OA
-  source: europepmc
-  filename: TMYB_A_1831135_F0001_B.jpg
+generated: '2026-10-12'
+visuals: []
 api_meta:
   keywords:
   - ATP
@@ -88,7 +68,7 @@ api_meta:
   - name: Pharmacology
     score: 0.358
     level: 1
-  cited_by_count: 17
+  cited_by_count: 22
   reference_count: 24
   publisher: Informa UK Limited
   journal: Mycobiology
@@ -98,7 +78,7 @@ api_meta:
     europepmc: true
     openalex: true
     crossref: true
-  fetched_at: '2026-10-05'
+  fetched_at: '2026-10-12'
 translations:
   title_ko: Beneficial Effect of Cordyceps(cordyceps) militaris(cordyceps militaris)
     on Exercise Performance via Promoting Cellular Energy Production.

@@ -1,27 +1,21 @@
 ---
-record_id: cc269ee7-b3db-49b6-bdfe-f31dba12ccf7
-title: Production of cordycepin by a repeated batch culture of a Cordyceps militaris
-  mutant obtained by proton beam irradiation
+record_id: 5f13c9b5-5c56-416c-b813-8d16cafa6af5
+title: Cordyceps militaris (L.) Fr.
 authors:
-- Mina Masuda
-- Shonkor Kumar Das
-- Shinya Fujihara
-- Masanori Hatashita
-- Akihiko Sakurai
-year: 2010
-journal: Journal of Bioscience and Bioengineering
-doi: 10.1016/j.jbiosc.2010.08.018
-pmid: '20863756'
-url: https://doi.org/10.1016/j.jbiosc.2010.08.018
-track: compound
-compound: cordycepin
+- Royal Botanic Garden Edinburgh
+year: 2026
+journal: ''
+doi: 10.3535/6gt-jnq-qrr
+pmid: ''
+url: https://doi.org/10.3535/6gt-jnq-qrr
+track: militaris
+compound: unclear
 species: Cordyceps_militaris
 study_type: unclear
 evidence_strength: F_review_only
-relevance_to_product: direct
+relevance_to_product: partial
 claim_category: other
-risk_flags:
-- missing_abstract
+risk_flags: []
 maps_to_market: research_only
 citation_status: candidate
 priority_review: false
@@ -39,24 +33,24 @@ tags:
 - market/research_only
 ---
 
-# Production of cordycepin by a repeated batch culture of a Cordyceps militaris mutant obtained by proton beam irradiation
+# Cordyceps militaris (L.) Fr.
 
 ## Summary fields
-- **Year:** 2010
+- **Year:** 2026
 - **Study type:** unclear
 - **Evidence strength:** F_review_only
 - **Species:** Cordyceps_militaris
-- **Compound:** cordycepin
+- **Compound:** unclear
 - **Claim category:** other
-- **Risk flags:** missing_abstract
+- **Risk flags:** none
 - **Maps to market:** research_only
 - **Citation status:** candidate
-- **DOI:** 10.1016/j.jbiosc.2010.08.018
-- **PMID:** 20863756
-- **URL:** https://doi.org/10.1016/j.jbiosc.2010.08.018
+- **DOI:** 10.3535/6gt-jnq-qrr
+- **PMID:** —
+- **URL:** https://doi.org/10.3535/6gt-jnq-qrr
 
 ## Abstract
-_No abstract_
+Digital Specimen for the physical specimen hosted at Royal Botanic Garden Edinburgh.
 
 ## Relevance notes
 _n/a_

@@ -1,6 +1,6 @@
 # Marketing Evidence Brief — 제왕충초 × 코디세핀
 
-_Generated: 2026-10-05_
+_Generated: 2026-10-12_
 
 > 제왕충초 담금주는 **주류**입니다. 아래 내용은 효능 광고 승인이 아닙니다.
 > 소비자 카피는 법무 검토 후 `citation_status=approved` + `KR_liquor_context`만 사용하세요.
@@ -178,9 +178,9 @@ _Generated: 2026-10-05_
 
 ## Stats snapshot
 
-- Total normalized records: **815**
-- research_only: **801**
-- needs_legal_review: **488**
+- Total normalized records: **809**
+- research_only: **795**
+- needs_legal_review: **485**
 - approved liquor-context: **14**
 
 ## See also

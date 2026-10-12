@@ -1,5 +1,5 @@
 ---
-record_id: 81d4d4fb-71e1-4801-9255-559f85f1f0b0
+record_id: 3efbee72-32ec-450b-9c37-ab9a2f6461da
 title: Enhancement of Swimming Endurance by Herbal Supplement M3P.
 authors:
 - Chien-Ming Chu
@@ -8,7 +8,7 @@ authors:
 - Yu-Jen Chen
 year: 2022
 journal: Chinese journal of integrative medicine
-doi: 10.1007/s11655-019-3157-9
+doi: 10.1007/s11655-021-3502-7
 pmid: '35048243'
 url: https://pubmed.ncbi.nlm.nih.gov/35048243/
 track: comparator_sinensis
@@ -51,7 +51,7 @@ tags:
 - **Risk flags:** disease_language, preclinical_only
 - **Maps to market:** research_only
 - **Citation status:** needs_legal_review
-- **DOI:** 10.1007/s11655-019-3157-9
+- **DOI:** 10.1007/s11655-021-3502-7
 - **PMID:** 35048243
 - **URL:** https://pubmed.ncbi.nlm.nih.gov/35048243/
 

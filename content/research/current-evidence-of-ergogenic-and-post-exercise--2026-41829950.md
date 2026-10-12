@@ -6,7 +6,7 @@ title_ko: Current Evidence of Ergogenic and Post-Exercise Recovery Effects of Di
   Narrative Review.
 slug: current-evidence-of-ergogenic-and-post-exercise--2026-41829950
 record_id: a8693206-38b9-47be-9b3a-4ba9ac7826df
-date: '2026-10-05'
+date: '2026-10-12'
 year: 2026
 authors:
 - Jędrejko M
@@ -39,28 +39,8 @@ tags:
 - cordycepin
 - evidence
 - 제왕충초
-generated: '2026-10-05'
-visuals:
-- type: figure
-  src: /research-figures/current-evidence-of-ergogenic-and-post-exercise--2026-41829950/nutrients-18-00781-g002.gif
-  caption: 원문 Figure (nutrients-18-00781-g002) — Europe PMC OA
-  source: europepmc
-  filename: nutrients-18-00781-g002.gif
-- type: figure
-  src: /research-figures/current-evidence-of-ergogenic-and-post-exercise--2026-41829950/nutrients-18-00781-g001.jpg
-  caption: 원문 Figure (nutrients-18-00781-g001) — Europe PMC OA
-  source: europepmc
-  filename: nutrients-18-00781-g001.jpg
-- type: figure
-  src: /research-figures/current-evidence-of-ergogenic-and-post-exercise--2026-41829950/nutrients-18-00781-g005.jpg
-  caption: 원문 Figure (nutrients-18-00781-g005) — Europe PMC OA
-  source: europepmc
-  filename: nutrients-18-00781-g005.jpg
-- type: figure
-  src: /research-figures/current-evidence-of-ergogenic-and-post-exercise--2026-41829950/nutrients-18-00781-g006.jpg
-  caption: 원문 Figure (nutrients-18-00781-g006) — Europe PMC OA
-  source: europepmc
-  filename: nutrients-18-00781-g006.jpg
+generated: '2026-10-12'
+visuals: []
 api_meta:
   keywords:
   - Cordyceps militaris
@@ -109,7 +89,7 @@ api_meta:
   - name: Human studies
     score: 0.339
     level: 2
-  cited_by_count: 2
+  cited_by_count: 7
   reference_count: 143
   publisher: MDPI AG
   journal: ''
@@ -119,7 +99,7 @@ api_meta:
     europepmc: true
     openalex: true
     crossref: true
-  fetched_at: '2026-10-05'
+  fetched_at: '2026-10-12'
 translations:
   title_ko: Current Evidence of Ergogenic and Post-Exercise Recovery Effects of Dietary
     Supplementation with Cordyceps(cordyceps) militaris(cordyceps militaris) in Humans-A

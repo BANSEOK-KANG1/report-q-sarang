@@ -5,7 +5,7 @@ title_ko: '코디세핀 for Health and Wellbeing: A Potent Bioactive 대사산�
   Cordyceps(cordyceps) Medicinal Fungus and Its Nutraceutical and Therapeutic Potential.'
 slug: cordycepin-for-health-and-wellbeing-a-potent-bio-2020-32545666
 record_id: 02ce56e8-cb49-49a8-ad58-bda82a3f5432
-date: '2026-10-05'
+date: '2026-10-12'
 year: 2020
 authors:
 - Syed Amir Ashraf
@@ -41,28 +41,8 @@ tags:
 - cordycepin
 - evidence
 - 제왕충초
-generated: '2026-10-05'
-visuals:
-- type: figure
-  src: /research-figures/cordycepin-for-health-and-wellbeing-a-potent-bio-2020-32545666/molecules-25-02735-g005.gif
-  caption: 원문 Figure (molecules-25-02735-g005) — Europe PMC OA
-  source: europepmc
-  filename: molecules-25-02735-g005.gif
-- type: figure
-  src: /research-figures/cordycepin-for-health-and-wellbeing-a-potent-bio-2020-32545666/molecules-25-02735-g003.jpg
-  caption: 원문 Figure (molecules-25-02735-g003) — Europe PMC OA
-  source: europepmc
-  filename: molecules-25-02735-g003.jpg
-- type: figure
-  src: /research-figures/cordycepin-for-health-and-wellbeing-a-potent-bio-2020-32545666/molecules-25-02735-g003.gif
-  caption: 원문 Figure (molecules-25-02735-g003) — Europe PMC OA
-  source: europepmc
-  filename: molecules-25-02735-g003.gif
-- type: figure
-  src: /research-figures/cordycepin-for-health-and-wellbeing-a-potent-bio-2020-32545666/molecules-25-02735-g002.jpg
-  caption: 원문 Figure (molecules-25-02735-g002) — Europe PMC OA
-  source: europepmc
-  filename: molecules-25-02735-g002.jpg
+generated: '2026-10-12'
+visuals: []
 api_meta:
   keywords:
   - Cordyceps
@@ -103,7 +83,7 @@ api_meta:
   - name: Computational biology
     score: 0.362
     level: 1
-  cited_by_count: 121
+  cited_by_count: 124
   reference_count: 203
   publisher: MDPI AG
   journal: Molecules (Basel, Switzerland)
@@ -113,7 +93,7 @@ api_meta:
     europepmc: true
     openalex: true
     crossref: true
-  fetched_at: '2026-10-05'
+  fetched_at: '2026-10-12'
 translations:
   title_ko: '코디세핀 for Health and Wellbeing: A Potent Bioactive 대사산물 of an Entomopathogenic
     Cordyceps(cordyceps) Medicinal Fungus and Its Nutraceutical and Therapeutic Potential.'

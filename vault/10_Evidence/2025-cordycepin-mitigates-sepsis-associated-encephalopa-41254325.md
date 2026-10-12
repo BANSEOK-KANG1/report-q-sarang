@@ -1,5 +1,5 @@
 ---
-record_id: 4839f6f4-3ab0-4845-b9a5-e6c88bd66986
+record_id: 5fcc9b60-68ff-4e5b-863f-316c6ab27422
 title: Cordycepin Mitigates Sepsis-Associated Encephalopathy by Promoting Microglial
   M2 Polarization via the IL-17a/IL-17RA/NF-κB Axis.
 authors:
@@ -11,7 +11,7 @@ authors:
 - Zhiyong Sheng
 year: 2025
 journal: Molecular neurobiology
-doi: 10.1016/j.ijbiomac.2024.130079
+doi: 10.1007/s12035-025-05399-y
 pmid: '41254325'
 url: https://pubmed.ncbi.nlm.nih.gov/41254325/
 track: compound
@@ -33,6 +33,7 @@ jurisdiction_caveats:
 - disease_language_in_source
 - research_only
 source_apis:
+- europepmc
 - pubmed
 full_text_available: false
 tags:
@@ -54,7 +55,7 @@ tags:
 - **Risk flags:** disease_language, preclinical_only
 - **Maps to market:** research_only
 - **Citation status:** needs_legal_review
-- **DOI:** 10.1016/j.ijbiomac.2024.130079
+- **DOI:** 10.1007/s12035-025-05399-y
 - **PMID:** 41254325
 - **URL:** https://pubmed.ncbi.nlm.nih.gov/41254325/
 

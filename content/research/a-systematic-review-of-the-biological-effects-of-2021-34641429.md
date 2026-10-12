@@ -3,7 +3,7 @@ title: A Systematic Review of the Biological Effects of Cordycepin
 title_ko: A 체계적 문헌고찰 of the Biological Effects of 코디세핀
 slug: a-systematic-review-of-the-biological-effects-of-2021-34641429
 record_id: 7c27cabe-6c22-424f-bec5-50e01e8bb486
-date: '2026-10-05'
+date: '2026-10-12'
 year: 2021
 authors:
 - Masar Radhi
@@ -41,28 +41,8 @@ tags:
 - cordycepin
 - evidence
 - 제왕충초
-generated: '2026-10-05'
-visuals:
-- type: figure
-  src: /research-figures/a-systematic-review-of-the-biological-effects-of-2021-34641429/molecules-26-05886-g006.jpg
-  caption: 원문 Figure (molecules-26-05886-g006) — Europe PMC OA
-  source: europepmc
-  filename: molecules-26-05886-g006.jpg
-- type: figure
-  src: /research-figures/a-systematic-review-of-the-biological-effects-of-2021-34641429/molecules-26-05886-g006.gif
-  caption: 원문 Figure (molecules-26-05886-g006) — Europe PMC OA
-  source: europepmc
-  filename: molecules-26-05886-g006.gif
-- type: figure
-  src: /research-figures/a-systematic-review-of-the-biological-effects-of-2021-34641429/molecules-26-05886-g001a.gif
-  caption: 원문 Figure (molecules-26-05886-g001a) — Europe PMC OA
-  source: europepmc
-  filename: molecules-26-05886-g001a.gif
-- type: figure
-  src: /research-figures/a-systematic-review-of-the-biological-effects-of-2021-34641429/molecules-26-05886-g001b.jpg
-  caption: 원문 Figure (molecules-26-05886-g001b) — Europe PMC OA
-  source: europepmc
-  filename: molecules-26-05886-g001b.jpg
+generated: '2026-10-12'
+visuals: []
 api_meta:
   keywords:
   - Signal transduction
@@ -110,7 +90,7 @@ api_meta:
   - name: MAPK/ERK pathway
     score: 0.514
     level: 3
-  cited_by_count: 96
+  cited_by_count: 100
   reference_count: 355
   publisher: MDPI AG
   journal: Molecules
@@ -120,7 +100,7 @@ api_meta:
     europepmc: true
     openalex: true
     crossref: true
-  fetched_at: '2026-10-05'
+  fetched_at: '2026-10-12'
 translations:
   title_ko: A 체계적 문헌고찰 of the Biological Effects of 코디세핀
   glossary:

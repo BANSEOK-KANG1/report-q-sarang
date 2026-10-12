@@ -1,23 +1,27 @@
 ---
-record_id: 3c1f6890-d770-4234-a923-e052092d1bc4
-title: Increasing oxidative stress tolerance and subculturing stability of Cordyceps
-  militaris by overexpression of a glutathione peroxidase gene
+record_id: c061781c-d2bf-46b6-8b97-42a1737cb670
+title: 'Ultrasonic-assisted deep eutectic solvent extraction: Process optimization
+  of Cordycepin from Cordyceps sinensis and antioxidant activity evaluation'
 authors:
-- Chenghui Xiong
-- Yongliang Xia
-- Peng Zheng
-- Chengshu Wang
-year: 2012
-journal: Applied Microbiology and Biotechnology
-doi: 10.1007/s00253-012-4286-7
-pmid: '22828981'
-url: https://doi.org/10.1007/s00253-012-4286-7
-track: militaris
-compound: unclear
-species: Cordyceps_militaris
+- Zhenyu Gao
+- Yunpeng Zhou
+- Yuhan Zhang
+- Jing Yang Bai
+- Jing Wang
+- Haohao Guo
+- Yuan Chen
+- Yufeng Liu
+year: 2025
+journal: Microchemical Journal
+doi: 10.1016/j.microc.2025.115681
+pmid: ''
+url: https://doi.org/10.1016/j.microc.2025.115681
+track: comparator_sinensis
+compound: cordycepin
+species: Cordyceps_sinensis
 study_type: unclear
 evidence_strength: F_review_only
-relevance_to_product: partial
+relevance_to_product: extrapolated
 claim_category: antioxidant
 risk_flags:
 - missing_abstract
@@ -38,27 +42,27 @@ tags:
 - market/research_only
 ---
 
-# Increasing oxidative stress tolerance and subculturing stability of Cordyceps militaris by overexpression of a glutathione peroxidase gene
+# Ultrasonic-assisted deep eutectic solvent extraction: Process optimization of Cordycepin from Cordyceps sinensis and antioxidant activity evaluation
 
 ## Summary fields
-- **Year:** 2012
+- **Year:** 2025
 - **Study type:** unclear
 - **Evidence strength:** F_review_only
-- **Species:** Cordyceps_militaris
-- **Compound:** unclear
+- **Species:** Cordyceps_sinensis
+- **Compound:** cordycepin
 - **Claim category:** antioxidant
 - **Risk flags:** missing_abstract
 - **Maps to market:** research_only
 - **Citation status:** candidate
-- **DOI:** 10.1007/s00253-012-4286-7
-- **PMID:** 22828981
-- **URL:** https://doi.org/10.1007/s00253-012-4286-7
+- **DOI:** 10.1016/j.microc.2025.115681
+- **PMID:** —
+- **URL:** https://doi.org/10.1016/j.microc.2025.115681
 
 ## Abstract
 _No abstract_
 
 ## Relevance notes
-_n/a_
+Comparator species / Cs-4 — do not equate to C. militaris cordycepin product
 
 ## Compliance
 - Product context: Q-Sarang 제왕충초 **liquor** (not HFF).

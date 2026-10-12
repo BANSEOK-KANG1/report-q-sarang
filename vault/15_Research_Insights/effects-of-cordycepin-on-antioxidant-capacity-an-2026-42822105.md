@@ -5,7 +5,7 @@ title_ko: Effects of 코디세핀 on antioxidant capacity and proliferative pote
   spermatogonial cells 시험관(시험관(in vitro)(in vitro)).
 slug: effects-of-cordycepin-on-antioxidant-capacity-an-2026-42822105
 record_id: 90ae4d15-6cd0-4730-9c18-a913edbbeabe
-date: '2026-10-05'
+date: '2026-10-12'
 year: 2026
 authors:
 - Li M
@@ -44,7 +44,7 @@ tags:
 - cordycepin
 - evidence
 - 제왕충초
-generated: '2026-10-05'
+generated: '2026-10-12'
 visuals: []
 api_meta:
   keywords:
@@ -90,7 +90,7 @@ api_meta:
     europepmc: true
     openalex: true
     crossref: true
-  fetched_at: '2026-10-05'
+  fetched_at: '2026-10-12'
 translations:
   title_ko: Effects of 코디세핀 on antioxidant capacity and proliferative potential of
     buffalo spermatogonial cells 시험관(시험관(in vitro)(in vitro)).

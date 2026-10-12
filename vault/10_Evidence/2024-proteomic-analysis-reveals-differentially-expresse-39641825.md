@@ -1,5 +1,5 @@
 ---
-record_id: b6abc0f7-0eee-4053-9f77-bad95504375d
+record_id: 59342f13-cf6e-4d86-93f0-c6172bcd1af1
 title: Proteomic Analysis Reveals Differentially Expressed Proteins in Cordyceps militaris
   Cultured with Different Media.
 authors:
@@ -9,7 +9,7 @@ authors:
 - Fangxu Xu
 year: 2024
 journal: Current microbiology
-doi: 10.11937/bfyy.202025273
+doi: 10.1007/s00284-024-04005-z
 pmid: '39641825'
 url: https://pubmed.ncbi.nlm.nih.gov/39641825/
 track: militaris
@@ -49,7 +49,7 @@ tags:
 - **Risk flags:** none
 - **Maps to market:** research_only
 - **Citation status:** candidate
-- **DOI:** 10.11937/bfyy.202025273
+- **DOI:** 10.1007/s00284-024-04005-z
 - **PMID:** 39641825
 - **URL:** https://pubmed.ncbi.nlm.nih.gov/39641825/
 
