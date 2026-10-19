@@ -3,7 +3,7 @@ record_id: 6ab96f59-9f9f-42d2-9997-37cbd7a1296d
 title: Altered GC- and AT-biased genotypes of Ophiocordyceps sinensis in the stromal
   fertile portions and ascospores of natural Cordyceps sinensis
 authors:
-- Yuling Li
+- Yu-Ling Li
 - Ling Gao
 - Yisang Yao
 - Xiuzhang Li

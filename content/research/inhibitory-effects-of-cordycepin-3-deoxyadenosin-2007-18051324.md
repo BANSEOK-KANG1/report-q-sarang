@@ -5,7 +5,7 @@ title_ko: Inhibitory effects of 코디세핀 (3'-deoxy아데노신), a component
   militaris(cordyceps militaris), on human platelet aggregation induced by thapsigargin.
 slug: inhibitory-effects-of-cordycepin-3-deoxyadenosin-2007-18051324
 record_id: a10c1577-e895-4ad5-9f66-c0e0c29cb772
-date: '2026-10-12'
+date: '2026-10-19'
 year: 2007
 authors:
 - Hyun-Jeong Cho
@@ -40,7 +40,7 @@ tags:
 - cordycepin
 - evidence
 - 제왕충초
-generated: '2026-10-12'
+generated: '2026-10-19'
 visuals: []
 api_meta:
   keywords: []
@@ -63,7 +63,7 @@ api_meta:
     europepmc: true
     openalex: false
     crossref: false
-  fetched_at: '2026-10-12'
+  fetched_at: '2026-10-19'
 translations:
   title_ko: Inhibitory effects of 코디세핀 (3'-deoxy아데노신), a component of Cordyceps(cordyceps)
     militaris(cordyceps militaris), on human platelet aggregation induced by thapsigargin.

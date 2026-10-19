@@ -5,7 +5,7 @@ title: Effects of Selenium and Light Wavelengths on Liquid Culture of Cordyceps 
 authors:
 - Jing Z. Dong
 - Mingwang Liu
-- Chenjuan Lei
+- C. Lei
 - Xiao J. Zheng
 - Y. Wang
 year: 2012

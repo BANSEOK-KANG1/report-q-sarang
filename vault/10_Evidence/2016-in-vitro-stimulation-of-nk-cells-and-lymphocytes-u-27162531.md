@@ -1,22 +1,22 @@
 ---
 record_id: ed8d0a1d-bc51-463d-843d-52afc64cd2ff
 title: In vitro Stimulation of NK Cells and Lymphocytes Using an Extract Prepared
-  from Mycelial Culture of Ophiocordyceps sinensis
+  from Mycelial Culture of Ophiocordyceps sinensis.
 authors:
 - Sun-Hee Jang
 - Jisang Park
 - Seung-Hwan Jang
-- Soo‐Wan Chae
-- Su‐Jin Jung
-- Byung‐Ok So
+- Soo-Wan Chae
+- Su-Jin Jung
+- Byung-Ok So
 - Ki-Chan Ha
-- Hong‐Sig Sin
-- Yong‐Suk Jang
+- Hong-Sig Sin
+- Yong-Suk Jang
 year: 2016
-journal: Immune Network
+journal: Immune network
 doi: 10.4110/in.2016.16.2.140
 pmid: '27162531'
-url: https://doi.org/10.4110/in.2016.16.2.140
+url: https://pubmed.ncbi.nlm.nih.gov/27162531/
 track: comparator_sinensis
 compound: cordyceps_extract
 species: Cordyceps_sinensis
@@ -37,6 +37,7 @@ jurisdiction_caveats:
 - research_only
 source_apis:
 - openalex
+- pubmed
 full_text_available: false
 tags:
 - evidence
@@ -45,7 +46,7 @@ tags:
 - market/research_only
 ---
 
-# In vitro Stimulation of NK Cells and Lymphocytes Using an Extract Prepared from Mycelial Culture of Ophiocordyceps sinensis
+# In vitro Stimulation of NK Cells and Lymphocytes Using an Extract Prepared from Mycelial Culture of Ophiocordyceps sinensis.
 
 ## Summary fields
 - **Year:** 2016
@@ -59,7 +60,7 @@ tags:
 - **Citation status:** needs_legal_review
 - **DOI:** 10.4110/in.2016.16.2.140
 - **PMID:** 27162531
-- **URL:** https://doi.org/10.4110/in.2016.16.2.140
+- **URL:** https://pubmed.ncbi.nlm.nih.gov/27162531/
 
 ## Abstract
 Ophiocordyceps sinensis is a natural fungus that has been valued as a health food and used in traditional Chinese medicine for centuries. The fungus is parasitic and colonizes insect larva. Naturally occurring O. sinensis thrives at high altitude in cold and grassy alpine meadows on the Himalayan mountain ranges. Wild Ophiocordyceps is becoming increasingly rare in its natural habitat, and its price limits its use in clinical practice. Therefore, the development of a standardized alternative is a great focus of research to allow the use of Ophiocordyceps as a medicine. To develop an alternative for wild Ophiocordyceps, a refined standardized extract, CBG-CS-2, was produced by artificial fermentation and extraction of the mycelial strain Paecilomyces hepiali CBG-CS-1, which originated from wild O. sinensis. In this study, we analyzed the in vitro immune-modulating effect of CBG-CS-2 on natural killer cells and B and T lymphocytes. CBG-CS-2 stimulated splenocyte proliferation and enhanced Th1-type cytokine expression in the mouse splenocytes. Importantly, in vitro CBG-CS-2 treatment enhanced the killing activity of the NK-92MI natural killer cell line. These results indicate that the mycelial culture extract prepared from Ophiocordyceps exhibits immune-modulating activity, as was observed in vivo and this suggests its possible use in the treatment of diseases caused by abnormal immune function.

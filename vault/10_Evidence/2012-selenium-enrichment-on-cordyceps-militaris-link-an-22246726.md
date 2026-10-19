@@ -4,7 +4,7 @@ title: Selenium Enrichment on Cordyceps militaris Link and Analysis on Its Main 
   Components
 authors:
 - Jing Z. Dong
-- Chenjuan Lei
+- C. Lei
 - Xun R. Ai
 - Y. Wang
 year: 2012

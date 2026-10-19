@@ -1,6 +1,6 @@
 # Marketing Evidence Brief — 제왕충초 × 코디세핀
 
-_Generated: 2026-10-12_
+_Generated: 2026-10-19_
 
 > 제왕충초 담금주는 **주류**입니다. 아래 내용은 효능 광고 승인이 아닙니다.
 > 소비자 카피는 법무 검토 후 `citation_status=approved` + `KR_liquor_context`만 사용하세요.
@@ -166,21 +166,21 @@ _Generated: 2026-10-12_
   - flags: disease_language, preclinical_only
   - link: https://europepmc.org/article/MED/42609839
 
-- **2026** [animal/C_animal] Deciphering the anticancer potential of an entomopathogenic fungus, Cordyceps militaris in Dalton's Lymphoma transplanted murine model: a multidimensional approach involving computational methods and in vivo validation.
-  - animal study touching antioxidant endpoints (auto-tagged; verify before use).
-  - flags: disease_language, preclinical_only
-  - link: https://europepmc.org/article/MED/42183983
-
 - **2026** [animal/C_animal] Edible Fungus Compound Cordycepin Protects Against Acetaminophen-Induced Liver Injury.
   - animal study touching antioxidant endpoints (auto-tagged; verify before use).
   - flags: disease_language, preclinical_only
   - link: https://europepmc.org/article/MED/42184123
 
+- **2026** [animal/C_animal] Effects of cordycepin on antioxidant capacity and proliferative potential of buffalo spermatogonial cells in vitro.
+  - animal study touching antioxidant endpoints (auto-tagged; verify before use).
+  - flags: disease_language, preclinical_only
+  - link: https://europepmc.org/article/MED/42822105
+
 ## Stats snapshot
 
-- Total normalized records: **809**
-- research_only: **795**
-- needs_legal_review: **485**
+- Total normalized records: **811**
+- research_only: **797**
+- needs_legal_review: **489**
 - approved liquor-context: **14**
 
 ## See also

@@ -5,7 +5,7 @@ title_ko: 'Trends in the Immunomodulatory Effects of Cordyceps(cordyceps) milita
   militaris): Total 추출물s, 다당류s and 코디세핀'
 slug: trends-in-the-immunomodulatory-effects-of-cordyc-2020-33328984
 record_id: f6247e36-9e13-4308-8859-bc440e0c1d75
-date: '2026-10-12'
+date: '2026-10-19'
 year: 2020
 authors:
 - Chun‐Ting Lee
@@ -46,7 +46,7 @@ tags:
 - cordycepin
 - evidence
 - 제왕충초
-generated: '2026-10-12'
+generated: '2026-10-19'
 visuals:
 - type: figure
   src: /research-figures/trends-in-the-immunomodulatory-effects-of-cordyc-2020-33328984/fphar-11-575704-g001.jpg
@@ -112,7 +112,7 @@ api_meta:
     europepmc: true
     openalex: true
     crossref: true
-  fetched_at: '2026-10-12'
+  fetched_at: '2026-10-19'
 translations:
   title_ko: 'Trends in the Immunomodulatory Effects of Cordyceps(cordyceps) militaris(cordyceps
     militaris): Total 추출물s, 다당류s and 코디세핀'

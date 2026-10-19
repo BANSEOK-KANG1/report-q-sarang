@@ -8,7 +8,7 @@ authors:
 - Satomi Kagota
 - Kwon Young Mi
 - Kazumasa Shinozuka
-- Kunitomo Masaru
+- Masaru Kunitomo
 year: 1999
 journal: The Japanese Journal of Pharmacology
 doi: 10.1254/jjp.79.335

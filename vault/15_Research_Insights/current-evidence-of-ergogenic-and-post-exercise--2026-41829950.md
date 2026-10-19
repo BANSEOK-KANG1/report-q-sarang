@@ -6,7 +6,7 @@ title_ko: Current Evidence of Ergogenic and Post-Exercise Recovery Effects of Di
   Narrative Review.
 slug: current-evidence-of-ergogenic-and-post-exercise--2026-41829950
 record_id: a8693206-38b9-47be-9b3a-4ba9ac7826df
-date: '2026-10-12'
+date: '2026-10-19'
 year: 2026
 authors:
 - Jędrejko M
@@ -39,8 +39,28 @@ tags:
 - cordycepin
 - evidence
 - 제왕충초
-generated: '2026-10-12'
-visuals: []
+generated: '2026-10-19'
+visuals:
+- type: figure
+  src: /research-figures/current-evidence-of-ergogenic-and-post-exercise--2026-41829950/nutrients-18-00781-g002.gif
+  caption: 원문 Figure (nutrients-18-00781-g002) — Europe PMC OA
+  source: europepmc
+  filename: nutrients-18-00781-g002.gif
+- type: figure
+  src: /research-figures/current-evidence-of-ergogenic-and-post-exercise--2026-41829950/nutrients-18-00781-g001.jpg
+  caption: 원문 Figure (nutrients-18-00781-g001) — Europe PMC OA
+  source: europepmc
+  filename: nutrients-18-00781-g001.jpg
+- type: figure
+  src: /research-figures/current-evidence-of-ergogenic-and-post-exercise--2026-41829950/nutrients-18-00781-g005.jpg
+  caption: 원문 Figure (nutrients-18-00781-g005) — Europe PMC OA
+  source: europepmc
+  filename: nutrients-18-00781-g005.jpg
+- type: figure
+  src: /research-figures/current-evidence-of-ergogenic-and-post-exercise--2026-41829950/nutrients-18-00781-g006.jpg
+  caption: 원문 Figure (nutrients-18-00781-g006) — Europe PMC OA
+  source: europepmc
+  filename: nutrients-18-00781-g006.jpg
 api_meta:
   keywords:
   - Cordyceps militaris
@@ -99,7 +119,7 @@ api_meta:
     europepmc: true
     openalex: true
     crossref: true
-  fetched_at: '2026-10-12'
+  fetched_at: '2026-10-19'
 translations:
   title_ko: Current Evidence of Ergogenic and Post-Exercise Recovery Effects of Dietary
     Supplementation with Cordyceps(cordyceps) militaris(cordyceps militaris) in Humans-A

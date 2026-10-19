@@ -12,7 +12,7 @@ authors:
 - Feng Xu
 - Yi Teng
 - Shui-Jin Yuan
-- Liqun Jin
+- Li-Qun Jin
 - Zhi‐Qiang Liu
 - Yu‐Guo Zheng
 year: 2020

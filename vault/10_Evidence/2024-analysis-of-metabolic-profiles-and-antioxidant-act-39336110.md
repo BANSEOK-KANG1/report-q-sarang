@@ -7,7 +7,7 @@ authors:
 - Chuyu Tang
 - Tao Wang
 - Mengjun Xiao
-- Yuling Li
+- Yu-Ling Li
 - Xiuzhang Li
 year: 2024
 journal: Biology

@@ -1,7 +1,7 @@
 ---
 record_id: 15215d6d-862d-4048-bd59-f5f208d5a9f6
-title: Dopamine and serotonin contribute to Paecilomyces hepiali against chronic unpredictable
-  mild stress induced depressive behavior in Sprague Dawley rats
+title: Dopamine and serotonin contribute to Paecilomyces hepiali against chronic unpredictable
+  mild stress induced depressive behavior in Sprague Dawley rats.
 authors:
 - Juan Wang
 - Yange Liu
@@ -12,10 +12,10 @@ authors:
 - Lirong Teng
 - Di Wang
 year: 2017
-journal: Molecular Medicine Reports
+journal: Molecular medicine reports
 doi: 10.3892/mmr.2017.7261
 pmid: '28849191'
-url: https://doi.org/10.3892/mmr.2017.7261
+url: https://pubmed.ncbi.nlm.nih.gov/28849191/
 track: comparator_sinensis
 compound: cordyceps_extract
 species: Cordyceps_sinensis
@@ -36,6 +36,7 @@ jurisdiction_caveats:
 - research_only
 source_apis:
 - openalex
+- pubmed
 full_text_available: false
 tags:
 - evidence
@@ -44,7 +45,7 @@ tags:
 - market/research_only
 ---
 
-# Dopamine and serotonin contribute to Paecilomyces hepiali against chronic unpredictable mild stress induced depressive behavior in Sprague Dawley rats
+# Dopamine and serotonin contribute to Paecilomyces hepiali against chronic unpredictable mild stress induced depressive behavior in Sprague Dawley rats.
 
 ## Summary fields
 - **Year:** 2017
@@ -58,10 +59,10 @@ tags:
 - **Citation status:** needs_legal_review
 - **DOI:** 10.3892/mmr.2017.7261
 - **PMID:** 28849191
-- **URL:** https://doi.org/10.3892/mmr.2017.7261
+- **URL:** https://pubmed.ncbi.nlm.nih.gov/28849191/
 
 ## Abstract
-Paecilomyces hepiali contains identical chemical constituents to Cordyceps sinensis, and it presents antidepressant‑like activity via regulating noradrenergic and dopaminergic systems. Behavioral despair depression models serve important roles in scientific screening and evaluation of antidepressants. The present study aims to investigate the antidepressant‑like activity of P. hepiali extract (PHC) in chronic unpredictable mild stress (CUMS)‑induced rat model of depression. Following four weeks of treatment, similar to fluoxetine at 3 mg/kg (positive drug), PHC at doses from 0.08 to 2.0 g/kg strongly increased sucrose preference and reduced the immobility time of depression‑like rats in forced swimming test. The hypo‑level of adrenocorticotropic hormone, noradrenaline and glucocorticoid receptor in serum and hypothalamus of depression‑like rats was enhanced by PHC. PHC normalized CUMS‑induced disorders of dihydroxyphenylacetic acid, dopamine, 5‑hydroxytryptamine (5‑HT) and 5‑hydroxyindoleacetic acid in serum and/or hypothalamus of depression‑like rats. Moreover, PHC enhanced the expression of tyrosine hydroxylase and reduced the levels of dopamine D2 receptor and 5‑HT2A receptor in hypothalamus. These results suggested that the antidepressant‑like effects of PHC in CUMS‑induced depression are associated with not only the modulation of dopamine, but also the regulation of 5-HT.
+Paecilomyces hepiali contains identical chemical constituents to Cordyceps sinensis, and it presents antidepressant‑like activity via regulating noradrenergic and dopaminergic systems. Behavioral despair depression models serve important roles in scientific screening and evaluation of antidepressants. The present study aims to investigate the antidepressant‑like activity of P. hepiali extract (PHC) in chronic unpredictable mild stress (CUMS)‑induced rat model of depression. Following four weeks of treatment, similar to fluoxetine at 3 mg/kg (positive drug), PHC at doses from 0.08 to 2.0 g/kg strongly increased sucrose preference and reduced the immobility time of depression‑like rats in forced swimming test. The hypo‑level of adrenocorticotropic hormone, noradrenaline and glucocorticoid receptor in serum and hypothalamus of depression‑like rats was enhanced by PHC. PHC normalized CUMS‑induced disorders of dihydroxyphenylacetic acid, dopamine, 5‑hydroxytryptamine (5‑HT) and 5‑hydroxyindoleacetic acid in serum and/or hypothalamus of depression‑like rats. Moreover, PHC enhanced the expression of tyrosine hydroxylase and reduced the levels of dopamine D2 receptor and 5‑HT2A receptor in hypothalamus. These results suggested that the antidepressant‑like effects of PHC in CUMS‑induced depression are associated with not only the modulation of dopamine, but also the regulation of 5-HT.
 
 ## Relevance notes
 Comparator species / Cs-4 — do not equate to C. militaris cordycepin product

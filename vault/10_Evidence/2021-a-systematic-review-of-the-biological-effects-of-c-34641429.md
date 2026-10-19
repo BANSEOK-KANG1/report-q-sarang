@@ -5,7 +5,7 @@ authors:
 - Masar Radhi
 - Sadaf Ashraf
 - Steven Lawrence
-- Asta Arendt Tranholm
+- Asta Arendt-Tranholm
 - Peter A. D. Wellham
 - Abdul Hafeez
 - Ammar Sabah Khamis

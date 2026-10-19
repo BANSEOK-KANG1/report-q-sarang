@@ -15,7 +15,7 @@ journal: Bioresource technology
 doi: 10.1016/j.biortech.2023.129742
 pmid: '37734485'
 url: https://pubmed.ncbi.nlm.nih.gov/37734485/
-track: militaris
+track: compound
 compound: cordycepin
 species: Cordyceps_militaris
 study_type: animal
@@ -26,7 +26,7 @@ risk_flags:
 - preclinical_only
 maps_to_market: research_only
 citation_status: candidate
-priority_review: false
+priority_review: true
 jurisdiction_caveats:
 - KR_liquor_no_disease_claims
 - not_HFF_product

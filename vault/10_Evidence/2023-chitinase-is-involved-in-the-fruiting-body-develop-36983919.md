@@ -18,12 +18,14 @@ pmid: '36983919'
 url: https://pubmed.ncbi.nlm.nih.gov/36983919/
 track: militaris
 compound: unclear
-species: Cordyceps_militaris
-study_type: unclear
-evidence_strength: F_review_only
+species: mixed
+study_type: animal
+evidence_strength: C_animal
 relevance_to_product: partial
-claim_category: other
-risk_flags: []
+claim_category: metabolic
+risk_flags:
+- preclinical_only
+- species_mismatch
 maps_to_market: research_only
 citation_status: candidate
 priority_review: false
@@ -37,7 +39,7 @@ full_text_available: false
 tags:
 - evidence
 - status/candidate
-- study/unclear
+- study/animal
 - market/research_only
 ---
 
@@ -45,12 +47,12 @@ tags:
 
 ## Summary fields
 - **Year:** 2023
-- **Study type:** unclear
-- **Evidence strength:** F_review_only
-- **Species:** Cordyceps_militaris
+- **Study type:** animal
+- **Evidence strength:** C_animal
+- **Species:** mixed
 - **Compound:** unclear
-- **Claim category:** other
-- **Risk flags:** none
+- **Claim category:** metabolic
+- **Risk flags:** preclinical_only, species_mismatch
 - **Maps to market:** research_only
 - **Citation status:** candidate
 - **DOI:** 10.1002/bmc.4279
@@ -58,7 +60,7 @@ tags:
 - **URL:** https://pubmed.ncbi.nlm.nih.gov/36983919/
 
 ## Abstract
-Cordyceps militaris is a famous traditional edible and medicinal fungus in Asia, and its fruiting body has rich medicinal value. The molecular mechanism of fruiting body development is still not well understood in C. militaris. In this study, phylogenetically analysis and protein domains prediction of the 14 putative chitinases were performed. The transcription level and enzyme activity of chitinase were significant increased during fruiting body development of C. militaris. Then, two chitinase genes (Chi1 and Chi4) were selected to construct gene silencing strain by RNA interference. When Chi1 and Chi4 genes were knockdown, the differentiation of the primordium was blocked, and the number of fruiting body was significantly decreased approximately by 50% compared to wild-type (WT) strain. The length of the single mature fruiting body was shortened by 27% and 38% in Chi1- and Chi4-silenced strains, respectively. In addition, the chitin content and cell wall thickness were significantly increased in Chi1- and Chi4-silenced strains. These results provide new insights into the biological functions of chitinase in fruiting body development of C. militaris.
+A systematic study on the metabolome differences between wild Ophiocordyceps sinensis and artificial cultured Cordyceps militaris was conducted using liquid chromatography-mass spectrometry. Principal component analysis and orthogonal projection on latent structure-discriminant analysis results showed that C. militaris grown on solid rice medium (R-CM) and C. militaris grown on tussah pupa (T-CM) evidently separated and individually separated from wild O. sinensis, indicating metabolome difference among wild O. sinensis, R-CM and T-CM. The metabolome differences between R-CM and T-CM indicated that C. militaris could accommodate to culture medium by differential metabolic regulation. Hierarchical clustering analysis was further performed to cluster the differential metabolites and samples based on their metabolic similarity. The higher content of amino acids (pyroglutamic acid, glutamic acid, histidine, phenylalanine and arginine), unsaturated fatty acid (linolenic acid and linoleic acid), peptides, mannitol, adenosine and succinoadenosine in O. sinensis make it as an excellent choice as a traditional Chinese medicine for invigoration or nutritional supplementation. Similar compositions with O. sinensis and easy cultivation make artificially cultured C. militaris a possible alternative to O. sinensis.
 
 ## Relevance notes
 _n/a_

@@ -4,7 +4,7 @@ title: '[Quantitative analysis of adenosine and cordycepin in Cordyceps sinensis
   its substitutes with LC-MS-MS].'
 authors:
 - Zhao Yang
-- Shao-Yun Chi
+- Chi Shaoyun
 - Chunhui Zhang
 - Aiying Wu
 year: 2007

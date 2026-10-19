@@ -52,7 +52,7 @@
         "level": 1
       }
     ],
-    "cited_by_count": 122,
+    "cited_by_count": 123,
     "reference_count": 114,
     "publisher": "Wiley",
     "journal": "Phytotherapy research : PTR",
@@ -63,7 +63,7 @@
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-10-12"
+    "fetched_at": "2026-10-19"
   },
   "cordycepin-for-health-and-wellbeing-a-potent-bio-2020-32545666": {
     "slug": "cordycepin-for-health-and-wellbeing-a-potent-bio-2020-32545666",
@@ -71,7 +71,36 @@
     "doi": "10.3390/molecules24122231",
     "pmid": "32545666",
     "pmcid": "PMC7356751",
-    "figures": [],
+    "figures": [
+      {
+        "type": "figure",
+        "src": "/research-figures/cordycepin-for-health-and-wellbeing-a-potent-bio-2020-32545666/molecules-25-02735-g005.gif",
+        "caption": "원문 Figure (molecules-25-02735-g005) — Europe PMC OA",
+        "source": "europepmc",
+        "filename": "molecules-25-02735-g005.gif"
+      },
+      {
+        "type": "figure",
+        "src": "/research-figures/cordycepin-for-health-and-wellbeing-a-potent-bio-2020-32545666/molecules-25-02735-g003.jpg",
+        "caption": "원문 Figure (molecules-25-02735-g003) — Europe PMC OA",
+        "source": "europepmc",
+        "filename": "molecules-25-02735-g003.jpg"
+      },
+      {
+        "type": "figure",
+        "src": "/research-figures/cordycepin-for-health-and-wellbeing-a-potent-bio-2020-32545666/molecules-25-02735-g003.gif",
+        "caption": "원문 Figure (molecules-25-02735-g003) — Europe PMC OA",
+        "source": "europepmc",
+        "filename": "molecules-25-02735-g003.gif"
+      },
+      {
+        "type": "figure",
+        "src": "/research-figures/cordycepin-for-health-and-wellbeing-a-potent-bio-2020-32545666/molecules-25-02735-g002.jpg",
+        "caption": "원문 Figure (molecules-25-02735-g002) — Europe PMC OA",
+        "source": "europepmc",
+        "filename": "molecules-25-02735-g002.jpg"
+      }
+    ],
     "keywords": [
       "Cordyceps",
       "Anti-hyperlipidemia",
@@ -139,7 +168,7 @@
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-10-12"
+    "fetched_at": "2026-10-19"
   },
   "trends-in-the-immunomodulatory-effects-of-cordyc-2020-33328984": {
     "slug": "trends-in-the-immunomodulatory-effects-of-cordyc-2020-33328984",
@@ -239,7 +268,7 @@
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-10-12"
+    "fetched_at": "2026-10-19"
   },
   "cordyceps-polysaccharides-a-review-of-their-immu-2024-39519748": {
     "slug": "cordyceps-polysaccharides-a-review-of-their-immu-2024-39519748",
@@ -333,7 +362,7 @@
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-10-12"
+    "fetched_at": "2026-10-19"
   },
   "a-systematic-review-of-the-biological-effects-of-2021-34641429": {
     "slug": "a-systematic-review-of-the-biological-effects-of-2021-34641429",
@@ -341,7 +370,36 @@
     "doi": "10.3390/molecules26195886",
     "pmid": "34641429",
     "pmcid": "PMC8510467",
-    "figures": [],
+    "figures": [
+      {
+        "type": "figure",
+        "src": "/research-figures/a-systematic-review-of-the-biological-effects-of-2021-34641429/molecules-26-05886-g006.jpg",
+        "caption": "원문 Figure (molecules-26-05886-g006) — Europe PMC OA",
+        "source": "europepmc",
+        "filename": "molecules-26-05886-g006.jpg"
+      },
+      {
+        "type": "figure",
+        "src": "/research-figures/a-systematic-review-of-the-biological-effects-of-2021-34641429/molecules-26-05886-g006.gif",
+        "caption": "원문 Figure (molecules-26-05886-g006) — Europe PMC OA",
+        "source": "europepmc",
+        "filename": "molecules-26-05886-g006.gif"
+      },
+      {
+        "type": "figure",
+        "src": "/research-figures/a-systematic-review-of-the-biological-effects-of-2021-34641429/molecules-26-05886-g001a.gif",
+        "caption": "원문 Figure (molecules-26-05886-g001a) — Europe PMC OA",
+        "source": "europepmc",
+        "filename": "molecules-26-05886-g001a.gif"
+      },
+      {
+        "type": "figure",
+        "src": "/research-figures/a-systematic-review-of-the-biological-effects-of-2021-34641429/molecules-26-05886-g001b.jpg",
+        "caption": "원문 Figure (molecules-26-05886-g001b) — Europe PMC OA",
+        "source": "europepmc",
+        "filename": "molecules-26-05886-g001b.jpg"
+      }
+    ],
     "keywords": [
       "Signal transduction",
       "Review",
@@ -418,7 +476,7 @@
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-10-12"
+    "fetched_at": "2026-10-19"
   },
   "current-evidence-of-ergogenic-and-post-exercise--2026-41829950": {
     "slug": "current-evidence-of-ergogenic-and-post-exercise--2026-41829950",
@@ -426,7 +484,36 @@
     "doi": "10.3390/nu18050781",
     "pmid": "41829950",
     "pmcid": "PMC12986667",
-    "figures": [],
+    "figures": [
+      {
+        "type": "figure",
+        "src": "/research-figures/current-evidence-of-ergogenic-and-post-exercise--2026-41829950/nutrients-18-00781-g002.gif",
+        "caption": "원문 Figure (nutrients-18-00781-g002) — Europe PMC OA",
+        "source": "europepmc",
+        "filename": "nutrients-18-00781-g002.gif"
+      },
+      {
+        "type": "figure",
+        "src": "/research-figures/current-evidence-of-ergogenic-and-post-exercise--2026-41829950/nutrients-18-00781-g001.jpg",
+        "caption": "원문 Figure (nutrients-18-00781-g001) — Europe PMC OA",
+        "source": "europepmc",
+        "filename": "nutrients-18-00781-g001.jpg"
+      },
+      {
+        "type": "figure",
+        "src": "/research-figures/current-evidence-of-ergogenic-and-post-exercise--2026-41829950/nutrients-18-00781-g005.jpg",
+        "caption": "원문 Figure (nutrients-18-00781-g005) — Europe PMC OA",
+        "source": "europepmc",
+        "filename": "nutrients-18-00781-g005.jpg"
+      },
+      {
+        "type": "figure",
+        "src": "/research-figures/current-evidence-of-ergogenic-and-post-exercise--2026-41829950/nutrients-18-00781-g006.jpg",
+        "caption": "원문 Figure (nutrients-18-00781-g006) — Europe PMC OA",
+        "source": "europepmc",
+        "filename": "nutrients-18-00781-g006.jpg"
+      }
+    ],
     "keywords": [
       "Cordyceps militaris",
       "Performance",
@@ -504,7 +591,7 @@
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-10-12"
+    "fetched_at": "2026-10-19"
   },
   "correction-cordyceps-spp-a-review-on-its-immune--2026-42699468": {
     "slug": "correction-cordyceps-spp-a-review-on-its-immune--2026-42699468",
@@ -577,7 +664,7 @@
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-10-12"
+    "fetched_at": "2026-10-19"
   },
   "an-immunomodulatory-mushroom-cordyceps-militaris-2026-41432716": {
     "slug": "an-immunomodulatory-mushroom-cordyceps-militaris-2026-41432716",
@@ -656,7 +743,7 @@
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-10-12"
+    "fetched_at": "2026-10-19"
   },
   "immunomodulation-and-protective-effects-of-cordy-2024-39590481": {
     "slug": "immunomodulation-and-protective-effects-of-cordy-2024-39590481",
@@ -756,87 +843,88 @@
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-10-12"
+    "fetched_at": "2026-10-19"
   },
-  "anti-inflammatory-effects-of-cordycepin-via-supp-2010-20937401": {
-    "slug": "anti-inflammatory-effects-of-cordycepin-via-supp-2010-20937401",
-    "record_id": "775f2c46-d4f8-4f57-9925-9985692e18f1",
-    "doi": "10.1016/j.intimp.2010.09.011",
-    "pmid": "20937401",
+  "immunomodulatory-and-antioxidative-activity-of-c-2016-26853825": {
+    "slug": "immunomodulatory-and-antioxidative-activity-of-c-2016-26853825",
+    "record_id": "fee2e92b-b357-428e-aefd-2529e8c2d0a3",
+    "doi": "10.1016/j.ijbiomac.2016.02.009",
+    "pmid": "26853825",
     "pmcid": "",
     "figures": [],
-    "keywords": [],
+    "keywords": [
+      "Cytokines",
+      "Immune Activation",
+      "Cordyceps Militaris Polysaccharide"
+    ],
     "mesh_terms": [
-      "Microglia",
-      "Cell Line",
+      "Spleen",
+      "T-Lymphocytes",
       "Animals",
       "Mice",
-      "Nitric Oxide",
-      "Mitogen-Activated Protein Kinases",
-      "Lipopolysaccharides",
-      "Dinoprostone",
-      "NF-kappa B",
-      "Deoxyadenosines",
-      "Anti-Inflammatory Agents",
+      "Cordyceps",
+      "Immunoglobulin G",
+      "RNA, Messenger",
+      "Immunologic Factors",
       "Cytokines",
-      "Reverse Transcriptase Polymerase Chain Reaction",
-      "Signal Transduction",
-      "Proto-Oncogene Proteins c-akt"
+      "Free Radical Scavengers",
+      "Leukocyte Count",
+      "Gene Expression",
+      "Oxidative Stress",
+      "Female",
+      "Male",
+      "Fungal Polysaccharides",
+      "Biomarkers"
     ],
     "concepts": [
       {
-        "name": "Cordycepin",
-        "score": 0.725,
-        "level": 2
-      },
-      {
-        "name": "Microglia",
-        "score": 0.609,
+        "name": "Cordyceps militaris",
+        "score": 0.974,
         "level": 3
       },
       {
-        "name": "Inflammation",
-        "score": 0.536,
+        "name": "Polysaccharide",
+        "score": 0.833,
         "level": 2
       },
       {
-        "name": "Inflammatory response",
-        "score": 0.48,
-        "level": 3
-      },
-      {
-        "name": "Immunology",
-        "score": 0.406,
-        "level": 1
-      },
-      {
-        "name": "Neuroscience",
-        "score": 0.337,
-        "level": 1
+        "name": "Cordyceps",
+        "score": 0.778,
+        "level": 2
       },
       {
         "name": "Chemistry",
-        "score": 0.326,
+        "score": 0.527,
         "level": 0
       },
       {
-        "name": "Medicine",
-        "score": 0.304,
+        "name": "Microbiology",
+        "score": 0.368,
+        "level": 1
+      },
+      {
+        "name": "Biochemistry",
+        "score": 0.348,
+        "level": 1
+      },
+      {
+        "name": "Biology",
+        "score": 0.314,
         "level": 0
       }
     ],
-    "cited_by_count": 171,
-    "reference_count": 32,
+    "cited_by_count": 109,
+    "reference_count": 24,
     "publisher": "Elsevier BV",
-    "journal": "International immunopharmacology",
+    "journal": "International journal of biological macromolecules",
     "oa_status": "closed",
-    "oa_url": "https://pubmed.ncbi.nlm.nih.gov/20937401/",
+    "oa_url": "https://pubmed.ncbi.nlm.nih.gov/26853825/",
     "apis": {
       "europepmc": true,
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-10-12"
+    "fetched_at": "2026-10-19"
   },
   "cordycepin-exhibits-anti-fatigue-effect-via-acti-2022-36399798": {
     "slug": "cordycepin-exhibits-anti-fatigue-effect-via-acti-2022-36399798",
@@ -905,7 +993,7 @@
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-10-12"
+    "fetched_at": "2026-10-19"
   },
   "beneficial-effect-of-cordyceps-militaris-on-exer-2020-33312018": {
     "slug": "beneficial-effect-of-cordyceps-militaris-on-exer-2020-33312018",
@@ -913,7 +1001,36 @@
     "doi": "10.1080/12298093.2020.1831135",
     "pmid": "33312018",
     "pmcid": "PMC7717596",
-    "figures": [],
+    "figures": [
+      {
+        "type": "figure",
+        "src": "/research-figures/beneficial-effect-of-cordyceps-militaris-on-exer-2020-33312018/TMYB_A_1831135_F0001_B.gif",
+        "caption": "원문 Figure (TMYB_A_1831135_F0001_B) — Europe PMC OA",
+        "source": "europepmc",
+        "filename": "TMYB_A_1831135_F0001_B.gif"
+      },
+      {
+        "type": "figure",
+        "src": "/research-figures/beneficial-effect-of-cordyceps-militaris-on-exer-2020-33312018/TMYB_A_1831135_F0002_B.gif",
+        "caption": "원문 Figure (TMYB_A_1831135_F0002_B) — Europe PMC OA",
+        "source": "europepmc",
+        "filename": "TMYB_A_1831135_F0002_B.gif"
+      },
+      {
+        "type": "figure",
+        "src": "/research-figures/beneficial-effect-of-cordyceps-militaris-on-exer-2020-33312018/TMYB_A_1831135_F0003_B.gif",
+        "caption": "원문 Figure (TMYB_A_1831135_F0003_B) — Europe PMC OA",
+        "source": "europepmc",
+        "filename": "TMYB_A_1831135_F0003_B.gif"
+      },
+      {
+        "type": "figure",
+        "src": "/research-figures/beneficial-effect-of-cordyceps-militaris-on-exer-2020-33312018/TMYB_A_1831135_F0001_B.jpg",
+        "caption": "원문 Figure (TMYB_A_1831135_F0001_B) — Europe PMC OA",
+        "source": "europepmc",
+        "filename": "TMYB_A_1831135_F0001_B.jpg"
+      }
+    ],
     "keywords": [
       "ATP",
       "Cordyceps militaris",
@@ -969,7 +1086,7 @@
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-10-12"
+    "fetched_at": "2026-10-19"
   },
   "current-evidence-and-practical-considerations-fo-2026-42588175": {
     "slug": "current-evidence-and-practical-considerations-fo-2026-42588175",
@@ -1070,7 +1187,7 @@
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-10-12"
+    "fetched_at": "2026-10-19"
   },
   "skeletal-muscle-mitochondrial-methylation-neurot-2026-42682565": {
     "slug": "skeletal-muscle-mitochondrial-methylation-neurot-2026-42682565",
@@ -1171,7 +1288,7 @@
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-10-12"
+    "fetched_at": "2026-10-19"
   },
   "effects-of-cordycepin-on-antioxidant-capacity-an-2026-42822105": {
     "slug": "effects-of-cordycepin-on-antioxidant-capacity-an-2026-42822105",
@@ -1242,7 +1359,7 @@
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-10-12"
+    "fetched_at": "2026-10-19"
   },
   "effects-of-protease-hydrolyzed-and-cordyceps-mil-2026-42737309": {
     "slug": "effects-of-protease-hydrolyzed-and-cordyceps-mil-2026-42737309",
@@ -1341,82 +1458,7 @@
       "openalex": true,
       "crossref": true
     },
-    "fetched_at": "2026-10-12"
-  },
-  "improvement-of-the-multi-performance-biocharacte-2021-33032178": {
-    "slug": "improvement-of-the-multi-performance-biocharacte-2021-33032178",
-    "record_id": "6aab881e-40f0-407a-af7a-db7ca7ff2d94",
-    "doi": "10.1016/j.colsurfb.2020.111369",
-    "pmid": "33032178",
-    "pmcid": "",
-    "figures": [],
-    "keywords": [
-      "Oral administration",
-      "Colon cancer",
-      "cordycepin",
-      "Hybrid Nanocarrier"
-    ],
-    "mesh_terms": [
-      "Humans",
-      "Chitosan",
-      "Deoxyadenosines",
-      "Administration, Oral",
-      "Apoptosis"
-    ],
-    "concepts": [
-      {
-        "name": "Cordycepin",
-        "score": 0.987,
-        "level": 2
-      },
-      {
-        "name": "Nanocarriers",
-        "score": 0.814,
-        "level": 3
-      },
-      {
-        "name": "Apoptosis",
-        "score": 0.629,
-        "level": 2
-      },
-      {
-        "name": "Chitosan",
-        "score": 0.575,
-        "level": 2
-      },
-      {
-        "name": "Chemistry",
-        "score": 0.518,
-        "level": 0
-      },
-      {
-        "name": "Cancer cell",
-        "score": 0.434,
-        "level": 3
-      },
-      {
-        "name": "Pharmacology",
-        "score": 0.422,
-        "level": 1
-      },
-      {
-        "name": "Biophysics",
-        "score": 0.382,
-        "level": 1
-      }
-    ],
-    "cited_by_count": 23,
-    "reference_count": 32,
-    "publisher": "Elsevier BV",
-    "journal": "Colloids and surfaces. B, Biointerfaces",
-    "oa_status": "hybrid",
-    "oa_url": "https://www.sciencedirect.com/science/article/pii/S0927776520307256/pdf",
-    "apis": {
-      "europepmc": true,
-      "openalex": true,
-      "crossref": true
-    },
-    "fetched_at": "2026-10-12"
+    "fetched_at": "2026-10-19"
   },
   "inhibitory-effects-of-cordycepin-3-deoxyadenosin-2007-18051324": {
     "slug": "inhibitory-effects-of-cordycepin-3-deoxyadenosin-2007-18051324",
@@ -1447,6 +1489,106 @@
       "openalex": false,
       "crossref": false
     },
-    "fetched_at": "2026-10-12"
+    "fetched_at": "2026-10-19"
+  },
+  "multi-target-neuroprotective-effects-of-cordycep-2026-42652243": {
+    "slug": "multi-target-neuroprotective-effects-of-cordycep-2026-42652243",
+    "record_id": "1d4b7305-8d08-46aa-8d83-febc43df23dd",
+    "doi": "10.3390/biomedicines14081862",
+    "pmid": "42652243",
+    "pmcid": "PMC13509992",
+    "figures": [
+      {
+        "type": "figure",
+        "src": "/research-figures/multi-target-neuroprotective-effects-of-cordycep-2026-42652243/biomedicines-14-01862-g001.webp",
+        "caption": "원문 Figure (biomedicines-14-01862-g001) — Europe PMC OA",
+        "source": "europepmc",
+        "filename": "biomedicines-14-01862-g001.webp"
+      },
+      {
+        "type": "figure",
+        "src": "/research-figures/multi-target-neuroprotective-effects-of-cordycep-2026-42652243/biomedicines-14-01862-g006.gif",
+        "caption": "원문 Figure (biomedicines-14-01862-g006) — Europe PMC OA",
+        "source": "europepmc",
+        "filename": "biomedicines-14-01862-g006.gif"
+      },
+      {
+        "type": "figure",
+        "src": "/research-figures/multi-target-neuroprotective-effects-of-cordycep-2026-42652243/biomedicines-14-01862-g009.webp",
+        "caption": "원문 Figure (biomedicines-14-01862-g009) — Europe PMC OA",
+        "source": "europepmc",
+        "filename": "biomedicines-14-01862-g009.webp"
+      },
+      {
+        "type": "figure",
+        "src": "/research-figures/multi-target-neuroprotective-effects-of-cordycep-2026-42652243/biomedicines-14-01862-g008.gif",
+        "caption": "원문 Figure (biomedicines-14-01862-g008) — Europe PMC OA",
+        "source": "europepmc",
+        "filename": "biomedicines-14-01862-g008.gif"
+      }
+    ],
+    "keywords": [
+      "Cordyceps militaris",
+      "Nucleosides",
+      "Alzheimer’s disease",
+      "drug discovery",
+      "Β-secretase",
+      "Liver X Receptors"
+    ],
+    "mesh_terms": [],
+    "concepts": [
+      {
+        "name": "Cordycepin",
+        "score": 0.944,
+        "level": 2
+      },
+      {
+        "name": "Neuroprotection",
+        "score": 0.782,
+        "level": 2
+      },
+      {
+        "name": "Pharmacology",
+        "score": 0.662,
+        "level": 1
+      },
+      {
+        "name": "Neurotoxicity",
+        "score": 0.633,
+        "level": 3
+      },
+      {
+        "name": "Cordyceps militaris",
+        "score": 0.604,
+        "level": 3
+      },
+      {
+        "name": "Chemistry",
+        "score": 0.497,
+        "level": 0
+      },
+      {
+        "name": "Adenosine",
+        "score": 0.495,
+        "level": 2
+      },
+      {
+        "name": "Viability assay",
+        "score": 0.481,
+        "level": 3
+      }
+    ],
+    "cited_by_count": 0,
+    "reference_count": 69,
+    "publisher": "MDPI AG",
+    "journal": "",
+    "oa_status": "gold",
+    "oa_url": "https://doi.org/10.3390/biomedicines14081862",
+    "apis": {
+      "europepmc": true,
+      "openalex": true,
+      "crossref": true
+    },
+    "fetched_at": "2026-10-19"
   }
 }

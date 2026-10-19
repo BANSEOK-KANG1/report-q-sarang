@@ -2,17 +2,17 @@
 record_id: fbae126e-af11-4048-9a0b-0490a2df0b52
 title: '[Research progress in synthesis of cordycepin by microorganisms].'
 authors:
-- Tian Y
-- Chen L
-- Liang Y
-- Zhu Q
-- Zhang C
-- Lu W.
+- Ying Tian
+- Lishuangfei Chen
+- Yirui Liang
+- Qiqi Zhu
+- Chuanbo Zhang
+- Wenyu Lu
 year: 2026
-journal: ''
+journal: Sheng wu gong cheng xue bao = Chinese journal of biotechnology
 doi: 10.13345/j.cjb.260120
 pmid: '42773651'
-url: https://europepmc.org/article/MED/42773651
+url: https://pubmed.ncbi.nlm.nih.gov/42773651/
 track: compound
 compound: cordycepin
 species: Cordyceps_militaris
@@ -30,6 +30,7 @@ jurisdiction_caveats:
 - research_only
 source_apis:
 - europepmc
+- pubmed
 full_text_available: false
 tags:
 - evidence
@@ -52,7 +53,7 @@ tags:
 - **Citation status:** candidate
 - **DOI:** 10.13345/j.cjb.260120
 - **PMID:** 42773651
-- **URL:** https://europepmc.org/article/MED/42773651
+- **URL:** https://pubmed.ncbi.nlm.nih.gov/42773651/
 
 ## Abstract
 Cordycepin is a natural nucleoside antibiotic isolated from the fruiting bodies of <i>Cordyceps militaris</i>. It possesses diverse health-beneficial and medicinal values. However, the conventional fermentation processes for cordycepin production suffer from inherent drawbacks, including low yields, prolonged production cycles, and batch-to-batch inconsistency. These problems result in the exorbitant market price of cordycepin and severely restrict the potential for market application. The advent of synthetic biology has offered a revolutionary approach to address this challenge. This article systematically reviews the development trajectory of cordycepin production, spanning from conventional fermentation to modern synthetic biology-based manufacturing. It focuses on analyzing the breakthrough advancements in the construction of microbial cell factories such as <i>Saccharomyces cerevisiae</i> and cordycepin synthesis. Finally, it provides perspectives on the future development of more efficient, eco-friendly, and intelligent cordycepin biomanufacturing technologies by leveraging enzyme engineering and synthetic biology. And this study offers theoretical support and technical references for constructing high-cordycepin-producing strains, which is critical to facilitate the industrialization of cordycepin.

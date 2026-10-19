@@ -3,7 +3,7 @@ record_id: 72a9e89c-baf7-4aa5-b776-a6c4e4257d06
 title: Differential coexistence of multiple genotypes of Ophiocordyceps sinensis in
   the stromata, ascocarps and ascospores of natural Cordyceps sinensis
 authors:
-- Yuling Li
+- Yu-Ling Li
 - Xiuzhang Li
 - Yisang Yao
 - Zimei Wu

@@ -3,9 +3,17 @@ record_id: a363b77c-5945-4568-b646-e882b667a2ee
 title: Hydrophobin Gene Cmhyd4 Negatively Regulates Fruiting Body Development in Edible
   Fungi Cordyceps militaris.
 authors:
-- Xiao Li
-- Mengqian Liu
-- Caihong Dong
+- Mengdi Lyu
+- Jiapeng Zeng
+- Yue Zhou
+- Tongyu Zhang
+- Aiping Wang
+- Jiezhao Ma
+- Ziyi Wu
+- Alvaro Castells-Garcia
+- Esther González-Almela
+- Junfang Lin
+- Tao Wei
 year: 2023
 journal: International journal of molecular sciences
 doi: 10.1006/meth.2001.1262

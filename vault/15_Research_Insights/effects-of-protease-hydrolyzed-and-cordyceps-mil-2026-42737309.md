@@ -6,7 +6,7 @@ title_ko: Effects of Protease-Hydrolyzed and Cordyceps(cordyceps) militaris(cord
   Energy Metabolism in HCT116 Cells.
 slug: effects-of-protease-hydrolyzed-and-cordyceps-mil-2026-42737309
 record_id: 7253a3ea-658e-429b-b018-99f1bf6b172a
-date: '2026-10-12'
+date: '2026-10-19'
 year: 2026
 authors:
 - Chen B
@@ -42,7 +42,7 @@ tags:
 - cordycepin
 - evidence
 - 제왕충초
-generated: '2026-10-12'
+generated: '2026-10-19'
 visuals:
 - type: figure
   src: /research-figures/effects-of-protease-hydrolyzed-and-cordyceps-mil-2026-42737309/foods-15-03065-g004.gif
@@ -107,7 +107,7 @@ api_meta:
     europepmc: true
     openalex: true
     crossref: true
-  fetched_at: '2026-10-12'
+  fetched_at: '2026-10-19'
 translations:
   title_ko: Effects of Protease-Hydrolyzed and Cordyceps(cordyceps) militaris(cordyceps
     militaris) -Fermented Sea Cucumber Viscera Hydrolysates on Cellular Function and

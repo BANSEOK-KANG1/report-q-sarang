@@ -1,22 +1,22 @@
 ---
 record_id: d562d41b-3f11-4caf-8d4a-bbf136ac0258
-title: In vitro evaluation of Cordyceps militaris as a potential radioprotective agent.
+title: In vitro evaluation of Cordyceps militaris as a potential radioprotective agent
 authors:
 - Min-Ho Jeong
-- You-Soo Park
-- Dong-Hyeok Jeong
+- YOU-SOO PARK
+- DONG-HYEOK JEONG
 - Chang-Geun Lee
-- Joong-Sun Kim
+- Joong‐Sun Kim
 - Su-Jung Oh
-- Soo-Kyung Jeong
+- Soo Kyung Jeong
 - Kwangmo Yang
-- Wol-Soon Jo
+- Wol‐Soon Jo
 year: 2014
-journal: International journal of molecular medicine
+journal: International Journal of Molecular Medicine
 doi: 10.3892/ijmm.2014.1901
 pmid: '25176413'
-url: https://pubmed.ncbi.nlm.nih.gov/25176413/
-track: compound
+url: https://doi.org/10.3892/ijmm.2014.1901
+track: militaris
 compound: cordycepin
 species: Cordyceps_militaris
 study_type: animal
@@ -35,7 +35,7 @@ jurisdiction_caveats:
 - disease_language_in_source
 - research_only
 source_apis:
-- pubmed
+- openalex
 full_text_available: false
 tags:
 - evidence
@@ -44,7 +44,7 @@ tags:
 - market/research_only
 ---
 
-# In vitro evaluation of Cordyceps militaris as a potential radioprotective agent.
+# In vitro evaluation of Cordyceps militaris as a potential radioprotective agent
 
 ## Summary fields
 - **Year:** 2014
@@ -58,7 +58,7 @@ tags:
 - **Citation status:** needs_legal_review
 - **DOI:** 10.3892/ijmm.2014.1901
 - **PMID:** 25176413
-- **URL:** https://pubmed.ncbi.nlm.nih.gov/25176413/
+- **URL:** https://doi.org/10.3892/ijmm.2014.1901
 
 ## Abstract
 Radiation is an important component of therapy for a wide range of malignant conditions. However, it triggers DNA damage and cell death in normal cells and results in adverse side-effects. Cordyceps militaris (C. militaris), a traditional medicinal mushroom, produces the bioactive compound, cordycepin (3'-deoxyadenosine) and has multiple pharmacological activities, such as antitumor, antimetastatic, antioxidant and immunomodulatory effects. The present study was undertaken to investigate whether CM-AE, an extract obtained from C. militaris exerts protective effects against radiation-induced DNA damage. The protective effects of CM-AE were compared with those of cordycepin. CM-AE effectively increased free radical scavenging activity and decreased radiation-induced plasmid DNA strand breaks in in vitro assays. CM-AE significantly inhibited the generation of reactive oxygen species (ROS) and cellular DNA damage in 2 Gy irradiated Chinese hamster ovary (CHO)-K1 cells. Moreover, treatment with CM-AE induced similar levels of phosphorylated H2AX in the cells, which reflects the initial DNA double-strand breaks in the irradiated cells compared with the non-irradiated CHO-K1 cells. However, cordycepin did not show free radical scavenging activity and did not protect against radiation-induced plasmid DNA or cellular DNA damage. These results suggest that the free radical scavenging activity of CM-AE contributes towards its DNA radioprotective effects and that the protective effects of CM-AE are much more potent to those of cordycepin. The data presented in this study may provide useful information for the screening of potent radioprotective materials.

@@ -3,11 +3,11 @@ record_id: 4d7e3c8b-2327-4076-a062-255d6968533f
 title: Antioxidant and Antimicrobial Activity of Ophiocordyceps sinensis and Paecilomyces
   hepiali Extracts
 authors:
-- L. Ungvarská Maľučká
-- A. Uhrinová
+- Lucia Ungvarská Maľučká
+- Anna Uhrinová
 - J. Harvanová
-- Ľ. Tkáčiková
-- M. Pavlík
+- Ľudmila Tkáčiková
+- Martin Pavlík
 year: 2021
 journal: Chemické listy
 doi: ''
