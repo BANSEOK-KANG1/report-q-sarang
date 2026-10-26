@@ -3,11 +3,16 @@ record_id: 6758574b-918a-472f-86f7-8a2c8259bcda
 title: Cordycepin Enhanced Therapeutic Potential of Gemcitabine against Cholangiocarcinoma
   via Downregulating Cancer Stem-Like Properties.
 authors:
-- Hong Kyu Lee
-- Yun-Jung Na
-- Su-Min Seong
-- Dohee Ahn
-- Kyung-Chul Choi
+- Xuebing Zhou
+- Yuan Li
+- Chunyu Yang
+- Dan Chen
+- Tong Wang
+- Tesi Liu
+- Wendi Yan
+- Zhaoxia Su
+- Bosen Peng
+- Xiangshan Ren
 year: 2024
 journal: Biomolecules & therapeutics
 doi: 10.1016/j.lfs.2023.121698

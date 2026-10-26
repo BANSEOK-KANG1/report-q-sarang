@@ -1,24 +1,24 @@
 ---
 record_id: adeeb45d-cebc-4bf0-a121-2a53a690f5ce
-title: Cordycepin (3'-deoxyadenosine) pentostatin (deoxycoformycin) combination treatment
-  of mice experimentally infected with Trypanosoma evansi.
+title: Cordycepin (3′-deoxyadenosine) pentostatin (deoxycoformycin) combination treatment
+  of mice experimentally infected withTrypanosoma evansi
 authors:
 - Luciana Dalla Rosa
-- Aleksandro S da Silva
-- Lucas T Gressler
-- Camila B Oliveira
-- Maria G C Dambrós
-- Luiz C Miletti
-- Raqueli T França
-- Sonia T A Lopes
-- Yasmin N Samara
-- Marcelo L da Veiga
-- Silvia G Monteiro
+- Aleksandro Schafer Da Silva
+- Lucas Trevisan Gressler
+- Camila Belmonte Oliveira
+- Maria Gabriela Casagrande Dambrós
+- Luiz Cláudio Miletti
+- Raqueli Teresinha França
+- Sônia T.A. Lopes
+- Yasmin N. Samara
+- Marcelo Leite da Veiga
+- Sílvia González Monteiro
 year: 2013
 journal: Parasitology
 doi: 10.1017/s0031182012001990
 pmid: '23361035'
-url: https://pubmed.ncbi.nlm.nih.gov/23361035/
+url: https://doi.org/10.1017/s0031182012001990
 track: compound
 compound: cordycepin
 species: unclear
@@ -39,7 +39,6 @@ jurisdiction_caveats:
 - research_only
 source_apis:
 - openalex
-- pubmed
 full_text_available: false
 tags:
 - evidence
@@ -48,7 +47,7 @@ tags:
 - market/research_only
 ---
 
-# Cordycepin (3'-deoxyadenosine) pentostatin (deoxycoformycin) combination treatment of mice experimentally infected with Trypanosoma evansi.
+# Cordycepin (3′-deoxyadenosine) pentostatin (deoxycoformycin) combination treatment of mice experimentally infected withTrypanosoma evansi
 
 ## Summary fields
 - **Year:** 2013
@@ -62,7 +61,7 @@ tags:
 - **Citation status:** needs_legal_review
 - **DOI:** 10.1017/s0031182012001990
 - **PMID:** 23361035
-- **URL:** https://pubmed.ncbi.nlm.nih.gov/23361035/
+- **URL:** https://doi.org/10.1017/s0031182012001990
 
 ## Abstract
 The aim of this study was to evaluate the anti-trypanosomal effect of treatment with 3'-deoxyadenosine (cordycepin) combined with deoxycoformycin (pentostatin: inhibitor of the enzyme adenosine deaminase) in vitro by using mice experimentally infected with Trypanosoma evansi. In vitro, a dose-dependent trypanocidal effect of cordycepin was observed against the parasite. In the in vivo trials, the two drugs were used individually and in combination of different doses. The drugs when used individually had no curative effect on infected mice. However, the combination of cordycepin (2 mg kg-1) and pentostatin (2 mg kg-1) was 100% effective in the T. evansi-infected groups. There was an increase in levels of some biochemical parameters, especially on liver enzymes, which were accompanied by histological lesions in the liver and kidneys. Based on these results we conclude that treatment using the combination of 3'-deoxyadenosine with deoxycoformycin has a curative effect on mice infected with T. evansi. However, the therapeutic protocol tested led to liver and kidney damage, manifested by hepatotoxicity and nephrotoxicity.

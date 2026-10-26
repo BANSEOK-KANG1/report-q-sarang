@@ -4,8 +4,8 @@ title: Cordycepin exhibits a suppressive effect on T cells through inhibiting TC
 title_ko: 코디세핀 exhibits a suppressive effect on T cells through inhibiting TCR signaling
   cascade in CFA-induced inflammation mice model.
 slug: cordycepin-exhibits-a-suppressive-effect-on-t-ce-2020-32105161
-record_id: 8d0503e1-5ab8-46cb-87f8-047f7e1245ff
-date: '2026-09-21'
+record_id: 4cf62346-891a-4aad-9145-84ce43428730
+date: '2026-10-26'
 year: 2020
 authors:
 - Xiaoli Wang
@@ -46,7 +46,7 @@ tags:
 - cordycepin
 - evidence
 - 제왕충초
-generated: '2026-09-21'
+generated: '2026-10-26'
 visuals: []
 api_meta:
   keywords:
@@ -94,7 +94,7 @@ api_meta:
   - name: CD8
     score: 0.444
     level: 3
-  cited_by_count: 16
+  cited_by_count: 14
   reference_count: 35
   publisher: Informa UK Limited
   journal: Immunopharmacology and immunotoxicology
@@ -104,7 +104,7 @@ api_meta:
     europepmc: true
     openalex: true
     crossref: true
-  fetched_at: '2026-09-21'
+  fetched_at: '2026-10-26'
 translations:
   title_ko: 코디세핀 exhibits a suppressive effect on T cells through inhibiting TCR signaling
     cascade in CFA-induced inflammation mice model.

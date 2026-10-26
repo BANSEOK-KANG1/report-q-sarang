@@ -1,16 +1,16 @@
 ---
 record_id: dbc8cc81-9eb5-4c1b-8b87-fededd69b30c
-title: Pharmacokinetics of Adenosine and Cordycepin, a Bioactive Constituent of Cordyceps
-  sinensis in Rat
+title: Pharmacokinetics of adenosine and cordycepin, a bioactive constituent of Cordyceps
+  sinensis in rat.
 authors:
 - Yung-Jen Tsai
 - Lie-Chwen Lin
-- Tung‐Hu Tsai
+- Tung-Hu Tsai
 year: 2010
-journal: Journal of Agricultural and Food Chemistry
+journal: Journal of agricultural and food chemistry
 doi: 10.1021/jf100269g
 pmid: '20302371'
-url: https://doi.org/10.1021/jf100269g
+url: https://pubmed.ncbi.nlm.nih.gov/20302371/
 track: comparator_sinensis
 compound: cordycepin
 species: Cordyceps_sinensis
@@ -31,6 +31,7 @@ jurisdiction_caveats:
 - research_only
 source_apis:
 - openalex
+- pubmed
 full_text_available: false
 tags:
 - evidence
@@ -39,7 +40,7 @@ tags:
 - market/research_only
 ---
 
-# Pharmacokinetics of Adenosine and Cordycepin, a Bioactive Constituent of Cordyceps sinensis in Rat
+# Pharmacokinetics of adenosine and cordycepin, a bioactive constituent of Cordyceps sinensis in rat.
 
 ## Summary fields
 - **Year:** 2010
@@ -53,7 +54,7 @@ tags:
 - **Citation status:** needs_legal_review
 - **DOI:** 10.1021/jf100269g
 - **PMID:** 20302371
-- **URL:** https://doi.org/10.1021/jf100269g
+- **URL:** https://pubmed.ncbi.nlm.nih.gov/20302371/
 
 ## Abstract
 Cordycepin is a bioactive constituent of Cordyceps sinensis that has been shown to regulate homeostatic function. As an adenosine analogue, it is possible cordycepin goes through a similar metabolic pathway to that of adenosine. To investigate this hypothesis, a sensitive liquid chromatography with photodiode-array detector (HPLC-PDA) coupled to a microdialysis sampling system was developed to monitor cordycepin and adenosine in rat blood and liver. Other endogenous nucleosides were simultaneously measured to further understand the downstream metabolic pathway. The experiments were divided into six parallel groups for drug administration: (1) normal saline vehicle, (2) adenosine, (3) cordycepin, (4) normal saline + erythro-9-(2-hydroxy-3-nonyl)adenine (EHNA; a potent adenosine deaminase inhibitor), (5) adenosine + EHNA, and (6) cordycepin + EHNA. The pharmacokinetic results suggest that the levels of both adenosine and cordycepin decreased rapidly in blood around 30 min after drug administration. When adenosine was given, the concentrations of adenosine metabolites, hypoxanthinosine and hypoxanthine, increased in rat blood. This phenomenon was inhibited by EHNA pretreatment. An unidentified peak was observed in the blood and liver samples after cordycepin administration. The decline of this unidentified peak paralleled the decreased of the concentration of cordycepin, and it was not observed in the presence of the adenosine deaminase inhibitor. It is concluded that adenosine and cordycepin had short elimination half-lives and high rates of clearance and their biotransformation was suppressed by EHNA.

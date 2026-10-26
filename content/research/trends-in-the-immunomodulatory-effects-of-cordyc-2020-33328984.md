@@ -5,7 +5,7 @@ title_ko: 'Trends in the Immunomodulatory Effects of Cordyceps(cordyceps) milita
   militaris): Total 추출물s, 다당류s and 코디세핀'
 slug: trends-in-the-immunomodulatory-effects-of-cordyc-2020-33328984
 record_id: f6247e36-9e13-4308-8859-bc440e0c1d75
-date: '2026-10-19'
+date: '2026-10-26'
 year: 2020
 authors:
 - Chun‐Ting Lee
@@ -46,28 +46,8 @@ tags:
 - cordycepin
 - evidence
 - 제왕충초
-generated: '2026-10-19'
-visuals:
-- type: figure
-  src: /research-figures/trends-in-the-immunomodulatory-effects-of-cordyc-2020-33328984/fphar-11-575704-g001.jpg
-  caption: 원문 Figure (fphar-11-575704-g001) — Europe PMC OA
-  source: europepmc
-  filename: fphar-11-575704-g001.jpg
-- type: figure
-  src: /research-figures/trends-in-the-immunomodulatory-effects-of-cordyc-2020-33328984/fphar-11-575704-g003.jpg
-  caption: 원문 Figure (fphar-11-575704-g003) — Europe PMC OA
-  source: europepmc
-  filename: fphar-11-575704-g003.jpg
-- type: figure
-  src: /research-figures/trends-in-the-immunomodulatory-effects-of-cordyc-2020-33328984/fphar-11-575704-g002.jpg
-  caption: 원문 Figure (fphar-11-575704-g002) — Europe PMC OA
-  source: europepmc
-  filename: fphar-11-575704-g002.jpg
-- type: figure
-  src: /research-figures/trends-in-the-immunomodulatory-effects-of-cordyc-2020-33328984/fphar-11-575704-g004.jpg
-  caption: 원문 Figure (fphar-11-575704-g004) — Europe PMC OA
-  source: europepmc
-  filename: fphar-11-575704-g004.jpg
+generated: '2026-10-26'
+visuals: []
 api_meta:
   keywords:
   - Polysaccharides
@@ -112,7 +92,7 @@ api_meta:
     europepmc: true
     openalex: true
     crossref: true
-  fetched_at: '2026-10-19'
+  fetched_at: '2026-10-26'
 translations:
   title_ko: 'Trends in the Immunomodulatory Effects of Cordyceps(cordyceps) militaris(cordyceps
     militaris): Total 추출물s, 다당류s and 코디세핀'

@@ -3,22 +3,22 @@ record_id: 1b4e0d4c-dd2f-4c50-9b60-8d59d1eeb836
 title: Conservation of Endangered Cordyceps sinensis Through Artificial Cultivation
   Strategies of C. militaris, an Alternate.
 authors:
-- Kondapalli Vamsi Krishna
-- Balamuralikrishnan Balasubramanian
-- Sungkwon Park
-- Sukanta Bhattacharya
-- Joseph Kadanthottu Sebastian
-- Wen-Chao Liu
-- Manikantan Pappuswamy
-- Arun Meyyazhagan
-- Hesam Kamyab
-- Shreeshivadasan Chelliapan
-- Alok Malaviya
+- Krishna KV
+- Balasubramanian B
+- Park S
+- Bhattacharya S
+- Kadanthottu Sebastian J
+- Liu WC
+- Pappuswamy M
+- Meyyazhagan A
+- Kamyab H
+- Chelliapan S
+- Malaviya A.
 year: 2025
-journal: Molecular biotechnology
+journal: ''
 doi: 10.1007/s12033-024-01154-1
 pmid: '38658470'
-url: https://pubmed.ncbi.nlm.nih.gov/38658470/
+url: https://europepmc.org/article/MED/38658470
 track: comparator_sinensis
 compound: cordycepin
 species: Cordyceps_sinensis
@@ -39,7 +39,6 @@ jurisdiction_caveats:
 - research_only
 source_apis:
 - europepmc
-- pubmed
 full_text_available: false
 tags:
 - evidence
@@ -62,7 +61,7 @@ tags:
 - **Citation status:** needs_legal_review
 - **DOI:** 10.1007/s12033-024-01154-1
 - **PMID:** 38658470
-- **URL:** https://pubmed.ncbi.nlm.nih.gov/38658470/
+- **URL:** https://europepmc.org/article/MED/38658470
 
 ## Abstract
 Cordyceps, an entomopathogenic fungus belonging to the Ascomycota phylum, is a familiar remedial mushroom that is extensively used in the traditional medicinal system, especially in South Asian nations. The significance of this genus' members in a range of therapeutic and biotechnological applications has long been acknowledged. The exceedingly valuable fungus Ophiocordyceps sinensis (Cordyceps sinensis) is found in the alpine meadows of Bhutan, Nepal, Tibet, and India, where it is severely harvested. Driven by market demand and ecological concerns, the study highlights challenges in natural C. sinensis collection and emphasizes the shift towards sustainable artificial cultivation methods. This in-depth review navigates Cordyceps cultivation strategies, focusing on C. sinensis and the viable alternative, C. militaris. The escalating demand for Cordyceps fruiting bodies and bioactive compounds prompts a shift toward sustainable artificial cultivation. While solid-state fermentation on brown rice remains a traditional method, liquid culture, especially submerged and surface/static techniques, emerges as a key industrial approach, offering shorter cultivation periods and enhanced cordycepin production. The review accentuates the adaptability and scalability of liquid culture, providing valuable insights for large-scale Cordyceps production. The future prospects of Cordyceps cultivation require a holistic approach, combining scientific understanding, technological innovation, and sustainable practices to meet the demand for bioactive metabolites while ensuring the conservation of natural Cordyceps populations.

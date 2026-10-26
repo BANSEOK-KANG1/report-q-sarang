@@ -3,15 +3,15 @@ record_id: d043ad09-7822-45a3-ba3d-257700960f72
 title: Cordycepin inhibits pancreatic cancer progression and enhances gemcitabine
   sensitivity by targeting the CDK2/E2F2 axis to modulate TNNI2 expression.
 authors:
-- Ru He
-- Yan Du
-- Wenkai Jiang
-- Wence Zhou
+- He R
+- Du Y
+- Jiang W
+- Zhou W.
 year: 2026
-journal: Biochemical pharmacology
+journal: ''
 doi: 10.1016/j.bcp.2026.118299
 pmid: '42526773'
-url: https://pubmed.ncbi.nlm.nih.gov/42526773/
+url: https://europepmc.org/article/MED/42526773
 track: compound
 compound: cordycepin
 species: unclear
@@ -32,7 +32,6 @@ jurisdiction_caveats:
 - research_only
 source_apis:
 - europepmc
-- pubmed
 full_text_available: false
 tags:
 - evidence
@@ -55,7 +54,7 @@ tags:
 - **Citation status:** needs_legal_review
 - **DOI:** 10.1016/j.bcp.2026.118299
 - **PMID:** 42526773
-- **URL:** https://pubmed.ncbi.nlm.nih.gov/42526773/
+- **URL:** https://europepmc.org/article/MED/42526773
 
 ## Abstract
 Cordycepin, a natural nucleoside analogue, exhibits anti-inflammatory and antitumor activity in multiple malignancies. However, the molecular basis of its action in pancreatic cancer and its potential role in chemosensitization remain incompletely defined. In this study, the effects of cordycepin on malignant phenotypes of pancreatic cancer cells were investigated in vitro. Network pharmacology was applied to identify candidate targets and construct a disease-drug-target-pathway network. Reverse virtual screening and molecular docking were used to predict key binding proteins, while RNA sequencing identified downstream pathways regulated by cordycepin. Target engagement was validated using cellular thermal shift assays, molecular docking, and molecular dynamics simulations. The underlying mechanistic pathways were further confirmed by functional experiments, and the therapeutic efficacy of cordycepin in combination with gemcitabine was evaluated. Our results demonstrated that cordycepin reduced the growth of pancreatic cancer cells and induced G2/M phase arrest and apoptosis. Network pharmacology identified 56 hub targets enriched in oncogenic pathways, including PI3K/AKT pathway. Reverse virtual screening revealed 111 candidate binding proteins, and intersection with hub targets highlighted five key effectors: CDK2, GSK3B, IL2, NOS3, and PARP1. Transcriptomic profiling showed marked disruption of cell cycle pathways, and CDK2 was validated as a direct molecular target of cordycepin. Cordycepin suppressed TNNI2 transcription by inhibiting the CDK2/E2F2 axis. Furthermore, cordycepin acted synergistically with gemcitabine to enhance antitumor responses and promote apoptosis in pancreatic cancer models. Collectively,cordycepin exerts antitumor activity in pancreatic cancer by targeting the CDK2/E2F2 axis to suppress malignant progression and by concurrently sensitizing cells to gemcitabine, thus holding promise as a therapeutic agent.

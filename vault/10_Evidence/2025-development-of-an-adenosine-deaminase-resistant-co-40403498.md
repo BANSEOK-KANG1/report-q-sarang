@@ -3,20 +3,20 @@ record_id: 8b9ef7fe-0850-407f-accb-89a818b77e53
 title: Development of an adenosine deaminase-resistant cordycepin prodrug activated
   by Pseudomonas carboxypeptidase G2.
 authors:
-- Zhang Chen
-- Haiyang Yan
-- Houshi Ma
-- Liang Gao
-- Gangyin Luo
-- Li Li
-- Linlin Lu
-- Wenfei Dong
-- Lixing Zhang
+- Chen Z
+- Yan H
+- Ma H
+- Gao L
+- Luo G
+- Li L
+- Lu L
+- Dong W
+- Zhang L.
 year: 2025
-journal: Bioorganic chemistry
+journal: ''
 doi: 10.1016/j.bioorg.2025.108596
 pmid: '40403498'
-url: https://pubmed.ncbi.nlm.nih.gov/40403498/
+url: https://europepmc.org/article/MED/40403498
 track: compound
 compound: cordycepin
 species: unclear
@@ -37,7 +37,6 @@ jurisdiction_caveats:
 - research_only
 source_apis:
 - europepmc
-- pubmed
 full_text_available: false
 tags:
 - evidence
@@ -60,7 +59,7 @@ tags:
 - **Citation status:** needs_legal_review
 - **DOI:** 10.1016/j.bioorg.2025.108596
 - **PMID:** 40403498
-- **URL:** https://pubmed.ncbi.nlm.nih.gov/40403498/
+- **URL:** https://europepmc.org/article/MED/40403498
 
 ## Abstract
 Cordycepin, also known as 3'-deoxyadenosine, is a bioactive natural antibiotic with numerous pharmacological properties including anticancer activity. Unfortunately, cordycepin is rapidly deaminated by adenosine deaminase (ADA) in vivo, which leads to the inactivation of this potent natural compound. In the present study, an ADA-resistant cordycepin prodrug (2) with the 6-NH<sub>2</sub> masked by a glutamate-based protecting group was developed. Additionally, this cordycepin prodrug exhibited stability in serum-containing media. The prodrug is non-toxic in its standalone form, and the release of cordycepin occurs in the presence of Pseudomonas carboxypeptidase G2 (CPG2), rendering it appropriate for directed enzyme prodrug therapy. The concurrent application of CPG2 and prodrug significantly reduced the proliferation of 4T1 and U251 cancer cells, promoted apoptosis, and impeded the colony formation of 4T1 cells. Subsequent assessments utilizing the patient-derived breast cancer organoid model have demonstrated notable anticancer efficacy. The development of this prodrug presents a promising strategy to mitigate the inactivation of cordycepin in cancer therapy and minimizing toxicity to healthy cells.

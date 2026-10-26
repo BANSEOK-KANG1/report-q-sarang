@@ -1,18 +1,18 @@
 ---
-record_id: 1f800a2f-46b5-429d-85e7-f956c07ac775
-title: Synthesis and Characterization of NUC-7738, an Aryloxy Phosphoramidate of 3'-Deoxyadenosine,
-  as a Potential Anticancer Agent.
+record_id: de517cd4-00b1-46d8-89bc-8d82ab2c2030
+title: Synthesis and Characterization of NUC-7738, an Aryloxy Phosphoramidate of 3′-Deoxyadenosine,
+  as a Potential Anticancer Agent
 authors:
 - Michaela Serpi
 - Valentina Ferrari
 - Christopher McGuigan
-- Essam Ghazaly
-- Chris Pepper
+- Essam Ahmed Ghazaly
+- Chris J. Pepper
 year: 2022
-journal: Journal of medicinal chemistry
-doi: 10.1080/15257770701521656
+journal: Journal of Medicinal Chemistry
+doi: 10.1021/acs.jmedchem.2c01348
 pmid: '36417756'
-url: https://pubmed.ncbi.nlm.nih.gov/36417756/
+url: https://doi.org/10.1021/acs.jmedchem.2c01348
 track: compound
 compound: cordycepin
 species: unclear
@@ -32,7 +32,7 @@ jurisdiction_caveats:
 - disease_language_in_source
 - research_only
 source_apis:
-- pubmed
+- openalex
 full_text_available: false
 tags:
 - evidence
@@ -41,7 +41,7 @@ tags:
 - market/research_only
 ---
 
-# Synthesis and Characterization of NUC-7738, an Aryloxy Phosphoramidate of 3'-Deoxyadenosine, as a Potential Anticancer Agent.
+# Synthesis and Characterization of NUC-7738, an Aryloxy Phosphoramidate of 3′-Deoxyadenosine, as a Potential Anticancer Agent
 
 ## Summary fields
 - **Year:** 2022
@@ -53,12 +53,12 @@ tags:
 - **Risk flags:** disease_language, preclinical_only
 - **Maps to market:** research_only
 - **Citation status:** needs_legal_review
-- **DOI:** 10.1080/15257770701521656
+- **DOI:** 10.1021/acs.jmedchem.2c01348
 - **PMID:** 36417756
-- **URL:** https://pubmed.ncbi.nlm.nih.gov/36417756/
+- **URL:** https://doi.org/10.1021/acs.jmedchem.2c01348
 
 ## Abstract
-3'-Deoxyadenosine (3'-dA, Cordycepin, 1) is a nucleoside analogue with anticancer properties, but its clinical development has been hampered due to its deactivation by adenosine deaminase (ADA) and poor cellular uptake due to low expression of the human equilibrative transporter (hENT1). Here, we describe the synthesis and characterization of NUC-7738 (7a), a 5'-aryloxy phosphoramidate prodrug of 3'-dA. We show in vitro evidence that 7a is an effective anticancer drug in a panel of solid and hematological cancer cell lines, showing its preferential cytotoxic effects on leukemic stem cells. We found that unlike 3'-dA, the activity of 7a was independent of hENT1 and kinase activity. Furthermore, it was resistant to ADA metabolic deactivation. Consistent with these findings, 7a showed increased levels of intracellular 3'-deoxyadenosine triphosphate (3'-dATP), the active metabolite. Mechanistically, levels of intracellular 3'-dATP were strongly associated with in vitro potency. NUC-7738 is now in Phase II, dose-escalation study in patients with advanced solid tumors.
+High Resolution Image Download MS PowerPoint Slide 3′-Deoxyadenosine (3′-dA, Cordycepin, 1 ) is a nucleoside analogue with anticancer properties, but its clinical development has been hampered due to its deactivation by adenosine deaminase (ADA) and poor cellular uptake due to low expression of the human equilibrative transporter (hENT1). Here, we describe the synthesis and characterization of NUC-7738 ( 7a ), a 5′-aryloxy phosphoramidate prodrug of 3′-dA. We show in vitro evidence that 7a is an effective anticancer drug in a panel of solid and hematological cancer cell lines, showing its preferential cytotoxic effects on leukemic stem cells. We found that unlike 3′-dA, the activity of 7a was independent of hENT1 and kinase activity. Furthermore, it was resistant to ADA metabolic deactivation. Consistent with these findings, 7a showed increased levels of intracellular 3′-deoxyadenosine triphosphate (3′-dATP), the active metabolite. Mechanistically, levels of intracellular 3′-dATP were strongly associated with in vitro potency. NUC-7738 is now in Phase II, dose-escalation study in patients with advanced solid tumors.
 
 ## Relevance notes
 Cordycepin-focused; verify species/form vs product

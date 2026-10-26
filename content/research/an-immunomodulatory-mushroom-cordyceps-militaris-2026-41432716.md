@@ -6,7 +6,7 @@ title_ko: 'An Immunomodulatory Mushroom, Cordyceps(cordyceps) militaris(cordycep
   vivo)(in vivo)) Studies and Clinical Trials.'
 slug: an-immunomodulatory-mushroom-cordyceps-militaris-2026-41432716
 record_id: 7abff759-52d0-4b88-930c-e1e1c41bd557
-date: '2026-10-19'
+date: '2026-10-26'
 year: 2026
 authors:
 - Yang EJ
@@ -43,7 +43,7 @@ tags:
 - cordycepin
 - evidence
 - 제왕충초
-generated: '2026-10-19'
+generated: '2026-10-26'
 visuals: []
 api_meta:
   keywords:
@@ -86,7 +86,7 @@ api_meta:
   - name: Ex vivo
     score: 0.436
     level: 3
-  cited_by_count: 6
+  cited_by_count: 7
   reference_count: 190
   publisher: Wiley
   journal: ''
@@ -96,7 +96,7 @@ api_meta:
     europepmc: true
     openalex: true
     crossref: true
-  fetched_at: '2026-10-19'
+  fetched_at: '2026-10-26'
 translations:
   title_ko: 'An Immunomodulatory Mushroom, Cordyceps(cordyceps) militaris(cordyceps
     militaris), and Its Constituents: A Review of 시험관(시험관(in vitro)(in vitro))/생체(생체(in

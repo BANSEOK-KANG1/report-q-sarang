@@ -1,6 +1,6 @@
 # Marketing Evidence Brief — 제왕충초 × 코디세핀
 
-_Generated: 2026-10-19_
+_Generated: 2026-10-26_
 
 > 제왕충초 담금주는 **주류**입니다. 아래 내용은 효능 광고 승인이 아닙니다.
 > 소비자 카피는 법무 검토 후 `citation_status=approved` + `KR_liquor_context`만 사용하세요.
@@ -16,12 +16,6 @@ _Generated: 2026-10-19_
 ### 2026 — An Acetyl-CoA-Gated Metabolic Checkpoint Links Precursor Supply to Cordycepin Biosynthesis in &lt;i&gt;Cordyceps militaris&lt;/i&gt;.
 - Strength: `C_animal` | Type: `animal`
 - DOI: 10.3390/cimb48040370 | PMID: 42042030
-- Allowed: Cordycepin is a compound studied in Cordyceps militaris / Cordyceps spp.; academic literature reports related research. (Not a disease-treatment claim; not for liquor efficacy advertising.)
-- Prohibited: Do not claim treatment/prevention/cure of disease; do not claim immune boost, fatigue recovery, anticancer effect, FDA/MFDS efficacy approval for liquor.
-
-### 2026 — Efficient production of cordycepin in engineered Saccharomyces cerevisiae.
-- Strength: `C_animal` | Type: `animal`
-- DOI: 10.1016/j.biortech.2026.134565 | PMID: 41946402
 - Allowed: Cordycepin is a compound studied in Cordyceps militaris / Cordyceps spp.; academic literature reports related research. (Not a disease-treatment claim; not for liquor efficacy advertising.)
 - Prohibited: Do not claim treatment/prevention/cure of disease; do not claim immune boost, fatigue recovery, anticancer effect, FDA/MFDS efficacy approval for liquor.
 
@@ -129,7 +123,7 @@ _Generated: 2026-10-19_
 - **2026** [animal/C_animal] Cordycepin alleviates aluminium chloride-induced neurodevelopmental toxicity in zebrafish embryos by modulating inflammation and Wnt signaling.
   - animal study touching cognitive endpoints (auto-tagged; verify before use).
   - flags: disease_language, preclinical_only
-  - link: https://pubmed.ncbi.nlm.nih.gov/42314834/
+  - link: https://europepmc.org/article/MED/42314834
 
 - **2026** [observational_human/B_limited_human] Cordycepin ameliorates lipopolysaccharide-challenged C2C12 myotube shrinkage by regulating sodium channel kinetics and inhibiting the protein degradation pathway.
   - observational_human study touching energy_fatigue endpoints (auto-tagged; verify before use).
@@ -178,10 +172,10 @@ _Generated: 2026-10-19_
 
 ## Stats snapshot
 
-- Total normalized records: **811**
-- research_only: **797**
-- needs_legal_review: **489**
-- approved liquor-context: **14**
+- Total normalized records: **833**
+- research_only: **820**
+- needs_legal_review: **512**
+- approved liquor-context: **13**
 
 ## See also
 

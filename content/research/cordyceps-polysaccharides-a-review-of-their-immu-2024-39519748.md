@@ -3,7 +3,7 @@ title: 'Cordyceps Polysaccharides: A Review of Their Immunomodulatory Effects.'
 title_ko: 'Cordyceps(cordyceps) 다당류s: A Review of Their Immunomodulatory Effects.'
 slug: cordyceps-polysaccharides-a-review-of-their-immu-2024-39519748
 record_id: 71f03648-2c59-4fef-902e-96a3f705584d
-date: '2026-10-19'
+date: '2026-10-26'
 year: 2024
 authors:
 - Liping Chen
@@ -44,18 +44,8 @@ tags:
 - cordycepin
 - evidence
 - 제왕충초
-generated: '2026-10-19'
-visuals:
-- type: figure
-  src: /research-figures/cordyceps-polysaccharides-a-review-of-their-immu-2024-39519748/molecules-29-05107-g001.gif
-  caption: 원문 Figure (molecules-29-05107-g001) — Europe PMC OA
-  source: europepmc
-  filename: molecules-29-05107-g001.gif
-- type: figure
-  src: /research-figures/cordyceps-polysaccharides-a-review-of-their-immu-2024-39519748/molecules-29-05107-g001.jpg
-  caption: 원문 Figure (molecules-29-05107-g001) — Europe PMC OA
-  source: europepmc
-  filename: molecules-29-05107-g001.jpg
+generated: '2026-10-26'
+visuals: []
 api_meta:
   keywords:
   - Cordyceps
@@ -107,7 +97,7 @@ api_meta:
     europepmc: true
     openalex: true
     crossref: true
-  fetched_at: '2026-10-19'
+  fetched_at: '2026-10-26'
 translations:
   title_ko: 'Cordyceps(cordyceps) 다당류s: A Review of Their Immunomodulatory Effects.'
   glossary:

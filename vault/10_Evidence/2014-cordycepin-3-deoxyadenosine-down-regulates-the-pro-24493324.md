@@ -15,11 +15,11 @@ pmid: '24493324'
 url: https://pubmed.ncbi.nlm.nih.gov/24493324/
 track: compound
 compound: cordycepin
-species: unclear
+species: Cordyceps_militaris
 study_type: animal
 evidence_strength: C_animal
-relevance_to_product: partial
-claim_category: anti_inflammatory
+relevance_to_product: direct
+claim_category: cognitive
 risk_flags:
 - disease_language
 - preclinical_only
@@ -48,9 +48,9 @@ tags:
 - **Year:** 2014
 - **Study type:** animal
 - **Evidence strength:** C_animal
-- **Species:** unclear
+- **Species:** Cordyceps_militaris
 - **Compound:** cordycepin
-- **Claim category:** anti_inflammatory
+- **Claim category:** cognitive
 - **Risk flags:** disease_language, preclinical_only
 - **Maps to market:** research_only
 - **Citation status:** needs_legal_review
@@ -59,10 +59,10 @@ tags:
 - **URL:** https://pubmed.ncbi.nlm.nih.gov/24493324/
 
 ## Abstract
-The effect of cordycepin (3'-deoxyadenosine) on inflammation-induced osteoporosis (IMO) was studied in this paper. After the rats were treated orally with cordycepin (20 mg/kg), serum osteocalcin (OC), homocysteine (HCY), C-terminal cross-linked telopeptides of collagen type I (CTX), maleic dialdehyde (MDA), polymorphonuclear cells (PMN), interleukin-1β (IL-1β), and tumor necrosis factor-α (TNF-α), they were examined by ELISA or immunohistochemistry. The specimens from the liver were also processed for light microscopic examination. The IMO rats showed a significant increase in plasma CTX, MDA, PMN, IL-1β, TNF-α, and nitrate levels as well as a significant decrease in plasma OC. These changes were attenuated by cordycepin (20 mg/kg) supplementation in the IMO rats. Examination of the liver specimens revealed mononuclear cell infiltration in the portal areas in the IMO rats which was not detected in the cordycepin (20 mg/kg) rats. These results suggest that cordycepin may act as an anti-inflammatory agent in magnesium silicate-induced inflammation in osteoporosis.
+Microglial cells are normally activated in response to brain injury or immunological stimuli to protect central nervous system (CNS). However, over-activation of microglia conversely amplifies the inflammatory effects and mediates cellular degeneration, leading to the death of neurons. Recently, cordycepin, an active component found in Cordyceps militarisa known as a rare Chinese caterpillar fungus, has been reported as an effective drug for treating inflammatory diseases and cancer via unclear mechanisms. In this study, we attempted to identify the anti-inflammatory role of cordycepin and its protective effects on the impairments of neural growth and development induced by microglial over-activation. The results indicate that cordycepin could attenuate the lipopolysaccharide (LPS)-induced microglial activation, evidenced by the dramatically reduced release of TNF-α and IL-1β, as well as the down-regulation of mRNA levels of iNOS and COX-2 after cordycepin treatment. Besides, cordycepin reversed the LPS-induced activation of NF-κB pathway, resulting in anti-inflammatory effects. Furthermore, by employing the conditioned medium (CM), we found cordycepin was able to recover the impairments of neural growth and development in the primary hippocampal neurons cultured in LPS-CM, including cell viability, growth cone extension, neurite sprouting and outgrowth as well as spinogenesis. This study expands our knowledge of the anti-inflammatory function of cordycepin and paves the way for the biomedical applications of cordycepin in the therapies of neural injuries.
 
 ## Relevance notes
-Cordycepin-focused; verify species/form vs product
+_n/a_
 
 ## Compliance
 - Product context: Q-Sarang 제왕충초 **liquor** (not HFF).

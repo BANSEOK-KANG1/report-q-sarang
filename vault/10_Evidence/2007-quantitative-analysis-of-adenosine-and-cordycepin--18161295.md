@@ -4,14 +4,15 @@ title: '[Quantitative analysis of adenosine and cordycepin in Cordyceps sinensis
   its substitutes with LC-MS-MS].'
 authors:
 - Zhao Yang
-- Chi Shaoyun
-- Chunhui Zhang
+- Shao-Yun Chi
+- Chun-Hui Zhang
 - Aiying Wu
 year: 2007
-journal: PubMed
+journal: Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese
+  materia medica
 doi: ''
 pmid: '18161295'
-url: https://pubmed.ncbi.nlm.nih.gov/18161295
+url: https://pubmed.ncbi.nlm.nih.gov/18161295/
 track: comparator_sinensis
 compound: cordycepin
 species: Cordyceps_sinensis
@@ -29,6 +30,7 @@ jurisdiction_caveats:
 - research_only
 source_apis:
 - openalex
+- pubmed
 full_text_available: false
 tags:
 - evidence
@@ -51,10 +53,13 @@ tags:
 - **Citation status:** candidate
 - **DOI:** —
 - **PMID:** 18161295
-- **URL:** https://pubmed.ncbi.nlm.nih.gov/18161295
+- **URL:** https://pubmed.ncbi.nlm.nih.gov/18161295/
 
 ## Abstract
-OBJECTIVE: To develop a LC-MS-MS method for determination of adenosine and cordycepin in Cordyceps sinensis and it's substitutes. METHOD: The sawple was extracted with. 90% methanol. Multi-reactions monitoring (MRM) technique was adopted. RESULT: The regression equations and coefficients were Y = 89.04X + 506.85 (r = 0.999 7) for adenosine, Y = 99.66X + 1 251.34 (r = 0.998 8) for cordycepin respectively. The linear range was 5.0-1 000.0 microg x L(-1) for adenosine and cordycepin. The limits of detection (LOD) were 0. 44 microg x L(-1) for adenosine and 0.31 microg x L(-1) for cordycepin, respectively. The average recoveries of adenosine and cordycepin were 98.1% and 97.9%, respectively. CONCLUSION: The method was highly sensitive, selective and fast, which can be used for the determination of adenosine and cordycepin in C. sinensis and it's substitutes. This method can also be applied for the quality control of the medicinal materials.
+OBJECTIVE: To develop a LC-MS-MS method for determination of adenosine and cordycepin in Cordyceps sinensis and it's substitutes.
+METHOD: The sawple was extracted with. 90% methanol. Multi-reactions monitoring (MRM) technique was adopted.
+RESULT: The regression equations and coefficients were Y = 89.04X + 506.85 (r = 0.999 7) for adenosine, Y = 99.66X + 1 251.34 (r = 0.998 8) for cordycepin respectively. The linear range was 5.0-1 000.0 microg x L(-1) for adenosine and cordycepin. The limits of detection (LOD) were 0. 44 microg x L(-1) for adenosine and 0.31 microg x L(-1) for cordycepin, respectively. The average recoveries of adenosine and cordycepin were 98.1% and 97.9%, respectively.
+CONCLUSION: The method was highly sensitive, selective and fast, which can be used for the determination of adenosine and cordycepin in C. sinensis and it's substitutes. This method can also be applied for the quality control of the medicinal materials.
 
 ## Relevance notes
 Comparator species / Cs-4 — do not equate to C. militaris cordycepin product

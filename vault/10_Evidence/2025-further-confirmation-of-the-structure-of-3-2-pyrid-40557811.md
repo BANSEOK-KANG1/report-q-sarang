@@ -1,18 +1,18 @@
 ---
 record_id: be3d5437-2f73-4bb9-b8f1-cb82492d8722
-title: 'Further Confirmation of the Structure of 3''-(2-Pyridyldithio)-3''-deoxyadenosine
-  and 3''-Thio-3''-deoxyadenosine: Synthetic Convergence with Cordycepin.'
+title: 'Further Confirmation of the Structure of 3′-(2-Pyridyldithio)-3′-deoxyadenosine
+  and 3′-Thio-3′-deoxyadenosine: Synthetic Convergence with Cordycepin'
 authors:
-- Taylor L Dover
-- Jacob G Robins
-- Brandon Q Mercado
+- Taylor L. Dover
+- Jacob G. Robins
+- Brandon Q. Mercado
 - Alanna Schepartz
-- Scott J Miller
+- Scott J. Miller
 year: 2025
-journal: The Journal of organic chemistry
+journal: The Journal of Organic Chemistry
 doi: 10.1021/acs.joc.5c00954
 pmid: '40557811'
-url: https://pubmed.ncbi.nlm.nih.gov/40557811/
+url: https://doi.org/10.1021/acs.joc.5c00954
 track: compound
 compound: cordycepin
 species: unclear
@@ -32,7 +32,6 @@ jurisdiction_caveats:
 source_apis:
 - europepmc
 - openalex
-- pubmed
 full_text_available: false
 tags:
 - evidence
@@ -41,7 +40,7 @@ tags:
 - market/research_only
 ---
 
-# Further Confirmation of the Structure of 3'-(2-Pyridyldithio)-3'-deoxyadenosine and 3'-Thio-3'-deoxyadenosine: Synthetic Convergence with Cordycepin.
+# Further Confirmation of the Structure of 3′-(2-Pyridyldithio)-3′-deoxyadenosine and 3′-Thio-3′-deoxyadenosine: Synthetic Convergence with Cordycepin
 
 ## Summary fields
 - **Year:** 2025
@@ -55,7 +54,7 @@ tags:
 - **Citation status:** candidate
 - **DOI:** 10.1021/acs.joc.5c00954
 - **PMID:** 40557811
-- **URL:** https://pubmed.ncbi.nlm.nih.gov/40557811/
+- **URL:** https://doi.org/10.1021/acs.joc.5c00954
 
 ## Abstract
 3'-Deoxynucleosides have demonstrated profound biochemical utility, including in our recent work on the use of aminoacyl thio-tRNAs for in vitro translation. Though our preparation of 3'-(2-pyridyldithio)-3'-deoxyadenosine─a key synthetic precursor en route to aminoacyl thio-tRNAs─followed robust prior precedents, an unrelated recent structural revision prompted us to validate the regioselectivity of our route further. Here we provide confirmatory evidence for the structure of 3'-(2-pyridyldithio)-3'-deoxyadenosine and downstream analogues via synthetic convergence with a 3'-deoxynucleoside antibiotic, cordycepin, and concomitant MicroED analysis.

@@ -1,28 +1,27 @@
 ---
 record_id: a4aec4df-b5df-4683-a5ac-c18c5b8068d3
 title: 'The preparation of three selenium-containing Cordyceps militaris polysaccharides:
-  Characterization and anti-tumor activities'
+  Characterization and anti-tumor activities.'
 authors:
 - Fei Liu
-- Zhen‐Yuan Zhu
+- Zhen-Yuan Zhu
 - Xiaoli Sun
-- Hui Yuan Gao
-- Yongmin Zhang
+- Hui Gao
+- Yong-Min Zhang
 year: 2017
-journal: International Journal of Biological Macromolecules
+journal: International journal of biological macromolecules
 doi: 10.1016/j.ijbiomac.2017.02.064
 pmid: '28235607'
-url: https://doi.org/10.1016/j.ijbiomac.2017.02.064
+url: https://pubmed.ncbi.nlm.nih.gov/28235607/
 track: militaris
 compound: unclear
 species: Cordyceps_militaris
 study_type: animal
 evidence_strength: C_animal
 relevance_to_product: partial
-claim_category: other
+claim_category: antioxidant
 risk_flags:
 - disease_language
-- missing_abstract
 - preclinical_only
 maps_to_market: research_only
 citation_status: needs_legal_review
@@ -34,6 +33,7 @@ jurisdiction_caveats:
 - research_only
 source_apis:
 - openalex
+- pubmed
 full_text_available: false
 tags:
 - evidence
@@ -42,7 +42,7 @@ tags:
 - market/research_only
 ---
 
-# The preparation of three selenium-containing Cordyceps militaris polysaccharides: Characterization and anti-tumor activities
+# The preparation of three selenium-containing Cordyceps militaris polysaccharides: Characterization and anti-tumor activities.
 
 ## Summary fields
 - **Year:** 2017
@@ -50,16 +50,16 @@ tags:
 - **Evidence strength:** C_animal
 - **Species:** Cordyceps_militaris
 - **Compound:** unclear
-- **Claim category:** other
-- **Risk flags:** disease_language, missing_abstract, preclinical_only
+- **Claim category:** antioxidant
+- **Risk flags:** disease_language, preclinical_only
 - **Maps to market:** research_only
 - **Citation status:** needs_legal_review
 - **DOI:** 10.1016/j.ijbiomac.2017.02.064
 - **PMID:** 28235607
-- **URL:** https://doi.org/10.1016/j.ijbiomac.2017.02.064
+- **URL:** https://pubmed.ncbi.nlm.nih.gov/28235607/
 
 ## Abstract
-_No abstract_
+In the present work, three fractions of selenized Cordyceps militaris polysaccharides (SeCPS) named SeCPS- I, SeCPS- II and SeCPS- III were isolated and purified by ultra-filtration. Their selenium content were measured as 541.3, 863.7 and 623.3μg/g respectively by a graphite furnace atomic absorption spectroscopy. The monosaccharide comformation analysis showed that they were mainly consisted of D-Mannose, D-Glucose, and D-Galactose in mole ratios of 1:7.63:0.83, 1:1.34:0.31 and 1:3.77:0.41 respectively. Their structure characteristics were compared by IFR and NMR spectroscopy. Scanning electron microscopy (SEM) and Congo red (CR) spectrophotometric method were used to investigate their morphological characteristics and conformational transition. SeCPS-II showed the strongest anti-tumor effects judging from the result of in vitro anti-tumor assays against two tumor cell lines (hepatocellular carcinoma HepG-2 cells and lung adenocarcinom A549 cells).
 
 ## Relevance notes
 _n/a_

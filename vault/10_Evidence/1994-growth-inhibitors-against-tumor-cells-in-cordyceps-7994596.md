@@ -1,19 +1,19 @@
 ---
 record_id: 038c451f-ce28-49c0-be76-12b124ee0a75
-title: Growth Inhibitors Against Tumor Cells in Cordyceps sinensis Other than Cordycepin
-  and Polysaccharides
+title: Growth inhibitors against tumor cells in Cordyceps sinensis other than cordycepin
+  and polysaccharides.
 authors:
-- Yuh-Chi Kuo
-- Ching-Yuang Lin
-- Wei‐Jern Tsai
-- Chia-Ling Wu
-- Chieh‐Fu Chen
-- Ming‐Shi Shiao
+- Y C Kuo
+- C Y Lin
+- W J Tsai
+- C L Wu
+- C F Chen
+- M S Shiao
 year: 1994
-journal: Cancer Investigation
+journal: Cancer investigation
 doi: 10.3109/07357909409023046
 pmid: '7994596'
-url: https://doi.org/10.3109/07357909409023046
+url: https://pubmed.ncbi.nlm.nih.gov/7994596/
 track: comparator_sinensis
 compound: cordycepin
 species: Cordyceps_sinensis
@@ -34,6 +34,7 @@ jurisdiction_caveats:
 - research_only
 source_apis:
 - openalex
+- pubmed
 full_text_available: false
 tags:
 - evidence
@@ -42,7 +43,7 @@ tags:
 - market/research_only
 ---
 
-# Growth Inhibitors Against Tumor Cells in Cordyceps sinensis Other than Cordycepin and Polysaccharides
+# Growth inhibitors against tumor cells in Cordyceps sinensis other than cordycepin and polysaccharides.
 
 ## Summary fields
 - **Year:** 1994
@@ -56,7 +57,7 @@ tags:
 - **Citation status:** needs_legal_review
 - **DOI:** 10.3109/07357909409023046
 - **PMID:** 7994596
-- **URL:** https://doi.org/10.3109/07357909409023046
+- **URL:** https://pubmed.ncbi.nlm.nih.gov/7994596/
 
 ## Abstract
 Cordyceps sinensis is a parasitic fungus that has been used as a Chinese medicine for a long time. In the present study, inhibitory effects of crude methanolic extracts of C. sinensis fruiting bodies on various tumor cell lines were demonstrated. The crude methanolic extracts were fractionated into 15 fractions by silica gel column chromatography. Two of the 15 fractions (CS-36-39 and CS-48-51) significantly inhibited the growth of K562, Vero, Wish, Calu-1, and Raji tumor cell lines. The inhibitory activities were not due to the polysaccharides, which have been removed in the extracting process. The polarities of these two fractions indicated that they were different from that of cordycepin. Therefore, it is suggested that tumor cell growth inhibitors, other than cordycepin and polysaccharides, are contained in C. sinensis.

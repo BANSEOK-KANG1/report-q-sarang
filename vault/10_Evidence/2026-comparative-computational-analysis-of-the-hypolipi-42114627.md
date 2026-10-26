@@ -1,7 +1,7 @@
 ---
 record_id: b9dc4753-a593-4358-90cc-7631df0575d4
 title: Comparative computational analysis of the hypolipidaemic potential of Cordyceps
-  militaris and Ophiocordyceps sinensis, with in vivo validation of cordycepin
+  militaris and Ophiocordyceps sinensis, with in vivo validation of cordycepin.
 authors:
 - Huaijie Shi
 - Guoying Zhang
@@ -10,7 +10,7 @@ year: 2026
 journal: Fitoterapia
 doi: 10.1016/j.fitote.2026.107272
 pmid: '42114627'
-url: https://doi.org/10.1016/j.fitote.2026.107272
+url: https://pubmed.ncbi.nlm.nih.gov/42114627/
 track: compound
 compound: cordycepin
 species: mixed
@@ -31,6 +31,7 @@ jurisdiction_caveats:
 source_apis:
 - europepmc
 - openalex
+- pubmed
 full_text_available: false
 tags:
 - evidence
@@ -39,7 +40,7 @@ tags:
 - market/research_only
 ---
 
-# Comparative computational analysis of the hypolipidaemic potential of Cordyceps militaris and Ophiocordyceps sinensis, with in vivo validation of cordycepin
+# Comparative computational analysis of the hypolipidaemic potential of Cordyceps militaris and Ophiocordyceps sinensis, with in vivo validation of cordycepin.
 
 ## Summary fields
 - **Year:** 2026
@@ -53,7 +54,7 @@ tags:
 - **Citation status:** candidate
 - **DOI:** 10.1016/j.fitote.2026.107272
 - **PMID:** 42114627
-- **URL:** https://doi.org/10.1016/j.fitote.2026.107272
+- **URL:** https://pubmed.ncbi.nlm.nih.gov/42114627/
 
 ## Abstract
 Hyperlipidaemia (HLP) arises from impaired lipid homeostasis in the setting of chronic low-grade inflammation, yet mechanistic comparisons between the edible medicinal fungi Cordyceps militaris and Ophiocordyceps sinensis remain scarce. Here, we combined chemical profiling with target/pathway prioritisation and structure-based modelling to define shared and species-specific lipid-regulatory features of these two fungi, followed by in vivo validation of cordycepin, a representative component of C. militaris, in high-fat diet (HFD)-fed mice. Integrated network analysis identified 72 common HLP-related targets, supporting convergence on inflammation-metabolism crosstalk. C. militaris displayed a more concentrated signature, characterised by GRIK family and proteasome-associated hubs and prominent enrichment of AMPK-related signalling. In contrast, O. sinensis was preferentially associated with upstream regulatory networks including insulin signalling, PI3K-Akt, MAPK and HIF-1. Molecular dynamics simulations showed relatively stable behaviour for the GRIK5-cordycepin and HCAR2-nicotinic acid complexes, whereas ERBB2-cerevisterol exhibited larger conformational fluctuation. MM-PBSA calculations further provided quantitative support for ligand-target association in the selected representative complexes. HPLC confirmed cordycepin as a characteristic component of C. militaris. In vivo, cordycepin improved fasting glucose and circulating lipid profiles, alleviated hepatic steatosis-like changes, and was accompanied by increased hepatic Prkaa1 and decreased Srebf1 expression. Collectively, these findings provide comparative computational insights into the hypolipidaemic potential of C. militaris and O. sinensis, while supporting cordycepin as a bioactive constituent of C. militaris associated with transcriptional changes related to AMPK/SREBP-1c signalling. The predicted regulatory features of O. sinensis still require direct experimental validation.

@@ -1,7 +1,7 @@
 ---
 record_id: dd0e3e4c-7f37-4f37-9295-57d1776bbae8
 title: Research advances on Cordyceps sinensis and its components in relation to omics
-  biomarkers for the neurological disorders.
+  biomarkers for the neurological disorders
 authors:
 - Zeyu Lai
 - Biqin Zhang
@@ -15,7 +15,7 @@ year: 2026
 journal: Die Naturwissenschaften
 doi: 10.1007/s00114-026-02093-4
 pmid: '41945111'
-url: https://pubmed.ncbi.nlm.nih.gov/41945111/
+url: https://doi.org/10.1007/s00114-026-02093-4
 track: comparator_sinensis
 compound: cordycepin
 species: Cordyceps_sinensis
@@ -36,7 +36,6 @@ jurisdiction_caveats:
 source_apis:
 - europepmc
 - openalex
-- pubmed
 full_text_available: false
 tags:
 - evidence
@@ -45,7 +44,7 @@ tags:
 - market/research_only
 ---
 
-# Research advances on Cordyceps sinensis and its components in relation to omics biomarkers for the neurological disorders.
+# Research advances on Cordyceps sinensis and its components in relation to omics biomarkers for the neurological disorders
 
 ## Summary fields
 - **Year:** 2026
@@ -59,7 +58,7 @@ tags:
 - **Citation status:** needs_legal_review
 - **DOI:** 10.1007/s00114-026-02093-4
 - **PMID:** 41945111
-- **URL:** https://pubmed.ncbi.nlm.nih.gov/41945111/
+- **URL:** https://doi.org/10.1007/s00114-026-02093-4
 
 ## Abstract
 Cordyceps is a traditional medicinal fungus belonging to the species Ophiocordyceps sinensis. It grows in the alpine ecological zone of the Tibetan Plateau and exhibits dual characteristics of both insects and fungi. The primary species include Cordyceps sinensis and Cordyceps militaris. Rich in bioactive components such as cordycepin, polysaccharides, adenosine, and peptides, cordyceps demonstrates broad applications in immune regulation, anti-tumor activity, anti-inflammatory, and neuroprotection. Cordyceps sinensis and its components show great therapeutic potential in neurological diseases such as epilepsy, Alzheimer’s disease and Parkinson’s disease through multi-level and multi-target actions However, current research faces challenges including unclear mechanisms of action and insufficient clinical translation. In this review, we analyze the molecular mechanisms underlying cordyceps’ neuroprotective effects, including the regulating of apoptosis, improvement of mitochondrial function, and promoting of nerve repair. Utilizing network pharmacology, we explore the multi-targeted actions of cordyceps and predict the key pathways. Further we summarize the research progress in the integrated multi-omics analyses (genomics, transcriptomics, proteomics and metabolomics), to reveal the synergistic roles of cordyceps components in treating neurological disorders and identify potential molecular biomarkers. Additionally, we highlight the findings from preclinical experiments and animal models on cordyceps-based drugs, discussing their advantages and challenges for clinical application. Future studies should prioritize systematic exploration of standardized drug development, advanced multi-omics integration, and rigorous clinical trials. This will provide a more robust scientific foundation and practical guidance for the treatment of neurological diseases with cordyceps.

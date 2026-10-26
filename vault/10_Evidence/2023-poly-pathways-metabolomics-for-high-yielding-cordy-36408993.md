@@ -12,7 +12,7 @@ journal: 'Biomedical chromatography : BMC'
 doi: 10.1002/bmc.5551
 pmid: '36408993'
 url: https://pubmed.ncbi.nlm.nih.gov/36408993/
-track: militaris
+track: compound
 compound: cordycepin
 species: Cordyceps_militaris
 study_type: unclear

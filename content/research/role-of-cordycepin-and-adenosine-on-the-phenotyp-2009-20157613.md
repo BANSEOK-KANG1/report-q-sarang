@@ -1,0 +1,337 @@
+---
+title: Role of Cordycepin and Adenosine on the Phenotypic Switch of Macrophages via
+  Induced Anti-inflammatory Cytokines.
+title_ko: Role of 코디세핀 and 아데노신 on the Phenotypic Switch of Macrophages via Induced
+  Anti-inflammatory Cytokines.
+slug: role-of-cordycepin-and-adenosine-on-the-phenotyp-2009-20157613
+record_id: bee44c01-50d0-49bb-9cb9-9c4ced1864ac
+date: '2026-10-26'
+year: 2009
+authors:
+- Seulmee Shin
+- Sunhee Moon
+- Yoonhee Park
+- Jeonghak Kwon
+- Seungjeong Lee
+- Chong-Kil Lee
+- Kyunghae Cho
+- Nam-Joo Ha
+- Kyungjae Kim
+doi: 10.4110/in.2009.9.6.255
+pmid: '20157613'
+pmcid: PMC2816959
+url: https://pubmed.ncbi.nlm.nih.gov/20157613/
+study_type: animal
+evidence_strength: C_animal
+species: Cordyceps_militaris
+compound: cordycepin
+claim_category: immune
+risk_flags:
+- disease_language
+- preclinical_only
+citation_status: needs_legal_review
+maps_to_market: research_only
+description: 2009 · 동물·세포 실험(전임상) · 면역 · Cordyceps militaris (동충하초) — 효능·생리활성 관련 학술
+  문헌 쉬운 정리 (교육용, 제품 효능 주장 아님)
+category: research
+compliance: research_education_only
+no_disease_claims: true
+no_efficacy_claims: true
+status: published
+tags:
+- research
+- cordycepin
+- evidence
+- 제왕충초
+generated: '2026-10-26'
+visuals:
+- type: figure
+  src: /research-figures/role-of-cordycepin-and-adenosine-on-the-phenotyp-2009-20157613/in-9-255-g005.jpg
+  caption: 원문 Figure (in-9-255-g005) — Europe PMC OA
+  source: europepmc
+  filename: in-9-255-g005.jpg
+- type: figure
+  src: /research-figures/role-of-cordycepin-and-adenosine-on-the-phenotyp-2009-20157613/in-9-255-g001.jpg
+  caption: 원문 Figure (in-9-255-g001) — Europe PMC OA
+  source: europepmc
+  filename: in-9-255-g001.jpg
+- type: figure
+  src: /research-figures/role-of-cordycepin-and-adenosine-on-the-phenotyp-2009-20157613/in-9-255-g004.jpg
+  caption: 원문 Figure (in-9-255-g004) — Europe PMC OA
+  source: europepmc
+  filename: in-9-255-g004.jpg
+- type: figure
+  src: /research-figures/role-of-cordycepin-and-adenosine-on-the-phenotyp-2009-20157613/in-9-255-g003.gif
+  caption: 원문 Figure (in-9-255-g003) — Europe PMC OA
+  source: europepmc
+  filename: in-9-255-g003.gif
+api_meta:
+  keywords:
+  - Adenosine
+  - Morphology change
+  - cordycepin
+  - M1/m2 Phenotype
+  mesh_terms: []
+  concepts:
+  - name: Cordycepin
+    score: 0.997
+    level: 2
+  - name: Adenosine
+    score: 0.84
+    level: 2
+  - name: Inflammation
+    score: 0.56
+    level: 2
+  - name: Chemokine
+    score: 0.524
+    level: 3
+  - name: Proinflammatory cytokine
+    score: 0.521
+    level: 3
+  - name: Cytokine
+    score: 0.514
+    level: 2
+  - name: Cordyceps
+    score: 0.433
+    level: 2
+  - name: Macrophage
+    score: 0.43
+    level: 3
+  cited_by_count: 68
+  reference_count: 18
+  publisher: XMLink
+  journal: Immune network
+  oa_status: hybrid
+  oa_url: http://immunenetwork.org/Synapse/Data/PDFData/0078IN/in-9-255.pdf
+  apis:
+    europepmc: true
+    openalex: true
+    crossref: true
+  fetched_at: '2026-10-26'
+translations:
+  title_ko: Role of 코디세핀 and 아데노신 on the Phenotypic Switch of Macrophages via Induced
+    Anti-inflammatory Cytokines.
+  glossary:
+  - en: cordycepin
+    ko: 코디세핀
+    note: 3'-deoxyadenosine, Cordyceps 주요 bioactive 성분
+  - en: cordyceps militaris
+    ko: Cordyceps militaris
+    note: 동충하초 균종
+  - en: cordyceps
+    ko: Cordyceps
+    note: 충Cordyceps属 진균
+  - en: adenosine
+    ko: 아데노신
+    note: 뉴클레오시드 관련 물질
+  sections:
+  - id: summary
+    label_ko: 초록 전체
+    en: 'BACKGROUND: Chronic low grade inflammation is closely linked to type II diabetes,
+      obesity, and atherosclerosis. Macrophages play a key role in the regulation
+      of pro- or anti-inflammatory actions at the lesion sites of disease. Components
+      of cordyceps militaris, cordycepin and adenosine, have been used for the modulation
+      of inflammatory diseases. The effects of cordycepin in the modulation of macrophages
+      have yet to be elucidated. We investigated the effects of cordycepin and adenosine
+      on the morphological changes of macrophages under the inflammatory condition
+      of LPS and an anti-inflammatory condition involving high concentrations of adenosine.
+      METHODS: We confirmed the mRNA levels of the M1/M2 cytokine genes through RT-PCR
+      and morphological change. RESULTS: LPS-activated macrophages returned to their
+      inactivated original shape, i.e., they looked like naïve macrophages, through
+      the treatment with high concentrations of cordycepin (40 microg/ml). LPS and
+      adenosine activated macrophages also returned to their original inactivated
+      shapes after cordycepin treatment; however, at relatively higher levels of cordycepin
+      than adenosine. This change did not occur with relatively low concentrations
+      of cordycepin. Adenosine down-regulated the gene expression of M1 cytokines
+      (IL-1beta, TNF-alpha) and chemokines (CX3CR1, RANTES), as well as cordycepin.
+      Additionally, M2 cytokines (IL-10, IL-1ra, TGF-beta) were up-regulated by both
+      cordycepin and adenosine. CONCLUSION: Based on these observations, both cordycepin
+      and adenosine regulated the phenotypic switch on macrophages and suggested that
+      cordycepin and adenosine may potentially be used as immunomodulatory agents
+      in the treatment of inflammatory disease.'
+    ko_literal: 'BACKGROUND: Chronic low grade inflammation is closely linked to type
+      II diabetes, obesity, and atherosclerosis. Macrophages play a key role in the
+      regulation of pro- or anti-inflammatory actions at the lesion sites of disease.
+      Components of Cordyceps(cordyceps) militaris(cordyceps militaris), 코디세핀 and
+      아데노신, have been used for the modulation of inflammatory diseases. The effects
+      of 코디세핀 in the modulation of macrophages have yet to be elucidated. We investigated
+      the effects of 코디세핀 and 아데노신 on the morphological changes of macrophages under
+      the inflammatory condition of LPS and an anti-inflammatory condition involving
+      high concentrations of 아데노신. METHODS: We confirmed the mRNA levels of the M1/M2
+      cytokine genes through RT-PCR and morphological change. RESULTS: LPS-activated
+      macrophages returned to their inactivated original shape, i.e., they looked
+      like naïve macrophages, through the treatment with high concentrations of 코디세핀
+      (40 microg/ml). LPS and 아데노신 activated macrophages also returned to their original
+      inactivated shapes after 코디세핀 treatment; however, at relatively higher levels
+      of 코디세핀 than 아데노신. This change did not occur with relatively low concentrations
+      of 코디세핀. 아데노신 down-regulated the gene expression of M1 cytokines (IL-1beta,
+      TNF-alpha) and chemokines (CX3CR1, RANTES), as well as 코디세핀. Additionally, M2
+      cytokines (IL-10, IL-1ra, TGF-beta) were up-regulated by both 코디세핀 and 아데노신.
+      CONCLUSION: Based on these observations, both 코디세핀 and 아데노신 regulated the phenotypic
+      switch on macrophages and suggested that 코디세핀 and 아데노신 may potentially be used
+      as immunomodulatory agents in the treatment of inflammatory disease.'
+    ko_researcher: '[초록 전체] 핵심 용어: **코디세핀**(cordycepin) · **Cordyceps militaris**(cordyceps
+      militaris) · **Cordyceps**(cordyceps) · **아데노신**(adenosine). BACKGROUND: Chronic
+      low grade inflammation is closely linked to type II diabetes, obesity, and atherosclerosis.
+      Macrophages play a key role in the regulation of pro- or anti-inflammatory actions
+      at the lesion sites of disease. Components of Cordyceps(cordyceps) militaris(cordyceps
+      militaris), 코디세핀 and 아데노신, have been used for the modulation of inflammatory
+      diseases. The effects of 코디세핀 in the modulation of macrophages have yet to be
+      elucidated. We investigated the effects of 코디세핀 and 아데노신 on the morphological
+      changes of macrophages under the inflammatory condition of LPS and an anti-inflammatory
+      condition involving high concentrations of 아데노신. METHODS: We confirmed the mRNA
+      levels of the M1/M2 cytokine genes through RT-PCR and morphological change.
+      RESULTS: LPS-activated macrophages returned to their inactivated original shape,
+      i.e., they looked like naïve macrophages, through the treatment with high concentrations
+      of 코디세핀 (40 microg/ml). LPS and 아데노신 activated macrophages also returned to
+      their original inactivated shapes after 코디세핀 treatment; however, at relatively
+      higher levels of 코디세핀 than 아데노신. This change did not occur with relatively low
+      concentrations of 코디세핀. 아데노신 down-regulated the gene expression of M1 cytokines
+      (IL-1beta, TNF-alpha) and chemokines (CX3CR1, RANTES), as well as 코디세핀. Additionally,
+      M2 cytokines (IL-10, IL-1ra, TGF-beta) were up-regulated by both 코디세핀 and 아데노신.
+      CONCLUSION: Based on these observations, both 코디세핀 and 아데노신 regulated the phenotypic
+      switch on macrophages and suggested that 코디세핀 and 아데노신 may potentially be used
+      as immunomodulatory agents in the treatment of inflammatory disease.'
+    ko_plain: '논문 초록의 요지를 쉽게 풀면 다음과 같습니다. BACKGROUND: Chronic low grade inflammation
+      is closely linked to type II diabetes, obesity, and atherosclerosis. Macrophages
+      play a key role in the regulation of pro- or anti-inflammatory actions at the
+      lesion sites of disease. Components of Cordyceps(cordyceps) militaris(cordyceps
+      militaris), 코디세핀 and 아데노신, have been used for the modulation of inflammatory
+      diseases. …'
+  easy_read:
+    headline: 2009년에 나온 아직 실험실·동물 단계 논문입니다. 핵심 주제는 「염증 반응과 관련된 연구 주제」입니다.
+    what_is_this: '이 글은 「염증 반응과 관련된 연구 주제」에 대한 학술 정리입니다. BACKGROUND: Chronic low grade
+      inflammation is closely linked to type II diabetes, obesity, and atherosclerosis.
+      Macrophages play a key role in the regulation of pro- or anti-inflammatory actions
+      at the lesion sites of disease.'
+    what_they_did: 논문·데이터를 모아 분석·정리했습니다.
+    what_they_found: 'BACKGROUND: Chronic low grade inflammation is closely linked
+      to type II diabetes, obesity, and atherosclerosis. Macrophages play a key role
+      in the regulation of pro- or anti-inflammatory actions at the lesion sites of
+      disease. Components of Cordyceps(cordyceps) militaris(cordyceps militaris),
+      코디세핀 and 아데노신, have been used for the modulation of inflammatory diseases.'
+    good_to_know:
+    - 이 글은 **술·담금주가 몸에 좋다**는 이야기가 아닙니다.
+    - 연구실·논문에서 말하는 **생리활성·기능성 주제**를 할머니·할아버지도 읽기 쉽게 풀어 쓴 것입니다.
+    - '**제품 효능·효과를 보장하거나 광고하지 않습니다.**'
+    - 아직 **사람에게 직접 먹여 본 실험**이 아닐 수 있습니다. 실험실·동물 단계 이야기입니다.
+    - 원문에는 **병·치료** 관련 표현이 있을 수 있으나, 여기서는 **연구 주제**만 쉽게 옮겼습니다.
+    - 궁금하시면 아래 **원문·번역 참고**를 펼쳐 보시면 됩니다.
+    sections:
+    - id: summary
+      label: 한줄 요약
+      text: 'BACKGROUND: Chronic low grade inflammation is closely linked to type
+        II diabetes, obesity, and atherosclerosis. Macrophages play a key role in
+        the regulation of pro- or anti-inflammatory actions at the lesion sites of
+        disease.'
+  full:
+    en: 'BACKGROUND: Chronic low grade inflammation is closely linked to type II diabetes,
+      obesity, and atherosclerosis. Macrophages play a key role in the regulation
+      of pro- or anti-inflammatory actions at the lesion sites of disease. Components
+      of cordyceps militaris, cordycepin and adenosine, have been used for the modulation
+      of inflammatory diseases. The effects of cordycepin in the modulation of macrophages
+      have yet to be elucidated. We investigated the effects of cordycepin and adenosine
+      on the morphological changes of macrophages under the inflammatory condition
+      of LPS and an anti-inflammatory condition involving high concentrations of adenosine.
+      METHODS: We confirmed the mRNA levels of the M1/M2 cytokine genes through RT-PCR
+      and morphological change. RESULTS: LPS-activated macrophages returned to their
+      inactivated original shape, i.e., they looked like naïve macrophages, through
+      the treatment with high concentrations of cordycepin (40 microg/ml). LPS and
+      adenosine activated macrophages also returned to their original inactivated
+      shapes after cordycepin treatment; however, at relatively higher levels of cordycepin
+      than adenosine. This change did not occur with relatively low concentrations
+      of cordycepin. Adenosine down-regulated the gene expression of M1 cytokines
+      (IL-1beta, TNF-alpha) and chemokines (CX3CR1, RANTES), as well as cordycepin.
+      Additionally, M2 cytokines (IL-10, IL-1ra, TGF-beta) were up-regulated by both
+      cordycepin and adenosine. CONCLUSION: Based on these observations, both cordycepin
+      and adenosine regulated the phenotypic switch on macrophages and suggested that
+      cordycepin and adenosine may potentially be used as immunomodulatory agents
+      in the treatment of inflammatory disease.'
+    ko_literal: 'BACKGROUND: Chronic low grade inflammation is closely linked to type
+      II diabetes, obesity, and atherosclerosis. Macrophages play a key role in the
+      regulation of pro- or anti-inflammatory actions at the lesion sites of disease.
+      Components of Cordyceps(cordyceps) militaris(cordyceps militaris), 코디세핀 and
+      아데노신, have been used for the modulation of inflammatory diseases. The effects
+      of 코디세핀 in the modulation of macrophages have yet to be elucidated. We investigated
+      the effects of 코디세핀 and 아데노신 on the morphological changes of macrophages under
+      the inflammatory condition of LPS and an anti-inflammatory condition involving
+      high concentrations of 아데노신. METHODS: We confirmed the mRNA levels of the M1/M2
+      cytokine genes through RT-PCR and morphological change. RESULTS: LPS-activated
+      macrophages returned to their inactivated original shape, i.e., they looked
+      like naïve macrophages, through the treatment with high concentrations of 코디세핀
+      (40 microg/ml). LPS and 아데노신 activated macrophages also returned to their original
+      inactivated shapes after 코디세핀 treatment; however, at relatively higher levels
+      of 코디세핀 than 아데노신. This change did not occur with relatively low concentrations
+      of 코디세핀. 아데노신 down-regulated the gene expression of M1 cytokines (IL-1beta,
+      TNF-alpha) and chemokines (CX3CR1, RANTES), as well as 코디세핀. Additionally, M2
+      cytokines (IL-10, IL-1ra, TGF-beta) were up-regulated by both 코디세핀 and 아데노신.
+      CONCLUSION: Based on these observations, both 코디세핀 and 아데노신 regulated the phenotypic
+      switch on macrophages and suggested that 코디세핀 and 아데노신 may potentially be used
+      as immunomodulatory agents in the treatment of inflammatory disease.'
+    ko_researcher: '[초록 전체] 핵심 용어: **코디세핀**(cordycepin) · **Cordyceps militaris**(cordyceps
+      militaris) · **Cordyceps**(cordyceps) · **아데노신**(adenosine). BACKGROUND: Chronic
+      low grade inflammation is closely linked to type II diabetes, obesity, and atherosclerosis.
+      Macrophages play a key role in the regulation of pro- or anti-inflammatory actions
+      at the lesion sites of disease. Components of Cordyceps(cordyceps) militaris(cordyceps
+      militaris), 코디세핀 and 아데노신, have been used for the modulation of inflammatory
+      diseases. The effects of 코디세핀 in the modulation of macrophages have yet to be
+      elucidated. We investigated the effects of 코디세핀 and 아데노신 on the morphological
+      changes of macrophages under the inflammatory condition of LPS and an anti-inflammatory
+      condition involving high concentrations of 아데노신. METHODS: We confirmed the mRNA
+      levels of the M1/M2 cytokine genes through RT-PCR and morphological change.
+      RESULTS: LPS-activated macrophages returned to their inactivated original shape,
+      i.e., they looked like naïve macrophages, through the treatment with high concentrations
+      of 코디세핀 (40 microg/ml). LPS and 아데노신 activated macrophages also returned to
+      their original inactivated shapes after 코디세핀 treatment; however, at relatively
+      higher levels of 코디세핀 than 아데노신. This change did not occur with relatively low
+      concentrations of 코디세핀. 아데노신 down-regulated the gene expression of M1 cytokines
+      (IL-1beta, TNF-alpha) and chemokines (CX3CR1, RANTES), as well as 코디세핀. Additionally,
+      M2 cytokines (IL-10, IL-1ra, TGF-beta) were up-regulated by both 코디세핀 and 아데노신.
+      CONCLUSION: Based on these observations, both 코디세핀 and 아데노신 regulated the phenotypic
+      switch on macrophages and suggested that 코디세핀 and 아데노신 may potentially be used
+      as immunomodulatory agents in the treatment of inflammatory disease.'
+    ko_plain: '논문 초록의 요지를 쉽게 풀면 다음과 같습니다. BACKGROUND: Chronic low grade inflammation
+      is closely linked to type II diabetes, obesity, and atherosclerosis. Macrophages
+      play a key role in the regulation of pro- or anti-inflammatory actions at the
+      lesion sites of disease. Components of Cordyceps(cordyceps) militaris(cordyceps
+      militaris), 코디세핀 and 아데노신, have been used for the modulation of inflammatory
+      diseases. …'
+---
+
+## 한국어 요약
+
+**2009년** 발표된 「Role of Cordycepin and Adenosine on the Phenotypic Switch of Macrophages via Induced Anti-inflammatory Cytokines.」은(는) **Cordyceps militaris (동충하초)** 및 **코디세핀** 관련 동물·세포 실험(전임상)입니다. 아래는 원문 초록을 바탕으로 한 **중립적 요약**이며, 제품 효능·효과를 의미하지 않습니다.
+
+### 초록 요지
+
+BACKGROUND: Chronic low grade inflammation is closely linked to type II diabetes, obesity, and atherosclerosis. Macrophages play a key role in the regulation of pro- or anti-inflammatory actions at the lesion sites of disease. Components of cordyceps militaris, cordycepin and adenosine, have been used for the modulation of inflammatory diseases. The effects of cordycepin in the modulation of macrophages have yet to be elucidated. We investigated the effects of cordycepin and adenosine on the morphological changes of macrophages under the inflammatory condition of LPS and an anti-inflammatory condition involving high concentrations of adenosine. METHODS: We confirmed the mRNA levels of the M1/M2 cytokine genes through RT-PCR and morphological change. RESULTS: LPS-activated macrophages returned to their inactivated original shape, i.e., they looked like naïve macrophages, through the treatment with high concentrations of cordycepin (40 microg/ml). LPS and adenosine activated macrophages also returned to their original inactivated shapes after cordycepin treatment; however, at relatively higher levels of cordycepin than adenosine. This change did not occur with relatively low concentrations of cordycepin. Adenosine down-regulated the gene expression of M1 cytokines (IL-1beta, TNF-alpha) and chemokines (CX3CR1, RANTES), as well as cordycepin. Additionally, M2 cytokines (IL-10, IL-1ra, TGF-beta) were up-regulated by both cordycepin and adenosine. CONCLUSION: Based on these observations, both cordycepin and adenosine regulated the phenotypic switch on macrophages and suggested that cordycepin and adenosine may potentially be used as immunomodulatory agents in the treatment of inflammatory disease.
+
+### 전문가 메모
+
+- **연구 수준:** 동물/세포 실험 · 동물·세포 실험(전임상)
+- **대상:** Cordyceps militaris (동충하초) / cordycepin
+- **제품 연관성:** direct
+- **해석 주의:** 전임상(동물·세포) 결과는 인간 섭취·담금주 맥락으로 직접 확장하기 어렵습니다.
+- **해석 주의:** 원문에 질병·치료 관련 서술이 포함되어 있습니다. 본 요약은 성분·균류 **연구 맥락**만 중립적으로 정리했습니다.
+- **인사이트:** 배양·생산·기초 메커니즘 연구로 읽는 것이 적절합니다. 소비자 효능 주장 근거로 사용할 수 없습니다.
+
+## 출처 · 원문
+
+- **제목:** Role of Cordycepin and Adenosine on the Phenotypic Switch of Macrophages via Induced Anti-inflammatory Cytokines.
+- **저자:** Seulmee Shin 외 8명
+- **연도:** 2009
+- **저널:** Immune network
+- **DOI:** [10.4110/in.2009.9.6.255](https://doi.org/10.4110/in.2009.9.6.255)
+- **PMID:** [20157613](https://pubmed.ncbi.nlm.nih.gov/20157613/)
+- **링크:** https://pubmed.ncbi.nlm.nih.gov/20157613/
+
+## 원문 초록 (English)
+
+**Summary** — BACKGROUND: Chronic low grade inflammation is closely linked to type II diabetes, obesity, and atherosclerosis. Macrophages play a key role in the regulation of pro- or anti-inflammatory actions at the lesion sites of disease. Components of cordyceps militaris, cordycepin and adenosine, have been used for the modulation of inflammatory diseases. The effects of cordycepin in the modulation of macrophages have yet to be elucidated. We investigated the effects of cordycepin and adenosine on the morphological changes of macrophages under the inflammatory condition of LPS and an anti-inflammatory condition involving high concentrations of adenosine. METHODS: We confirmed the mRNA levels of the M1/M2 cytokine genes through RT-PCR and morphological change. RESULTS: LPS-activated macrophages returned to their inactivated original shape, i.e., they looked like naïve macrophages, through the treatment with high concentrations of cordycepin (40 microg/ml). LPS and adenosine activated macrophages also returned to their original inactivated shapes after cordycepin treatment; however, at relatively higher levels of cordycepin than adenosine. This change did not occur with relatively low concentrations of cordycepin. Adenosine down-regulated the gene expression of M1 cytokines (IL-1beta, TNF-alpha) and chemokines (CX3CR1, RANTES), as well as cordycepin. Additionally, M2 cytokines (IL-10, IL-1ra, TGF-beta) were up-regulated by both cordycepin and adenosine. CONCLUSION: Based on these observations, both cordycepin and adenosine regulated the phenotypic switch on macrophages and suggested that cordycepin and adenosine may potentially be used as immunomodulatory agents in the treatment of inflammatory disease.
+
+---
+
+*본 페이지는 학술 문헌을 **연구·교육 목적**으로 요약·정리한 자료입니다.
+질병의 예방·치료·진단과 무관하며, 제왕충초 담금주의 효능·효과를 주장하지 않습니다.
+‘효능 관련 논문’은 **연구자들이 다루는 생리활성·기능성 주제**를 뜻하며, 제품 광고 문구가 아닙니다.
+원문과 상이한 해석이 있을 수 있으며, 인용 시 반드시 원문을 확인하세요.*

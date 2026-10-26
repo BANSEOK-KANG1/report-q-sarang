@@ -1,7 +1,7 @@
 ---
 title: 코디세핀 논문이 보여도, 제품 소개로 옮기지 않는 이유
 slug: how-to-read-cordycepin-research
-date: '2026-10-19'
+date: '2026-10-26'
 brand: 큐사랑
 product: 제왕충초 담금주
 category: education
@@ -19,7 +19,7 @@ tags:
 - cordycepin
 - 제왕충초
 - 큐사랑
-generated: '2026-10-19'
+generated: '2026-10-26'
 ---
 
 # 코디세핀 논문이 보여도, 제품 소개로 옮기지 않는 이유
@@ -64,7 +64,7 @@ generated: '2026-10-19'
 아래는 성분·균류를 **연구 주제**로 다루는 학술 문헌입니다. 제품의 효능을 설명하거나 보장하는 근거가 아닙니다.
 
 - 2026 · [An Acetyl-CoA-Gated Metabolic Checkpoint Links Precursor Supply to Cordycepin Biosynthesis in Cordyceps militaris.](https://europepmc.org/article/MED/42042030)
-- 2026 · [Efficient production of cordycepin in engineered Saccharomyces cerevisiae.](https://europepmc.org/article/MED/41946402)
+- 2026 · [Exploration of the potential utilization value in Cordyceps militaris substrate after industrial cultivation in terms of nutritional and pharmaceutical applications.](https://europepmc.org/article/MED/42444510)
 
 
 ## 이 시리즈 이어서 읽기

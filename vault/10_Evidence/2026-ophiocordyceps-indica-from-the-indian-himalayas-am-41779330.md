@@ -3,18 +3,18 @@ record_id: 1f8bf675-6bb9-446f-9dba-eb94217fc7aa
 title: Ophiocordyceps indica from the Indian Himalayas Ameliorates the IgA Nephropathy
   in Mice.
 authors:
-- Aakriti Sharma
-- Swati Katoch
-- Aditya Singh Ranout
-- Robin Joshi
-- Mahesh S
-- Vikram Patial
-- Gireesh Nadda
+- Sharma A
+- Katoch S
+- Ranout AS
+- Joshi R
+- S M
+- Patial V
+- Nadda G.
 year: 2026
-journal: Applied biochemistry and biotechnology
+journal: ''
 doi: 10.1007/s12010-026-05588-y
 pmid: '41779330'
-url: https://pubmed.ncbi.nlm.nih.gov/41779330/
+url: https://europepmc.org/article/MED/41779330
 track: comparator_sinensis
 compound: cordycepin
 species: Cordyceps_sinensis
@@ -35,7 +35,6 @@ jurisdiction_caveats:
 - research_only
 source_apis:
 - europepmc
-- pubmed
 full_text_available: false
 tags:
 - evidence
@@ -58,7 +57,7 @@ tags:
 - **Citation status:** needs_legal_review
 - **DOI:** 10.1007/s12010-026-05588-y
 - **PMID:** 41779330
-- **URL:** https://pubmed.ncbi.nlm.nih.gov/41779330/
+- **URL:** https://europepmc.org/article/MED/41779330
 
 ## Abstract
 Immunoglobulin A nephropathy (IgAN) is the most common form of chronic glomerulonephritis and a major cause of end-stage renal disease worldwide, currently lacks safe, effective therapies. Ophiocordyceps sinensis, a well-known traditional medicinal fungus and used for treating kidney-related disorders. In this study, we report for the first time the nephroprotective potential of Ophiocordyceps indica Gireesh Nadda & Aakriti Sharma 2023, a newly described entomopathogenic fungus isolated from the Indian Himalayas, against IgAN. UPLC-based metabolomic profiling of O. indica confirmed the presence of key nucleosides, including adenosine and cordycepin, exhibiting a profile comparable to O. sinensis. In vitro, O. indica extract significantly reduced oxidative stress and inflammatory markers in SV40-MES13 mesangial cells without inducing cytotoxicity. In vivo, oral administration of the extract to IgAN-induced mice improved renal function by reducing serum creatinine, urea, and urine microalbumin levels, while restoring body and kidney weights. The extract also significantly reduced pro-inflammatory cytokines (TNFα, IL6, IL18) and galactose-deficient IgA1 levels. Histological and molecular analyses revealed amelioration of glomerular hypertrophy and tubular degeneration, along with downregulation of fibrotic and kidney injury markers (TGFβ, αSMA, Nephrin, WT1, VEGF, Desmin). The nephroprotective and anti-inflammatory effects of O. indica were comparable to those of O. sinensis and dexamethasone. Our findings highlight the potent anti-inflammatory and nephroprotective properties of O. indica, supporting its potential as a novel therapeutic agent for managing IgAN.
