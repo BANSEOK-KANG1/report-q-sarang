@@ -7,7 +7,7 @@ title_ko: 'Skeletal muscle mitochondrial-methylation-neurotransmitter crosstalk:
   performance in older adults, individuals with metabolic disorders, and healthy populations.'
 slug: skeletal-muscle-mitochondrial-methylation-neurot-2026-42682565
 record_id: c927f728-d624-4212-baf5-be5c96c24fb3
-date: '2026-10-26'
+date: '2026-11-02'
 year: 2026
 authors:
 - Xu C
@@ -39,28 +39,8 @@ tags:
 - cordycepin
 - evidence
 - 제왕충초
-generated: '2026-10-26'
-visuals:
-- type: figure
-  src: /research-figures/skeletal-muscle-mitochondrial-methylation-neurot-2026-42682565/fnut-13-1812286-g001.gif
-  caption: 원문 Figure (fnut-13-1812286-g001) — Europe PMC OA
-  source: europepmc
-  filename: fnut-13-1812286-g001.gif
-- type: figure
-  src: /research-figures/skeletal-muscle-mitochondrial-methylation-neurot-2026-42682565/fnut-13-1812286-g001.webp
-  caption: 원문 Figure (fnut-13-1812286-g001) — Europe PMC OA
-  source: europepmc
-  filename: fnut-13-1812286-g001.webp
-- type: figure
-  src: /research-figures/skeletal-muscle-mitochondrial-methylation-neurot-2026-42682565/fnut-13-1812286-g003.webp
-  caption: 원문 Figure (fnut-13-1812286-g003) — Europe PMC OA
-  source: europepmc
-  filename: fnut-13-1812286-g003.webp
-- type: figure
-  src: /research-figures/skeletal-muscle-mitochondrial-methylation-neurot-2026-42682565/fnut-13-1812286-g002.webp
-  caption: 원문 Figure (fnut-13-1812286-g002) — Europe PMC OA
-  source: europepmc
-  filename: fnut-13-1812286-g002.webp
+generated: '2026-11-02'
+visuals: []
 api_meta:
   keywords:
   - Cordyceps
@@ -106,7 +86,7 @@ api_meta:
     europepmc: true
     openalex: true
     crossref: true
-  fetched_at: '2026-10-26'
+  fetched_at: '2026-11-02'
 translations:
   title_ko: 'Skeletal muscle mitochondrial-methylation-neurotransmitter crosstalk:
     a novel synergistic model of betaine, tyrosine, and Cordyceps(cordyceps) for exercise

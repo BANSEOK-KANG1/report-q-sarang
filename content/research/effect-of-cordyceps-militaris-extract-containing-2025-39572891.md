@@ -4,8 +4,8 @@ title: Effect of Cordyceps militaris extract containing cordycepin on the adipog
 title_ko: Effect of Cordyceps(cordyceps) militaris(cordyceps militaris) 추출물 containing
   코디세핀 on the adipogenesis and lipolysis of adipocytes.
 slug: effect-of-cordyceps-militaris-extract-containing-2025-39572891
-record_id: 26fd02a6-7d7a-40de-a2c8-da9ee4868b7a
-date: '2026-10-05'
+record_id: eeef8b19-3109-4d95-bb52-c60e5aa77287
+date: '2026-11-02'
 year: 2025
 authors:
 - Kazuya Kusama
@@ -39,28 +39,8 @@ tags:
 - cordycepin
 - evidence
 - 제왕충초
-generated: '2026-10-05'
-visuals:
-- type: figure
-  src: /research-figures/effect-of-cordyceps-militaris-extract-containing-2025-39572891/FEB4-15-335-g001.jpg
-  caption: 원문 Figure (FEB4-15-335-g001) — Europe PMC OA
-  source: europepmc
-  filename: FEB4-15-335-g001.jpg
-- type: figure
-  src: /research-figures/effect-of-cordyceps-militaris-extract-containing-2025-39572891/FEB4-15-335-g005.gif
-  caption: 원문 Figure (FEB4-15-335-g005) — Europe PMC OA
-  source: europepmc
-  filename: FEB4-15-335-g005.gif
-- type: figure
-  src: /research-figures/effect-of-cordyceps-militaris-extract-containing-2025-39572891/FEB4-15-335-g004.jpg
-  caption: 원문 Figure (FEB4-15-335-g004) — Europe PMC OA
-  source: europepmc
-  filename: FEB4-15-335-g004.jpg
-- type: figure
-  src: /research-figures/effect-of-cordyceps-militaris-extract-containing-2025-39572891/FEB4-15-335-g003.jpg
-  caption: 원문 Figure (FEB4-15-335-g003) — Europe PMC OA
-  source: europepmc
-  filename: FEB4-15-335-g003.jpg
+generated: '2026-11-02'
+visuals: []
 api_meta:
   keywords:
   - Cell senescence
@@ -118,7 +98,7 @@ api_meta:
     europepmc: true
     openalex: true
     crossref: true
-  fetched_at: '2026-10-05'
+  fetched_at: '2026-11-02'
 translations:
   title_ko: Effect of Cordyceps(cordyceps) militaris(cordyceps militaris) 추출물 containing
     코디세핀 on the adipogenesis and lipolysis of adipocytes.

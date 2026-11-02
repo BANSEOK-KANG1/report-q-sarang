@@ -10,7 +10,7 @@ authors:
 - Seung-Jung Lee
 - Lee MinWon
 year: 2001
-journal: ''
+journal: 생약학회지
 doi: ''
 pmid: ''
 url: https://openalex.org/W3112674668

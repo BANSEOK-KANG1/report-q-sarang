@@ -15,7 +15,8 @@ study_type: unclear
 evidence_strength: F_review_only
 relevance_to_product: partial
 claim_category: other
-risk_flags: []
+risk_flags:
+- missing_abstract
 maps_to_market: research_only
 citation_status: candidate
 priority_review: false
@@ -42,7 +43,7 @@ tags:
 - **Species:** Cordyceps_militaris
 - **Compound:** unclear
 - **Claim category:** other
-- **Risk flags:** none
+- **Risk flags:** missing_abstract
 - **Maps to market:** research_only
 - **Citation status:** candidate
 - **DOI:** 10.1079/cabicompendium.15962
@@ -50,7 +51,7 @@ tags:
 - **URL:** https://doi.org/10.1079/cabicompendium.15962
 
 ## Abstract
-This datasheet on Cordyceps militaris covers Identity, Distribution, Further Information.
+_No abstract_
 
 ## Relevance notes
 _n/a_

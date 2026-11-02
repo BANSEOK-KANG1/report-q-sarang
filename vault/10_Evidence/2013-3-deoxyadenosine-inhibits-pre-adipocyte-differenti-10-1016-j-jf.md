@@ -5,14 +5,11 @@ title: 3′-Deoxyadenosine inhibits pre-adipocyte differentiation and biosynthes
 authors:
 - Yong-Kyu Shin
 - Michael B. Ye
-- Sung-Won Kim
 - Sung‐Won Kim
 - Soo-Chan Lee
 - Il-Woung Kim
 - Su-Nam Kim
-- Su-Nam Kim
 - Hyun-Ok Yang
-- Si-Kwan Kim
 - Si-Kwan Kim
 year: 2013
 journal: Journal of Functional Foods

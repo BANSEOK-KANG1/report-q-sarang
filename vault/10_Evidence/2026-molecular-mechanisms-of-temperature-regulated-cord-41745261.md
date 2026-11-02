@@ -28,7 +28,7 @@ risk_flags:
 - preclinical_only
 maps_to_market: KR_liquor_context
 citation_status: approved
-priority_review: true
+priority_review: false
 jurisdiction_caveats:
 - KR_liquor_no_disease_claims
 - not_HFF_product

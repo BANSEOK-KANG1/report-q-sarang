@@ -4,12 +4,12 @@ title: '[TOF-SIMS Study of Mannitol and Cordycepin in Cordyceps Sinensis].'
 authors:
 - Zhan-ping Li
 - Sanada Noriaki
-- Su-qin Sun
+- Su-Qin Sun
 year: 2016
-journal: Guang pu xue yu guang pu fen xi = Guang pu
+journal: PubMed
 doi: ''
 pmid: '30052353'
-url: https://pubmed.ncbi.nlm.nih.gov/30052353/
+url: https://pubmed.ncbi.nlm.nih.gov/30052353
 track: comparator_sinensis
 compound: cordycepin
 species: Cordyceps_sinensis
@@ -27,7 +27,6 @@ jurisdiction_caveats:
 - research_only
 source_apis:
 - openalex
-- pubmed
 full_text_available: false
 tags:
 - evidence
@@ -50,7 +49,7 @@ tags:
 - **Citation status:** candidate
 - **DOI:** —
 - **PMID:** 30052353
-- **URL:** https://pubmed.ncbi.nlm.nih.gov/30052353/
+- **URL:** https://pubmed.ncbi.nlm.nih.gov/30052353
 
 ## Abstract
 Cordyceps sinensis is a well-known traditional Chinese medicine; it is also called DongChongXiaCao (winter worm summer grass) in Chinese. Mannitol and cordycepin, the most important two pharmacological active components of cordyceps sinensis, were studied with TOF-SIMS. This Study was focused on the chemical information including 251 amu mass peak. Based on high mass resolution of TOF-SIMS analysis, the fragment ions of 251 and 252 amu detected in Cordyceps sinensis may not be the molecular ion M+ and/or[M+H]+ of cordycepin, which ispossiblely the root cause of the argument in the study of cordycepin in published papers .It could be a basis for further study of cordycepin components of cordyceps sinensis in the future. The 181amu mass peak of minus ion in mannitol was also studied in detail and was certified to be a reliable evidence of mannitol. This research shows that TOF-SIMS has been proven as an effective method in the study of cordyceps sinensis.

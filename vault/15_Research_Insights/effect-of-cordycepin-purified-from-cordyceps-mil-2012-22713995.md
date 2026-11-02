@@ -5,7 +5,7 @@ title_ko: Effect of 코디세핀 purified from Cordyceps(cordyceps) militaris(co
   on Th1 and Th2 cytokines in mouse splenocytes.
 slug: effect-of-cordycepin-purified-from-cordyceps-mil-2012-22713995
 record_id: 0f5fec97-e1dd-40e7-b1ea-acf1dbef3903
-date: '2026-10-26'
+date: '2026-11-02'
 year: 2012
 authors:
 - Min-Ho Jeong
@@ -44,7 +44,7 @@ tags:
 - cordycepin
 - evidence
 - 제왕충초
-generated: '2026-10-26'
+generated: '2026-11-02'
 visuals: []
 api_meta:
   keywords: []
@@ -95,7 +95,7 @@ api_meta:
     europepmc: true
     openalex: true
     crossref: true
-  fetched_at: '2026-10-26'
+  fetched_at: '2026-11-02'
 translations:
   title_ko: Effect of 코디세핀 purified from Cordyceps(cordyceps) militaris(cordyceps
     militaris) on Th1 and Th2 cytokines in mouse splenocytes.

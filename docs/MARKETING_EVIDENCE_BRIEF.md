@@ -1,6 +1,6 @@
 # Marketing Evidence Brief — 제왕충초 × 코디세핀
 
-_Generated: 2026-10-26_
+_Generated: 2026-11-02_
 
 > 제왕충초 담금주는 **주류**입니다. 아래 내용은 효능 광고 승인이 아닙니다.
 > 소비자 카피는 법무 검토 후 `citation_status=approved` + `KR_liquor_context`만 사용하세요.
@@ -67,27 +67,21 @@ _Generated: 2026-10-26_
 - Allowed: Cordycepin is a compound studied in Cordyceps militaris / Cordyceps spp.; academic literature reports related research. (Not a disease-treatment claim; not for liquor efficacy advertising.)
 - Prohibited: Do not claim treatment/prevention/cure of disease; do not claim immune boost, fatigue recovery, anticancer effect, FDA/MFDS efficacy approval for liquor.
 
-### 2024 — Advances in biosynthesis and metabolic engineering strategies of cordycepin.
-- Strength: `C_animal` | Type: `animal`
-- DOI: 10.16488/j.cnki.1005-9873.2007.02.015 | PMID: 38903790
-- Allowed: Cordycepin is a compound studied in Cordyceps militaris / Cordyceps spp.; academic literature reports related research. (Not a disease-treatment claim; not for liquor efficacy advertising.)
-- Prohibited: Do not claim treatment/prevention/cure of disease; do not claim immune boost, fatigue recovery, anticancer effect, FDA/MFDS efficacy approval for liquor.
-
 ### 2023 — Increased Cordycepin Production in Yarrowia lipolytica Using Combinatorial Metabolic Engineering Strategies.
 - Strength: `C_animal` | Type: `animal`
 - DOI: 10.1021/acssynbio.2c00570 | PMID: 36791366
 - Allowed: Cordycepin is a compound studied in Cordyceps militaris / Cordyceps spp.; academic literature reports related research. (Not a disease-treatment claim; not for liquor efficacy advertising.)
 - Prohibited: Do not claim treatment/prevention/cure of disease; do not claim immune boost, fatigue recovery, anticancer effect, FDA/MFDS efficacy approval for liquor.
 
-### 2022 — Construction of Cordycepin High-Production Strain and Optimization of Culture Conditions.
-- Strength: `C_animal` | Type: `animal`
-- DOI: 10.1021/bp049765r | PMID: 36459233
-- Allowed: Cordycepin is a compound studied in Cordyceps militaris / Cordyceps spp.; academic literature reports related research. (Not a disease-treatment claim; not for liquor efficacy advertising.)
-- Prohibited: Do not claim treatment/prevention/cure of disease; do not claim immune boost, fatigue recovery, anticancer effect, FDA/MFDS efficacy approval for liquor.
-
 ### 2022 — Research Progress on Cordycepin Synthesis and Methods for Enhancement of Cordycepin Production in Cordyceps militaris
 - Strength: `C_animal` | Type: `animal`
 - DOI: 10.3390/bioengineering9020069 | PMID: 35200422
+- Allowed: Cordycepin is a compound studied in Cordyceps militaris / Cordyceps spp.; academic literature reports related research. (Not a disease-treatment claim; not for liquor efficacy advertising.)
+- Prohibited: Do not claim treatment/prevention/cure of disease; do not claim immune boost, fatigue recovery, anticancer effect, FDA/MFDS efficacy approval for liquor.
+
+### 2004 — Hyperproduction of Cordycepin by Two-Stage Dissolved Oxygen Control in Submerged Cultivation of Medicinal Mushroom Cordyceps militaris in Bioreactors
+- Strength: `C_animal` | Type: `animal`
+- DOI: 10.1021/bp049765r | PMID: 15458324
 - Allowed: Cordycepin is a compound studied in Cordyceps militaris / Cordyceps spp.; academic literature reports related research. (Not a disease-treatment claim; not for liquor efficacy advertising.)
 - Prohibited: Do not claim treatment/prevention/cure of disease; do not claim immune boost, fatigue recovery, anticancer effect, FDA/MFDS efficacy approval for liquor.
 
@@ -140,11 +134,6 @@ _Generated: 2026-10-26_
   - flags: disease_language, preclinical_only
   - link: https://europepmc.org/article/MED/42284884
 
-- **2026** [animal/C_animal] Cordycepin-mediated protection against bisphenol A-induced male reproductive toxicity via PI3K/mTOR/HIF-1α signaling.
-  - animal study touching antioxidant endpoints (auto-tagged; verify before use).
-  - flags: preclinical_only
-  - link: https://pubmed.ncbi.nlm.nih.gov/41942214/
-
 - **2026** [review_narrative/F_review_only] Correction: Cordyceps spp.: a review on its immune-stimulatory and other biological potentials.
   - review_narrative study touching immune endpoints (auto-tagged; verify before use).
   - flags: none
@@ -170,12 +159,17 @@ _Generated: 2026-10-26_
   - flags: disease_language, preclinical_only
   - link: https://europepmc.org/article/MED/42822105
 
+- **2026** [animal/C_animal] Exploration of the potential utilization value in &lt;i&gt;Cordyceps militaris&lt;/i&gt; substrate after industrial cultivation in terms of nutritional and pharmaceutical applications.
+  - animal study touching other endpoints (auto-tagged; verify before use).
+  - flags: preclinical_only
+  - link: https://europepmc.org/article/MED/42444510
+
 ## Stats snapshot
 
-- Total normalized records: **833**
-- research_only: **820**
-- needs_legal_review: **512**
-- approved liquor-context: **13**
+- Total normalized records: **831**
+- research_only: **819**
+- needs_legal_review: **490**
+- approved liquor-context: **12**
 
 ## See also
 

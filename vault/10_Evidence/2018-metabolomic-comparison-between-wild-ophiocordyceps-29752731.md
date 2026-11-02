@@ -3,11 +3,14 @@ record_id: c5254cae-066f-4894-b53e-779648252b0a
 title: Metabolomic comparison between wild Ophiocordyceps sinensis and artificial
   cultured Cordyceps militaris.
 authors:
-- Lin Chen
-- Yuetao Liu
-- Qingfeng Guo
-- Qingxia Zheng
-- Wancun Zhang
+- Zi-Juan Zhang
+- Yuan-Yuan Yin
+- Yao Cui
+- Yue-Xuan Zhang
+- Bi-Yang Liu
+- You-Chu Ma
+- Yong-Nan Liu
+- Gao-Qiang Liu
 year: 2018
 journal: 'Biomedical chromatography : BMC'
 doi: 10.1002/bmc.4279

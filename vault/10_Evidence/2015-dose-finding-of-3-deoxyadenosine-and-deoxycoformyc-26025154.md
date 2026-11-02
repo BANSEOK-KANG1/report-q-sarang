@@ -1,26 +1,26 @@
 ---
 record_id: 1607d3b8-7486-40d8-9c70-775b1d69bc2c
-title: 'Dose finding of 3′deoxyadenosine and deoxycoformycin for the treatment of
-  Trypanosoma evansi infection: An effective and nontoxic dose'
+title: 'Dose finding of 3''deoxyadenosine and deoxycoformycin for the treatment of
+  Trypanosoma evansi infection: An effective and nontoxic dose.'
 authors:
 - Luciana Dalla Rosa
-- Aleksandro Schafer Da Silva
-- Camila Belmonte Oliveira
-- Lucas Trevisan Gressler
+- Aleksandro S Da Silva
+- Camila B Oliveira
+- Lucas T Gressler
 - Caroline B Arnold
-- Matheus D. Baldissera
-- Michele Rorato Sagrillo
-- Manuela B. Sangoi
-- Rafael Noal Moresco
-- Ricardo E. Mendes
-- Paulo Henrique Exterchoter Weiss
-- Luiz Cláudio Miletti
-- Sílvia González Monteiro
+- Matheus D Baldissera
+- Michele Sagrillo
+- Manuela Sangoi
+- Rafael Moresco
+- Ricardo E Mendes
+- Paulo E Weiss
+- Luiz C Miletti
+- Silvia G Monteiro
 year: 2015
-journal: Microbial Pathogenesis
+journal: Microbial pathogenesis
 doi: 10.1016/j.micpath.2015.05.005
 pmid: '26025154'
-url: https://doi.org/10.1016/j.micpath.2015.05.005
+url: https://pubmed.ncbi.nlm.nih.gov/26025154/
 track: compound
 compound: cordycepin
 species: unclear
@@ -30,7 +30,6 @@ relevance_to_product: partial
 claim_category: antioxidant
 risk_flags:
 - disease_language
-- missing_abstract
 - preclinical_only
 maps_to_market: research_only
 citation_status: needs_legal_review
@@ -42,6 +41,7 @@ jurisdiction_caveats:
 - research_only
 source_apis:
 - openalex
+- pubmed
 full_text_available: false
 tags:
 - evidence
@@ -50,7 +50,7 @@ tags:
 - market/research_only
 ---
 
-# Dose finding of 3′deoxyadenosine and deoxycoformycin for the treatment of Trypanosoma evansi infection: An effective and nontoxic dose
+# Dose finding of 3'deoxyadenosine and deoxycoformycin for the treatment of Trypanosoma evansi infection: An effective and nontoxic dose.
 
 ## Summary fields
 - **Year:** 2015
@@ -59,15 +59,15 @@ tags:
 - **Species:** unclear
 - **Compound:** cordycepin
 - **Claim category:** antioxidant
-- **Risk flags:** disease_language, missing_abstract, preclinical_only
+- **Risk flags:** disease_language, preclinical_only
 - **Maps to market:** research_only
 - **Citation status:** needs_legal_review
 - **DOI:** 10.1016/j.micpath.2015.05.005
 - **PMID:** 26025154
-- **URL:** https://doi.org/10.1016/j.micpath.2015.05.005
+- **URL:** https://pubmed.ncbi.nlm.nih.gov/26025154/
 
 ## Abstract
-_No abstract_
+The aim of this study was to evaluate the therapeutic efficacy and safety of using 3'deoxyadenosine (Cordycepin - adenosine analogue) combined with deoxycoformycin (Pentostatin - an adenosine deaminase inhibitor) in mice infected with Trypanosoma evansi. We show that the combination of Cordycepin (2.0 mg kg(-1)) and Pentostatin (0.2, 0.5, 1.0, 2.0 mg kg(1)) is effective in the clearance of T. evansi, although at the higher concentrations of Pentostatin 2 mg kg(-1) some toxicity was observed in the liver and kidney. Since the Cordycepin 2.0 mg kg(-1) and Pentostatin 0.2 mg kg(-1) combination was effective and had low toxicity, we recommend this as a therapeutic option for a T. evansi mouse model.
 
 ## Relevance notes
 Cordycepin-focused; verify species/form vs product

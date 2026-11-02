@@ -25,7 +25,7 @@ species: Cordyceps_militaris
 study_type: animal
 evidence_strength: C_animal
 relevance_to_product: partial
-claim_category: metabolic
+claim_category: antioxidant
 risk_flags:
 - preclinical_only
 maps_to_market: research_only
@@ -53,7 +53,7 @@ tags:
 - **Evidence strength:** C_animal
 - **Species:** Cordyceps_militaris
 - **Compound:** unclear
-- **Claim category:** metabolic
+- **Claim category:** antioxidant
 - **Risk flags:** preclinical_only
 - **Maps to market:** research_only
 - **Citation status:** candidate
@@ -62,9 +62,7 @@ tags:
 - **URL:** https://pubmed.ncbi.nlm.nih.gov/35655187/
 
 ## Abstract
-BACKGROUND: Cordyceps militaris, a kind of edible and medicinal fungus widely accepted in East Asia, has attracted much attention as a potential cell factory for producing adenosine analogs. Despite the rapid development in gene editing techniques and genome modeling, the diversity of DNA elements in C. militaris was too short to achieve rational heterogeneous expression for metabolic engineering studies.
-RESULTS: In this study, PtrpC, a kind of promoter with a relatively appropriate expression level and small size, was selected as a monomer for promoter library construction. Through in vitro BioBricks assembly, 9 overlapping PtrpC promoters with different copy numbers as well as reporter gene gfp were connected and subsequently integrated into the genome of C. militaris. Both the mRNA transcription level and the expression level of gene gfp gradually increased along with the copy number of the overlapping promoter NPtrpC and peaked at 7. In the meantime, no significant difference was found in either the biomass or morphological characteristic of engineered and wild-type strains.
-CONCLUSIONS: This study firstly expanded the overlapping promoter strategy used in model microorganism in C. militaris. It was a proof-of-concept in fungi synthetic biology and provide a general method to pushed the boundary of promoter engineering in edible mushroom.
+Phenotypic degeneration in Cordyceps militaris poses a significant concern for producers, yet the mechanisms underlying this phenomenon remain elusive. To address this concern, we isolated two strains that differ in their abilities to form fruiting bodies. Our observations revealed that the degenerated strain lost the capacity to develop fruiting bodies, exhibited limited radial expansion, increased spore density, and elevated intracellular glycerol levels. Transcriptome reanalysis uncovered dysregulation of genes involved in the MAPK signaling pathway in the degenerate strain. Our RT-qPCR results demonstrated reduced expression of sexual development genes, along with upregulation of genes involved in asexual sporulation, glycerol synthesis, and MAPK regulation, when compared to the wild-type strain. Additionally, we discovered that osmotic stress reduced radial growth but increased conidia sporulation and glycerol accumulation in all strains. Furthermore, hyperosmotic stress inhibited fruiting body formation in all neutralized strains. These findings indicate dysregulation of the MAPK signaling pathway, the possibility of the activation of the high-osmolarity glycerol and spore formation modules, as well as the downregulation of the pheromone response and filamentous growth cascades in the degenerate strain. Overall, our study sheds light on the mechanisms underlying Cordyceps militaris degeneration and identifies potential targets for improving cultivation practices.
 
 ## Relevance notes
 _n/a_

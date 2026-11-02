@@ -1,19 +1,19 @@
 ---
 record_id: 4e78e749-6762-4f1b-a0ee-df280109a7c9
 title: Anti-tumor and anti-metastatic roles of cordycepin, one bioactive compound
-  of Cordyceps militaris
+  of Cordyceps militaris.
 authors:
-- Ye Hwa Jin
-- Xue Wei Meng
+- Ye Jin
+- Xue Meng
 - Zhidong Qiu
 - Yanping Su
 - Peng Yu
 - Peng Qu
 year: 2018
-journal: Saudi Journal of Biological Sciences
+journal: Saudi journal of biological sciences
 doi: 10.1016/j.sjbs.2018.05.016
 pmid: '30108453'
-url: https://doi.org/10.1016/j.sjbs.2018.05.016
+url: https://pubmed.ncbi.nlm.nih.gov/30108453/
 track: compound
 compound: cordycepin
 species: Cordyceps_militaris
@@ -34,6 +34,7 @@ jurisdiction_caveats:
 - research_only
 source_apis:
 - openalex
+- pubmed
 full_text_available: false
 tags:
 - evidence
@@ -42,7 +43,7 @@ tags:
 - market/research_only
 ---
 
-# Anti-tumor and anti-metastatic roles of cordycepin, one bioactive compound of Cordyceps militaris
+# Anti-tumor and anti-metastatic roles of cordycepin, one bioactive compound of Cordyceps militaris.
 
 ## Summary fields
 - **Year:** 2018
@@ -56,10 +57,10 @@ tags:
 - **Citation status:** needs_legal_review
 - **DOI:** 10.1016/j.sjbs.2018.05.016
 - **PMID:** 30108453
-- **URL:** https://doi.org/10.1016/j.sjbs.2018.05.016
+- **URL:** https://pubmed.ncbi.nlm.nih.gov/30108453/
 
 ## Abstract
-Public interest in complementary and alternative medicine has been increased worldwide, due to its wide applications in cancer prevention and treatment. Cordycepin is one of the most common and crucial types of complementary and alternative medicine. Cordycepin (3′-deoxyadenosine), a derivative of adenosine, was first isolated from medicine drug Cordyceps militaris. Cordycepin has been widely used as one compound for antitumor, which has been found to exert antiangiogenic, anti-metastatic, and antiproliferative effects, as well as inducing apoptosis. However, the mechanism of its anti-tumor activity is not well known. This review will clarify anti-tumor mechanisms of Cordycepin, which regulate signaling pathways related with tumor growth and metastasis. Cordycepin inhibit tumor growth via upregulating tumor apoptosis, inducing cell cycle arrest and targeting cancer stem cells (CSCs). Cordycepin regulates tumor microenvironment via suppressing tumor metastasis-related pathways. Thus, Cordycepins may be one of important supplement or substitute medicine drug for cancer treatment.
+Public interest in complementary and alternative medicine has been increased worldwide, due to its wide applications in cancer prevention and treatment. Cordycepin is one of the most common and crucial types of complementary and alternative medicine. Cordycepin (3'-deoxyadenosine), a derivative of adenosine, was first isolated from medicine drug Cordyceps militaris. Cordycepin has been widely used as one compound for antitumor, which has been found to exert antiangiogenic, anti-metastatic, and antiproliferative effects, as well as inducing apoptosis. However, the mechanism of its anti-tumor activity is not well known. This review will clarify anti-tumor mechanisms of Cordycepin, which regulate signaling pathways related with tumor growth and metastasis. Cordycepin inhibit tumor growth via upregulating tumor apoptosis, inducing cell cycle arrest and targeting cancer stem cells (CSCs). Cordycepin regulates tumor microenvironment via suppressing tumor metastasis-related pathways. Thus, Cordycepins may be one of important supplement or substitute medicine drug for cancer treatment.
 
 ## Relevance notes
 _n/a_

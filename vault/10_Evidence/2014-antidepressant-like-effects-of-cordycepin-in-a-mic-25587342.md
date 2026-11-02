@@ -1,16 +1,16 @@
 ---
-record_id: be9c22e0-b39e-48ad-bec2-13b03fdfb0e1
-title: Antidepressant‐Like Effects of Cordycepin in a Mice Model of Chronic Unpredictable
-  Mild Stress
+record_id: 77499ae4-2ed5-4029-9dac-233cf7e43bbd
+title: Antidepressant-like effects of cordycepin in a mice model of chronic unpredictable
+  mild stress.
 authors:
 - Zhang Tianzhu
 - Yang Shihai
-- Juan Du
+- Du Juan
 year: 2014
-journal: Evidence-based Complementary and Alternative Medicine
-doi: 10.1155/2014/438506
+journal: 'Evidence-based complementary and alternative medicine : eCAM'
+doi: 10.1016/j.neuroscience.2012.09.073
 pmid: '25587342'
-url: https://doi.org/10.1155/2014/438506
+url: https://pubmed.ncbi.nlm.nih.gov/25587342/
 track: compound
 compound: cordycepin
 species: Cordyceps_militaris
@@ -30,7 +30,7 @@ jurisdiction_caveats:
 - disease_language_in_source
 - research_only
 source_apis:
-- openalex
+- pubmed
 full_text_available: false
 tags:
 - evidence
@@ -39,7 +39,7 @@ tags:
 - market/research_only
 ---
 
-# Antidepressant‐Like Effects of Cordycepin in a Mice Model of Chronic Unpredictable Mild Stress
+# Antidepressant-like effects of cordycepin in a mice model of chronic unpredictable mild stress.
 
 ## Summary fields
 - **Year:** 2014
@@ -51,12 +51,12 @@ tags:
 - **Risk flags:** disease_language, preclinical_only
 - **Maps to market:** research_only
 - **Citation status:** needs_legal_review
-- **DOI:** 10.1155/2014/438506
+- **DOI:** 10.1016/j.neuroscience.2012.09.073
 - **PMID:** 25587342
-- **URL:** https://doi.org/10.1155/2014/438506
+- **URL:** https://pubmed.ncbi.nlm.nih.gov/25587342/
 
 ## Abstract
-Cordycepin (3'-deoxyadenosine), a major bioactive component isolated from Cordyceps militaris, has multiple pharmacological activities. This study is attempted to investigate whether cordycepin (COR) possesses beneficial effects on chronic unpredictable mild stress- (CUMS-) induced behavioral deficits (depression-like behaviors) and explore the possible mechanisms. ICR mice were subjected to chronic unpredictable mild stress for 42 consecutive days. Then, COR and fluoxetine (FLU, positive control drug) were administered for 21 consecutive days at the last three weeks of CUMS procedure. The classical behavioral tests, open field test (OFT), sucrose preference test (SPT), tail suspension test (TST), and forced swimming test (FST), were applied to evaluate the antidepressant effects of COR. Then the serotonin (5-HT) and noradrenaline (NE) concentrations in hippocampal were evaluated by HPLC; tumor necrosis factor-α (TNF-α) and interleukin-6 (IL-6) in hippocampal were evaluated, and the proteins of TNF-α, IL-6, NF-κBP65 5-HT2A receptor (5-HT2AR), and brain-derived neurotrophic factor (BDNF) in hippocampal were evaluated by Western blot. Our results indicated that 6 weeks of CUMS exposure induced significant depression-like behavior, with low 5-HT and NE levels, high TNF-α and IL-6 in brain and high hippocampal TNF-α, IL-6, P-NF-κBP65, and 5-HT2AR levels, and low BDNF expression levels. Whereas, chronic COR (20, 40 mg/kg) treatments reversed the behavioral deficiency induced by CUMS exposure, treatment with COR normalized the change of TNF-α, IL-6, 5-HT, and NE levels, which demonstrated that COR could partially restore CUMS-induced 5-HT receptor impairments and inflammation. Besides, hippocampal BDNF expressions were also upregulated after COR treatments. In conclusion, COR remarkably improved depression-like behavior in CUMS mice and its antidepressant activity is mediated, at least in part, by the upregulating BDNF and downregulating 5-HT2AR levels and inflammation in hippocampus.
+Cordycepin (3'-deoxyadenosine), a major bioactive component isolated from Cordyceps militaris, has multiple pharmacological activities. This study is attempted to investigate whether cordycepin (COR) possesses beneficial effects on chronic unpredictable mild stress- (CUMS-) induced behavioral deficits (depression-like behaviors) and explore the possible mechanisms. ICR mice were subjected to chronic unpredictable mild stress for 42 consecutive days. Then, COR and fluoxetine (FLU, positive control drug) were administered for 21 consecutive days at the last three weeks of CUMS procedure. The classical behavioral tests, open field test (OFT), sucrose preference test (SPT), tail suspension test (TST), and forced swimming test (FST), were applied to evaluate the antidepressant effects of COR. Then the serotonin (5-HT) and noradrenaline (NE) concentrations in hippocampal were evaluated by HPLC; tumor necrosis factor-α (TNF-α) and interleukin-6 (IL-6) in hippocampal were evaluated, and the proteins of TNF-α, IL-6, NF-κBP65 5-HT2A receptor (5-HT2AR), and brain-derived neurotrophic factor (BDNF) in hippocampal were evaluated by Western blot. Our results indicated that 6 weeks of CUMS exposure induced significant depression-like behavior, with low 5-HT and NE levels, high TNF-α and IL-6 in brain and high hippocampal TNF-α, IL-6, P-NF-κBP65, and 5-HT2AR levels, and low BDNF expression levels. Whereas, chronic COR (20, 40 mg/kg) treatments reversed the behavioral deficiency induced by CUMS exposure, treatment with COR normalized the change of TNF-α, IL-6, 5-HT, and NE levels, which demonstrated that COR could partially restore CUMS-induced 5-HT receptor impairments and inflammation. Besides, hippocampal BDNF expressions were also upregulated after COR treatments. In conclusion, COR remarkably improved depression-like behavior in CUMS mice and its antidepressant activity is mediated, at least in part, by the upregulating BDNF and downregulating 5-HT2AR levels and inflammation in hippocampus.
 
 ## Relevance notes
 _n/a_

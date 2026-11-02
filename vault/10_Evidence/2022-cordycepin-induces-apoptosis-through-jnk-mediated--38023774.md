@@ -16,17 +16,16 @@ journal: 'Evidence-based complementary and alternative medicine : eCAM'
 doi: 10.1677/jme.0.0300151
 pmid: '38023774'
 url: https://pubmed.ncbi.nlm.nih.gov/38023774/
-track: compound
+track: comparator_sinensis
 compound: cordycepin
 species: Cordyceps_sinensis
 study_type: animal
 evidence_strength: C_animal
-relevance_to_product: partial
+relevance_to_product: extrapolated
 claim_category: respiratory
 risk_flags:
 - disease_language
 - preclinical_only
-- species_mismatch
 maps_to_market: research_only
 citation_status: needs_legal_review
 priority_review: false
@@ -54,7 +53,7 @@ tags:
 - **Species:** Cordyceps_sinensis
 - **Compound:** cordycepin
 - **Claim category:** respiratory
-- **Risk flags:** disease_language, preclinical_only, species_mismatch
+- **Risk flags:** disease_language, preclinical_only
 - **Maps to market:** research_only
 - **Citation status:** needs_legal_review
 - **DOI:** 10.1677/jme.0.0300151
@@ -65,7 +64,7 @@ tags:
 Cordycepin, a bioactive compound extracted from Cordyceps sinensis, can induce apoptosis in human OEC-M1 oral cancer cells. However, the exact mechanism is still unclear. The present study aimed to investigate the underlying mechanism of cordycepin-induced apoptosis in OEC-M1 cells. Following treatment with cordycepin, apoptosis was examined and quantified using a DNA laddering assay and a cytokeratin 18 fragment enzyme-linked immunosorbent assay, respectively. Expressions of mitogen-activated protein kinases (MAPKs) and apoptosis-related proteins were detected by the western blot analysis. Our results show that a pan-caspase inhibitor, Z-VAD-FMK, could significantly inhibit cordycepin-induced apoptosis in OEC-M1 cells. In addition, treatment with cordycepin not only activated caspase-8, caspase-9, and caspase-3 but also induced Bid and poly ADP-ribose polymerase cleavages. Furthermore, cordycepin also induced the activation of c-Jun N-terminal kinase (JNK), extracellular signal-regulated kinase, and p38 MAPKs. Among MAPKs, activation of JNK solely contributed to cordycepin-induced apoptosis with the activation of caspase-8, caspase-9, and caspase-3 and cleavage of PARP. Taken together, the present study demonstrated that cordycepin activated JNK and caspase pathways to induce apoptosis in OEC-M1 cells.
 
 ## Relevance notes
-Cordycepin-focused; verify species/form vs product
+Comparator species / Cs-4 — do not equate to C. militaris cordycepin product
 
 ## Compliance
 - Product context: Q-Sarang 제왕충초 **liquor** (not HFF).

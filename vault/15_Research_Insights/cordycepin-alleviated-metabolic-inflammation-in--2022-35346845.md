@@ -4,8 +4,8 @@ title: Cordycepin alleviated metabolic inflammation in Western diet-fed mice by 
 title_ko: 코디세핀 alleviated metabolic inflammation in Western diet-fed mice by targeting
   intestinal barrier integrity and intestinal flora.
 slug: cordycepin-alleviated-metabolic-inflammation-in--2022-35346845
-record_id: 14c20bcb-f6e5-4744-ba92-6cebf1f86dfe
-date: '2026-09-14'
+record_id: b0485364-1ce2-476d-a08f-de1b2dc53bf1
+date: '2026-11-02'
 year: 2022
 authors:
 - Jiemei Chen
@@ -42,7 +42,7 @@ tags:
 - cordycepin
 - evidence
 - 제왕충초
-generated: '2026-09-14'
+generated: '2026-11-02'
 visuals: []
 api_meta:
   keywords:
@@ -87,7 +87,7 @@ api_meta:
   - name: Biology
     score: 0.403
     level: 0
-  cited_by_count: 57
+  cited_by_count: 58
   reference_count: 81
   publisher: Elsevier BV
   journal: Pharmacological research
@@ -97,7 +97,7 @@ api_meta:
     europepmc: true
     openalex: true
     crossref: true
-  fetched_at: '2026-09-14'
+  fetched_at: '2026-11-02'
 translations:
   title_ko: 코디세핀 alleviated metabolic inflammation in Western diet-fed mice by targeting
     intestinal barrier integrity and intestinal flora.

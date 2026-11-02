@@ -1,22 +1,22 @@
 ---
 record_id: d06e13e9-60e0-403b-90cd-26f63c95e517
-title: Regulation of human cytokines by Cordyceps militaris.
+title: Regulation of human cytokines by Cordyceps militaris
 authors:
 - Yong Sun
 - Yani Shao
 - Zhiguo Zhang
 - Lianfen Wang
-- Alfred M Mariga
+- Alfred Mugambi Mariga
 - Guangchang Pang
 - Chaoyu Geng
-- Chi-Tang Ho
+- Chi‐Tang Ho
 - Qiuhui Hu
 - Liyan Zhao
 year: 2014
-journal: Journal of food and drug analysis
+journal: Journal of Food and Drug Analysis
 doi: 10.1016/j.jfda.2014.01.025
 pmid: '28911461'
-url: https://pubmed.ncbi.nlm.nih.gov/28911461/
+url: https://doi.org/10.1016/j.jfda.2014.01.025
 track: militaris
 compound: unclear
 species: Cordyceps_militaris
@@ -37,7 +37,6 @@ jurisdiction_caveats:
 - research_only
 source_apis:
 - openalex
-- pubmed
 full_text_available: false
 tags:
 - evidence
@@ -46,7 +45,7 @@ tags:
 - market/research_only
 ---
 
-# Regulation of human cytokines by Cordyceps militaris.
+# Regulation of human cytokines by Cordyceps militaris
 
 ## Summary fields
 - **Year:** 2014
@@ -60,10 +59,10 @@ tags:
 - **Citation status:** needs_legal_review
 - **DOI:** 10.1016/j.jfda.2014.01.025
 - **PMID:** 28911461
-- **URL:** https://pubmed.ncbi.nlm.nih.gov/28911461/
+- **URL:** https://doi.org/10.1016/j.jfda.2014.01.025
 
 ## Abstract
-Cordyceps (Cordyceps militaris) exhibits many biological activities including antioxidant, inhibition of inflammation, cancer prevention, hypoglycemic, and antiaging properties, etc. However, a majority of studies involving C. militaris have focused only on in vitro and animal models, and there is a lack of direct translation and application of study results to clinical practice (e.g., health benefits). In this study, we investigated the regulatory effects of C. militaris micron powder (3 doses) on the human immune system. The study results showed that administration of C. militaris at various dosages reduced the activity of cytokines such as eotaxin, fibroblast growth factor-2, GRO, and monocyte chemoattractant protein-1. In addition, there was a significant decrease in the activity of various cytokines, including GRO, sCD40L, and tumor necrosis factor-α, and a significant downregulation of interleukin-12(p70), interferon-γ inducible protein 10, and macrophage inflammatory protein-1β activities, indicating that C. militaris at all three dosages downregulated the activity of cytokines, especially inflammatory cytokines and chemokines. Different dosages of C. militaris produced different changes in cytokines.
+Cordyceps (Cordyceps militaris) exhibits many biological activities including antioxidant, inhibition of inflammation, cancer prevention, hypoglycemic, and antiaging properties, etc. However, a majority of studies involving C. militaris have focused only on in vitro and animal models, and there is a lack of direct translation and application of study results to clinical practice (e.g., health benefits). In this study, we investigated the regulatory effects of C. militaris micron powder (3 doses) on the human immune system. The study results showed that administration of C. militaris at various dosages reduced the activity of cytokines such as eotaxin, fibroblast growth factor-2, GRO, and monocyte chemoattractant protein-1. In addition, there was a significant decrease in the activity of various cytokines, including GRO, sCD40L, and tumor necrosis factor-α, and a significant downregulation of interleukin-12(p70), interferon-γ inducible protein 10, and macrophage inflammatory protein-1β activities, indicating that C. militaris at all three dosages downregulated the activity of cytokines, especially inflammatory cytokines and chemokines. Different dosages of C. militaris produced different changes in cytokines.
 
 ## Relevance notes
 _n/a_

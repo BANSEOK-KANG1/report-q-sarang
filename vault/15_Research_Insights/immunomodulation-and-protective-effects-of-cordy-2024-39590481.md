@@ -5,7 +5,7 @@ title_ko: Immunomodulation and Protective Effects of Cordyceps(cordyceps) milita
   militaris) 추출물 Against Candida albicans Infection in Galleria mellonella Larvae.
 slug: immunomodulation-and-protective-effects-of-cordy-2024-39590481
 record_id: 21182ed3-076f-4f80-870d-cf0f0082acf2
-date: '2026-10-19'
+date: '2026-11-02'
 year: 2024
 authors:
 - Sadaf Ashraf
@@ -44,28 +44,8 @@ tags:
 - cordycepin
 - evidence
 - 제왕충초
-generated: '2026-10-19'
-visuals:
-- type: figure
-  src: /research-figures/immunomodulation-and-protective-effects-of-cordy-2024-39590481/insects-15-00882-g001.gif
-  caption: 원문 Figure (insects-15-00882-g001) — Europe PMC OA
-  source: europepmc
-  filename: insects-15-00882-g001.gif
-- type: figure
-  src: /research-figures/immunomodulation-and-protective-effects-of-cordy-2024-39590481/insects-15-00882-g003.jpg
-  caption: 원문 Figure (insects-15-00882-g003) — Europe PMC OA
-  source: europepmc
-  filename: insects-15-00882-g003.jpg
-- type: figure
-  src: /research-figures/immunomodulation-and-protective-effects-of-cordy-2024-39590481/insects-15-00882-g007.gif
-  caption: 원문 Figure (insects-15-00882-g007) — Europe PMC OA
-  source: europepmc
-  filename: insects-15-00882-g007.gif
-- type: figure
-  src: /research-figures/immunomodulation-and-protective-effects-of-cordy-2024-39590481/insects-15-00882-g011.jpg
-  caption: 원문 Figure (insects-15-00882-g011) — Europe PMC OA
-  source: europepmc
-  filename: insects-15-00882-g011.jpg
+generated: '2026-11-02'
+visuals: []
 api_meta:
   keywords:
   - Candida albicans
@@ -110,7 +90,7 @@ api_meta:
     europepmc: true
     openalex: true
     crossref: true
-  fetched_at: '2026-10-19'
+  fetched_at: '2026-11-02'
 translations:
   title_ko: Immunomodulation and Protective Effects of Cordyceps(cordyceps) militaris(cordyceps
     militaris) 추출물 Against Candida albicans Infection in Galleria mellonella Larvae.

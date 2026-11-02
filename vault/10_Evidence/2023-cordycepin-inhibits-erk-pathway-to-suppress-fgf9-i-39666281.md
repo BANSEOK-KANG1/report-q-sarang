@@ -12,17 +12,16 @@ journal: Journal of food and drug analysis
 doi: 10.38212/2224-6614.3464
 pmid: '39666281'
 url: https://pubmed.ncbi.nlm.nih.gov/39666281/
-track: compound
+track: comparator_sinensis
 compound: cordycepin
 species: Cordyceps_sinensis
 study_type: animal
 evidence_strength: C_animal
-relevance_to_product: partial
+relevance_to_product: extrapolated
 claim_category: other
 risk_flags:
 - disease_language
 - preclinical_only
-- species_mismatch
 maps_to_market: research_only
 citation_status: needs_legal_review
 priority_review: false
@@ -50,7 +49,7 @@ tags:
 - **Species:** Cordyceps_sinensis
 - **Compound:** cordycepin
 - **Claim category:** other
-- **Risk flags:** disease_language, preclinical_only, species_mismatch
+- **Risk flags:** disease_language, preclinical_only
 - **Maps to market:** research_only
 - **Citation status:** needs_legal_review
 - **DOI:** 10.38212/2224-6614.3464
@@ -61,7 +60,7 @@ tags:
 Fibroblast growth factor 9 (FGF9) is a member of FGF family, and abnormal expression of FGF9 can promote tumorigenesis. Cordycepin, a major bioactive component in fungus Cordyceps sinensis, could suppress various tumors. We have shown that cordycepin could inhibit FGF9-induced testicular tumor growth in vitro and in vivo with MA-10 mouse Leydig tumor cells. In the present study, the mechanisms related to apoptosis and autophagy were determined. Results show that cordycepin significantly suppressed cell viability and colony formation with correlatedly morphological change related to cell death in FGF9-treated MA-10 cells. Flow cytometry and western blotting results further demonstrate that cordycepin induced apoptosis through the cleavage of caspase-8, -9, -3 and PARP in FGF9-treated MA-10 cells. However, the expressions of LC3-II, beclin-1 and p62 were not stimulated by cordycepin with the presence of FGF9, suggesting cordycepin would activate apoptosis, but not autophagy, in FGF9-treated MA-10 cells. Moreover, inhibition of ERK signal pathway and autophagy would enhance cordycepin-induced cell death effects in FGF9-treated MA-10 cells, referring that ERK signaling was regulated under cordycepin and FGF9 treatments. In NOD-SCID mouse allograft model inoculated with MA-10 cells, cordycepin significantly suppressed tumor growth with the presence of FGF9, and the cleavage of caspase-3 could be observed in tumor tissue, implying cordycepin induced caspase cascade to suppress tumor growth. Moreover, cordycepin plus U0126, ERK inhibitor, further significantly suppressed tumor growth with the presence of FGF9 as compared to the FGF9 only group, confirming the involvement of ERK signaling in this event. In conclusion, cordycepin induced caspase and ERK pathways to promote MA-10 cell apoptosis, but not autophagy, with the presence of FGF9.
 
 ## Relevance notes
-Cordycepin-focused; verify species/form vs product
+Comparator species / Cs-4 — do not equate to C. militaris cordycepin product
 
 ## Compliance
 - Product context: Q-Sarang 제왕충초 **liquor** (not HFF).

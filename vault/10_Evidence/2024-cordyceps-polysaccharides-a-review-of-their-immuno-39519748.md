@@ -19,16 +19,15 @@ journal: Molecules (Basel, Switzerland)
 doi: 10.1089/jmf.2011.1575
 pmid: '39519748'
 url: https://pubmed.ncbi.nlm.nih.gov/39519748/
-track: militaris
+track: comparator_sinensis
 compound: cordycepin
-species: mixed
+species: Cordyceps_sinensis
 study_type: review_narrative
 evidence_strength: F_review_only
-relevance_to_product: direct
+relevance_to_product: extrapolated
 claim_category: immune
 risk_flags:
 - disease_language
-- species_mismatch
 maps_to_market: research_only
 citation_status: needs_legal_review
 priority_review: false
@@ -53,10 +52,10 @@ tags:
 - **Year:** 2024
 - **Study type:** review_narrative
 - **Evidence strength:** F_review_only
-- **Species:** mixed
+- **Species:** Cordyceps_sinensis
 - **Compound:** cordycepin
 - **Claim category:** immune
-- **Risk flags:** disease_language, species_mismatch
+- **Risk flags:** disease_language
 - **Maps to market:** research_only
 - **Citation status:** needs_legal_review
 - **DOI:** 10.1089/jmf.2011.1575
@@ -67,7 +66,7 @@ tags:
 Cordyceps primarily consists of ascomycetes, a parasitic fungus that infects insects and arthropods. Recently, Cordyceps has been shown to manifest a diverse range of pharmacological activities, rendering it applicable for the treatment and mitigation of various diseases, such as diabetes, acute liver injury, and colitis. Many active constituents have been identified from Cordyceps sinensis, including cordycepin, adenosine, sterols, and polysaccharides. Polysaccharides constitute a primary active component of Cordyceps, exhibiting immunomodulatory effects. We searched the Web of Science database with the keywords of cordyceps, polysaccharide, and immune modulation; collected related studies from 2004 to 2024; and eliminated articles with low influence and workload. A review of the research advancements regarding the immunomodulatory effects of Cordyceps polysaccharides was conducted with the aim of furnishing valuable reference information. Research indicates that polysaccharides exhibiting immunomodulatory activity are predominantly sourced from Cordyceps sinensis and Cordyceps militaris. Immunological experimental results demonstrate that Cordyceps polysaccharides can augment the activities of macrophages, lymphocytes, and dendritic cells while fostering the expression of immune-active substances such as cytokines and chemokines. Furthermore, animal experiments have substantiated the immunomodulatory effects of Cordyceps polysaccharides. These effects encompass ameliorating immune suppression induced by drugs or radiation, enhancing immune organ indices, elevating the expression of immunoreactive substances, and mitigating immune evasion prompted by tumors. In conclusion, Cordyceps polysaccharides exhibit significant immunomodulatory activity and merit further investigation.
 
 ## Relevance notes
-_n/a_
+Comparator species / Cs-4 — do not equate to C. militaris cordycepin product
 
 ## Compliance
 - Product context: Q-Sarang 제왕충초 **liquor** (not HFF).

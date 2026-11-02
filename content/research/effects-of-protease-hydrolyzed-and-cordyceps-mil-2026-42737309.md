@@ -6,7 +6,7 @@ title_ko: Effects of Protease-Hydrolyzed and Cordyceps(cordyceps) militaris(cord
   Energy Metabolism in HCT116 Cells.
 slug: effects-of-protease-hydrolyzed-and-cordyceps-mil-2026-42737309
 record_id: 7253a3ea-658e-429b-b018-99f1bf6b172a
-date: '2026-10-19'
+date: '2026-11-02'
 year: 2026
 authors:
 - Chen B
@@ -42,28 +42,8 @@ tags:
 - cordycepin
 - evidence
 - 제왕충초
-generated: '2026-10-19'
-visuals:
-- type: figure
-  src: /research-figures/effects-of-protease-hydrolyzed-and-cordyceps-mil-2026-42737309/foods-15-03065-g004.gif
-  caption: 원문 Figure (foods-15-03065-g004) — Europe PMC OA
-  source: europepmc
-  filename: foods-15-03065-g004.gif
-- type: figure
-  src: /research-figures/effects-of-protease-hydrolyzed-and-cordyceps-mil-2026-42737309/foods-15-03065-g006.webp
-  caption: 원문 Figure (foods-15-03065-g006) — Europe PMC OA
-  source: europepmc
-  filename: foods-15-03065-g006.webp
-- type: figure
-  src: /research-figures/effects-of-protease-hydrolyzed-and-cordyceps-mil-2026-42737309/foods-15-03065-g001.webp
-  caption: 원문 Figure (foods-15-03065-g001) — Europe PMC OA
-  source: europepmc
-  filename: foods-15-03065-g001.webp
-- type: figure
-  src: /research-figures/effects-of-protease-hydrolyzed-and-cordyceps-mil-2026-42737309/foods-15-03065-g002.gif
-  caption: 원문 Figure (foods-15-03065-g002) — Europe PMC OA
-  source: europepmc
-  filename: foods-15-03065-g002.gif
+generated: '2026-11-02'
+visuals: []
 api_meta:
   keywords:
   - Energy metabolism
@@ -107,7 +87,7 @@ api_meta:
     europepmc: true
     openalex: true
     crossref: true
-  fetched_at: '2026-10-19'
+  fetched_at: '2026-11-02'
 translations:
   title_ko: Effects of Protease-Hydrolyzed and Cordyceps(cordyceps) militaris(cordyceps
     militaris) -Fermented Sea Cucumber Viscera Hydrolysates on Cellular Function and
