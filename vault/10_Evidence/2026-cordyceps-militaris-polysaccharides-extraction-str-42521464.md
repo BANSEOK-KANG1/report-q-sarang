@@ -3,19 +3,19 @@ record_id: 4200f7ef-c01d-4190-86aa-20271415072d
 title: 'Cordyceps militaris polysaccharides: extraction, structure-activity relationships
   and functional applications.'
 authors:
-- Wang P
-- Li H
-- Wang Z
-- Liu H
-- Chen G
-- Xu G
-- Zhang R
-- Liao Y.
+- Ping Wang
+- Hui Li
+- Zhe Wang
+- Hongqian Liu
+- Geyu Chen
+- Gang Xu
+- Ruirui Zhang
+- Yufei Liao
 year: 2026
-journal: ''
+journal: Journal of the science of food and agriculture
 doi: 10.1002/jsfa.70921
 pmid: '42521464'
-url: https://europepmc.org/article/MED/42521464
+url: https://pubmed.ncbi.nlm.nih.gov/42521464/
 track: militaris
 compound: cordyceps_extract
 species: Cordyceps_militaris
@@ -33,6 +33,7 @@ jurisdiction_caveats:
 - research_only
 source_apis:
 - europepmc
+- pubmed
 full_text_available: false
 tags:
 - evidence
@@ -55,7 +56,7 @@ tags:
 - **Citation status:** candidate
 - **DOI:** 10.1002/jsfa.70921
 - **PMID:** 42521464
-- **URL:** https://europepmc.org/article/MED/42521464
+- **URL:** https://pubmed.ncbi.nlm.nih.gov/42521464/
 
 ## Abstract
 Cordyceps militaris polysaccharides (CMPs) are food-relevant bioactive macromolecules attracting increasing interest in functional foods, nutrition, and health-promoting agricultural products. This review summarizes recent advances in the extraction, purification, structural characterization, biological activities, structure-activity relationships, safety evaluation, pharmacokinetics, potential applications, and bibliometric trends of CMPs. Current evidence shows that the monosaccharide composition, molecular weight, glycosidic linkages, branching degree, and conformational features of CMPs are closely associated with their antioxidant, immunomodulatory, anti-inflammatory, lipid-lowering, glucose-regulating, gut microbiota-modulating, and other health-related activities. These properties support the potential use of CMPs as natural ingredients for functional foods, nutritional products, feed additives, and food-related biomaterials. However, further progress is limited by insufficient standardization of extraction and purification methods, incomplete structural elucidation, limited pharmacokinetic and digestion data, and a lack of clinical validation. In particular, the scarcity of long-term safety data and a poor understanding of the oral absorption, metabolic fate, and systemic bioavailability of CMPs represent critical bottlenecks that must be resolved before translational development can proceed. This review provides a scientific basis for the quality control, functional evaluation, and food-oriented application of CMPs while underscoring the urgent need for rigorous safety and pharmacokinetic investigations to support their future development in nutrition and agricultural product sectors. © 2026 Society of Chemical Industry.

@@ -5,7 +5,7 @@ title_ko: Effect of Cordyceps(cordyceps) militaris(cordyceps militaris) 추출�
   코디세핀 on the adipogenesis and lipolysis of adipocytes.
 slug: effect-of-cordyceps-militaris-extract-containing-2025-39572891
 record_id: eeef8b19-3109-4d95-bb52-c60e5aa77287
-date: '2026-11-02'
+date: '2026-11-09'
 year: 2025
 authors:
 - Kazuya Kusama
@@ -39,7 +39,7 @@ tags:
 - cordycepin
 - evidence
 - 제왕충초
-generated: '2026-11-02'
+generated: '2026-11-09'
 visuals: []
 api_meta:
   keywords:
@@ -88,7 +88,7 @@ api_meta:
   - name: Chemistry
     score: 0.456
     level: 0
-  cited_by_count: 6
+  cited_by_count: 8
   reference_count: 37
   publisher: Wiley
   journal: FEBS open bio
@@ -98,7 +98,7 @@ api_meta:
     europepmc: true
     openalex: true
     crossref: true
-  fetched_at: '2026-11-02'
+  fetched_at: '2026-11-09'
 translations:
   title_ko: Effect of Cordyceps(cordyceps) militaris(cordyceps militaris) 추출물 containing
     코디세핀 on the adipogenesis and lipolysis of adipocytes.

@@ -3,9 +3,9 @@ record_id: 3b23592a-cf3d-4440-90c2-e7653fcc4043
 title: '[Quantitative analysis of adenosine and cordycepin in Cordyceps sinensis and
   its substitutes with LC-MS-MS].'
 authors:
-- Zhao Yang
-- Chi Shaoyun
-- Chunhui Zhang
+- 杨钊
+- 迟少云
+- 张春辉
 - Aiying Wu
 year: 2007
 journal: PubMed

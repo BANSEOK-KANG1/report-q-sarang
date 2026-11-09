@@ -7,7 +7,7 @@ title_ko: 'Current Evidence and Practical Considerations for Adaptogen Use in Ex
   Review.'
 slug: current-evidence-and-practical-considerations-fo-2026-42588175
 record_id: c641cd79-9f0d-4d89-a268-c7e84e6a36aa
-date: '2026-11-02'
+date: '2026-11-09'
 year: 2026
 authors:
 - Książek A.
@@ -35,8 +35,18 @@ tags:
 - cordycepin
 - evidence
 - 제왕충초
-generated: '2026-11-02'
-visuals: []
+generated: '2026-11-09'
+visuals:
+- type: figure
+  src: /research-figures/current-evidence-and-practical-considerations-fo-2026-42588175/nutrients-18-02552-g001.jpg
+  caption: 원문 Figure (nutrients-18-02552-g001) — Europe PMC OA
+  source: europepmc
+  filename: nutrients-18-02552-g001.jpg
+- type: figure
+  src: /research-figures/current-evidence-and-practical-considerations-fo-2026-42588175/nutrients-18-02552-g001.gif
+  caption: 원문 Figure (nutrients-18-02552-g001) — Europe PMC OA
+  source: europepmc
+  filename: nutrients-18-02552-g001.gif
 api_meta:
   keywords:
   - Cordyceps
@@ -95,7 +105,7 @@ api_meta:
     europepmc: true
     openalex: true
     crossref: true
-  fetched_at: '2026-11-02'
+  fetched_at: '2026-11-09'
 translations:
   title_ko: 'Current Evidence and Practical Considerations for Adaptogen Use in Exercise
     Recovery, Training Adaptation, and Exercise Performance in Athletes: A Narrative

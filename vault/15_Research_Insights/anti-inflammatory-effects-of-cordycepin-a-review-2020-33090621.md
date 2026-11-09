@@ -1,9 +1,9 @@
 ---
-title: 'Anti‐inflammatory effects of cordycepin: A review'
-title_ko: 'Anti‐inflammatory effects of 코디세핀: A review'
+title: 'Anti-inflammatory effects of cordycepin: A review.'
+title_ko: 'Anti-inflammatory effects of 코디세핀: A review.'
 slug: anti-inflammatory-effects-of-cordycepin-a-review-2020-33090621
 record_id: 4ff4f381-2c9f-4ec8-a49e-6060a55139e3
-date: '2026-11-02'
+date: '2026-11-09'
 year: 2020
 authors:
 - Lu Tan
@@ -11,15 +11,15 @@ authors:
 - Yali Ren
 - Miao Wang
 - Chuanjie Guo
-- Da‐Le Guo
-- Yu‐Cheng Gu
+- Dale Guo
+- Yucheng Gu
 - Yuzhi Li
 - Zhixing Cao
 - Yun Deng
 doi: 10.1002/ptr.6890
 pmid: '33090621'
 pmcid: ''
-url: https://doi.org/10.1002/ptr.6890
+url: https://pubmed.ncbi.nlm.nih.gov/33090621/
 study_type: review_narrative
 evidence_strength: F_review_only
 species: Cordyceps_militaris
@@ -41,7 +41,7 @@ tags:
 - cordycepin
 - evidence
 - 제왕충초
-generated: '2026-11-02'
+generated: '2026-11-09'
 visuals: []
 api_meta:
   keywords:
@@ -74,19 +74,19 @@ api_meta:
   - name: Immunology
     score: 0.363
     level: 1
-  cited_by_count: 123
+  cited_by_count: 127
   reference_count: 114
   publisher: Wiley
-  journal: Phytotherapy Research
+  journal: 'Phytotherapy research : PTR'
   oa_status: closed
-  oa_url: https://doi.org/10.1002/ptr.6890
+  oa_url: https://pubmed.ncbi.nlm.nih.gov/33090621/
   apis:
     europepmc: true
     openalex: true
     crossref: true
-  fetched_at: '2026-11-02'
+  fetched_at: '2026-11-09'
 translations:
-  title_ko: 'Anti‐inflammatory effects of 코디세핀: A review'
+  title_ko: 'Anti-inflammatory effects of 코디세핀: A review.'
   glossary:
   - en: cordycepin
     ko: 코디세핀
@@ -164,8 +164,8 @@ translations:
       This study reviews recent researches on the anti-inflammatory effects and the
       related activities of 코디세핀. …
   easy_read:
-    headline: 2020년에 나온 여러 연구를 읽고 정리한 글입니다. 핵심 주제는 「지금까지 나온 연구들을 한데 모아 정리」입니다.
-    what_is_this: 이 글은 「지금까지 나온 연구들을 한데 모아 정리」에 대한 학술 정리입니다. 코디세핀 is the major bioactive
+    headline: 2020년에 나온 여러 연구를 읽고 정리한 글입니다. 핵심 주제는 「염증 반응과 관련된 연구 주제」입니다.
+    what_is_this: 이 글은 「염증 반응과 관련된 연구 주제」에 대한 학술 정리입니다. 코디세핀 is the major bioactive
       component 물이나 술 등으로 뽑아낸 성분ed from Cordyceps(cordyceps) militaris(cordyceps militaris).
       In recent years, 코디세핀 has received increasing attention owing to its multiple
       pharmacological activities.
@@ -252,7 +252,7 @@ translations:
 
 ## 한국어 요약
 
-**2020년** 발표된 「Anti‐inflammatory effects of cordycepin: A review」은(는) **Cordyceps militaris (동충하초)** 및 **코디세핀** 관련 서술적 리뷰입니다. 아래는 원문 초록을 바탕으로 한 **중립적 요약**이며, 제품 효능·효과를 의미하지 않습니다.
+**2020년** 발표된 「Anti-inflammatory effects of cordycepin: A review.」은(는) **Cordyceps militaris (동충하초)** 및 **코디세핀** 관련 서술적 리뷰입니다. 아래는 원문 초록을 바탕으로 한 **중립적 요약**이며, 제품 효능·효과를 의미하지 않습니다.
 
 ### 초록 요지
 
@@ -268,13 +268,13 @@ Cordycepin is the major bioactive component extracted from Cordyceps militaris. 
 
 ## 출처 · 원문
 
-- **제목:** Anti‐inflammatory effects of cordycepin: A review
+- **제목:** Anti-inflammatory effects of cordycepin: A review.
 - **저자:** Lu Tan 외 9명
 - **연도:** 2020
-- **저널:** Phytotherapy Research
+- **저널:** Phytotherapy research : PTR
 - **DOI:** [10.1002/ptr.6890](https://doi.org/10.1002/ptr.6890)
 - **PMID:** [33090621](https://pubmed.ncbi.nlm.nih.gov/33090621/)
-- **링크:** https://doi.org/10.1002/ptr.6890
+- **링크:** https://pubmed.ncbi.nlm.nih.gov/33090621/
 
 ## 원문 초록 (English)
 

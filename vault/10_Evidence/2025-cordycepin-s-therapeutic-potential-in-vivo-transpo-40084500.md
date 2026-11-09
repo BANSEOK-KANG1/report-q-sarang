@@ -3,18 +3,18 @@ record_id: 7dc077da-0806-435b-8b10-6ce66ac41b0d
 title: 'Cordycepin''s therapeutic potential: in vivo transport, transbilayer diffusion
   and anti-aging effects.'
 authors:
-- Zhang X
-- Wu S
-- Huang Q
-- Jing S
-- Yong P
-- Zhang L
-- Zhuang H.
+- Xiaoliang Zhang
+- Sijia Wu
+- Qihan Huang
+- Shubo Jing
+- Pang Yong
+- Ling Zhang
+- Hong Zhuang
 year: 2025
-journal: ''
+journal: Journal of the science of food and agriculture
 doi: 10.1002/jsfa.14220
 pmid: '40084500'
-url: https://europepmc.org/article/MED/40084500
+url: https://pubmed.ncbi.nlm.nih.gov/40084500/
 track: compound
 compound: cordycepin
 species: unclear
@@ -35,6 +35,7 @@ jurisdiction_caveats:
 - research_only
 source_apis:
 - europepmc
+- pubmed
 full_text_available: false
 tags:
 - evidence
@@ -57,7 +58,7 @@ tags:
 - **Citation status:** needs_legal_review
 - **DOI:** 10.1002/jsfa.14220
 - **PMID:** 40084500
-- **URL:** https://europepmc.org/article/MED/40084500
+- **URL:** https://pubmed.ncbi.nlm.nih.gov/40084500/
 
 ## Abstract
 <h4>Background</h4>Cordycepin (3'-deoxyadenosine) is a bioactive compound known for its numerous beneficial properties, including antioxidant, anti-aging and antitumor effects. Despite its promising therapeutic potential, the in vivo transport mechanisms of cordycepin remain inadequately understood. Previous studies have highlighted its biological activity, but there is limited information regarding its transport and distribution, as well as how it interacts with biological systems to exert these effects. The present study explored the transport mechanisms of cordycepin, specifically its interaction with bovine serum albumin (BSA) transporters and 1,2-dipalmitoyl-sn-glycero-3-phosphocholine (DPPC) liposomes, and assessed its anti-aging effects through cellular experiments.<h4>Results</h4>The study demonstrates that cordycepin effectively interacts with DPPC liposomes, improving its therapeutic efficacy. Spectral analysis shows strong binding between cordycepin and transporters, aiding its distribution in the bloodstream and targeted accumulation in tissues. Additionally, cellular tests reveal that cordycepin inhibits butyl hydroperoxide-induced cellular senescence in a dose-dependent manner.<h4>Conclusion</h4>The interaction of cordycepin with BSA transporters and DPPC liposomes enhances its distribution and therapeutic potential. The compound also shows promise as an anti-aging agent by reducing cellular senescence. These findings provide insight into cordycepin's in vivo behavior and suggest strategies to enhance its pharmacological effectiveness. © 2025 Society of Chemical Industry.

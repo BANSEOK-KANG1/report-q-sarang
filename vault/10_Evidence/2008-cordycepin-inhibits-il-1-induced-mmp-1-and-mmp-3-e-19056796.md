@@ -16,7 +16,7 @@ authors:
 - Hyun Jo Youn
 - Y.-R. Lee
 year: 2008
-journal: Lara D. Veeken
+journal: Rheumatology
 doi: 10.1093/rheumatology/ken417
 pmid: '19056796'
 url: https://doi.org/10.1093/rheumatology/ken417

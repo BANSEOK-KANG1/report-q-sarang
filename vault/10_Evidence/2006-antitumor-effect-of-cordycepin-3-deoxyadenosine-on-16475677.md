@@ -10,10 +10,10 @@ authors:
 - Kazumasa Shinozuka
 - Masaru Kunitomo
 year: 2006
-journal: PubMed
+journal: Anticancer research
 doi: ''
 pmid: '16475677'
-url: https://pubmed.ncbi.nlm.nih.gov/16475677
+url: https://pubmed.ncbi.nlm.nih.gov/16475677/
 track: compound
 compound: cordycepin
 species: unclear
@@ -34,6 +34,7 @@ jurisdiction_caveats:
 - research_only
 source_apis:
 - openalex
+- pubmed
 full_text_available: false
 tags:
 - evidence
@@ -56,7 +57,7 @@ tags:
 - **Citation status:** needs_legal_review
 - **DOI:** —
 - **PMID:** 16475677
-- **URL:** https://pubmed.ncbi.nlm.nih.gov/16475677
+- **URL:** https://pubmed.ncbi.nlm.nih.gov/16475677/
 
 ## Abstract
 An attempt was made to elucidate the molecular targetfor the antitumor effects of cordycepin (3'-deoxyadenosine) using non-selective and selective adenosine A1, A2a, A2b and A3 receptor agonists and antagonists. Although adenosine and 2'-deoxyadenosine (up to 100 microM) had no effect, cordycepin showed remarkable inhibitory effects on the growth curves of B16-BL6 mouse melanoma (IC50= 39 microM) and mouse Lewis lung carcinoma (IC50 = 48 microM) cell lines in vitro. Among the adenosine receptor agonists and antagonists used (up to 100 microM), only 2-chloro-N6-(3-iodobenzyl)-adenosine-5'-N-methyluronamide (Cl-IB-MECA), a selective adenosine A3 receptor agonist, notably inhibited the growth of both mouse tumor cell lines (B16-BL6; IC50 = 5 microM, LLC; 14 microM). In addition, the tumor growth inhibitory effect of cordycepin was antagonized by 3-ethyl 5-benzyl 2-methyl-6-phenyl-4-phenylethynyl-1,4-(+/-)-dihydropyridine-3,5-dicarboxylate (MRS1191), a selective adenosine A3 receptor antagonist. These results suggest that cordycepin exerts inhibitory effects on the growth of mouse melanoma and lung carcinoma cells by stimulating adenosine A3 receptors on tumor cells.

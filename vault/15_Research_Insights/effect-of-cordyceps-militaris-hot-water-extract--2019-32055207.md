@@ -4,8 +4,8 @@ title: Effect of Cordyceps militaris Hot Water Extract on Immunomodulation-assoc
 title_ko: Effect of Cordyceps(cordyceps) militaris(cordyceps militaris) Hot Water
   추출물 on Immunomodulation-associated Gene Expression in Broilers, Gallus gallus.
 slug: effect-of-cordyceps-militaris-hot-water-extract--2019-32055207
-record_id: 2d8c2d29-7524-4e4a-825f-a7c6c473a359
-date: '2026-10-26'
+record_id: bcc3b372-edf1-48ff-bd89-089c88fc9d08
+date: '2026-11-09'
 year: 2019
 authors:
 - Yeong-Hsiang Cheng
@@ -37,7 +37,7 @@ tags:
 - cordycepin
 - evidence
 - 제왕충초
-generated: '2026-10-26'
+generated: '2026-11-09'
 visuals:
 - type: figure
   src: /research-figures/effect-of-cordyceps-militaris-hot-water-extract--2019-32055207/jpsa-56-128-g005.gif
@@ -91,7 +91,7 @@ api_meta:
   - name: Andrology
     score: 0.465
     level: 1
-  cited_by_count: 16
+  cited_by_count: 17
   reference_count: 40
   publisher: Japan Poultry Science Association
   journal: The journal of poultry science
@@ -101,7 +101,7 @@ api_meta:
     europepmc: true
     openalex: true
     crossref: true
-  fetched_at: '2026-10-26'
+  fetched_at: '2026-11-09'
 translations:
   title_ko: Effect of Cordyceps(cordyceps) militaris(cordyceps militaris) Hot Water
     추출물 on Immunomodulation-associated Gene Expression in Broilers, Gallus gallus.

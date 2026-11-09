@@ -2,18 +2,18 @@
 record_id: 8537a35c-d40d-49b6-99a9-26b66ee8ec9a
 title: Cordycepin deteriorates 5' fluorouracil-induced anaemia by AMPK activation.
 authors:
-- Yang L
-- Kong S
-- Shi H
-- Xu L
-- Wei Z
-- Chen Y
-- Fang L.
+- Lei Yang
+- Siqi Kong
+- Hailan Shi
+- Liangyu Xu
+- Zichen Wei
+- Yafeng Chen
+- Lei Fang
 year: 2025
-journal: ''
+journal: European journal of pharmacology
 doi: 10.1016/j.ejphar.2025.178232
 pmid: '41082995'
-url: https://europepmc.org/article/MED/41082995
+url: https://pubmed.ncbi.nlm.nih.gov/41082995/
 track: comparator_sinensis
 compound: cordycepin
 species: Cordyceps_sinensis
@@ -34,6 +34,7 @@ jurisdiction_caveats:
 - research_only
 source_apis:
 - europepmc
+- pubmed
 full_text_available: false
 tags:
 - evidence
@@ -56,7 +57,7 @@ tags:
 - **Citation status:** needs_legal_review
 - **DOI:** 10.1016/j.ejphar.2025.178232
 - **PMID:** 41082995
-- **URL:** https://europepmc.org/article/MED/41082995
+- **URL:** https://pubmed.ncbi.nlm.nih.gov/41082995/
 
 ## Abstract
 Cordycepin (COR) is a compound extracted from Cordyceps sinensis. We found that COR exacerbates the acute anaemia induced by 5' fluorouracil (5-FU). Healthy mice were intraperitoneally injected with COR at doses of 2, 4, or 8 mg/kg for 10 consecutive days, which produced a slight decrease in the red cell distribution width in the peripheral blood and a reduction in the erythroblast levels in the spleen. Furthermore, COR (8 mg/kg) treatment delayed reticulocyte recovery when 5-FU was used to induce anaemia. A single 5-FU dose decreased the levels of reticulocytes and erythroblasts compared with those in the control mice; this decrease was more pronounced when COR was also administered. The percentage of reticulocytes was lower in the bone marrow of COR-treated mice than in the 5-FU group. COR treatment inhibited erythroid differentiation, characterised by a decrease in the proportion of erythroblasts and low mRNA levels of Hba, Hbb, Uros, Gata-1, and Epb42, compared with the control mice; these effects were reversed by treatment the AMPK inhibitor, compound C. COR treatment also reduced the mitochondrial membrane potential. Mitochondrial matrix genes, such as those involved in haeme synthesis (Alas-2), metabolic enzymes (Pck2 and Mthfd2), the respiratory chain (Ndufs7), and autophagy (Atg4a and Atg4d) were downregulated in the COR-treated erythroid precursors. Compound C reversed the COR-induced decrease in the mitochondrial membrane potential as well as Alas-2, Pck2, Atg4a, and Atg4d mRNA levels. COR treatment substantially delayed reticulocyte recovery in the peripheral blood and reduced the number of erythroblasts in the spleen following 5-FU-induced anaemia. The mechanism of action of COR involves inhibiting erythroid differentiation via activating AMPK.

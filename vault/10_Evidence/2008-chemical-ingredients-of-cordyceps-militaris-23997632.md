@@ -1,13 +1,13 @@
 ---
 record_id: 8d1460fd-bcc3-4f6d-b315-25ae7c0db08e
-title: Chemical Ingredients of Cordyceps militaris
+title: Chemical Ingredients of Cordyceps militaris.
 authors:
 - Hyun Hur
 year: 2008
 journal: Mycobiology
 doi: 10.4489/myco.2008.36.4.233
 pmid: '23997632'
-url: https://doi.org/10.4489/myco.2008.36.4.233
+url: https://pubmed.ncbi.nlm.nih.gov/23997632/
 track: militaris
 compound: cordycepin
 species: Cordyceps_militaris
@@ -26,6 +26,7 @@ jurisdiction_caveats:
 - research_only
 source_apis:
 - openalex
+- pubmed
 full_text_available: false
 tags:
 - evidence
@@ -34,7 +35,7 @@ tags:
 - market/research_only
 ---
 
-# Chemical Ingredients of Cordyceps militaris
+# Chemical Ingredients of Cordyceps militaris.
 
 ## Summary fields
 - **Year:** 2008
@@ -48,7 +49,7 @@ tags:
 - **Citation status:** candidate
 - **DOI:** 10.4489/myco.2008.36.4.233
 - **PMID:** 23997632
-- **URL:** https://doi.org/10.4489/myco.2008.36.4.233
+- **URL:** https://pubmed.ncbi.nlm.nih.gov/23997632/
 
 ## Abstract
 Medicinal mushrooms, including Cordyceps militaris, have received attention in Korea because of their biological activities. In the fruiting body and in corpus of C. militaris, the total free amino acid content was 69.32 mg/g and 14.03 mg/g, respectively. In the fruiting body, the most abundant amino acids were lysine, glutamic acid, proline and threonine. The fruiting body was rich in unsaturated fatty acids, which comprised about 70% of the total fatty acids. The most abundant unsaturated acid was linoleic acid. There were differences in adenosine and cordycepin contents between the fruiting body and the corpus. The adenosine concentration was 0.18% in the fruiting body and 0.06% in the corpus, and the cordycepin concentration was 0.97% in the fruiting body and 0.36% in the corpus.

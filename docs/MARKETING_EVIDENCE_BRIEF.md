@@ -1,6 +1,6 @@
 # Marketing Evidence Brief — 제왕충초 × 코디세핀
 
-_Generated: 2026-11-02_
+_Generated: 2026-11-09_
 
 > 제왕충초 담금주는 **주류**입니다. 아래 내용은 효능 광고 승인이 아닙니다.
 > 소비자 카피는 법무 검토 후 `citation_status=approved` + `KR_liquor_context`만 사용하세요.
@@ -89,6 +89,11 @@ _Generated: 2026-11-02_
 
 다음 항목은 자동 우선 검수 후보입니다. 광고에 바로 쓰지 마세요.
 
+- **2027** [animal/C_animal] Gut microbiome-targeted bile acid metabolomics integration reveals dietary cordycepin alleviates NAFLD in diabetic mice by enriching Clostridia and affecting the PXR/Sult2a1/CA7S.
+  - animal study touching metabolic endpoints (auto-tagged; verify before use).
+  - flags: disease_language, preclinical_only
+  - link: https://europepmc.org/article/MED/42700824
+
 - **2026** [animal/C_animal] A C-Nucleoside Analogue of Cordycepin With High Metabolic Stability and Potent Anti-Psoriatic Activity via Microneedle Delivery.
   - animal study touching immune endpoints (auto-tagged; verify before use).
   - flags: disease_language, preclinical_only
@@ -117,7 +122,7 @@ _Generated: 2026-11-02_
 - **2026** [animal/C_animal] Cordycepin alleviates aluminium chloride-induced neurodevelopmental toxicity in zebrafish embryos by modulating inflammation and Wnt signaling.
   - animal study touching cognitive endpoints (auto-tagged; verify before use).
   - flags: disease_language, preclinical_only
-  - link: https://europepmc.org/article/MED/42314834
+  - link: https://pubmed.ncbi.nlm.nih.gov/42314834/
 
 - **2026** [observational_human/B_limited_human] Cordycepin ameliorates lipopolysaccharide-challenged C2C12 myotube shrinkage by regulating sodium channel kinetics and inhibiting the protein degradation pathway.
   - observational_human study touching energy_fatigue endpoints (auto-tagged; verify before use).
@@ -159,16 +164,11 @@ _Generated: 2026-11-02_
   - flags: disease_language, preclinical_only
   - link: https://europepmc.org/article/MED/42822105
 
-- **2026** [animal/C_animal] Exploration of the potential utilization value in &lt;i&gt;Cordyceps militaris&lt;/i&gt; substrate after industrial cultivation in terms of nutritional and pharmaceutical applications.
-  - animal study touching other endpoints (auto-tagged; verify before use).
-  - flags: preclinical_only
-  - link: https://europepmc.org/article/MED/42444510
-
 ## Stats snapshot
 
-- Total normalized records: **831**
-- research_only: **819**
-- needs_legal_review: **490**
+- Total normalized records: **820**
+- research_only: **808**
+- needs_legal_review: **500**
 - approved liquor-context: **12**
 
 ## See also

@@ -2,12 +2,13 @@
 record_id: 443caba7-7692-4bab-8017-6c7c160ae57d
 title: Determination of Cordycepin in Cordyceps Sinensis and Its Substitutes by LC/ESI-MS
 authors:
-- He Yun
+- 贺云彪
+- 黄兰芳
 year: 2010
 journal: Chinese Journal of Spectroscopy Laboratory
 doi: ''
 pmid: ''
-url: https://openalex.org/W2366589705
+url: https://openalex.org/W993807534
 track: comparator_sinensis
 compound: cordycepin
 species: Cordyceps_sinensis
@@ -48,10 +49,10 @@ tags:
 - **Citation status:** candidate
 - **DOI:** —
 - **PMID:** —
-- **URL:** https://openalex.org/W2366589705
+- **URL:** https://openalex.org/W993807534
 
 ## Abstract
-A highly sensitive and selective method for the determination of cordycepin in cordyceps sinensis and its substitutes by LC/ESI-MS was developed.The electro-spray ionization(ESI) interface and selective ion monitoring(SIM) mode were used.The analytical column was 2.0×150mm shimadzu VP-ODS column and the mobile phase was water(87%),methanol(12%) and formic acid(1%).Methanol was used as extract solution and 2-chloroadenosine was used as internal standard.The regression equations is y=0.1947x+0.00161 with r=0.9992.The liner range is 0.4—120.0μg·L-1.The average recovery is 98.2%.This method has been successfully used for the determination of cordycepin in cordyceps sinensis and its substitutes.This method also can be applied for the quality control of cordyceps sinensis and its substitutes.
+A highly sensitive and selective method for the determination of cordycepin in cordyceps sinensis and its substitutes by LC/ESI-MS was developed. The electro-spray ionization (ESI) interface and selective ion monitoring (SIM) mode were used. The analytical column was 2.0×150mm shimadzu VP-ODS column and the mobile phase was water (87%), methanol (12%) and formic acid (1%). Methanol was used as extract solution and 2-chloroadenosine was used as internal standard. The regression equations is y=0.1947x+0.00161 with r=0.9992. The liner range is 0.4-120.0μg•L^(-1). The average recovery is 98.2%. This method has been successfully used for the determination of cordycepin in cordyceps sinensis and its substitutes. This method also can be applied for the quality control of cordyceps sinensis and its substitutes.
 
 ## Relevance notes
 Comparator species / Cs-4 — do not equate to C. militaris cordycepin product

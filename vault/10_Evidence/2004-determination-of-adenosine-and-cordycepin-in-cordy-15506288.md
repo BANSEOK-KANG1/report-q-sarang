@@ -3,10 +3,10 @@ record_id: b0c77cbe-23e4-4823-9b64-0e7d5946134e
 title: '[Determination of adenosine and cordycepin in Cordyceps sinensis and C. militarris
   with HPLC-ESI-MS].'
 authors:
-- Lan‐Fang Huang
-- Fang-Qiu Guo
-- Yi‐Zeng Liang
-- Ben-Mei Chen
+- 黄兰芳
+- 郭方遒
+- 梁逸曾
+- 陈本美
 year: 2004
 journal: PubMed
 doi: ''

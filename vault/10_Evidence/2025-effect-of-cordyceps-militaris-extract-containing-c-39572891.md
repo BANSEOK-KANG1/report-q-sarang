@@ -14,7 +14,7 @@ journal: FEBS open bio
 doi: 10.1002/2211-5463.13930
 pmid: '39572891'
 url: https://pubmed.ncbi.nlm.nih.gov/39572891/
-track: compound
+track: militaris
 compound: cordycepin
 species: Cordyceps_militaris
 study_type: rct
@@ -25,7 +25,7 @@ risk_flags:
 - disease_language
 maps_to_market: research_only
 citation_status: needs_legal_review
-priority_review: true
+priority_review: false
 jurisdiction_caveats:
 - KR_liquor_no_disease_claims
 - not_HFF_product

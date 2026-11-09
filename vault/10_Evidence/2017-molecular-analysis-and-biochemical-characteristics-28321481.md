@@ -1,25 +1,26 @@
 ---
 record_id: e68f21da-79ac-413b-8974-c07c5a1bed95
 title: Molecular analysis and biochemical characteristics of degenerated strains of
-  Cordyceps militaris.
+  Cordyceps militaris
 authors:
-- Shu-Jing Sun
+- Shujing Sun
 - Chang-Huan Deng
-- Liao-Yuan Zhang
-- Kai-Hui Hu
+- Liaoyuan Zhang
+- Kaihui Hu
 year: 2017
-journal: Archives of microbiology
+journal: Archives of Microbiology
 doi: 10.1007/s00203-017-1359-0
 pmid: '28321481'
-url: https://pubmed.ncbi.nlm.nih.gov/28321481/
+url: https://doi.org/10.1007/s00203-017-1359-0
 track: militaris
 compound: unclear
 species: Cordyceps_militaris
 study_type: animal
 evidence_strength: C_animal
 relevance_to_product: partial
-claim_category: metabolic
+claim_category: other
 risk_flags:
+- missing_abstract
 - preclinical_only
 maps_to_market: research_only
 citation_status: candidate
@@ -29,7 +30,7 @@ jurisdiction_caveats:
 - not_HFF_product
 - research_only
 source_apis:
-- pubmed
+- openalex
 full_text_available: false
 tags:
 - evidence
@@ -38,7 +39,7 @@ tags:
 - market/research_only
 ---
 
-# Molecular analysis and biochemical characteristics of degenerated strains of Cordyceps militaris.
+# Molecular analysis and biochemical characteristics of degenerated strains of Cordyceps militaris
 
 ## Summary fields
 - **Year:** 2017
@@ -46,16 +47,16 @@ tags:
 - **Evidence strength:** C_animal
 - **Species:** Cordyceps_militaris
 - **Compound:** unclear
-- **Claim category:** metabolic
-- **Risk flags:** preclinical_only
+- **Claim category:** other
+- **Risk flags:** missing_abstract, preclinical_only
 - **Maps to market:** research_only
 - **Citation status:** candidate
 - **DOI:** 10.1007/s00203-017-1359-0
 - **PMID:** 28321481
-- **URL:** https://pubmed.ncbi.nlm.nih.gov/28321481/
+- **URL:** https://doi.org/10.1007/s00203-017-1359-0
 
 ## Abstract
-Cordyceps militaris has commercially been cultivated, but its degenerated subcultures have gradually resulted in the reduced production. In this study, the biological characteristics and DNA change of degenerated strains of C. militaris were analyzed in detail. The results showed that the degenerated strains exhibited the lower growth rate, and the deficiency in fruit body formation and pigment production. The degradation of strains was not attributable to DNA changes identified by RAPD and SRAP. Compared to normal strains, the biochemical indexes of degradation strains and normal strains showed that the carotenoid content of degradation strains was significantly lower, the activities of cellulase and amylase of degradation strains were slight lower, and the EPS content was lower, but the IPS was higher. All these results suggested that the degradation of C. militaris may be caused by the inhibition or in harmony of metabolite synthesis involved in the metabolic regulation, which should be further verified.
+_No abstract_
 
 ## Relevance notes
 _n/a_

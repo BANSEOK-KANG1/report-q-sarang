@@ -3,7 +3,7 @@ record_id: f62df7a3-ed56-4c32-8018-920dfdf50b67
 title: Cordycepin (3′‐deoxyadenosine, 3′‐dA)
 authors: []
 year: 2015
-journal: The Dictionary of Genomics, Transcriptomics and Proteomics
+journal: Wiley eBooks
 doi: 10.1002/9783527678679.dg02434
 pmid: ''
 url: https://doi.org/10.1002/9783527678679.dg02434

@@ -18,7 +18,7 @@ journal: Molecules (Basel, Switzerland)
 doi: 10.1016/j.biombioe.2009.05.022
 pmid: '31527427'
 url: https://pubmed.ncbi.nlm.nih.gov/31527427/
-track: compound
+track: militaris
 compound: cordycepin
 species: Cordyceps_militaris
 study_type: animal
@@ -29,7 +29,7 @@ risk_flags:
 - preclinical_only
 maps_to_market: research_only
 citation_status: candidate
-priority_review: true
+priority_review: false
 jurisdiction_caveats:
 - KR_liquor_no_disease_claims
 - not_HFF_product

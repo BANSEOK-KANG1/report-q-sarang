@@ -16,16 +16,15 @@ journal: 'Analytical methods : advancing methods and applications'
 doi: 10.1039/c9ay01735f
 pmid: '32632347'
 url: https://pubmed.ncbi.nlm.nih.gov/32632347/
-track: compound
+track: comparator_sinensis
 compound: cordycepin
-species: mixed
+species: Cordyceps_sinensis
 study_type: animal
 evidence_strength: C_animal
-relevance_to_product: partial
+relevance_to_product: extrapolated
 claim_category: other
 risk_flags:
 - preclinical_only
-- species_mismatch
 maps_to_market: research_only
 citation_status: candidate
 priority_review: false
@@ -49,10 +48,10 @@ tags:
 - **Year:** 2019
 - **Study type:** animal
 - **Evidence strength:** C_animal
-- **Species:** mixed
+- **Species:** Cordyceps_sinensis
 - **Compound:** cordycepin
 - **Claim category:** other
-- **Risk flags:** preclinical_only, species_mismatch
+- **Risk flags:** preclinical_only
 - **Maps to market:** research_only
 - **Citation status:** candidate
 - **DOI:** 10.1039/c9ay01735f
@@ -63,7 +62,7 @@ tags:
 Simultaneous quantification of adenosine and deoxyadenosine isomers, including 2'-deoxyadenosine (dA) and 3'-deoxyadenosine (cordycepin, COR) is a challenge because they are very similar in chemical structure. In some previous studies on food ingredients, adenine and dA might be mistakenly detected as COR that has been shown to have multiple health benefits. In this work, we developed a novel HPLC method with fluorescence detction (HPLC-FD) to simultaneously quantify COR, adenosine and dA. Pre-column derivatization with chloroacetaldehyde (CAA) was deployed. The proposed method has a limit of detection at the nM level for COR and adenosine, and is far more sensitive than the methods previously deveopled for COR determination. Using the present method, caterpillar fungi were analyzed as model food samples. The analysis revealed that COR was present in cordyceps militaris and cordyceps flowers in a concentration range from 0.314 to 0.735 mg/g, but not in cordyceps sinensis (C. sinensis), a natural and the priciest caterpillar fungus. These results suggest that the profile of active ingredients in C. sinensis has been wrongly claimed for many years. This finding was also supported by the results from further HPLC-MS/MS analyses.
 
 ## Relevance notes
-Cordycepin-focused; verify species/form vs product
+Comparator species / Cs-4 — do not equate to C. militaris cordycepin product
 
 ## Compliance
 - Product context: Q-Sarang 제왕충초 **liquor** (not HFF).

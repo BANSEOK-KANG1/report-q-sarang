@@ -1,22 +1,22 @@
 ---
 record_id: 0aabbb13-1f05-406f-a0a4-5110e2d37bf9
-title: Anti-inflammatory Cerebrosides from Cultivated Cordyceps militaris
+title: Anti-inflammatory Cerebrosides from Cultivated Cordyceps militaris.
 authors:
 - Ching-Peng Chiu
-- Shan‐Chi Liu
-- Chih‐Hsin Tang
+- Shan-Chi Liu
+- Chih-Hsin Tang
 - You Chan
-- Mohamed El‐Shazly
+- Mohamed El-Shazly
 - Chia-Lin Lee
 - Ying-Chi Du
-- Tung‐Ying Wu
-- Fang‐Rong Chang
-- Yang‐Chang Wu
+- Tung-Ying Wu
+- Fang-Rong Chang
+- Yang-Chang Wu
 year: 2016
-journal: Journal of Agricultural and Food Chemistry
+journal: Journal of agricultural and food chemistry
 doi: 10.1021/acs.jafc.5b05931
 pmid: '26853111'
-url: https://doi.org/10.1021/acs.jafc.5b05931
+url: https://pubmed.ncbi.nlm.nih.gov/26853111/
 track: militaris
 compound: unclear
 species: Cordyceps_militaris
@@ -34,6 +34,7 @@ jurisdiction_caveats:
 - research_only
 source_apis:
 - openalex
+- pubmed
 full_text_available: false
 tags:
 - evidence
@@ -42,7 +43,7 @@ tags:
 - market/research_only
 ---
 
-# Anti-inflammatory Cerebrosides from Cultivated Cordyceps militaris
+# Anti-inflammatory Cerebrosides from Cultivated Cordyceps militaris.
 
 ## Summary fields
 - **Year:** 2016
@@ -56,7 +57,7 @@ tags:
 - **Citation status:** candidate
 - **DOI:** 10.1021/acs.jafc.5b05931
 - **PMID:** 26853111
-- **URL:** https://doi.org/10.1021/acs.jafc.5b05931
+- **URL:** https://pubmed.ncbi.nlm.nih.gov/26853111/
 
 ## Abstract
 Cordyceps militaris (bei-chong-chaw, northern worm grass) is a precious and edible entomopathogenic fungus, which is widely used in traditional Chinese medicine (TCM) as a general booster for the nervous system, metabolism, and immunity. Saccharides, nucleosides, mannitol, and sterols were isolated from this fungus. The biological activity of C. militaris was attributed to the saccharide and nucleoside contents. In this study, the aqueous methanolic fraction of C. militaris fruiting bodies exhibited a significant anti-inflammatory activity. Bioactivity-guided fractionation of the active fraction led to the isolation of eight compounds, including one new and two known cerebrosides (ceramide derivatives), two nucleosides, and three sterols. Cordycerebroside A (1), the new cerebroside, along with soyacerebroside I (2) and glucocerebroside (3) inhibited the accumulation of pro-inflammatory iNOS protein and reduced the expression of COX-2 protein in LPS-stimulated RAW264.7 macrophages. This is the first study on the isolation of cerebrosides with anti-inflammatory activity from this TCM.

@@ -3,11 +3,16 @@ record_id: dfd6dc42-792a-4bc2-a72e-521499462dc6
 title: 'Entomopathogenicity of Ascomycete Fungus Cordyceps militaris on the Cotton
   Bollworm, Helicoverpa zea (Boddie) (Lepidoptera: Noctuidae).'
 authors:
-- James P Glover
-- Marissa I Nufer
-- Omaththage P Perera
-- Maribel Portilla
-- Justin George
+- In-Pyo Hong
+- Pil-Don Kang
+- Ki-Young Kim
+- Sung-Hee Nam
+- Man-Young Lee
+- Yong-Soo Choi
+- Nam-Suk Kim
+- Hye-Kyung Kim
+- Kwang-Gill Lee
+- Richard A Humber
 year: 2023
 journal: Journal of fungi (Basel, Switzerland)
 doi: 10.4489/myco.2010.38.2.128
